@@ -1,0 +1,65 @@
+Verb;case;sample_size;non_psych
+amüsieren,'to amuse';acc;200;0
+anekeln,'to sicken';acc;20;0
+ängstigen,'to frighten';acc;109;0
+anwidern,'to disgust';acc;32;0
+ärgern,'to anger';acc;200;0
+auffallen,'to strike';dat;200;0
+aufstoßen,'to strike (neg.)';dat;200;71
+aufwühlen,'to stir up';acc;117;24
+ausreichen,'to suffice';dat;200;192
+bedrücken,'to distress, depress';acc;87;3
+beeindrucken,'to impress';acc;200;0
+befremden ,'to alienate';acc;177;0
+begeistern,'to thrill, enthuse';acc;200;0
+behagen,'to please';dat;200;0
+bekümmern,'to concern, chagrin';acc;60;5
+beruhigen ,'to calm';acc;200;65
+beschämen,'to shame';acc;65;0
+beunruhigen,'to worrry';acc;200;0
+bewegen,'to move';acc;200;125
+bezaubern,'to charm';acc;138;0
+deprimieren,'to depress';acc;60;0
+einleuchten,'to be evident';dat;200;1
+einschüchtern,'to intimidate';acc;200;0
+ekeln,'to disgust';acc;23;5
+empören,'to outrage';acc;200;0
+entmutigen,'to discourage';acc;200;4
+entzücken,'to delight';acc;190;0
+erfreuen,''to enjoy, delight';acc;200;3
+erheitern ,'to cheer, brighten';acc;59;0
+erschrecken ,'to startle';acc;200;0
+faszinieren,'to fascinate';acc;200;0
+freuen,'to please, be glad';acc;200;0
+frustrieren,'to frustrate';acc;125;0
+gefallen,'to like';dat;200;50
+genügen,'to suffice';dat;200;142
+guttun,'to benefit, comfort';dat;200;66
+imponieren,'to impress';dat;200;0
+interessieren,'to interest';acc;200;0
+irritieren,'to irritate, confuse';acc;200;2
+langweilen,'to bore';acc;200;0
+leidttun,'to feel sorry';dat;200;0
+missfallen,'to displease';dat;200;0
+nahegehen,'to afflict, upset';dat;29;0
+nerven,'to bother';acc;141;0
+peinigen ,'to tantalise';acc;85;0
+plagen ,'to plague';acc;200;2
+provozieren,'to provoke';acc;200;92
+quälen,'to torment';acc;200;39
+schmeicheln,'to flatter';dat;200;7
+schockieren,'to shock';acc;200;0
+schwerfallen,'to find difficult';dat;200;1
+stören, 'to disturb, bother';acc;200;90
+überfordern,'to be too much, overwhelm';acc;200;39
+verängstigen,'to frighten';acc;36;0
+verärgern,'to annoy';acc;200;0
+verblüffen,'to flabbergast';acc;200;0
+verschrecken,'to scare';acc;58;0
+verstören,'to distract, distress';acc;52;1
+verwirren ,'to confuse';acc;200;17
+verwundern, 'to astonish';acc;200;0
+widerstreben,'to oppose, have an aversion';dat;76;7
+wundern, 'to wonder';acc;200;0
+zermürben,'to demoralize, grind';acc;152;0
+zusetzen,'to badger, harass';dat;200;86
