@@ -1,0 +1,37 @@
+NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+NZZ_1993_01_22_a214_seg2_s7;17;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_06_21_a54_seg4_s5;10;;;;x;;;;;;;;;;;;;;inanim;;;;PCN-C;;
+NZZ_1993_09_04_a131_seg3_s109;33;;;x;;;;;;;;;;;;;;;anim;;x;;;;
+NZZ_1993_09_24_a14_seg10_s5;11;;;x;;;;;;;;;;;;;;;inanim;an;;;PA+A;;
+NZZ_1993_10_12_a44_seg2_s14;3;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1993_12_23_a106_seg1_s9;10;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1994_04_22_a8_seg3_s10;11;;;;;;;;;;x;;;;;;;;;;;;result_PP;;zu Tode (zu Tode special because it is often only an intensifier)
+NZZ_1994_05_14_a215_seg3_s15;8;x;;;;;;;;;;;;;;;;;;;;;;adjective;
+NZZ_1995_01_21_a184_seg7_s24;5;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1995_01_25_a188_seg4_s2;24;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_06_06_a158_seg13_s23;23;;;x;;;;;;;;;;;;;;;anim;;x;;;instrumental, NZZ;anim because of control, Bevölkerung
+NZZ_1995_08_16_a19_seg10_s5;2;x;;;;;;;;;;;;;;;;;;;;;ungrammatical, ambiguous;;adjective
+NZZ_1995_10_07_a177_seg8_s14;15;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;;
+NZZ_1995_11_17_a108_seg3_s2;20;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1996_03_08_a23_seg6_s7;13;;;x;;;;;;;;;;;;;;;inanim;;;;;NZZ;Teile, Bevölkerung
+NZZ_1996_04_20_a157_seg3_s7;6;;;;;;x;;;;;;;;;;;;;durch;;;pronominal_adverb;;Bevölkerung
+NZZ_1996_06_10_a113_seg3_s12;54;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1996_10_17_a146_seg3_s11;34;;;;;;x;;;;;;;;;;;;;von;;;;NZZ;inanim von-PP
+NZZ_1996_11_02_a58_seg2_s8;7;;;;;;x;;;;;;;;;;;;;;;;fragment;;Generation
+NZZ_1997_01_07_a108_seg5_s9;3;;;;x;;;;;;;;;;;;;;ambiguous;;;;;probably anim;
+NZZ_1997_07_28_a125_seg4_s9;8;x;;;;;;;;;;;;;;;;;;;;;;adjective;
+NZZ_1997_12_12_a201_seg2_s2;36;;;;;;x;;;;;;;;;;;;;;;;;NZZ;
+NZZ_1998_03_20_a230_seg2_s11;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;EXP_anim_proxy;;Kreise
+NZZ_1998_04_11_a68_seg5_s6;29;;;;;;;;;;x;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1998_05_08_a202_seg3_s24;13;;;;;;;;;;x;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1998_05_09_a264_seg5_s57;24;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1998_07_11_a244_seg17_s14;36;;;;;;;;;;x;;;;;;;;;durch;;;;;
+NZZ_1998_07_21_a2_seg7_s20;16;;;x;;;;;;;;;;;;;;;anim;;;;;;agentive
+NZZ_1998_09_05_a239_seg12_s3;18;x;;;;;;;;;;;;;;;;;;;;;;adjective;
+NZZ_1998_10_01_a57_seg2_s7;5;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1999_01_04_a140_seg17_s3;7;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1999_03_24_a82_seg4_s7;7;;;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1999_07_05_a9_seg5_s2;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_08_14_a23_seg14_s22;22;;;;;x;;;;;;;;;;;;;;;;;ambiguous;;Schichten
+NZZ_1999_08_27_a57_seg7_s8;5;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1999_09_17_a70_seg8_s3;6;;;;;;x;;;;;;;;;;;;;durch;;;EXP_anim_proxy;;inanim durch-PP, Märkte

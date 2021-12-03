@@ -1,0 +1,201 @@
+NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+NZZ_1993_01_04_a135_seg1_s4;12;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, psych_ambiguous;;
+NZZ_1993_01_04_a23_seg2_s3;33;;;x;;;;;;;;;;;;;;;anim;;;;EXP-related_object;;
+NZZ_1993_01_04_a33_seg3_s15;24;;;;;;;;x;;;;;;;;;;;an;;;pronominal_adverb;;
+NZZ_1993_01_05_a52_seg1_s5;22;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_01_05_a56_seg2_s1;17;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_01_05_a67_seg2_s16;11;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_01_06_a131_seg8_s7;28;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_01_07_a87_seg4_s12;25;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_01_08_a85_seg2_s13;24;;;x;;;;;;;;;;;;;;;anim;;;;EXP-related_object, psych_ambiguous;;
+NZZ_1993_01_09_a123_seg3_s13;14;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_01_09_a183_seg28_s1;2;;x;x;;;;;;;;;;;;;;;inanim;;;;headline, ellipsis;;
+NZZ_1993_01_09_a183_seg29_s4;12;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_01_09_a183_seg29_s6;23;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_01_09_a21_seg2_s13;47;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_01_09_a23_seg5_s15;10;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_01_09_a35_seg2_s15;19;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_01_09_a69_seg13_s7;13;;;;;;x;;;;;;;;;;;;;durch;;;EXP-related_object;;inanim durch-PP
+NZZ_1993_01_09_a69_seg21_s19;9;;;;;;x;;;;;;;;;;;;;;;;EXP-related_object;;als
+NZZ_1993_01_11_a30_seg2_s32;14;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;;
+NZZ_1993_01_12_a21_seg2_s7;7;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_01_13_a120_seg3_s20;12;;x;;;x;;;;;;;;;;;;;;;;;;;psychisch gestört
+NZZ_1993_01_13_a206_seg7_s3;19;;;;;;x;;;;;;;;;;;;;von;;;EXP-related_object;;psych?
+NZZ_1993_01_13_a24_seg8_s16;3;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+NZZ_1993_01_14_a203_seg2_s5;16;;;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_01_14_a216_seg4_s12;28;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_01_15_a124_seg3_s2;29;;;;;;;;;x;;;;;;;;;;durch;;;;;inanim durch-PP, Publikum
+NZZ_1993_01_15_a145_seg1_s3;16;;;;;x;;;;;;;;;;;;;;;;;psych_ambiguous;;
+NZZ_1993_01_18_a163_seg10_s2;21;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_01_18_a41_seg10_s17;16;;;x;;;;;;;;;;;;;;;anim_proxy;;;;EXP-related_object, idiomatic;;
+NZZ_1993_01_20_a70_seg3_s8;2;;;;;;;;x;;;;;;;;;;;an;;;pronominal_adverb;;
+NZZ_1993_01_23_a75_seg6_s16;13;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_01_23_a91_seg7_s5;39;;;;;;x;;;;;;;;;;;;;durch;;;;;inanim durch-PP, psych?
+NZZ_1993_01_30_a137_seg2_s71;14;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_01_30_a75_seg6_s16;13;;;x;;;;;;;;;;;;;;;inanim;;;;;coordinative construction;
+NZZ_1993_02_02_a104_seg6_s5;4;x;;;;;;;;;;;;;;;;;;;;;;;Gemeinde
+NZZ_1993_02_03_a43_seg3_s11;10;;x;;;;;x;;;;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1993_02_04_a186_seg5_s7;22;;x;;;x;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_02_04_a92_seg5_s18;6;;;;x;;;;;;;;;;;;;;inanim;an;;;;;
+NZZ_1993_02_05_a166_seg5_s1;30;;;x;;;;;;;;;;;;;;;anim;;x;;;;adjunct control, agentive
+NZZ_1993_02_06_a85_seg7_s20;34;;;x;;;;;;;;;;;;;;;propositional;;;;;;generic EXP
+NZZ_1993_02_06_a90_seg6_s12;25;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_02_08_a69_seg2_s8;17;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_09_a184_seg24_s9;17;;;;;x;;;;;;;;;;;;;;;;;EXP-related_object, fragment;;
+NZZ_1993_02_09_a61_seg2_s13;2;;;;x;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_02_10_a1_seg7_s1;16;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_02_10_a117_seg1_s6;22;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_02_12_a105_seg13_s7;29;;x;;;;x;;;;;;;;;;;;;durch;;;psych_ambiguous;;anim_proxy durch-PP
+NZZ_1993_02_13_a152_seg2_s17;52;;;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_02_13_a33_seg2_s9;31;;x;;;x;;;;;;;;;;;;;;;;;EXP_coordination;;
+NZZ_1993_02_13_a63_seg6_s5;5;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;;;other reading: non-psych
+NZZ_1993_02_15_a152_seg3_s4;30;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_16_a83_seg2_s29;19;;;;x;;;;;;;;;;;;;;ambiguous;;;;ambiguous;;other reading: es + wenn
+NZZ_1993_02_18_a57_seg3_s10;15;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_19_a138_seg2_s8;2;;;;;;;;x;;;;;;;;;;;an;;;pronominal_adverb;;wenn
+NZZ_1993_02_19_a36_seg8_s5;25;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-related_object, STM_coordination, PCN-C;;
+NZZ_1993_02_19_a74_seg10_s3;16;;x;;;x;;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_02_20_a47_seg3_s4;2;;;;x;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_02_22_a154_seg3_s14;13;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_02_23_a102_seg4_s7;3;;x;x;;;;;;;;;;;;;;;inanim;;;;EXP_coordination;coordinative construction;
+NZZ_1993_02_24_a127_seg8_s2;31;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_02_24_a62_seg5_s9;7;;x;x;;;;;;;;;;;;;;;inanim;;;;;coordinative construction;
+NZZ_1993_02_26_a133_seg10_s16;4;;;;;;;;x;;;;;;;;;;;an;;;;;
+NZZ_1993_02_26_a45_seg2_s2;3;;;x;;;;;;;;;;;;;;;propositional;;;;;;interesting event structure
+NZZ_1993_03_31_a10_seg10_s4;22;;x;;;x;;;;;;;;;;;;;;;;;psych_ambiguous;;
+NZZ_1993_04_01_a129_seg2_s17;31;;;;;;x;;;;;;;;;;;;;durch;;;collocation, EXP-related_object, psych_ambiguous;;
+NZZ_1993_04_03_a163_seg11_s6;23;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_05_a28_seg2_s28;43;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_06_a32_seg2_s14;64;;x;x;;;;;;;;;;;;;;;anim;durch;;;;instrumental?;
+NZZ_1993_04_07_a67_seg6_s8;2;;;;;;;;x;;;;;;;;;;;an;;;pronominal_adverb;;
+NZZ_1993_04_08_a138_seg3_s7;39;;;;;;x;;;;;;;;;;;;;von;;;collocation, EXP-related_object, psych_ambiguous;;
+NZZ_1993_04_08_a54_seg2_s20;8;;;;x;;;;;;;;;;;;;;inanim;;;;ambiguous;;
+NZZ_1993_04_08_a70_seg9_s1;28;;;x;;;;;;;;;;;;;;;anim_proxy;;x;;EXP_anim_proxy;instrumental;
+NZZ_1993_04_08_a89_seg1_s5;8;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_10_a108_seg3_s4;25;;x;x;;;;;;;;;;;;;;;inanim;;x;;STM_coordination;vermögen;
+NZZ_1993_04_10_a166_seg2_s19;24;;x;x;;;;;;;;;;;;;;;inanim;;;;STM_anim_proxy, collocation;;
+NZZ_1993_04_10_a166_seg2_s68;28;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;collocation;;
+NZZ_1993_04_10_a219_seg2_s14;40;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_04_10_a22_seg2_s5;7;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1993_04_10_a29_seg10_s2;28;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_10_a43_seg2_s27;15;;;;x;;;;;;;;;;;;;;inanim;;;;;NZZ;
+NZZ_1993_04_10_a44_seg2_s21;16;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_04_10_a75_seg1_s7;23;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_14_a34_seg12_s3;10;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_14_a34_seg12_s7;27;;;;;x;;;;;;;;;;;;;;;;;EXP-related_object, psych_ambiguous;;
+NZZ_1993_04_15_a75_seg2_s7;20;;x;;;;x;;;;;;;;;;;;;durch;;;pronominal_adverb;;
+NZZ_1993_04_15_a97_seg2_s11;9;;;;x;;;;;;;;;;;;;;ambiguous;;;;;anim/ anim_proxy?;probably anim/anim_proxy but not necessariy (cf. Vor allem zu Beginn wirkten die Gesten der Schauspieler nonchlant und störten zu wenig)
+NZZ_1993_04_15_a97_seg2_s9;22;;;;;;x;;;;;;;;;;;;;von;;;;;
+NZZ_1993_04_16_a134_seg2_s10;41;;;x;;;;;;;;;;;;;;;inanim;;x;;EXP-related_object, collocation;;inanim control, vermögen
+NZZ_1993_04_16_a18_seg3_s6;37;;;;;;x;;;;;;;;;;;;;von;;;;;
+NZZ_1993_04_19_a123_seg7_s5;23;;;x;;;;;;;;;;;;;;;anim_proxy;;;;EXP-related_object, ambiguous;;
+NZZ_1993_04_20_a81_seg5_s3;24;;;x;;;;;;;;;;;;;;;anim;;;;;;agentive
+NZZ_1993_04_21_a203_seg7_s5;19;;x;;;x;;;;;;;;;;;;;;;;;psych_ambiguous;;
+NZZ_1993_04_21_a60_seg2_s3;47;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_04_22_a52_seg1_s3;1;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_04_22_a9_seg7_s4;15;;x;x;;;;;;;;;;;;;;;anim;;x;;;non psych?;
+NZZ_1993_04_23_a129_seg3_s9;9;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;;non-psych;
+NZZ_1993_04_24_a177_seg2_s17;17;;;;;;;;x;;;;;;;;;;;an;;;;;
+NZZ_1993_04_24_a178_seg15_s10;18;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_04_24_a72_seg12_s25;8;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_24_a72_seg12_s28;34;;x;x;;;;;;;;;;;;;;;anim;;;;;instrumental;adjunct control
+NZZ_1993_04_26_a46_seg2_s6;17;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_27_a155_seg5_s6;14;;;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_04_27_a17_seg4_s3;27;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_28_a134_seg11_s12;6;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_04_28_a134_seg11_s12;13;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_04_28_a134_seg11_s13;13;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_04_28_a134_seg11_s9;4;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_28_a134_seg13_s6;50;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_28_a134_seg15_s4;30;;x;;;x;;;;;;;;;;;;;;;;;psych_ambiguous;;
+NZZ_1993_04_28_a134_seg9_s3;53;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_04_28_a41_seg17_s18;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_07_31_a189_seg2_s3;20;;;;;;;;;x;;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1993_07_31_a89_seg3_s42;7;;;x;;;;;;;;;;;;;;;clash of coordinations;an;;;STM_coordination;;
+NZZ_1993_07_31_a97_seg2_s4;6;;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous;;
+NZZ_1993_08_02_a63_seg7_s3;17;;x;x;;;;;;;;;;;;;;;anim;durch;x;;psych_ambiguous;instrumental;
+NZZ_1993_08_03_a151_seg2_s5;6;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination, EXP_coordination;;
+NZZ_1993_08_04_a132_seg2_s5;10;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_08_05_a39_seg2_s26;13;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_08_06_a37_seg2_s17;33;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_08_09_a32_seg8_s7;16;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_08_10_a130_seg14_s8;14;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_10_a62_seg4_s5;26;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_08_10_a66_seg1_s5;13;;;x;;;;;;;;;;;;;;;ambiguous;an;;;;;
+NZZ_1993_08_11_a145_seg9_s8;12;;x;;;x;;;;;;;;;;;;;;;;;;coordinative construction;
+NZZ_1993_08_11_a18_seg8_s9;22;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1993_08_11_a85_seg3_s8;8;;;;;;x;;;;;;;;;;;;;von;;;;;agentive
+NZZ_1993_08_12_a108_seg8_s3;8;;x;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1993_08_13_a159_seg2_s8;20;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_14_a156_seg53_s9;14;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_08_14_a87_seg8_s5;31;;;x;;;;;;;;;;;;;;;anim;;;;;;stören in
+NZZ_1993_08_16_a126_seg8_s9;12;;;;;;;x;;;;;;;;;;;;;;;;;
+NZZ_1993_08_16_a39_seg3_s5;26;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_08_16_a7_seg8_s6;29;;x;x;;;;;;;;;;;;;;;anim;;x;;;;
+NZZ_1993_08_17_a21_seg11_s7;15;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_19_a77_seg5_s1;14;;x;;;;;;;;x;;;;;;;;;;;;;bleiben;
+NZZ_1993_08_21_a15_seg8_s9;35;;x;x;;;;;;;;;;;;;;;inanim;;x;;metaphoric_STM;vermögen;
+NZZ_1993_08_21_a165_seg7_s5;30;;x;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1993_08_21_a49_seg8_s5;19;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_21_a67_seg9_s9;23;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_24_a106_seg3_s15;35;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;;instrumental;
+NZZ_1993_08_25_a127_seg8_s5;16;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_08_25_a45_seg12_s10;21;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_25_a95_seg8_s3;27;;x;;;;x;;;;;;;;;;;;;durch;;;pronominal_adverb;;
+NZZ_1993_08_26_a24_seg6_s3;32;;x;x;;;;;;;;;;;;;;;propositional;;;;collocation;;
+NZZ_1993_08_26_a7_seg8_s4;28;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_08_28_a134_seg2_s127;11;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, idiomatic;;
+NZZ_1993_08_28_a38_seg2_s31;7;;;;x;;;;;;;;;;;;;;anim;;;;ambiguous;;
+NZZ_1993_08_30_a4_seg10_s3;11;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es, ungrammatical;;
+NZZ_1993_12_01_a17_seg4_s3;27;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;;;
+NZZ_1993_12_01_a44_seg2_s23;3;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+NZZ_1993_12_01_a89_seg3_s21;39;;;x;;;;;;;;;;;;;;;anim;;x;;metaphoric_EXP, psych_ambiguous;;
+NZZ_1993_12_01_a96_seg2_s3;5;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;;
+NZZ_1993_12_01_a96_seg6_s1;12;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_12_02_a165_seg5_s3;29;;;;;;;;x;;;;;;;;;;;an;;;;;
+NZZ_1993_12_03_a1_seg6_s9;12;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_12_03_a1_seg6_s9;16;;x;x;;;;;;;;;;;;;;;anim;;;;collocation;;vermögen
+NZZ_1993_12_03_a115_seg2_s15;8;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_12_04_a62_seg4_s5;31;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_12_04_a62_seg8_s22;6;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_12_06_a21_seg8_s6;33;;;;;;x;;;;;;;;;;;;;durch;;;psych_ambiguous;;
+NZZ_1993_12_07_a104_seg1_s49;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+NZZ_1993_12_08_a189_seg7_s19;26;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_12_08_a28_seg3_s6;4;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_12_08_a48_seg2_s37;27;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_12_09_a163_seg6_s3;17;;x;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1993_12_09_a26_seg21_s1;7;;;;;;;;x;;;;;;;;;;;an;;;;;
+NZZ_1993_12_11_a117_seg2_s4;15;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_12_11_a129_seg2_s13;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1993_12_11_a40_seg3_s12;31;;;x;;;;;;;;;;;;;;;anim;;x;;;;adjunct control
+NZZ_1993_12_11_a47_seg12_s5;19;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_12_11_a62_seg5_s14;25;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, EXP_coordination;EXP psych noun;
+NZZ_1993_12_11_a67_seg8_s4;8;;x;;;;x;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_12_11_a71_seg8_s5;12;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+NZZ_1993_12_13_a130_seg4_s3;8;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+NZZ_1993_12_13_a23_seg2_s3;17;;x;x;;;;;;;;;;;;;;;anim;;x;;;;
+NZZ_1993_12_13_a29_seg5_s3;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1993_12_14_a104_seg2_s4;4;;;x;;;;;;;;;;;;;;;ambiguous;;;;EXP_anim_proxy, polysemous;;psych?
+NZZ_1993_12_14_a147_seg4_s7;25;;x;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_12_14_a193_seg2_s11;28;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1993_12_15_a54_seg6_s1;22;;x;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1993_12_16_a35_seg3_s6;4;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_12_16_a39_seg3_s15;2;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_12_17_a192_seg8_s5;35;;x;;;x;;;;;;;;;;;;;;durch;;;;;
+NZZ_1993_12_17_a36_seg2_s3;3;;;;;;x;;;;;;;;;;;;;von;;;ambiguous;;probably impersonal passive, personal passive also possible
+NZZ_1993_12_17_a75_seg8_s13;1;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_12_18_a62_seg4_s1;13;;;;;;;;x;;;;;;;;;;;an;;;;;generic EXP
+NZZ_1993_12_18_a93_seg3_s7;21;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1993_12_20_a38_seg11_s16;31;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_12_20_a68_seg3_s12;18;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_12_20_a68_seg3_s5;16;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_12_21_a159_seg8_s36;16;;;;;;;;x;;;;;;;;;;;an;;;;;generic EXP
+NZZ_1993_12_22_a100_seg3_s5;14;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_12_23_a54_seg8_s1;9;;x;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_12_24_a194_seg15_s6;27;;;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1993_12_28_a28_seg2_s4;10;;;;;;x;;;;;;;;;;;;;;;;ambiguous, non-phoric_es;;probably impersonal passive. Personal passive reading also possible.
+NZZ_1993_12_28_a29_seg2_s1;9;;x;x;;;;;;;;;;;;;;;anim;;;;psych_ambiguous;;
+NZZ_1993_12_28_a30_seg2_s2;27;;x;x;;;;;;;;;;;;;;;anim;;x;;psych_ambiguous;;
+NZZ_1993_12_28_a65_seg6_s3;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_12_30_a139_seg13_s13;16;;;;;;x;;;;;;;;;;;;;von;;;;;
+NZZ_1993_12_30_a34_seg2_s10;45;;;;;;;x;;;;;;;;;;;;von;x;;;;inanim von-PP, adjunct control

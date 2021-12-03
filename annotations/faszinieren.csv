@@ -1,0 +1,201 @@
+NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+NZZ_1993_02_01_a28_seg6_s5;43;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_01_a31_seg6_s17;11;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_03_a103_seg3_s27;30;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_20_a159_seg2_s7;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_02_26_a67_seg2_s11;3;;;x;;;;;;;;;;;;;;;inanim;an;;;;;
+NZZ_1993_03_01_a44_seg11_s18;9;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1993_03_04_a68_seg3_s3;21;;;;x;;;;;;;;;;;;;;inanim;;x;;STM_coordination;;inanim vcontrol, vermögen
+NZZ_1993_03_05_a71_seg2_s11;3;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_04_03_a70_seg4_s19;5;;;;x;;;;;;;;;;;;;;inanim;durch;;;;coordinative construction;inanim durch-PP
+NZZ_1993_04_07_a190_seg2_s9;27;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1993_04_08_a56_seg3_s6;11;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;;
+NZZ_1993_04_10_a94_seg6_s16;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_14_a23_seg2_s20;20;;;x;;;;;;;;;;;;;;;ambiguous;;;;metonymic_EXP;;
+NZZ_1993_04_21_a41_seg2_s1;16;;;;x;;;;;;;;;;;;;;inanim;in;;;;;
+NZZ_1993_04_21_a69_seg1_s10;24;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_04_24_a33_seg3_s16;10;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_04_28_a51_seg2_s30;3;;;;x;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_04_29_a229_seg5_s3;9;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;if clash of coordinations: clausal but not propositional
+NZZ_1993_04_29_a47_seg3_s16;10;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_05_03_a34_seg7_s1;41;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_05_07_a118_seg2_s3;9;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1993_05_10_a37_seg1_s9;3;;;x;;;;;;;;;;;;;;;inanim;an;;;EXP_anim_proxy;;
+NZZ_1993_05_18_a67_seg6_s2;7;;;x;;;;;;;;;;;;;;;ambiguous;;x;;;;vermögen
+NZZ_1993_06_18_a122_seg4_s25;16;;;x;;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1993_06_29_a37_seg3_s2;9;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1993_07_01_a190_seg2_s7;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_07_05_a60_seg4_s2;25;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1993_07_12_a35_seg2_s2;22;;;x;;;;;;;;;;;;;;;anim;;x;;;instrumental;adjunct control, Massen
+NZZ_1993_07_13_a153_seg2_s14;18;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_07_15_a137_seg2_s3;16;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;coordinative construction;nebst-PP
+NZZ_1993_07_19_a130_seg5_s5;3;;;;x;;;;;;;;;;;;;;ambiguous;durch;;;;probably anim?;
+NZZ_1993_07_27_a41_seg2_s18;33;;;x;;;;;;;;;;;;;;;inanim;;x;;;;inanim control
+NZZ_1993_07_29_a117_seg1_s5;4;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_07_31_a192_seg2_s9;8;;;x;;;;;;;;;;;;;;;inanim;;;;;anim_proxy?;
+NZZ_1993_07_31_a64_seg6_s16;3;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_08_02_a20_seg2_s5;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_03_a32_seg2_s23;3;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1993_08_03_a41_seg6_s16;3;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1993_08_04_a136_seg10_s15;12;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_08_07_a73_seg9_s1;27;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_09_09_a137_seg7_s5;44;;;x;;;;;;;;;;;;;;;inanim;mit;;;;;generic EXP
+NZZ_1993_09_09_a39_seg3_s9;8;;;;x;;;;;;;;;;;;;;inanim;mit;;;;;
+NZZ_1993_09_11_a185_seg2_s14;2;;;x;;;;;;;;;;;;;;;inanim;;;;non-phoric_es;;
+NZZ_1993_09_17_a56_seg6_s23;18;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_09_18_a40_seg2_s2;13;;;;x;;;;;;;;;;;;;;inanim;durch;;;;;inanim durch-PP
+NZZ_1993_09_25_a122_seg2_s37;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_10_01_a113_seg3_s6;13;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1993_10_01_a124_seg5_s13;16;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_10_01_a130_seg3_s8;11;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_10_08_a57_seg2_s14;20;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_10_09_a117_seg2_s6;23;;;x;;;;;;;;;;;;;;;inanim;;x;;STM_coordination;;inanim control, vermögen
+NZZ_1993_10_12_a45_seg2_s12;13;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_10_13_a37_seg2_s14;28;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_10_13_a46_seg2_s8;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;interesting event structure
+NZZ_1993_10_14_a48_seg2_s26;18;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_10_15_a80_seg20_s4;7;;;;x;;;;;;;;;;;;;;inanim;durch;;;;;inanim durch-PP
+NZZ_1993_10_20_a32_seg3_s12;13;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1993_10_20_a44_seg14_s6;7;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1993_10_20_a44_seg18_s2;18;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_10_22_a97_seg2_s12;2;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination, non-phoric_es;;
+NZZ_1993_11_04_a122_seg6_s13;27;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_11_12_a96_seg39_s6;59;;;;x;;;;;;;;;;;;;;inanim;;x;;EXP-indicating_adjunct;;inanim control, vermögen
+NZZ_1993_11_13_a108_seg8_s6;2;;;x;;;;;;;;;;;;;;;propositional;;;;;;proposition-based w-clause
+NZZ_1993_11_16_a187_seg3_s3;14;;;;x;;;;;;;;;;;;;;anim;mit;;;;instrumental?;
+NZZ_1993_11_16_a49_seg2_s10;10;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1993_11_27_a146_seg2_s96;24;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+NZZ_1993_12_01_a125_seg2_s20;23;;;;x;;;;;;;;;;;;;;inanim;;;;;;interesting event structure
+NZZ_1993_12_02_a125_seg4_s11;3;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1993_12_07_a190_seg2_s21;2;;;x;;;;;;;;;;;;;;;propositional;;;;;;proposition-based w-clause
+NZZ_1993_12_07_a190_seg2_s6;21;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1993_12_08_a186_seg2_s19;17;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1993_12_08_a43_seg2_s8;2;;;;x;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;proposition-based w-clause
+NZZ_1993_12_17_a69_seg6_s12;10;;;;x;;;;;;;;;;;;;;inanim;;;;;Filme?;
+NZZ_1993_12_23_a44_seg4_s13;11;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_01_11_a111_seg3_s14;4;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_01_12_a124_seg3_s3;40;;;;x;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1994_01_25_a181_seg8_s3;12;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental?;
+NZZ_1994_02_11_a189_seg1_s48;2;;;x;;;;;;;;;;;;;;;anim;durch;;;;instrumental?;inanim durch-PP
+NZZ_1994_02_18_a150_seg8_s2;2;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_02_19_a88_seg5_s14;3;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_02_24_a123_seg5_s5;2;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1994_02_25_a119_seg3_s20;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_03_03_a192_seg3_s16;3;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;PA?
+NZZ_1994_03_10_a225_seg6_s1;19;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_03_17_a152_seg3_s2;25;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1994_03_17_a176_seg2_s10;35;;;x;;;;;;;;;;;;;;;inanim;;;;;;Publikum
+NZZ_1994_03_25_a187_seg3_s18;16;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1994_03_26_a203_seg4_s134;26;;;x;;;;;;;;;;;;;;;inanim;;;;;;generic EXP
+NZZ_1994_03_28_a114_seg9_s8;29;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental;Publikum
+NZZ_1994_03_31_a246_seg9_s2;11;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_04_05_a102_seg7_s4;7;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1994_04_09_a25_seg7_s1;22;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_04_09_a98_seg4_s1;30;;;x;;;;;;;;;;;;;;;anim;;;;EXP_anim_proxy;instrumental?;Kreise
+NZZ_1994_04_12_a115_seg3_s6;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_04_14_a223_seg5_s10;24;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_04_20_a169_seg3_s12;17;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP, generic EXP
+NZZ_1994_04_20_a205_seg3_s9;4;;;;x;;;;;;;;;;;;;;inanim;;;;ambiguous;;other readind: X-STM V Y-EXP, result_PP
+NZZ_1994_04_21_a127_seg6_s1;35;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_04_21_a141_seg4_s7;55;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1994_04_23_a127_seg3_s10;7;;;x;;;;;;;;;;;;;;;ambiguous;an;;;;;
+NZZ_1994_04_23_a128_seg6_s3;4;;;x;;;;;;;;;;;;;;;inanim;an;;;;;
+NZZ_1994_04_25_a24_seg6_s10;33;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_05_02_a90_seg3_s10;68;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_05_03_a95_seg2_s19;14;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_05_07_a127_seg19_s1;2;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_05_16_a106_seg3_s6;6;;;;x;;;;;;;;;;;;;;anim;durch;;;;instrumental;inanim durch-PP
+NZZ_1994_05_20_a217_seg3_s7;5;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_05_21_a96_seg3_s6;42;;;x;;;;;;;;;;;;;;;inanim;;;;;;Öffentlichkeit
+NZZ_1994_05_25_a119_seg4_s8;26;;;x;;;;;;;;;;;;;;;anim;;x;;;instrumental;vermögen, not necessarily instrumental
+NZZ_1994_05_27_a204_seg4_s3;22;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1994_06_01_a178_seg3_s7;14;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_06_10_a219_seg8_s2;4;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1994_06_11_a148_seg17_s6;16;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1994_06_11_a152_seg11_s4;16;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_06_14_a109_seg3_s3;5;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_06_16_a93_seg7_s11;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_06_17_a136_seg2_s6;26;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;Kreis
+NZZ_1994_06_18_a92_seg4_s4;11;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1994_06_25_a132_seg9_s5;19;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_06_25_a134_seg11_s8;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_06_25_a135_seg5_s65;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_06_30_a132_seg4_s11;6;;;;;;;x;;;;;;;;;;;;;;;;;
+NZZ_1994_06_30_a80_seg3_s16;12;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+NZZ_1994_07_02_a139_seg4_s1;2;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_coordination;;
+NZZ_1994_07_02_a143_seg16_s11;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_07_02_a147_seg4_s32;18;;;;x;;;;;;;;;;;;;;ambiguous;in;x;;;;vermögen
+NZZ_1994_07_04_a38_seg6_s3;25;;;;x;;;;;;;;;;;;;;inanim;;;;;;neben-PP
+NZZ_1994_07_09_a91_seg3_s31;5;;;;x;;;;;;;;;;;;;;anim_proxy;;;;;theatrical role;
+NZZ_1994_07_13_a127_seg3_s6;8;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1994_07_14_a172_seg7_s11;7;;;;x;;;;;;;;;;;;;;ambiguous;;x;;;;vermögen
+NZZ_1994_07_20_a81_seg5_s2;12;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_07_21_a99_seg3_s30;14;;;;x;;;;;;;;;;;;;;anim;mit;;;;instrumental?;
+NZZ_1994_07_29_a96_seg10_s1;11;;;x;;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_08_03_a181_seg5_s4;23;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen, Military: Vielseitigkeitsreiten
+NZZ_1994_08_04_a111_seg5_s2;18;;;x;;;;;;;;;;;;;;;inanim;an;;;;;
+NZZ_1994_08_06_a183_seg4_s5;14;;;x;;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_08_09_a64_seg9_s1;3;;;x;;;;;;;;;;;;;;;anim;;;;;STM as concept/ literary figure;generic EXP
+NZZ_1994_08_10_a109_seg4_s14;25;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_08_19_a130_seg2_s10;4;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_09_02_a201_seg31_s16;97;;;x;;;;;;;;;;;;;;;inanim;als;;;;;
+NZZ_1994_09_10_a216_seg8_s24;8;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1994_09_12_a174_seg2_s10;2;;;x;;;;;;;;;;;;;;;anim;;;;clearly_non_agentive;volitional?;
+NZZ_1994_09_15_a166_seg9_s3;20;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_09_17_a169_seg4_s4;24;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental?;Publikum
+NZZ_1994_09_21_a114_seg3_s25;14;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1994_09_26_a106_seg2_s11;14;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_09_29_a205_seg8_s8;4;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1994_10_04_a140_seg4_s6;7;;;;x;;;;;;;;;;;;;;inanim;durch;;;;;inanim durch-PP
+NZZ_1994_10_15_a127_seg8_s4;9;;;x;;;;;;;;;;;;;;;inanim;;x;;;;inanim control, vermögen
+NZZ_1994_10_17_a132_seg3_s11;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_10_19_a102_seg5_s17;6;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_10_19_a144_seg3_s9;3;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_10_25_a110_seg2_s11;6;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;
+NZZ_1994_10_29_a123_seg3_s9;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_11_03_a96_seg3_s14;28;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_11_10_a118_seg10_s2;5;;;x;;;;;;;;;;;;;;;anim;;;;;;Publikum
+NZZ_1994_11_12_a102_seg4_s8;30;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_11_12_a122_seg11_s1;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+NZZ_1994_11_24_a184_seg8_s4;18;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1994_11_26_a133_seg10_s11;44;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_11_26_a179_seg3_s13;27;;;x;;;;;;;;;;;;;;;inanim;bei;;;PA+A;;
+NZZ_1994_11_26_a83_seg3_s2;34;;;x;;;;;;;;;;;;;;;anim;;x;;;;vermögen
+NZZ_1994_12_24_a102_seg3_s22;11;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1994_12_24_a102_seg3_s47;5;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1994_12_27_a115_seg5_s17;2;;;x;;;;;;;;;;;;;;;ambiguous;an;;;;;
+NZZ_1994_12_28_a87_seg3_s13;4;;;;x;;;;;;;;;;;;;;inanim;bei;;;;;
+NZZ_1995_01_03_a61_seg4_s17;7;;;x;;;;;;;;;;;;;;;inanim;;;;;;neben-PP
+NZZ_1995_01_06_a119_seg5_s1;16;;;x;;;;;;;;;;;;;;;inanim;an;;;PCN-C;;
+NZZ_1995_01_06_a188_seg3_s1;22;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_01_10_a121_seg3_s10;18;;;x;;;;;;;;;;;;;;;inanim;an;;;STM_coordination;;
+NZZ_1995_01_18_a47_seg4_s3;27;;;x;;;;;;;;;;;;;;;anim;als;;;fragment;;Öffentlichkeit
+NZZ_1995_01_20_a120_seg3_s9;51;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_coordination;;
+NZZ_1995_01_24_a142_seg3_s4;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_02_02_a190_seg6_s15;34;;;;x;;;;;;;;;;;;;;inanim;;;;fragment;;
+NZZ_1995_02_04_a224_seg53_s3;13;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_02_07_a138_seg7_s1;11;;;x;;;;;;;;;;;;;;;propositional;an;;;;;
+NZZ_1995_02_08_a34_seg3_s6;11;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1995_02_09_a149_seg4_s14;44;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1995_02_11_a183_seg5_s7;47;;;;x;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1995_02_22_a106_seg6_s3;2;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+NZZ_1995_02_25_a228_seg6_s16;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_03_31_a143_seg3_s7;11;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1995_04_18_a96_seg3_s13;26;;;x;;;;;;;;;;;;;;;inanim;als;;;;;
+NZZ_1995_04_25_a105_seg4_s11;11;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1995_04_25_a188_seg9_s6;30;;;;x;;;;;;;;;;;;;;inanim;mit;;;;;
+NZZ_1995_07_01_a39_seg7_s16;34;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_07_03_a123_seg6_s12;6;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_07_07_a157_seg3_s14;15;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_08_07_a94_seg2_s8;9;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_08_08_a92_seg3_s17;9;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1995_08_16_a97_seg37_s1;11;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_08_18_a97_seg9_s2;4;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental?;Publikum
+NZZ_1995_08_22_a96_seg8_s12;25;;;;;;;x;;;;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1995_08_24_a184_seg5_s14;13;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_11_30_a109_seg3_s2;51;;;x;;;;;;;;;;;;;;;inanim;durch;;;;;inanim durch-PP, Umgebung
+NZZ_1995_12_16_a207_seg2_s12;16;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_12_16_a220_seg4_s11;7;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_12_20_a163_seg6_s10;14;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, EXP_coordination;;
+NZZ_1995_12_23_a204_seg3_s17;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_12_29_a89_seg5_s6;32;;;;;;;x;;;;;;;;;;;;von;;;EXP_anim_proxy;;inanim von-PP

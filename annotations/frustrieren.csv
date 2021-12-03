@@ -1,0 +1,125 @@
+NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+NZZ_1993_02_04_a121_seg2_s16;19;;;x;;;;;;;;;;;;;;;inanim;;;;;;generic EXP
+NZZ_1993_02_11_a20_seg3_s1;27;;;;;;;;;x;;;;;;;;;;angesichts;;;;;
+NZZ_1993_02_23_a102_seg8_s5;24;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_06_12_a26_seg8_s5;20;;;;;;x;;;;;;;;;;;;;;;;ungrammatical, EXP_anim_proxy, psych_ambiguous;;
+NZZ_1993_09_23_a86_seg14_s3;39;;;;;x;;;;;;;;;;;;;;über;;;;;
+NZZ_1993_10_25_a134_seg7_s1;33;;;x;;;;;;;;;;;;;;;inanim;angesichts;x;;;inanim control, adjunct control;
+NZZ_1993_11_03_a46_seg4_s1;19;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+NZZ_1993_11_15_a230_seg2_s2;21;;;;;;x;;;;;;;;;;;;;;;;EXP-related_object;;
+NZZ_1994_01_27_a214_seg11_s10;29;;;x;;;;;;;;;;;;;;;ambiguous;;;;;volitional?;
+NZZ_1994_02_04_a124_seg7_s12;42;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1994_02_22_a116_seg7_s2;11;;;;;x;;;;;;;;;;;;;;;;;EXP_anim_proxy;;also Nom-EXP V reading possible? (certainly not in my idiolect but it would explain the presence of wie…)
+NZZ_1994_02_24_a202_seg5_s1;10;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1994_03_03_a152_seg55_s4;5;;;;;x;;;;;;;;;;;;;;;;;EXP_anim_proxy;;
+NZZ_1994_03_11_a192_seg3_s3;73;x;;;;;;;;;;;;;;;;;;;;;;adjective;
+NZZ_1994_03_21_a179_seg1_s36;30;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1994_04_05_a48_seg3_s17;14;;;;;;;;;;x;;;;;;;;;von;;;fragment;;inanim von-PP
+NZZ_1994_04_23_a29_seg13_s3;13;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1994_05_05_a195_seg1_s11;28;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1994_05_05_a195_seg1_s8;33;;;x;;;;;;;;;;;;;;;anim;;;;;instrumental?;
+NZZ_1994_05_05_a199_seg5_s4;7;;;;;;;;;x;;;;;;;;;;;;;;;
+NZZ_1994_05_07_a201_seg2_s25;4;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1994_06_01_a143_seg9_s3;29;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;Korps
+NZZ_1994_07_29_a76_seg2_s8;14;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_09_20_a102_seg6_s13;7;;;;;x;;;;;;;;;;;;;;;;;ambiguous, variation, EXP-related_object;;
+NZZ_1994_10_14_a133_seg4_s5;31;;;x;;;;;;;;;;;;;;;inanim;;;;;;Mehrheit
+NZZ_1994_10_29_a221_seg1_s1;2;;;;;;;;;;x;;;;;;;;;;;;headline;;
+NZZ_1994_12_17_a214_seg3_s19;39;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1994_12_21_a14_seg8_s3;2;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1995_01_06_a119_seg7_s14;12;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1995_01_17_a41_seg7_s4;28;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_01_20_a174_seg4_s1;15;;;;;x;;;;;;;;;;;;;;;;x;;;
+NZZ_1995_02_06_a82_seg11_s4;6;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1995_02_11_a16_seg6_s9;4;;;;;;;;;;x;;;;;;;;;;;;EXP_anim_proxy;;
+NZZ_1995_02_17_a174_seg10_s9;5;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1995_03_03_a21_seg6_s1;36;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;
+NZZ_1995_03_30_a27_seg10_s7;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_04_13_a125_seg4_s12;6;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1995_04_21_a30_seg5_s4;24;;;;;;;;;;x;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1995_06_15_a26_seg7_s8;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_06_22_a160_seg3_s3;37;;;x;;;;;;;;;;;;;;;anim_proxy;mit;x;;EXP_anim_proxy;;anim_proxy control
+NZZ_1995_06_22_a168_seg5_s2;17;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1995_06_26_a162_seg4_s2;23;;;x;;;;;;;;;;;;;;;anim_proxy;;;;EXP_anim_proxy;;
+NZZ_1995_07_14_a11_seg8_s5;45;;;;;x;;;;;;;;;;;;;;über;;;;;
+NZZ_1995_10_02_a27_seg8_s3;4;;;;;x;;;;;;;;;;;;;;über;;;pronominal_adverb;;
+NZZ_1995_11_11_a126_seg17_s1;14;;;;;x;;;;;;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1995_11_23_a180_seg13_s8;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1995_12_02_a170_seg5_s10;10;;;;;;;;;x;;;;;;;;;;;;;fragment;;
+NZZ_1995_12_27_a155_seg7_s1;17;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1996_01_11_a157_seg3_s5;19;;;;;;;;;;;;x;;;;;;;;;;;;
+NZZ_1996_02_01_a29_seg4_s4;11;;;;;;;;;x;;;;;;;;;;;;;;;
+NZZ_1996_02_14_a149_seg3_s8;36;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1996_02_21_a141_seg6_s3;12;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1996_03_16_a152_seg13_s5;7;;;;;;;;;;x;;;;;;;;;;;;ambiguous;;
+NZZ_1996_05_04_a232_seg9_s30;13;;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object, non-phoric_es;;
+NZZ_1996_05_10_a184_seg3_s7;13;;;;;;;;;;x;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1996_06_20_a203_seg5_s7;60;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental;
+NZZ_1996_06_21_a229_seg6_s5;33;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1996_07_01_a90_seg8_s18;21;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1996_07_06_a9_seg8_s4;11;;;;;x;;;;;;;;;;;;;;von;;;;;anim_proxy von-PP
+NZZ_1996_07_08_a58_seg8_s1;20;;;x;;;;;;;;;;;;;;;propositional;;;;EXP_anim_proxy;;interesting event structure
+NZZ_1996_07_10_a23_seg8_s10;25;;;x;;;;;;;;;;;;;;;inanim;;;;;;Bevölkerung
+NZZ_1996_07_11_a82_seg3_s2;7;;;;;;;;;x;;;;;;;;;;;;;;;
+NZZ_1996_07_15_a126_seg3_s13;2;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental;
+NZZ_1996_07_20_a25_seg6_s21;39;;;;;;;;;x;;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1996_07_30_a23_seg5_s7;5;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1996_08_03_a161_seg1_s1;4;;;;;;;;;;x;;;;;;;;;;;;headline;;
+NZZ_1996_09_13_a185_seg10_s10;18;;;x;;;;;;;;;;;;;;;anim_proxy;;;;;;
+NZZ_1996_10_15_a171_seg2_s5;6;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1996_10_26_a210_seg3_s20;38;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;;
+NZZ_1996_10_26_a7_seg8_s6;12;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1997_01_17_a58_seg7_s6;31;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1997_02_04_a162_seg2_s11;17;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1997_02_25_a173_seg4_s15;20;;;;;;;x;;;;;;;;;;;;;;;;;
+NZZ_1997_03_25_a40_seg18_s7;11;;;x;;;;;;;;;;;;;;;anim;;x;;;?;control in adjectival context
+NZZ_1997_05_31_a175_seg6_s7;7;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1997_06_14_a231_seg3_s39;7;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;generic EXP
+NZZ_1997_06_25_a189_seg15_s2;6;;;;x;;;;;;;;;;;;;;inanim;;;;;;Es pflegt immer um 17 Uhr zu regnen, Dem Jungen pflegt geholfen zu werden, Der Alte pflegte den Jungen zu schlagen ca. =? Der Junge pflegte vom Alten geschlagen zu werden.
+NZZ_1997_08_19_a116_seg3_s12;10;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1997_09_26_a147_seg10_s8;34;x;;;;;;;;;;;;;;;;;;;;;variation;;
+NZZ_1997_10_21_a27_seg6_s4;9;;;x;;;;;;;;;;;;;;;anim;;;;EXP_anim_proxy;;
+NZZ_1997_10_30_a71_seg4_s2;11;;;;;;;;;;x;;;;;;;;;von;;;fragment;;inanim von-PP
+NZZ_1998_01_03_a172_seg4_s24;3;;;;;;x;;;;;;;;;;;;;;;;;;
+NZZ_1998_01_13_a27_seg10_s6;35;;;;;;x;;;;;;;;;;;;;;;;EXP-related_object;;
+NZZ_1998_01_24_a40_seg12_s17;12;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1998_02_02_a53_seg3_s4;5;;;;;x;;;;;;;;;;;;;;über;;;pronominal_adverb;;
+NZZ_1998_04_07_a19_seg3_s11;23;;;;;x;;;;;;;;;;;;;;über;;;;;
+NZZ_1998_04_30_a237_seg4_s8;14;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1998_05_09_a105_seg7_s7;24;;;;;x;;;;;;;;;;;;;;bei;;;;;
+NZZ_1998_07_03_a239_seg9_s9;11;;;x;;;;;;;;;;;;;;;inanim;;;;;;generic EXP
+NZZ_1998_07_04_a148_seg3_s25;4;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1998_08_22_a49_seg3_s17;15;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1998_09_22_a122_seg4_s10;2;x;;;;;;;;;;;;;;;;;;;;;fragment;;
+NZZ_1998_10_01_a170_seg3_s4;7;;;;;;;;;x;;;;;;;;;;über;;;EXP_anim_proxy;???;
+NZZ_1998_10_06_a131_seg3_s7;2;;;x;;;;;;;;;;;;;;;anim;;;;EXP-related_object;;
+NZZ_1998_10_23_a28_seg15_s9;24;;;;;;x;;;;;;;;;;;;;;;;;;adjectival?
+NZZ_1998_11_02_a158_seg3_s12;24;;;;;;;;;x;;;;;;;;;;angesichts;;;;;
+NZZ_1998_11_06_a130_seg8_s5;4;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1998_11_18_a136_seg7_s6;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1998_12_29_a60_seg3_s8;4;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1999_01_20_a15_seg8_s3;26;;;x;;;;;;;;;;;;;;;propositional;;;;;;
+NZZ_1999_02_06_a235_seg3_s9;19;;;;;;;x;;;;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1999_02_23_a179_seg3_s11;3;;;;;;;;;;x;;;;;;;;;durch;;;pronominal_adverb;;
+NZZ_1999_03_05_a242_seg4_s12;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_03_12_a180_seg29_s6;8;;;;;x;;;;;;;;;;;;;;;;;ambiguous;;
+NZZ_1999_04_03_a5_seg6_s14;16;;;;;x;;;;;;;;;;;;;;über;;;EXP_anim_proxy;;
+NZZ_1999_04_10_a243_seg6_s6;4;;;;;;;;;;x;;;;;;;;;;;;;;
+NZZ_1999_04_16_a240_seg4_s24;30;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+NZZ_1999_04_30_a218_seg5_s6;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;EXP_anim_proxy;;
+NZZ_1999_05_05_a227_seg10_s19;14;;;x;;;;;;;;;;;;;;;anim;;x;;;;adjunct control
+NZZ_1999_05_29_a12_seg2_s1;2;;;;;x;;;;;;;;;;;;;;über;;;headline, ellipsis, metonymic_EXP;;
+NZZ_1999_06_08_a195_seg4_s5;19;;;x;;;;;;;;;;;;;;;anim;;x;;ambiguous;;also X-STM V reading possible
+NZZ_1999_07_15_a146_seg3_s5;28;;;;;x;;;;;;;;;;;;;;;;;;;
+NZZ_1999_07_19_a132_seg7_s5;20;;;;;x;;;;;;;;;;;;;;bei;;;;;
+NZZ_1999_07_21_a173_seg4_s12;13;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_07_23_a24_seg8_s2;17;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_07_30_a139_seg4_s9;12;;;;;;;;;;x;;;;;;;;;von;;;;;inanim von-PP
+NZZ_1999_08_14_a155_seg3_s29;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;generic EXP
+NZZ_1999_08_31_a198_seg2_s19;4;;;;;;x;;;;;;;;;;;;;;;;ungrammatical;;
+NZZ_1999_09_14_a279_seg3_s13;16;;;;;x;;;;;;;;;;;;;;;;;EXP_anim_proxy;;
+NZZ_1999_10_01_a146_seg4_s34;4;;;x;;;;;;;;;;;;;;;anim_proxy;mit;;;EXP-related_object;;
+NZZ_1999_10_08_a197_seg3_s23;37;;;;;;;x;;;;;;;;;;;;durch;;;;;
+NZZ_1999_10_12_a174_seg32_s12;6;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1999_10_15_a24_seg6_s2;22;;;;;;x;;;;;;;;;;;;;durch;;;EXP-related_object;;inanim durch-PP
+NZZ_1999_12_24_a270_seg7_s5;24;;;x;;;;;;;;;;;;;;;anim;;;;EXP-related_object;;

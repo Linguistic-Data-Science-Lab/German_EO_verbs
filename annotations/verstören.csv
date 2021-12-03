@@ -1,0 +1,53 @@
+NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+NZZ_1993_08_07_a73_seg8_s1;88;;;x;;;;;;;;;;;;;;;anim;;;;ambiguous;;
+NZZ_1993_08_14_a81_seg7_s15;61;;;;x;;;;;;;;;;;;;;inanim;;x;;;;inanim control, control in nominal context
+NZZ_1993_01_23_a34_seg10_s17;26;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1993_06_19_a92_seg6_s6;14;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;generic EXP, verstören in
+NZZ_1993_10_14_a48_seg2_s26;9;;;x;;;;;;;;;;;;;;;anim;;;;;;
+NZZ_1994_02_26_a111_seg11_s17;4;;;x;;;;;;;;;;;;;;;inanim;;;;;coordination ellipsis;
+NZZ_1994_06_07_a143_seg7_s17;33;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_05_09_a80_seg11_s9;9;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1994_05_21_a120_seg4_s29;3;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;;
+NZZ_1994_11_18_a197_seg11_s2;34;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1994_10_01_a122_seg6_s2;35;;;x;;;;;;;;;;;;;;;anim_proxy;;;;;;
+NZZ_1994_10_22_a130_seg4_s46;5;;;;x;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1994_10_25_a78_seg3_s10;11;;;;x;;;;;;;;;;;;;;inanim;;;;PCN-C;;
+NZZ_1995_04_12_a103_seg7_s8;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_04_28_a115_seg4_s4;29;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_12_20_a123_seg3_s29;15;;;x;;;;;;;;;;;;;;;inanim;;;;;;generic EXP
+NZZ_1995_12_23_a214_seg3_s6;38;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_02_06_a107_seg4_s5;15;;;;x;;;;;;;;;;;;;;anim;;x;;;???;control in nominal context, instrumental
+NZZ_1995_11_24_a126_seg3_s29;71;x;;;;;;;;;;;;;;;;;;;;;;;adjective, verstören in
+NZZ_1995_10_03_a123_seg3_s39;3;;;;x;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1995_10_10_a185_seg11_s12;13;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1995_09_02_a206_seg8_s6;18;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1995_09_07_a145_seg2_s9;3;;;;x;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1996_04_06_a229_seg5_s12;7;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1996_04_11_a139_seg9_s1;6;;;x;;;;;;;;;;;;;;;inanim;;;;title;;Publikum
+NZZ_1996_03_30_a227_seg15_s7;3;;;;x;;;;;;;;;;;;;;inanim;in;;;;;
+NZZ_1996_08_26_a84_seg3_s21;60;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1996_05_07_a116_seg10_s20;7;;;;x;;;;;;;;;;;;;;ambiguous;;;;;;
+NZZ_1996_10_04_a145_seg5_s14;22;;;x;;;;;;;;;;;;;;;inanim;als;x;;;;adjunct control?, inanim control
+NZZ_1996_09_27_a138_seg3_s14;12;;;;;;;x;;;;;;;;;;;;durch;;;;;inanim durch-PP
+NZZ_1996_09_27_a180_seg3_s15;25;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+NZZ_1997_01_16_a131_seg5_s9;16;;;x;;;;;;;;;;;;;;;inanim;;;;metonymic_EXP;;
+NZZ_1997_07_28_a75_seg8_s7;2;;;;x;;;;;;;;;;;;;;inanim;;;;;STIM höchstwahrscheinlich Serie, daher nicht ambiguous;
+NZZ_1997_05_30_a226_seg2_s3;23;;;x;;;;;;;;;;;;;;;inanim;;;;metonymic_EXP;;
+NZZ_1997_03_15_a162_seg25_s1;13;;;x;;;;;;;;;;;;;;;anim;mit;;;;incorrect segmentation;Publikum
+NZZ_1997_03_19_a122_seg3_s33;29;;;x;;;;;;;;;;;;;;;inanim;;;;result_PP;;generic EXP
+NZZ_1997_10_16_a120_seg8_s11;3;;;;x;;;;;;;;;;;;;;anim_proxy;;;;;;
+NZZ_1997_09_16_a101_seg3_s9;28;;;x;;;;;;;;;;;;;;;inanim;;;;;;Publikm
+NZZ_1998_04_06_a77_seg2_s3;10;;;;x;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+NZZ_1998_12_05_a242_seg7_s7;4;;x;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1998_12_19_a258_seg8_s24;2;;;x;;;;;;;;;;;;;;;ambiguous;durch;;;;;inanim durch-PP, Bürgertum
+NZZ_1998_02_06_a144_seg9_s2;4;;;x;;;;;;;;;;;;;;;inanim;;;;;;Publikum
+NZZ_1998_03_04_a141_seg53_s2;12;;;x;;;;;;;;;;;;;;;anim;mit;;;;instrumental;instrumental?
+NZZ_1998_03_21_a253_seg3_s10;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_08_11_a149_seg2_s3;31;;;;x;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_08_12_a157_seg3_s25;31;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+NZZ_1999_01_15_a209_seg6_s2;40;;;x;;;;;;;;;;;;;;;inanim;;;;;;Teil, Publikum
+NZZ_1999_07_14_a128_seg3_s4;3;;;;x;;;;;;;;;;;;;;inanim;;;;ungrammatical;;
+NZZ_1999_05_12_a160_seg3_s23;8;;;x;;;;;;;;;;;;;;;ambiguous;;;;;propositional?;
+NZZ_1999_03_18_a138_seg3_s9;40;;;;x;;;;;;;;;;;;;;inanim;in;;;pronominal_adverb;;
+NZZ_1999_11_13_a165_seg23_s2;31;x;;;;;;;;;;;;;;;;;;;;;;;attributive adjective
+NZZ_1999_11_23_a124_seg3_s36;26;;;x;;;;;;;;;;;;;;;anim;mit;;;EXP_coordination;instrumental;Publikum
