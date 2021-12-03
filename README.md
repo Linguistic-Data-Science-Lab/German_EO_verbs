@@ -4,6 +4,7 @@ This repository contains a set of annotations on German sentences containing an 
 
 ## annotations
 This folder contains the annotations: one CSV file per verb, encoding: utf-8, separator: ;
+
 Data points go by rows, annotations by columns. The columns:
 * NZZ_ID: Unique identifier of sentence
 * Token_ID: position of verb in sentence
