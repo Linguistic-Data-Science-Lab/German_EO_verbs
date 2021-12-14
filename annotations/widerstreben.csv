@@ -1,77 +1,2140 @@
-NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
-NZZ_1993_01_19_a162_seg14_s6;18;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1993_02_06_a62_seg16_s8;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1993_03_24_a224_seg3_s8;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1993_03_30_a85_seg5_s1;33;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;psych_ambiguous;;
-NZZ_1993_04_30_a117_seg21_s1;6;;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous, variation, psych_ambiguous;;
-NZZ_1993_04_30_a72_seg2_s6;9;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1993_09_23_a89_seg11_s7;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1993_10_11_a8_seg10_s5;19;;;x;;;;;;;;;;;;;;;propositional;;;;;;
-NZZ_1993_11_04_a27_seg9_s3;38;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1993_11_20_a69_seg4_s53;4;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1994_01_22_a219_seg3_s26;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1994_02_21_a83_seg3_s3;40;;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous;;
-NZZ_1994_06_23_a32_seg10_s1;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1994_09_29_a199_seg6_s19;22;;;x;;;;;;;;;;;;;;;inanim;;;;ambiguous;;
-NZZ_1994_10_12_a103_seg6_s3;28;;;x;;;;;;;;;;;;;;;propositional;;;;;;
-NZZ_1994_10_12_a110_seg3_s8;17;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
-NZZ_1995_01_28_a209_seg14_s6;19;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1995_01_28_a39_seg15_s11;13;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1995_04_13_a111_seg3_s26;28;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1995_05_13_a151_seg4_s26;10;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1995_05_31_a140_seg3_s6;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1995_06_30_a28_seg3_s6;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1995_07_01_a4_seg1_s11;2;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;NZZ;
-NZZ_1995_07_26_a43_seg5_s4;10;;;x;;;;;;;;;;;;;;;inanim;;;;metaphoric_EXP;;
-NZZ_1995_07_29_a169_seg3_s80;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1995_09_01_a154_seg4_s9;21;;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object;NZZ;
-NZZ_1995_09_02_a173_seg2_s4;2;;;x;;;;;;;;;;;;;;;propositional;;;;;;
-NZZ_1995_09_11_a38_seg2_s7;4;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-related_object, polysemous;;
-NZZ_1995_09_21_a44_seg4_s11;3;;;x;;;;;;;;;;;;;;;propositional;;;;;???;
-NZZ_1995_10_16_a17_seg3_s6;18;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1995_10_31_a70_seg13_s3;9;;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object;;
-NZZ_1995_11_11_a195_seg4_s3;34;;x;x;;;;;;;;;;;;;;;ambiguous;;;;psych_ambiguous;;
-NZZ_1995_11_16_a43_seg13_s3;31;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;
-NZZ_1995_11_20_a68_seg6_s7;28;;;x;;;;;;;;;;;;;;;ambiguous;;;;EXP_anim_proxy;;
-NZZ_1995_12_08_a153_seg3_s29;5;;;x;;;;;;;;;;;;;;;propositional;;;;;;
-NZZ_1996_02_01_a170_seg2_s16;48;;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
-NZZ_1996_02_19_a20_seg1_s16;28;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1996_03_01_a200_seg18_s7;24;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
-NZZ_1996_03_28_a92_seg9_s9;16;;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
-NZZ_1996_04_09_a95_seg9_s7;5;;x;x;;;;;;;;;;;;;;;ambiguous;;;;;;
-NZZ_1996_06_13_a8_seg8_s4;16;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;NZZ;
-NZZ_1996_07_27_a164_seg3_s7;55;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1996_07_27_a216_seg3_s70;31;;;x;;;;;;;;;;;;;;;propositional;;;;;NZZ;
-NZZ_1996_07_31_a26_seg7_s3;5;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
-NZZ_1996_07_31_a3_seg10_s3;5;;;x;;;;;;;;;;;;;;;inanim;;;;;NZZ;
-NZZ_1996_07_31_a35_seg6_s3;2;;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object;;
-NZZ_1996_08_30_a48_seg6_s1;12;;;x;;;;;;;;;;;;;;;propositional;;;;;???;
-NZZ_1996_09_16_a84_seg13_s17;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1996_11_19_a44_seg2_s3;16;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1997_02_19_a150_seg7_s14;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1997_02_22_a206_seg5_s12;10;;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
-NZZ_1997_03_03_a33_seg16_s12;2;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;;
-NZZ_1997_03_03_a80_seg3_s2;7;;;x;;;;;;;;;;;;;;;propositional;;;;;;
-NZZ_1997_05_12_a121_seg3_s8;2;x;;;;;;;;;;;;;;;;;;;;;polysemous;bare infinitive;
-NZZ_1997_10_07_a166_seg16_s32;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1997_11_03_a26_seg4_s3;3;;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;
-NZZ_1997_12_09_a102_seg8_s7;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1997_12_23_a132_seg7_s12;3;;x;x;;;;;;;;;;;;;;;inanim;;;;ambiguous, polysemous, psych_ambiguous;;
-NZZ_1998_01_09_a148_seg2_s21;9;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1998_03_02_a6_seg6_s11;8;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1998_04_09_a241_seg2_s10;32;;x;x;;;;;;;;;;;;;;;anim;;;;ambiguous, metaphoric_EXP, psych_ambiguous;;
-NZZ_1998_07_09_a2_seg8_s5;11;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es, EXP_coordination, EXP_anim_proxy;;
-NZZ_1998_07_25_a37_seg1_s35;11;;x;x;;;;;;;;;;;;;;;anim_proxy;;;;polysemous;;
-NZZ_1998_08_21_a14_seg5_s11;3;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1998_09_10_a150_seg2_s6;2;;x;x;;;;;;;;;;;;;;;ambiguous;;;;polysemous;;
-NZZ_1998_09_26_a230_seg3_s7;18;;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;NZZ;
-NZZ_1998_10_06_a127_seg4_s30;13;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1998_11_07_a253_seg7_s19;18;;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
-NZZ_1998_11_28_a162_seg4_s16;5;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1998_12_18_a187_seg3_s15;2;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
-NZZ_1999_03_13_a2_seg12_s3;11;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1999_09_09_a107_seg7_s6;2;;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
-NZZ_1999_09_29_a1_seg9_s6;12;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1999_10_02_a183_seg3_s9;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
-NZZ_1999_10_22_a170_seg12_s3;39;;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object, non-phoric_es;;
-NZZ_1999_12_17_a52_seg15_s3;3;;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+widerstreben;NZZ_1993_01_19_a162_seg14_s6;18;Vielleicht ist das Autonomiebedürfnis mancher Familienunternehmer derart ausgeprägt , dass eine Planung des eigenen Rücktritts ihnen zutiefst widerstrebt .;"1	Vielleicht	vielleicht	ADV	ADV	_	8	advmod	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Autonomiebedürfnis	Autonomiebedürfnis	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+5	mancher	manch	PRON	PIAT	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
+6	Familienunternehmer	Familienunternehmer	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	4	nmod	_	_
+7	derart	derart	ADV	ADV	_	8	advmod	_	_
+8	ausgeprägt	ausprägen	ADJ	ADJD	_	0	root	_	_
+9	,	,	PUNCT	$,	_	18	punct	_	_
+10	dass	dass	SCONJ	KOUS	_	18	mark	_	_
+11	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Planung	Planung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+13	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	eigenen	eigen	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	_
+15	Rücktritts	Rücktritts	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+16	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	iobj	_	_
+17	zutiefst	zutiefst	ADV	ADV	_	18	advmod	_	_
+18	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+19	.	.	PUNCT	$.	_	8	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1993_02_06_a62_seg16_s8;2;Ihm widerstrebt es , dass der Staat Produkte verteilt , die er auch gleichzeitig bekämpft .;"1	Ihm	er|es	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+4	,	,	PUNCT	$,	_	9	punct	_	_
+5	dass	dass	SCONJ	KOUS	_	9	mark	_	_
+6	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Staat	Staat	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	Produkte	Produkt	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	9	obj	_	_
+9	verteilt	verteilen	VERB	VVPP	VerbForm=Part	2	ccomp	_	_
+10	,	,	PUNCT	$,	_	15	punct	_	_
+11	die	der	PRON	PRELS	Case=Acc|Number=Plur|PronType=Rel	15	obj	_	_
+12	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+13	auch	auch	ADV	ADV	_	14	advmod	_	_
+14	gleichzeitig	gleichzeitig	ADJ	ADJD	_	15	advmod	_	_
+15	bekämpft	bekämpfen	VERB	VVFIN	VerbForm=Part	8	acl	_	_
+16	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1993_03_24_a224_seg3_s8;2;Es widerstrebt uns , weiterhin Anträge für Provisorien zu stellen , die niemanden befriedigen können und dennoch kostspielig sind . »;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	uns	wir	PRON	PPER	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
+4	,	,	PUNCT	$,	_	10	punct	_	_
+5	weiterhin	weiterhin	ADV	ADV	_	10	advmod	_	_
+6	Anträge	Antrag	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	10	obj	_	_
+7	für	für	ADP	APPR	_	8	case	_	_
+8	Provisorien	Provisorie	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	6	nmod	_	_
+9	zu	zu	PART	PTKZU	_	10	mark	_	_
+10	stellen	stellen	VERB	VVINF	VerbForm=Inf	2	csubj	_	_
+11	,	,	PUNCT	$,	_	14	punct	_	_
+12	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	14	nsubj	_	_
+13	niemanden	niemand	PRON	PIS	Case=Acc|Definite=Ind|Number=Plur|PronType=Ind	14	obj	_	_
+14	befriedigen	befriedigen	VERB	VVINF	VerbForm=Inf	6	acl	_	_
+15	können	können	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+16	und	und	CCONJ	KON	_	18	cc	_	_
+17	dennoch	dennoch	ADV	ADV	_	18	advmod	_	_
+18	kostspielig	kostspielig	ADJ	ADJD	_	14	conj	_	_
+19	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
+20	.	.	PUNCT	$.	_	2	punct	_	_
+21	»	""	PUNCT	$(	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1993_03_30_a85_seg5_s1;33;Der vehemente Kritiker des « Modernismus » will die Portugiesen durch Rückbesinnung auf nationale Traditionen motivieren , eine Gesellschaft aufzubauen , die dem ebenso modischen wie provinziellen Kult der Nachahmung fremder Ideale widerstrebt .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	vehemente	vehement	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+3	Kritiker	Kritiker	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+4	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	«	""	PUNCT	$(	_	6	punct	_	_
+6	Modernismus	Modernismus	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+7	»	""	PUNCT	$(	_	6	punct	_	_
+8	will	wollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+9	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
+10	Portugiesen	Portugiese	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	16	obj	_	_
+11	durch	durch	ADP	APPR	_	12	case	_	_
+12	Rückbesinnung	Rückbesinnung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+13	auf	auf	ADP	APPR	_	15	case	_	_
+14	nationale	national	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Plur	15	amod	_	_
+15	Traditionen	Tradition	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	12	nmod	_	_
+16	motivieren	motivieren	VERB	VVINF	VerbForm=Inf	0	root	_	_
+17	,	,	PUNCT	$,	_	20	punct	_	_
+18	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Gesellschaft	Gesellschaft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+20	aufzubauen	aufbauen	VERB	VVIZU	VerbForm=Inf	16	xcomp	_	_
+21	,	,	PUNCT	$,	_	33	punct	_	_
+22	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	33	nsubj	_	_
+23	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+24	ebenso	ebenso	ADV	ADV	_	25	advmod	_	_
+25	modischen	modisch	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	28	amod	_	_
+26	wie	wie	ADP	KOKOM	_	27	case	_	_
+27	provinziellen	provinziell	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	28	amod	_	_
+28	Kult	Kult	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	33	obl	_	_
+29	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	Nachahmung	Nachahmung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
+31	fremder	fremd	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Plur	32	amod	_	_
+32	Ideale	Ideal	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	30	nmod	_	_
+33	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl	_	_
+34	.	.	PUNCT	$.	_	16	punct	_	_
+";;x;x;;;;;;;;;;;;;;;anim_proxy;;;;psych_ambiguous;;
+widerstreben;NZZ_1993_04_30_a117_seg21_s1;6;"« Mein ganzer tiefer Egoismus widerstrebt der Nöthigung , Opfer zu bringen , sich Opfer aufzuerlegen ; und meine Sentimentalität bringt mich in Lebensverhältnisse , wo dies alles notwendig wird .";"1	«	""	PUNCT	$(	_	6	punct	_	_
+2	Mein	mein	DET	PPOSAT	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	_
+3	ganzer	ganz	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
+4	tiefer	tief	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
+5	Egoismus	Egoismus	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Nöthigung	Nöthigung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	_
+9	,	,	PUNCT	$,	_	12	punct	_	_
+10	Opfer	Opfer	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	_
+11	zu	zu	PART	PTKZU	_	12	mark	_	_
+12	bringen	bringen	VERB	VVINF	VerbForm=Inf	6	xcomp	_	_
+13	,	,	PUNCT	$,	_	16	punct	_	_
+14	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	16	obj	_	_
+15	Opfer	Opfer	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	16	obj	_	_
+16	aufzuerlegen	aufrllegen	VERB	VVIZU	VerbForm=Inf	12	conj	_	_
+17	;	;	PUNCT	$.	_	21	punct	_	_
+18	und	und	CCONJ	KON	_	21	cc	_	_
+19	meine	mein	DET	PPOSAT	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	Sentimentalität	Sentimentalität	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+21	bringt	bringen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+22	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs	21	obj	_	_
+23	in	in	ADP	APPR	_	24	case	_	_
+24	Lebensverhältnisse	Lebensverhältnis	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	21	obl	_	_
+25	,	,	PUNCT	$,	_	29	punct	_	_
+26	wo	wo	ADV	PWAV	PronType=Int	29	advmod	_	_
+27	dies	dies	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	30	nsubj	_	_
+28	alles	alle	PRON	PIS	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	29	nsubj	_	_
+29	notwendig	notwendig	ADJ	ADJD	_	24	acl	_	_
+30	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	29	cop	_	_
+31	.	.	PUNCT	$.	_	6	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous, variation, psych_ambiguous;;
+widerstreben;NZZ_1993_04_30_a72_seg2_s6;9;"Aber wenn man dann aufgenommen ist darin , widerstreben einem auch schon ihre Grenzen ; man versucht , sich zu lösen - und eine neue Gruppe zu bilden .";"1	Aber	aber	CCONJ	KON	_	5	cc	_	_
+2	wenn	wenn	SCONJ	KOUS	_	5	mark	_	_
+3	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	5	nsubj	_	_
+4	dann	dann	ADV	ADV	_	5	advmod	_	_
+5	aufgenommen	aufnehmen	VERB	VVPP	VerbForm=Part	9	advcl	_	_
+6	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+7	darin	darin	PRON	PAV	_	5	advmod	_	_
+8	,	,	PUNCT	$,	_	5	punct	_	_
+9	widerstreben	widerstreben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	einem	ein	PRON	PIS	Case=Dat|Definite=Ind|Number=Sing|PronType=Ind	9	iobj	_	_
+11	auch	auch	ADV	ADV	_	9	advmod	_	_
+12	schon	schon	ADV	ADV	_	9	advmod	_	_
+13	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	Grenzen	Grenze	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	9	nsubj	_	_
+15	;	;	PUNCT	$.	_	17	punct	_	_
+16	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	17	nsubj	_	_
+17	versucht	versuchen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+18	,	,	PUNCT	$,	_	21	punct	_	_
+19	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	21	obj	_	_
+20	zu	zu	PART	PTKZU	_	21	mark	_	_
+21	lösen	lösen	VERB	VVINF	VerbForm=Inf	17	xcomp	_	_
+22	-	-	PUNCT	$(	_	28	punct	_	_
+23	und	und	CCONJ	KON	_	28	cc	_	_
+24	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+25	neue	neu	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	26	amod	_	_
+26	Gruppe	Gruppe	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	28	obj	_	_
+27	zu	zu	PART	PTKZU	_	28	mark	_	_
+28	bilden	bilden	VERB	VVINF	VerbForm=Inf	21	conj	_	_
+29	.	.	PUNCT	$.	_	9	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1993_09_23_a89_seg11_s7;2;Es widerstrebt uns , sie anzusprechen , wenn sie im Zug die Schuhe auf die Bank legen , oder uns in eine Diskussion einzulassen , wenn sie eine Techno-Party im Keller veranstalten möchten .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	uns	wir	PRON	PPER	Case=Acc|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
+4	,	,	PUNCT	$,	_	6	punct	_	_
+5	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+6	anzusprechen	ansprechen	VERB	VVIZU	VerbForm=Inf	2	xcomp	_	_
+7	,	,	PUNCT	$,	_	17	punct	_	_
+8	wenn	wenn	SCONJ	KOUS	_	17	mark	_	_
+9	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+10	im	em	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Zug	Zug	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+12	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Schuhe	Schuh	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
+14	auf	auf	ADP	APPR	_	16	case	_	_
+15	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Bank	Bank	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+17	legen	legen	VERB	VVFIN	VerbForm=Inf	2	advcl	_	_
+18	,	,	PUNCT	$,	_	24	punct	_	_
+19	oder	oder	CCONJ	KON	_	24	cc	_	_
+20	uns	wir	PRON	PPER	Case=Acc|Number=Plur|Person=1|PronType=Prs	24	obj	_	_
+21	in	in	ADP	APPR	_	23	case	_	_
+22	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	Diskussion	Diskussion	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
+24	einzulassen	einlassen	VERB	VVIZU	VerbForm=Inf	17	conj	_	_
+25	,	,	PUNCT	$,	_	32	punct	_	_
+26	wenn	wenn	SCONJ	KOUS	_	32	mark	_	_
+27	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
+28	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	Techno-Party	Techno-Party	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
+30	im	em	PUNCT	$(	_	29	punct	_	_
+31	Keller	Keller	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	32	obj	_	_
+32	veranstalten	veranstalten	VERB	VVINF	VerbForm=Inf	24	advcl	_	_
+33	möchten	mögen	AUX	VMFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	32	aux	_	_
+34	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1993_10_11_a8_seg10_s5;19;Doch den Kriegshelden Rabin als Verräter zu brandmarken , wie es die Siedlerkreise und der Likud taten , widerstrebt ihnen zutiefst .;"1	Doch	doch	ADV	KON	_	8	advmod	_	_
+2	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	Kriegshelden	Kriegsheld	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+4	Rabin	Rabin	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
+5	als	als	ADP	KOKOM	_	6	case	_	_
+6	Verräter	Verräter	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+7	zu	zu	PART	PTKZU	_	8	mark	_	_
+8	brandmarken	brandmarken	VERB	VVINF	VerbForm=Inf	19	csubj	_	_
+9	,	,	PUNCT	$,	_	17	punct	_	_
+10	wie	wie	SCONJ	KOUS	_	17	mark	_	_
+11	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+12	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Siedlerkreise	Siedlerkreise	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+14	und	und	CCONJ	KON	_	16	cc	_	_
+15	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Likud	Likud	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	_
+17	taten	tun	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+18	,	,	PUNCT	$,	_	8	punct	_	_
+19	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	19	iobj	_	_
+21	zutiefst	zutiefst	ADV	ADV	_	19	advmod	_	_
+22	.	.	PUNCT	$.	_	19	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;;
+widerstreben;NZZ_1993_11_04_a27_seg9_s3;38;Wohl nicht zuletzt im Bewusstsein , dass er nur für eine einmalige Amtszeit von fünf Jahren gewählt wurde , scheint Boutros Ghali der diskrete , nach eigenem Empfinden zu unterwürfige Stil seines Vorgängers Pérez de Cuéllar zu widerstreben , der sich trotz gewissen in der Uno-Charta verbrieften Initiativrechten in erster Linie als treuer Diener des Sicherheitsrates verstanden hatte .;"1	Wohl	wohl	ADV	ADV	_	5	advmod	_	_
+2	nicht	nicht	PART	PTKNEG	Polarity=Neg	3	advmod	_	_
+3	zuletzt	zuletzt	ADV	ADV	_	4	advmod	_	_
+4	im	im	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	_
+5	Bewusstsein	Bewußtsein	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+6	,	,	PUNCT	$,	_	17	punct	_	_
+7	dass	dass	SCONJ	KOUS	_	17	mark	_	_
+8	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj:pass	_	_
+9	nur	nur	ADV	ADV	_	13	advmod	_	_
+10	für	für	ADP	APPR	_	13	case	_	_
+11	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	einmalige	einmalig	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
+13	Amtszeit	Amtszeit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+14	von	von	ADP	APPR	_	16	case	_	_
+15	fünf	fünf	NUM	CARD	NumType=Card	16	nummod	_	_
+16	Jahren	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	13	nmod	_	_
+17	gewählt	wählen	VERB	VVPP	VerbForm=Part	5	acl	_	_
+18	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	17	aux:pass	_	_
+19	,	,	PUNCT	$,	_	17	punct	_	_
+20	scheint	scheinen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	Boutros	Boutros	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+22	Ghali	Ghali	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	21	flat	_	_
+23	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	diskrete	diskret	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	38	obj	_	_
+25	,	,	PUNCT	$,	_	24	punct	_	_
+26	nach	nach	ADP	APPR	_	28	case	_	_
+27	eigenem	eigen	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	28	amod	_	_
+28	Empfinden	Empfinden	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	38	obl	_	_
+29	zu	zu	ADP	APPR	_	31	case	_	_
+30	unterwürfige	unterwürfig	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	31	amod	_	_
+31	Stil	Stil	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	38	obl	_	_
+32	seines	sein	DET	PPOSAT	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	33	det:poss	_	_
+33	Vorgängers	Vorgänger	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
+34	Pérez	Pérez	PROPN	NE	Foreign=Yes	33	appos	_	_
+35	de	de	PROPN	NE	Foreign=Yes	34	flat	_	_
+36	Cuéllar	Cuéllar	PROPN	NE	_	34	flat	_	_
+37	zu	zu	PART	PTKZU	_	38	mark	_	_
+38	widerstreben	widerstreben	VERB	VVINF	VerbForm=Inf	20	xcomp	_	_
+39	,	,	PUNCT	$,	_	57	punct	_	_
+40	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	57	nsubj	_	_
+41	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	57	obj	_	_
+42	trotz	trotz	ADP	APPR	_	48	case	_	_
+43	gewissen	gewiß	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	48	amod	_	_
+44	in	in	ADP	APPR	_	46	case	_	_
+45	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
+46	Uno-Charta	Uno-Charta	PROPN	NN	Case=Dat|Gender=Fem|Number=Sing	47	nmod	_	_
+47	verbrieften	verbrieft	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	48	amod	_	_
+48	Initiativrechten	Initiativrecht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	57	obl	_	_
+49	in	in	ADP	APPR	_	51	case	_	_
+50	erster	erst	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	51	amod	_	_
+51	Linie	Linie	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	57	obl	_	_
+52	als	als	ADP	KOKOM	_	54	case	_	_
+53	treuer	treu	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	54	amod	_	_
+54	Diener	Diener	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	57	obl	_	_
+55	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	56	det	_	_
+56	Sicherheitsrates	Sicherheitsrates	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	54	nmod	_	_
+57	verstanden	verstehen	VERB	VVPP	VerbForm=Part	33	acl	_	_
+58	hatte	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	57	aux	_	_
+59	.	.	PUNCT	$.	_	20	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1993_11_20_a69_seg4_s53;4;« ... es widerstrebt mir , jeden Satz über die Selbstentfremdung , die Einsamkeit oder das Misstrauen kausal in einen über die Produktionsverhältnisse hinüberzuleiten . »;"1	«	""	PUNCT	$(	_	4	punct	_	_
+2	...	...	PUNCT	$(	_	4	punct	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+4	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+6	,	,	PUNCT	$,	_	24	punct	_	_
+7	jeden	jed	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	_
+8	Satz	Satz	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+9	über	über	ADP	APPR	_	11	case	_	_
+10	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Selbstentfremdung	Selbstentfremdung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+12	,	,	PUNCT	$,	_	14	punct	_	_
+13	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Einsamkeit	Einsamkeit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	11	conj	_	_
+15	oder	oder	CCONJ	KON	_	17	cc	_	_
+16	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
+17	Misstrauen	Misstrau	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	_
+18	kausal	kausal	ADV	ADV	_	24	advmod	_	_
+19	in	in	ADP	APPR	_	20	case	_	_
+20	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	obl	_	_
+21	über	über	ADP	APPR	_	23	case	_	_
+22	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	23	det	_	_
+23	Produktionsverhältnisse	Produktionsverhältnisse	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	24	obl	_	_
+24	hinüberzuleiten	hinüberluleiten	VERB	VVIZU	VerbForm=Inf	4	xcomp	_	_
+25	.	.	PUNCT	$.	_	4	punct	_	_
+26	»	""	PUNCT	$(	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1994_01_22_a219_seg3_s26;2;Dennoch widerstrebt es ihr , hier zu sitzen .;"1	Dennoch	dennoch	ADV	ADV	_	2	advmod	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ihr	ihr	PRON	PPER	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+5	,	,	PUNCT	$,	_	8	punct	_	_
+6	hier	hier	ADV	ADV	_	8	advmod	_	_
+7	zu	zu	PART	PTKZU	_	8	mark	_	_
+8	sitzen	sitzen	VERB	VVINF	VerbForm=Inf	2	xcomp	_	_
+9	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1994_02_21_a83_seg3_s3;40;Amélie Hüsser hat vor Jahresfrist mit dem Roman « Die Meisterverstecker » ein spätes literarisches Début gegeben , sich dabei an die Geschichte eines SS-Mannes und damit an einen Stoff gewagt , der ihrem leichten , anmutigen Stil eigentlich widerstreben müsste .;"1	Amélie	Amélie	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+2	Hüsser	Hüsser	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
+3	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+4	vor	vor	ADP	APPR	_	5	case	_	_
+5	Jahresfrist	Jahresfrist	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+6	mit	mit	ADP	APPR	_	8	case	_	_
+7	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Roman	Roman	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+9	«	""	PUNCT	$(	_	11	punct	_	_
+10	Die	d	PRON	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	nmod	_	_
+11	Meisterverstecker	Meisterverstecker	PROPN	NN	Case=Nom|Gender=Masc|Number=Plur	8	appos	_	_
+12	»	""	PUNCT	$(	_	11	punct	_	_
+13	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+14	spätes	spät	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	16	amod	_	_
+15	literarisches	literarisch	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	16	amod	_	_
+16	Début	Début	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	gegeben	geben	VERB	VVPP	VerbForm=Part	0	root	_	_
+18	,	,	PUNCT	$,	_	31	punct	_	_
+19	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	31	obj	_	_
+20	dabei	dabei	ADV	PAV	_	31	advmod	_	_
+21	an	an	ADP	APPR	_	23	case	_	_
+22	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
+23	Geschichte	Geschichte	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	_
+24	eines	ein	DET	ART	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	SS-Mannes	SS-Mannes	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+26	und	und	CCONJ	KON	_	30	cc	_	_
+27	damit	damit	ADV	PAV	_	30	advmod	_	_
+28	an	an	ADP	APPR	_	30	case	_	_
+29	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+30	Stoff	Stoff	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	23	conj	_	_
+31	gewagt	wagen	VERB	VVPP	VerbForm=Part	17	conj	_	_
+32	,	,	PUNCT	$,	_	40	punct	_	_
+33	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	40	nsubj	_	_
+34	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	38	det:poss	_	_
+35	leichten	leicht	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	38	amod	_	_
+36	,	,	PUNCT	$,	_	35	punct	_	_
+37	anmutigen	anmutig	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	38	amod	_	_
+38	Stil	Stil	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	40	iobj	_	_
+39	eigentlich	eigentlich	ADJ	ADV	_	40	advmod	_	_
+40	widerstreben	widerstreben	VERB	VVINF	VerbForm=Inf	30	acl	_	_
+41	müsste	müssen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	40	aux	_	_
+42	.	.	PUNCT	$.	_	17	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous;;
+widerstreben;NZZ_1994_06_23_a32_seg10_s1;2;Latasi widerstreben nicht nur die Ausgaben für die Auslandsreisen seines Vorgängers .;"1	Latasi	Latasi	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	widerstreben	widerstreben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nicht	nicht	PART	PTKNEG	Polarity=Neg	4	advmod	_	_
+4	nur	nur	ADV	ADV	_	2	advmod	_	_
+5	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	Ausgaben	Ausgabe	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
+7	für	für	ADP	APPR	_	9	case	_	_
+8	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	Auslandsreisen	Auslandsreise	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	6	nmod	_	_
+10	seines	sein	DET	PPOSAT	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	Vorgängers	Vorgänger	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+12	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1994_09_29_a199_seg6_s19;22;Mit der Austreibung beauftragt wird Pater Cayetano Delaura , 36jährig , feinsinnig , ein Bücherwurm , dem sein Auftrag als Exorzist widerstrebt .;"1	Mit	mit	ADP	APPR	_	3	case	_	_
+2	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Austreibung	Austreibung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
+4	beauftragt	beauftragen	VERB	VVPP	VerbForm=Part	0	root	_	_
+5	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	aux:pass	_	_
+6	Pater	Pater	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+7	Cayetano	Cayetano	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+8	Delaura	Delaura	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	7	flat	_	_
+9	,	,	PUNCT	$,	_	10	punct	_	_
+10	36jährig	36jährig	ADJ	ADJD	_	7	conj	_	_
+11	,	,	PUNCT	$,	_	12	punct	_	_
+12	feinsinnig	feinsinnig	ADJ	ADJD	_	10	conj	_	_
+13	,	,	PUNCT	$,	_	15	punct	_	_
+14	ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Bücherwurm	Bücherwurm	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+16	,	,	PUNCT	$,	_	22	punct	_	_
+17	dem	der	PRON	PRELS	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	22	iobj	_	_
+18	sein	sein	DET	PPOSAT	Case=Nom|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	19	det:poss	_	_
+19	Auftrag	Auftrag	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+20	als	als	ADP	KOKOM	_	21	case	_	_
+21	Exorzist	Exorzist	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	obl	_	_
+22	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl	_	_
+23	.	.	PUNCT	$.	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;ambiguous;;
+widerstreben;NZZ_1994_10_12_a103_seg6_s3;28;Die Jungpartei , die schon bald 500 Mitglieder gezählt haben soll , verstand sich ferner als Hort staatsbürgerlicher Erziehung für die heranwachsenden Bürgerlichen , « denen es widerstrebt , sich unter Väter und Grossväter zu mischen » .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Jungpartei	Jungpartei	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+3	,	,	PUNCT	$,	_	9	punct	_	_
+4	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	_
+5	schon	schon	ADV	ADV	_	6	advmod	_	_
+6	bald	bald	ADV	ADV	_	9	advmod	_	_
+7	500	500	NUM	CARD	NumType=Card	8	nummod	_	_
+8	Mitglieder	Mitglied	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
+9	gezählt	zählen	VERB	VVPP	VerbForm=Part	2	acl	_	_
+10	haben	haben	AUX	VAINF	VerbForm=Inf	9	aux	_	_
+11	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+12	,	,	PUNCT	$,	_	9	punct	_	_
+13	verstand	verstehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	16	nsubj	_	_
+15	ferner	fern	ADV	ADV	_	13	advmod	_	_
+16	als	als	ADP	KOKOM	_	17	case	_	_
+17	Hort	Hort	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	obl	_	_
+18	staatsbürgerlicher	staatsbürgerlich	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	19	amod	_	_
+19	Erziehung	Erziehung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
+20	für	für	ADP	APPR	_	23	case	_	_
+21	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+22	heranwachsenden	heranwachsend	ADJ	ADJA	Case=Acc|Number=Plur	23	amod	_	_
+23	Bürgerlichen	Bürgerliche	NOUN	NN	Case=Acc|Number=Plur	19	nmod	_	_
+24	,	,	PUNCT	$,	_	28	punct	_	_
+25	«	""	PUNCT	$(	_	28	punct	_	_
+26	denen	der	PRON	PRELS	Case=Dat|Number=Plur|PronType=Rel	28	iobj	_	_
+27	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+28	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl	_	_
+29	,	,	PUNCT	$,	_	36	punct	_	_
+30	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	36	obj	_	_
+31	unter	unter	ADP	APPR	_	32	case	_	_
+32	Väter	Vat	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	36	obl	_	_
+33	und	und	CCONJ	KON	_	34	cc	_	_
+34	Grossväter	Großvat	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	32	conj	_	_
+35	zu	zu	PART	PTKZU	_	36	mark	_	_
+36	mischen	mischen	VERB	VVINF	VerbForm=Inf	28	xcomp	_	_
+37	»	""	PUNCT	$(	_	28	punct	_	_
+38	.	.	PUNCT	$.	_	13	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;;
+widerstreben;NZZ_1994_10_12_a110_seg3_s8;17;Die Möglichkeit , den Fehlbetrag durch eine Mieterhöhung zu ungunsten der Gastkünstler und -truppen einzutreiben , widerstrebt Erica Hänssler , wohingegen ihr Verdacht wächst , dass sie das 25-Jahr-Jubiläum des « Stok » nicht mehr als Intendantin erleben soll .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Möglichkeit	Möglichkeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+3	,	,	PUNCT	$,	_	15	punct	_	_
+4	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	Fehlbetrag	Fehlbetrag	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+6	durch	durch	ADP	APPR	_	8	case	_	_
+7	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Mieterhöhung	Mieterhöhung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+9	zu	zu	ADP	APPR	_	12	case	_	_
+10	ungunsten	ungunsten	ADP	APPR	_	12	case	_	_
+11	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	Gastkünstler	Gastkünstler	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+13	und	und	CCONJ	KON	_	14	cc	_	_
+14	-truppen	-truppen	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	12	conj	_	_
+15	einzutreiben	eintreiben	VERB	VVIZU	VerbForm=Inf	2	acl	_	_
+16	,	,	PUNCT	$,	_	15	punct	_	_
+17	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18	Erica	Erica	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+19	Hänssler	Hänssler	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	18	flat	_	_
+20	,	,	PUNCT	$,	_	24	punct	_	_
+21	wohingegen	wohingegen	ADV	PWAV	PronType=Int	24	advmod	_	_
+22	ihr	ihr	DET	PPOSAT	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes	23	det:poss	_	_
+23	Verdacht	Verdacht	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	_
+24	wächst	wachsen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+25	,	,	PUNCT	$,	_	38	punct	_	_
+26	dass	dass	SCONJ	KOUS	_	38	mark	_	_
+27	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	_
+28	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	29	det	_	_
+29	25-Jahr-Jubiläum	25-Jahr-Jubiläum	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	38	obj	_	_
+30	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+31	«	""	PUNCT	$(	_	32	punct	_	_
+32	Stok	Stok	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	_
+33	»	""	PUNCT	$(	_	32	punct	_	_
+34	nicht	nicht	PART	PTKNEG	Polarity=Neg	38	advmod	_	_
+35	mehr	mehr	ADV	ADV	_	34	advmod	_	_
+36	als	als	ADP	KOKOM	_	37	case	_	_
+37	Intendantin	Intendantin	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	38	obl	_	_
+38	erleben	erleben	VERB	VVINF	VerbForm=Inf	24	ccomp	_	_
+39	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	aux	_	_
+40	.	.	PUNCT	$.	_	17	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+widerstreben;NZZ_1995_01_28_a209_seg14_s6;19;Dem Personalchef , welcher seit fast fünf Jahren auf eine Gelegenheit wartet , um Espol zu entlassen , widerstrebt es nun , auf ihn zu verzichten .;"1	Dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Personalchef	Personalchef	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	_
+3	,	,	PUNCT	$,	_	12	punct	_	_
+4	welcher	welch	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	_
+5	seit	seit	ADP	APPR	_	8	case	_	_
+6	fast	fast	ADV	ADV	_	7	advmod	_	_
+7	fünf	fünf	NUM	CARD	NumType=Card	8	nummod	_	_
+8	Jahren	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	12	obl	_	_
+9	auf	auf	ADP	APPR	_	11	case	_	_
+10	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	Gelegenheit	Gelegenheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+12	wartet	warten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+13	,	,	PUNCT	$,	_	17	punct	_	_
+14	um	um	ADP	KOUI	_	17	mark	_	_
+15	Espol	Espol	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+16	zu	zu	PART	PTKZU	_	17	mark	_	_
+17	entlassen	entlassen	VERB	VVINF	VerbForm=Inf	12	advcl	_	_
+18	,	,	PUNCT	$,	_	17	punct	_	_
+19	widerstrebt	widerstreben	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	expl	_	_
+21	nun	nun	ADV	ADV	_	19	advmod	_	_
+22	,	,	PUNCT	$,	_	26	punct	_	_
+23	auf	auf	ADP	APPR	_	24	case	_	_
+24	ihn	er	PRON	PPER	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obl	_	_
+25	zu	zu	PART	PTKZU	_	26	mark	_	_
+26	verzichten	verzichten	VERB	VVINF	VerbForm=Inf	19	csubj	_	_
+27	.	.	PUNCT	$.	_	19	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1995_01_28_a39_seg15_s11;13;Denkbar seien drei Varianten : Zusatzvolumen in historisierender Architektur - was Obrist widerstrebt - oder eine klare Abgrenzung , eine Zäsur , die etwa mittels eines « Glasschlitzes » Alt und Neu demonstrativ sichtbar macht - eine Tendenz der vergangen Jahre , die Obrist wenig sensibel erscheint .;"1	Denkbar	denkbar	ADJ	ADJD	_	0	root	_	_
+2	seien	sein	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	drei	drei	NUM	CARD	NumType=Card	4	nummod	_	_
+4	Varianten	Variante	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
+5	:	:	PUNCT	$.	_	6	punct	_	_
+6	Zusatzvolumen	Zusatzvolumen	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+7	in	in	ADP	APPR	_	9	case	_	_
+8	historisierender	historisierend	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
+9	Architektur	Architektur	NOUN	TRUNC	Gender=Fem	6	nmod	_	_
+10	-	-	PUNCT	$(	_	12	punct	_	_
+11	was	was	CCONJ	KON	_	12	cc	_	_
+12	Obrist	Obrist	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+13	widerstrebt	widerstreben	NOUN	TRUNC	_	6	conj	_	_
+14	-	-	PUNCT	$(	_	18	punct	_	_
+15	oder	oder	CCONJ	KON	_	18	cc	_	_
+16	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	klare	klar	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	18	amod	_	_
+18	Abgrenzung	Abgrenzung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+19	,	,	PUNCT	$,	_	21	punct	_	_
+20	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Zäsur	Zäsur	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+22	,	,	PUNCT	$,	_	35	punct	_	_
+23	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	35	nsubj	_	_
+24	etwa	etwa	ADV	ADV	_	28	advmod	_	_
+25	mittels	mittels	ADP	APPR	_	28	case	_	_
+26	eines	ein	DET	ART	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+27	«	""	PUNCT	$(	_	28	punct	_	_
+28	Glasschlitzes	Glasschlitz	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	35	obl	_	_
+29	»	""	PUNCT	$(	_	28	punct	_	_
+30	Alt	Alt	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	28	appos	_	_
+31	und	und	CCONJ	KON	_	32	cc	_	_
+32	Neu	neu	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	30	conj	_	_
+33	demonstrativ	demonstrativ	ADJ	ADJD	_	35	advmod	_	_
+34	sichtbar	sichtbar	ADJ	ADJD	_	35	advmod	_	_
+35	macht	machen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl	_	_
+36	-	-	PUNCT	$(	_	38	punct	_	_
+37	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
+38	Tendenz	Tendenz	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	35	obj	_	_
+39	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	41	det	_	_
+40	vergangen	vergehen	ADJ	ADJA	Case=Gen|Number=Plur	41	amod	_	_
+41	Jahre	Jahr	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	38	nmod	_	_
+42	,	,	PUNCT	$,	_	47	punct	_	_
+43	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
+44	Obrist	Obrist	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	47	nsubj	_	_
+45	wenig	wenig	ADV	ADV	_	47	advmod	_	_
+46	sensibel	sensibel	ADJ	ADJD	_	47	advmod	_	_
+47	erscheint	erscheinen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	conj	_	_
+48	.	.	PUNCT	$.	_	1	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1995_04_13_a111_seg3_s26;28;Nicht dass er sich dem entziehen würde , « wenn es passiert , kannst du es ja doch nicht ändern » , aber das Streben , das widerstrebt ihm .;"1	Nicht	nicht	PART	PTKNEG	Polarity=Neg	6	advmod	_	_
+2	dass	dass	SCONJ	KOUS	_	6	mark	_	_
+3	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+4	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	_
+5	dem	der	PRON	PDS	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	6	iobj	_	_
+6	entziehen	entziehen	VERB	VVINF	VerbForm=Inf	20	advcl	_	_
+7	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
+8	,	,	PUNCT	$,	_	12	punct	_	_
+9	«	""	PUNCT	$(	_	12	punct	_	_
+10	wenn	wenn	SCONJ	KOUS	_	12	mark	_	_
+11	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	passiert	passieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+13	,	,	PUNCT	$,	_	12	punct	_	_
+14	kannst	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	aux	_	_
+15	du	du	PRON	PPER	Case=Nom|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
+16	es	es	PRON	PPER	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+17	ja	ja	ADV	ADV	_	20	advmod	_	_
+18	doch	doch	ADV	ADV	_	20	advmod	_	_
+19	nicht	nicht	PART	PTKNEG	Polarity=Neg	20	advmod	_	_
+20	ändern	ändern	VERB	VVINF	VerbForm=Inf	0	root	_	_
+21	»	""	PUNCT	$(	_	20	punct	_	_
+22	,	,	PUNCT	$,	_	28	punct	_	_
+23	aber	aber	CCONJ	KON	_	25	cc	_	_
+24	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	25	det	_	_
+25	Streben	Strebe|Streben	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	20	conj	_	_
+26	,	,	PUNCT	$,	_	28	punct	_	_
+27	das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	28	nsubj	_	_
+28	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+29	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	iobj	_	_
+30	.	.	PUNCT	$.	_	20	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1995_05_13_a151_seg4_s26;10;Er habe auch nichts gegen den Auftragsfilm , es widerstrebe ihm bloss , seine Einfälle und seine Erfindungsgabe andern als den eigenen Stoffen zugute kommen zu lassen .;"1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	habe	haben	VERB	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	auch	auch	ADV	ADV	_	2	advmod	_	_
+4	nichts	nichts	PRON	PIS	Definite=Ind|PronType=Ind	2	obj	_	_
+5	gegen	gegen	ADP	APPR	_	7	case	_	_
+6	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Auftragsfilm	Auftragsfilm	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	_
+8	,	,	PUNCT	$,	_	10	punct	_	_
+9	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	expl	_	_
+10	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+11	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+12	bloss	bloß	ADV	ADV	_	10	advmod	_	_
+13	,	,	PUNCT	$,	_	27	punct	_	_
+14	seine	sein	DET	PPOSAT	Case=Acc|Gender=Masc|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	Einfälle	Einfall	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	27	obj	_	_
+16	und	und	CCONJ	KON	_	18	cc	_	_
+17	seine	sein	DET	PPOSAT	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	Erfindungsgabe	Erfindungsgabe	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	15	conj	_	_
+19	andern	andern	ADV	ADV	_	27	advmod	_	_
+20	als	als	ADP	KOKOM	_	23	case	_	_
+21	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+22	eigenen	eigen	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	23	amod	_	_
+23	Stoffen	Stoff	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	27	obl	_	_
+24	zugute	zugute	ADV	ADV	_	27	mark	_	_
+25	kommen	kommen	VERB	VVINF	VerbForm=Inf	27	xcomp	_	_
+26	zu	zu	PART	PTKZU	_	27	mark	_	_
+27	lassen	lassen	VERB	VVINF	VerbForm=Inf	10	xcomp	_	_
+28	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1995_05_31_a140_seg3_s6;2;Zudem widerstrebe es ihm , eine Legislaturperiode anzufangen und das Amt möglicherweise schon bald aufgeben zu müssen .;"1	Zudem	zudem	ADV	PAV	_	2	advmod	_	_
+2	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+4	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+5	,	,	PUNCT	$,	_	8	punct	_	_
+6	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Legislaturperiode	Legislaturperiode	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+8	anzufangen	anfangen	VERB	VVIZU	VerbForm=Inf	2	csubj	_	_
+9	und	und	CCONJ	KON	_	15	cc	_	_
+10	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	Amt	Amt	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+12	möglicherweise	möglicherweise	ADV	ADV	_	15	advmod	_	_
+13	schon	schon	ADV	ADV	_	14	advmod	_	_
+14	bald	bald	ADV	ADV	_	15	advmod	_	_
+15	aufgeben	aufgeben	VERB	VVINF	VerbForm=Inf	8	conj	_	_
+16	zu	zu	PART	PTKZU	_	15	mark	_	_
+17	müssen	müssen	AUX	VMINF	VerbForm=Inf	15	aux	_	_
+18	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1995_06_30_a28_seg3_s6;2;Uns widerstrebt es , von einem Rücktritt Thomas Häberlings tel quel zu reden .;"1	Uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+4	,	,	PUNCT	$,	_	13	punct	_	_
+5	von	von	ADP	APPR	_	7	case	_	_
+6	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Rücktritt	Rücktritt	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
+8	Thomas	Thomas	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	Häberlings	Häberlings	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	8	flat	_	_
+10	tel	tel	PROPN	NE	_	8	flat	_	_
+11	quel	quel	PROPN	NE	Number=Sing	10	flat	_	_
+12	zu	zu	PART	PTKZU	_	13	mark	_	_
+13	reden	reden	VERB	VVINF	VerbForm=Inf	2	csubj	_	_
+14	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1995_07_01_a4_seg1_s11;2;Koalitionen widerstreben dem Rechtsempfinden in der englischen parlamentarischen Demokratie .;"1	Koalitionen	Koalition	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+2	widerstreben	widerstreben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Rechtsempfinden	Rechtsempfinden	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	2	iobj	_	_
+5	in	in	ADP	APPR	_	9	case	_	_
+6	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+7	englischen	englisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
+8	parlamentarischen	parlamentarisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
+9	Demokratie	Demokratie	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+10	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;NZZ;
+widerstreben;NZZ_1995_07_26_a43_seg5_s4;10;Alles atmet hier den genossenschaftlichen Geist , dem Einförmigkeit widerstrebt , der aber auch keine Überhebung duldet .;"1	Alles	alle	PRON	PIS	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	atmet	atmen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hier	hier	ADV	ADV	_	2	advmod	_	_
+4	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	genossenschaftlichen	genossenschaftlich	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	_
+6	Geist	Geist	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+7	,	,	PUNCT	$,	_	10	punct	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Einförmigkeit	Einförmigkeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	_
+10	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+11	,	,	PUNCT	$,	_	17	punct	_	_
+12	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	_
+13	aber	aber	ADV	ADV	_	17	advmod	_	_
+14	auch	auch	ADV	ADV	_	17	advmod	_	_
+15	keine	kein	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	16	nmod	_	_
+16	Überhebung	Überhebung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+17	duldet	dulden	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+18	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;metaphoric_EXP;;
+widerstreben;NZZ_1995_07_29_a169_seg3_s80;8;Eine ungeschminkte Wiedervereinigung könnte auch Eritreas Muslimen widerstreben , solange in Äthiopien die Tigriner den Ton angeben .;"1	Eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	ungeschminkte	ungeschminkt	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	Wiedervereinigung	Wiedervereinigung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+4	könnte	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
+5	auch	auch	ADV	ADV	_	8	advmod	_	_
+6	Eritreas	Eritreas	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+7	Muslimen	Muslimen	PROPN	NN	Case=Dat|Gender=Masc|Number=Plur	8	obj	_	_
+8	widerstreben	widerstreben	VERB	VVINF	VerbForm=Inf	0	root	_	_
+9	,	,	PUNCT	$,	_	17	punct	_	_
+10	solange	solange	SCONJ	KOUS	_	17	mark	_	_
+11	in	in	ADP	APPR	_	12	case	_	_
+12	Äthiopien	Äthiopien	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	_
+13	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	Tigriner	Tigriner	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
+15	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Ton	Ton	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+17	angeben	angeben	VERB	VVFIN	VerbForm=Inf	8	advcl	_	_
+18	.	.	PUNCT	$.	_	8	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1995_09_01_a154_seg4_s9;21;Meg Stuarts Bilder erzählen so ganz und gar nichts von der Leichtigkeit des Seins , ihre Bewegungssprache Tanz zu nennen widerstrebt ästhetischen Bedürfnissen .;"1	Meg	Meg	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+2	Stuarts	Stuart	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	_
+3	Bilder	Bild	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+4	erzählen	erzählen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	so	so	ADV	ADV	_	6	advmod	_	_
+6	ganz	ganz	ADJ	ADV	_	4	advmod	_	_
+7	und	und	CCONJ	KON	_	9	cc	_	_
+8	gar	gar	ADV	ADV	_	6	conj	_	_
+9	nichts	nichts	PRON	PIS	Definite=Ind|PronType=Ind	4	obj	_	_
+10	von	von	ADP	APPR	_	12	case	_	_
+11	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Leichtigkeit	Leichtigkeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	_
+13	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Seins	Sein	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+15	,	,	PUNCT	$,	_	21	punct	_	_
+16	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	Bewegungssprache	Bewegungssprache	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+18	Tanz	Tanz	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+19	zu	zu	PART	PTKZU	_	20	mark	_	_
+20	nennen	nennen	VERB	VVINF	VerbForm=Inf	21	xcomp	_	_
+21	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+22	ästhetischen	ästhetisch	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Plur	23	amod	_	_
+23	Bedürfnissen	Bedürfnis	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	21	iobj	_	_
+24	.	.	PUNCT	$.	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object;NZZ;
+widerstreben;NZZ_1995_09_02_a173_seg2_s4;2;Es widerstrebe ihm , nur um der zusätzlichen Publizität willen an einem unglaubwürdigen Wahlkampf teilzunehmen .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	,	,	PUNCT	$,	_	15	punct	_	_
+5	nur	nur	ADV	ADV	_	15	advmod	_	_
+6	um	um	ADP	KOUI	_	15	mark	_	_
+7	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+8	zusätzlichen	zusätzlich	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
+9	Publizität	Publizität	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	15	iobj	_	_
+10	willen	willen	ADV	ADV	_	15	advmod	_	_
+11	an	an	ADP	APPR	_	14	case	_	_
+12	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	unglaubwürdigen	unglaubwürdig	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	14	amod	_	_
+14	Wahlkampf	Wahlkampf	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	15	obl	_	_
+15	teilzunehmen	teilnehmen	VERB	VVIZU	VerbForm=Inf	2	advcl	_	_
+16	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;;
+widerstreben;NZZ_1995_09_11_a38_seg2_s7;4;Eine solche Absicht widerstrebe der heutigen Tendenz , vermehrt auf private Initiative zusetzen .;"1	Eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	solche	solch	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	Absicht	Absicht	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	heutigen	heutig	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	7	amod	_	_
+7	Tendenz	Tendenz	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	_
+8	,	,	PUNCT	$,	_	13	punct	_	_
+9	vermehrt	vermehrt	ADJ	ADJD	_	13	advmod	_	_
+10	auf	auf	ADP	APPR	_	12	case	_	_
+11	private	privat	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+12	Initiative	Initiative	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+13	zusetzen	zusetzen	VERB	VVINF	VerbForm=Inf	4	xcomp	_	_
+14	.	.	PUNCT	$.	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-related_object, polysemous;;
+widerstreben;NZZ_1995_09_21_a44_seg4_s11;3;Macht ausüben widerstrebt mir .;"1	Macht	machen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+2	ausüben	ausüben	VERB	VVINF	VerbForm=Inf	3	xcomp	_	_
+3	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;???;
+widerstreben;NZZ_1995_10_16_a17_seg3_s6;18;Der zweithöchste General des chilenischen Heeres , Guillermo Garin , sagte am Samstag in Santiago , ihm widerstrebe es , auch nur einen Millimeter Staatsgebiet aufzugeben .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	zweithöchste	zweithoch	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+3	General	General	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+4	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	chilenischen	chilenisch	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Sing	6	amod	_	_
+6	Heeres	Heer	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+7	,	,	PUNCT	$,	_	8	punct	_	_
+8	Guillermo	Guillermo	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
+9	Garin	Garin	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	8	flat	_	_
+10	,	,	PUNCT	$,	_	3	punct	_	_
+11	sagte	sagen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	am	am	ADP	APPR	_	13	case	_	_
+13	Samstag	Samstag	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+14	in	in	ADP	APPR	_	15	case	_	_
+15	Santiago	Santiago	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	11	obl	_	_
+16	,	,	PUNCT	$,	_	18	punct	_	_
+17	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	iobj	_	_
+18	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
+19	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+20	,	,	PUNCT	$,	_	26	punct	_	_
+21	auch	auch	ADV	ADV	_	26	advmod	_	_
+22	nur	nur	ADV	ADV	_	26	advmod	_	_
+23	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	nummod	_	_
+24	Millimeter	Millimeter	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	_
+25	Staatsgebiet	Staatsgebiet	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	26	obj	_	_
+26	aufzugeben	aufgeben	VERB	VVIZU	VerbForm=Inf	18	xcomp	_	_
+27	.	.	PUNCT	$.	_	11	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1995_10_31_a70_seg13_s3;9;Dass man mit Nichtstun oft besser hilft , widerstrebt allen Gefühlen .;"1	Dass	daß	SCONJ	KOUS	_	7	mark	_	_
+2	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	7	nsubj	_	_
+3	mit	mit	ADP	APPR	_	4	case	_	_
+4	Nichtstun	Nichtstun	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	_
+5	oft	oft	ADV	ADV	_	7	advmod	_	_
+6	besser	gut	ADV	ADJD	_	7	advmod	_	_
+7	hilft	helfen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+8	,	,	PUNCT	$,	_	7	punct	_	_
+9	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	allen	alle	PRON	PIAT	Case=Dat|Definite=Ind|Gender=Neut|Number=Plur|PronType=Ind	11	det	_	_
+11	Gefühlen	Gefühl	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	9	iobj	_	_
+12	.	.	PUNCT	$.	_	9	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object;;
+widerstreben;NZZ_1995_11_11_a195_seg4_s3;34;Eine « brummige Keuschheit » , wie sie « zuweilen Musiker an den Tag legen , wenn sie gezwungen werden , von dem zu sprechen , was sie bewegt und was dem Wort widerstrebt » , kam in Adornos Laudatio noch hinzu .;"1	Eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+2	«	""	PUNCT	$(	_	4	punct	_	_
+3	brummige	brummig	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+4	Keuschheit	Keuschheit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	37	nsubj	_	_
+5	»	""	PUNCT	$(	_	4	punct	_	_
+6	,	,	PUNCT	$,	_	15	punct	_	_
+7	wie	wie	SCONJ	KOUS	_	15	mark	_	_
+8	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+9	«	""	PUNCT	$(	_	15	punct	_	_
+10	zuweilen	zuweilen	ADV	ADV	_	15	advmod	_	_
+11	Musiker	Musiker	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	15	obj	_	_
+12	an	an	ADP	APPR	_	14	case	_	_
+13	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Tag	Tag	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
+15	legen	legen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+16	,	,	PUNCT	$,	_	19	punct	_	_
+17	wenn	wenn	SCONJ	KOUS	_	19	mark	_	_
+18	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj:pass	_	_
+19	gezwungen	zwingen	VERB	VVPP	VerbForm=Part	37	advcl	_	_
+20	werden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	aux:pass	_	_
+21	,	,	PUNCT	$,	_	25	punct	_	_
+22	von	von	ADP	APPR	_	23	case	_	_
+23	dem	der	PRON	PRELS	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	25	obl	_	_
+24	zu	zu	PART	PTKZU	_	25	mark	_	_
+25	sprechen	sprechen	VERB	VVINF	VerbForm=Inf	19	csubj:pass	_	_
+26	,	,	PUNCT	$,	_	29	punct	_	_
+27	was	was	PRON	PRELS	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	29	obj	_	_
+28	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_
+29	bewegt	bewegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	ccomp	_	_
+30	und	und	CCONJ	KON	_	34	cc	_	_
+31	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	34	nsubj	_	_
+32	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	33	det	_	_
+33	Wort	Wort	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	34	iobj	_	_
+34	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	conj	_	_
+35	»	""	PUNCT	$(	_	29	punct	_	_
+36	,	,	PUNCT	$,	_	19	punct	_	_
+37	kam	kommen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+38	in	in	ADP	APPR	_	40	case	_	_
+39	Adornos	Adornos	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing	40	nmod	_	_
+40	Laudatio	Laudatio	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	37	obl	_	_
+41	noch	noch	ADV	ADV	_	37	advmod	_	_
+42	hinzu	hinzu	ADV	PTKVZ	_	37	compound:prt	_	_
+43	.	.	PUNCT	$.	_	37	punct	_	_
+";;x;x;;;;;;;;;;;;;;;ambiguous;;;;psych_ambiguous;;
+widerstreben;NZZ_1995_11_16_a43_seg13_s3;31;Die erforderlichen politischen Tauschgeschäfte können aber mehrere Vorlagen umfassen und damit einen « grossen Kompromiss » verlangen : Die eine Partei ist bereit , Vorlage A , die ihr eigentlich widerstrebt , zu unterstützen , wenn eine andere Partei dafür auf einem anderen Gebiet Vorlage B unterstützt , obgleich sie dies sonst nicht getan hätte .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+2	erforderlichen	erforderlich	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
+3	politischen	politisch	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	_
+4	Tauschgeschäfte	Tauschgeschäft	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+5	können	können	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+6	aber	aber	ADV	ADV	_	9	advmod	_	_
+7	mehrere	mehrere	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
+8	Vorlagen	Vorlage	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
+9	umfassen	umfassen	VERB	VVINF	VerbForm=Inf	0	root	_	_
+10	und	und	CCONJ	KON	_	17	cc	_	_
+11	damit	damit	ADV	PAV	_	17	advmod	_	_
+12	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+13	«	""	PUNCT	$(	_	15	punct	_	_
+14	grossen	groß	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	15	amod	_	_
+15	Kompromiss	Kompromiß	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+16	»	""	PUNCT	$(	_	15	punct	_	_
+17	verlangen	verlangen	VERB	VVINF	VerbForm=Inf	9	conj	_	_
+18	:	:	PUNCT	$.	_	23	punct	_	_
+19	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+20	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Partei	Partei	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+22	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
+23	bereit	bereit	ADJ	ADJD	_	9	parataxis	_	_
+24	,	,	PUNCT	$,	_	34	punct	_	_
+25	Vorlage	Vorlage	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+26	A	A	PROPN	XY	_	25	appos	_	_
+27	,	,	PUNCT	$,	_	31	punct	_	_
+28	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	31	nsubj	_	_
+29	ihr	ihr	PRON	PPER	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	iobj	_	_
+30	eigentlich	eigentlich	ADJ	ADV	_	31	advmod	_	_
+31	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl	_	_
+32	,	,	PUNCT	$,	_	31	punct	_	_
+33	zu	zu	PART	PTKZU	_	34	mark	_	_
+34	unterstützen	unterstützen	VERB	VVINF	VerbForm=Inf	23	xcomp	_	_
+35	,	,	PUNCT	$,	_	47	punct	_	_
+36	wenn	wenn	SCONJ	KOUS	_	47	mark	_	_
+37	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
+38	andere	ander	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	39	amod	_	_
+39	Partei	Partei	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	47	nsubj	_	_
+40	dafür	dafür	ADV	PAV	_	47	advmod	_	_
+41	auf	auf	ADP	APPR	_	44	case	_	_
+42	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	44	det	_	_
+43	anderen	ander	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	44	amod	_	_
+44	Gebiet	Gebiet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	47	obl	_	_
+45	Vorlage	Vorlage	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	47	obj	_	_
+46	B	B	PROPN	XY	_	45	appos	_	_
+47	unterstützt	unterstützen	VERB	VVFIN	VerbForm=Part	34	advcl	_	_
+48	,	,	PUNCT	$,	_	54	punct	_	_
+49	obgleich	obgleich	SCONJ	KOUS	_	54	mark	_	_
+50	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	54	nsubj	_	_
+51	dies	dies	PRON	PDS	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	54	obj	_	_
+52	sonst	sonst	ADV	ADV	_	54	advmod	_	_
+53	nicht	nicht	PART	PTKNEG	Polarity=Neg	54	advmod	_	_
+54	getan	tun	VERB	VVPP	VerbForm=Part	47	advcl	_	_
+55	hätte	haben	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	54	aux	_	_
+56	.	.	PUNCT	$.	_	9	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;
+widerstreben;NZZ_1995_11_20_a68_seg6_s7;28;So meinte die malaysische Handelsministerin Rafidah , die in Bogor verabschiedete Marschtabelle sei nur indikativ und überhaupt könne kein Apec-Land zu etwas gezwungen werden , was ihm widerstrebe .;"1	So	so	ADV	ADV	_	2	advmod	_	_
+2	meinte	meinen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	malaysische	malaysisch	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
+5	Handelsministerin	Handelsministerin	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+6	Rafidah	Rafidah	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	5	appos	_	_
+7	,	,	PUNCT	$,	_	15	punct	_	_
+8	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+9	in	in	ADP	APPR	_	10	case	_	_
+10	Bogor	Bogor	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	11	nmod	_	_
+11	verabschiedete	verabschiedet	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	_
+12	Marschtabelle	Marschtabelle	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+13	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+14	nur	nur	ADV	ADV	_	15	advmod	_	_
+15	indikativ	indikativ	ADJ	ADJD	_	2	conj	_	_
+16	und	und	CCONJ	KON	_	23	cc	_	_
+17	überhaupt	überhaupt	ADV	ADV	_	23	advmod	_	_
+18	könne	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
+19	kein	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg	20	nmod	_	_
+20	Apec-Land	Apec-Land	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	23	nsubj:pass	_	_
+21	zu	zu	ADV	PTKA	_	23	advmod	_	_
+22	etwas	etwas	PRON	PIS	Definite=Ind|PronType=Ind	23	nsubj:pass	_	_
+23	gezwungen	zwingen	VERB	VVPP	VerbForm=Part	2	conj	_	_
+24	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	23	aux:pass	_	_
+25	,	,	PUNCT	$,	_	28	punct	_	_
+26	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	28	nsubj	_	_
+27	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	iobj	_	_
+28	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl	_	_
+29	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;EXP_anim_proxy;;
+widerstreben;NZZ_1995_12_08_a153_seg3_s29;5;Den anderen bürgerlichen RPK-Mitgliedern widerstrebt insbesondere , dass über diese Frage lediglich innerhalb der Budgetdebatte diskutiert werden soll .;"1	Den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+2	anderen	ander	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	4	amod	_	_
+3	bürgerlichen	bürgerlich	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Plur	4	amod	_	_
+4	RPK-Mitgliedern	RPK-Mitglied	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	5	iobj	_	_
+5	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	insbesondere	insbesondere	ADV	ADV	_	5	advmod	_	_
+7	,	,	PUNCT	$,	_	16	punct	_	_
+8	dass	dass	SCONJ	KOUS	_	16	mark	_	_
+9	über	über	ADP	APPR	_	11	case	_	_
+10	diese	dies	PRON	PDAT	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	Frage	Frage	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+12	lediglich	lediglich	ADV	ADV	_	16	advmod	_	_
+13	innerhalb	innerhalb	ADP	APPR	_	15	case	_	_
+14	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Budgetdebatte	Budgetdebatte	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	16	nsubj:pass	_	_
+16	diskutiert	diskutieren	VERB	VVPP	VerbForm=Part	5	ccomp	_	_
+17	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	16	aux:pass	_	_
+18	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+19	.	.	PUNCT	$.	_	5	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;;
+widerstreben;NZZ_1996_02_01_a170_seg2_s16;48;Und noch immer rühren die Geschichten der einzelnen Figuren - Pauls Homosexualität , Sheilas Älterwerden , Cassies Betteln um eine Rolle - , auch wenn sie hier , von einem höchst professionellen und tänzerisch virtuosen Ensemble so sec vorgetragen , etwas spröde wirken und dem Genre scheinbar widerstreben .;"1	Und	und	CCONJ	KON	_	4	cc	_	_
+2	noch	noch	ADV	ADV	_	3	advmod	_	_
+3	immer	immer	ADV	ADV	_	4	advmod	_	_
+4	rühren	rühren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+6	Geschichten	Geschichte	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+7	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
+8	einzelnen	einzeln	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Plur	11	amod	_	_
+9	Figuren	Figur	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+10	-	-	PUNCT	$(	_	9	punct	_	_
+11	Pauls	Paul	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+12	Homosexualität	Homosexualität	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+13	,	,	PUNCT	$,	_	15	punct	_	_
+14	Sheilas	Sheilas	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
+15	Älterwerden	Älterwerden	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	6	conj	_	_
+16	,	,	PUNCT	$,	_	18	punct	_	_
+17	Cassies	Cassies	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
+18	Betteln	Betteln	PROPN	NN	Case=Nom|Gender=Neut|Number=Sing	6	conj	_	_
+19	um	um	ADP	APPR	_	21	case	_	_
+20	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Rolle	Rolle	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	18	nmod	_	_
+22	-	-	PUNCT	$(	_	39	punct	_	_
+23	,	,	PUNCT	$,	_	39	punct	_	_
+24	auch	auch	ADV	ADV	_	39	advmod	_	_
+25	wenn	wenn	SCONJ	KOUS	_	39	mark	_	_
+26	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	39	nsubj	_	_
+27	hier	hier	ADV	ADV	_	39	advmod	_	_
+28	,	,	PUNCT	$,	_	39	punct	_	_
+29	von	von	ADP	APPR	_	36	case	_	_
+30	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+31	höchst	hochöchst	ADJ	ADJD	_	32	advmod	_	_
+32	professionellen	professionell	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	36	amod	_	_
+33	und	und	CCONJ	KON	_	35	cc	_	_
+34	tänzerisch	tänzerisch	ADJ	ADJD	_	35	advmod	_	_
+35	virtuosen	virtuosen	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	32	conj	_	_
+36	Ensemble	Ensemble	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	39	obl	_	_
+37	so	so	ADV	ADV	_	39	advmod	_	_
+38	sec	sec	PROPN	NE	_	39	obj	_	_
+39	vorgetragen	vortragen	VERB	VVPP	VerbForm=Part	4	advcl	_	_
+40	,	,	PUNCT	$,	_	43	punct	_	_
+41	etwas	etwas	ADV	ADV	_	43	advmod	_	_
+42	spröde	spröde	ADJ	ADJD	_	43	advmod	_	_
+43	wirken	wirken	VERB	VVFIN	VerbForm=Inf	39	conj	_	_
+44	und	und	CCONJ	KON	_	48	cc	_	_
+45	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	46	det	_	_
+46	Genre	Genre	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	48	iobj	_	_
+47	scheinbar	scheinbar	ADV	ADV	_	48	advmod	_	_
+48	widerstreben	widerstreben	VERB	VVFIN	VerbForm=Inf	43	conj	_	_
+49	.	.	PUNCT	$.	_	4	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
+widerstreben;NZZ_1996_02_19_a20_seg1_s16;28;Scalfaro sah nach dem Scheitern Maccanicos , auf den er alle Karten gesetzt hatte , keinen anderen Ausweg mehr als jenen , der ihm wohl am meisten widerstrebt hatte : die beiden Kammern aufzulösen und auf den 21. April Neuwahlen anzusetzen .;"1	Scalfaro	Scalfaro	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	sah	sehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	nach	nach	ADP	APPR	_	5	case	_	_
+4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Scheitern	Scheitern	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+6	Maccanicos	Maccanicos	PROPN	NE	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	,	,	PUNCT	$,	_	13	punct	_	_
+8	auf	auf	ADP	APPR	_	9	case	_	_
+9	den	der	PRON	PRELS	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	13	obl	_	_
+10	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+11	alle	alle	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
+12	Karten	Karte	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	_
+13	gesetzt	setzen	VERB	VVPP	VerbForm=Part	5	acl	_	_
+14	hatte	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+15	,	,	PUNCT	$,	_	18	punct	_	_
+16	keinen	kein	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg	18	nmod	_	_
+17	anderen	ander	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	18	amod	_	_
+18	Ausweg	Ausweg	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+19	mehr	mehr	ADV	ADV	_	21	advmod	_	_
+20	als	als	ADP	KOKOM	_	21	case	_	_
+21	jenen	jen	PRON	PDS	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	2	obl	_	_
+22	,	,	PUNCT	$,	_	28	punct	_	_
+23	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	28	nsubj	_	_
+24	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	iobj	_	_
+25	wohl	wohl	ADV	ADV	_	28	advmod	_	_
+26	am	am	DET	ART	Case=Acc|Number=Plur|PronType=Art	27	det	_	_
+27	meisten	meist	DET	PIS	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	28	obj	_	_
+28	widerstrebt	widerstreben	VERB	VVPP	VerbForm=Part	21	acl	_	_
+29	hatte	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
+30	:	:	PUNCT	$.	_	34	punct	_	_
+31	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
+32	beiden	beide	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	33	amod	_	_
+33	Kammern	Kammer	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	34	obj	_	_
+34	aufzulösen	auflösen	VERB	VVIZU	VerbForm=Inf	28	xcomp	_	_
+35	und	und	CCONJ	KON	_	41	cc	_	_
+36	auf	auf	ADP	APPR	_	39	case	_	_
+37	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+38	21.	21	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	39	amod	_	_
+39	April	April	PROPN	NN	Case=Acc|Gender=Masc|Number=Sing	41	obl	_	_
+40	Neuwahlen	Neuwahle	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	41	obj	_	_
+41	anzusetzen	ansetzen	VERB	VVIZU	VerbForm=Inf	34	conj	_	_
+42	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1996_03_01_a200_seg18_s7;24;Sie achtet das Publikum uneingeschränkt als mündig - auch auf die vermeintlich unerhörte Gefahr hin , dass ihm gefällt , was den Realisatoren widerstrebt .;"1	Sie	Sie|sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	achtet	achten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Publikum	Publikum	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	uneingeschränkt	uneingeschränkt	ADJ	ADJD	_	2	advmod	_	_
+6	als	als	ADP	KOKOM	_	2	xcomp	_	_
+7	mündig	mündig	ADJ	ADJD	_	2	advmod	_	_
+8	-	-	PUNCT	$(	_	7	punct	_	_
+9	auch	auch	ADV	ADV	_	14	advmod	_	_
+10	auf	auf	ADP	APPR	_	14	case	_	_
+11	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+12	vermeintlich	vermeintlich	ADJ	ADJD	_	13	advmod	_	_
+13	unerhörte	unerhört	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	14	amod	_	_
+14	Gefahr	Gefahr	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+15	hin	hin	ADV	PTKVZ	_	2	compound:prt	_	_
+16	,	,	PUNCT	$,	_	19	punct	_	_
+17	dass	dass	SCONJ	KOUS	_	19	mark	_	_
+18	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
+19	gefällt	gefallen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl	_	_
+20	,	,	PUNCT	$,	_	24	punct	_	_
+21	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	24	nsubj	_	_
+22	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
+23	Realisatoren	Realisator	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	24	obj	_	_
+24	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
+25	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+widerstreben;NZZ_1996_03_28_a92_seg9_s9;16;Die in vielen Betrieben bestehenden Anreizsysteme können die gesamtheitliche Problematik nicht mehr zeitgemäss abdecken und widerstreben dem Teamgedanken .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+2	in	in	ADP	APPR	_	4	case	_	_
+3	vielen	viel	DET	PIAT	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	4	amod	_	_
+4	Betrieben	Betrieb	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	_
+5	bestehenden	bestehend	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	6	amod	_	_
+6	Anreizsysteme	Anreizsysteme	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	14	nsubj	_	_
+7	können	können	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+8	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	gesamtheitliche	gesamtheitlich	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	10	amod	_	_
+10	Problematik	Problematik	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+11	nicht	nicht	PART	PTKNEG	Polarity=Neg	14	advmod	_	_
+12	mehr	mehr	ADV	ADV	_	11	advmod	_	_
+13	zeitgemäss	zeitgemäss	ADJ	ADJD	_	14	advmod	_	_
+14	abdecken	abdecken	VERB	VVINF	VerbForm=Inf	0	root	_	_
+15	und	und	CCONJ	KON	_	16	cc	_	_
+16	widerstreben	widerstreben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
+17	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Teamgedanken	Teamgedanken	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	16	iobj	_	_
+19	.	.	PUNCT	$.	_	14	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
+widerstreben;NZZ_1996_04_09_a95_seg9_s7;5;Was Dvorák vorschwebte , widerstrebt dem Schlagwort , es berührt sich mit Cassirers « symbolischen Formen » , deren jede - Mythos , Religion , Kunst - « eine bestimmte geistige Auffassungsweise » verkörpert , einen der vielen Wege , die der Geist in seiner « Selbstoffenbarung » einschlägt .;"1	Was	was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	_
+2	Dvorák	Dvorák	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+3	vorschwebte	vorschweben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	csubj	_	_
+4	,	,	PUNCT	$,	_	3	punct	_	_
+5	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
+7	Schlagwort	Schlagwort	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	_
+8	,	,	PUNCT	$,	_	10	punct	_	_
+9	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	berührt	berühren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	_
+12	mit	mit	ADP	APPR	_	16	case	_	_
+13	Cassirers	Cassirers	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	16	nmod	_	_
+14	«	""	PUNCT	$(	_	16	punct	_	_
+15	symbolischen	symbolisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	16	amod	_	_
+16	Formen	Form	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	_
+17	»	""	PUNCT	$(	_	16	punct	_	_
+18	,	,	PUNCT	$,	_	34	punct	_	_
+19	deren	der	DET	PRELAT	Case=Gen|Number=Plur|PronType=Rel	22	det	_	_
+20	jede	jed	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
+21	-	-	PUNCT	$(	_	20	punct	_	_
+22	Mythos	Mythos	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	34	nsubj	_	_
+23	,	,	PUNCT	$,	_	24	punct	_	_
+24	Religion	Religion	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	22	conj	_	_
+25	,	,	PUNCT	$,	_	26	punct	_	_
+26	Kunst	Kunst	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	22	conj	_	_
+27	-	-	PUNCT	$(	_	26	punct	_	_
+28	«	""	PUNCT	$(	_	32	punct	_	_
+29	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
+30	bestimmte	bestimmt	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	32	amod	_	_
+31	geistige	geistig	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	32	amod	_	_
+32	Auffassungsweise	Auffassungsweise	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	_
+33	»	""	PUNCT	$(	_	32	punct	_	_
+34	verkörpert	verkörpern	VERB	VVFIN	VerbForm=Part	16	acl	_	_
+35	,	,	PUNCT	$,	_	36	punct	_	_
+36	einen	ein	PRON	PIS	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	10	obj	_	_
+37	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
+38	vielen	viel	DET	PIAT	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	39	amod	_	_
+39	Wege	Weg	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	36	nmod	_	_
+40	,	,	PUNCT	$,	_	49	punct	_	_
+41	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	49	obj	_	_
+42	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
+43	Geist	Geist	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	49	obj	_	_
+44	in	in	ADP	APPR	_	47	case	_	_
+45	seiner	sein	DET	PPOSAT	Case=Dat|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	47	det:poss	_	_
+46	«	""	PUNCT	$(	_	47	punct	_	_
+47	Selbstoffenbarung	Selbstoffenbarung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	49	obl	_	_
+48	»	""	PUNCT	$(	_	47	punct	_	_
+49	einschlägt	einschlägen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	acl	_	_
+50	.	.	PUNCT	$.	_	5	punct	_	_
+";;x;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+widerstreben;NZZ_1996_06_13_a8_seg8_s4;16;Persönlich hält es Dole eher mit den Abtreibungsgegnern , doch als im Grunde liberaler Pragmatiker widerstrebt es ihm , die innerparteiliche Diskussion einfach abzuwürgen .;"1	Persönlich	persönlich	ADJ	ADJD	_	2	advmod	_	_
+2	hält	halten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	Dole	Dole	PROPN	NE	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+5	eher	eher	ADV	ADV	_	2	advmod	_	_
+6	mit	mit	ADP	APPR	_	8	case	_	_
+7	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Abtreibungsgegnern	Abtreibungsgegnern	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	_
+9	,	,	PUNCT	$,	_	16	punct	_	_
+10	doch	doch	CCONJ	KON	_	16	cc	_	_
+11	als	als	ADP	KOKOM	_	13	case	_	_
+12	im	em	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Grunde	Grund	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	16	obl	_	_
+14	liberaler	liberal	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Plur	15	amod	_	_
+15	Pragmatiker	Pragmatiker	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
+16	widerstrebt	widerstreben	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+17	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
+18	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	iobj	_	_
+19	,	,	PUNCT	$,	_	24	punct	_	_
+20	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	innerparteiliche	innerparteilich	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	22	amod	_	_
+22	Diskussion	Diskussion	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	_
+23	einfach	einfach	ADV	ADV	_	24	advmod	_	_
+24	abzuwürgen	abwürgen	VERB	VVIZU	VerbForm=Inf	16	xcomp	_	_
+25	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;NZZ;
+widerstreben;NZZ_1996_07_27_a164_seg3_s7;55;Aber es ist keine Zufälligkeit , dass der Berufene im Gespräch seine Berufung auf Vorschlag von Dieter Dorn , dem Intendanten der Münchner Kammerspiele , mit « sonderbaren Zufällen » begründet : Leimbacher gehört zu den Stillen im Lande , denen der Personenkult im allgemeinen und der Kult um die eigene Person im besonderen widerstrebt - und die im egozentrischen Theaterbetrieb vielleicht deshalb unangefochtene Achtung und internationales Ansehen geniessen .;"1	Aber	aber	CCONJ	KON	_	5	cc	_	_
+2	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	keine	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	5	nmod	_	_
+5	Zufälligkeit	Zufälligkeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	,	,	PUNCT	$,	_	31	punct	_	_
+7	dass	dass	SCONJ	KOUS	_	31	mark	_	_
+8	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Berufene	Berufene	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+10	im	em	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	Gespräch	Gespräch	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	31	obj	_	_
+12	seine	sein	DET	PPOSAT	Case=Acc|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	Berufung	Berufung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
+14	auf	auf	ADP	APPR	_	15	case	_	_
+15	Vorschlag	Vorschlag	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	_
+16	von	von	ADP	APPR	_	17	case	_	_
+17	Dieter	Dieter	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	15	nmod	_	_
+18	Dorn	Dorn	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	17	flat	_	_
+19	,	,	PUNCT	$,	_	21	punct	_	_
+20	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Intendanten	Intendant	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	17	appos	_	_
+22	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
+23	Münchner	Münchner	PROPN	ADJA	_	24	amod	_	_
+24	Kammerspiele	Kammerspiel	PROPN	NN	Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
+25	,	,	PUNCT	$,	_	21	punct	_	_
+26	mit	mit	ADP	APPR	_	29	case	_	_
+27	«	""	PUNCT	$(	_	29	punct	_	_
+28	sonderbaren	sonderbar	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	29	amod	_	_
+29	Zufällen	Zufall	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	31	obl	_	_
+30	»	""	PUNCT	$(	_	29	punct	_	_
+31	begründet	begründen	VERB	VVFIN	VerbForm=Part	5	ccomp	_	_
+32	:	:	PUNCT	$.	_	34	punct	_	_
+33	Leimbacher	Leimbacher	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	_
+34	gehört	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+35	zu	zu	ADP	APPR	_	37	case	_	_
+36	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
+37	Stillen	Stille	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	34	obl	_	_
+38	im	em	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	Lande	Land	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	37	nmod	_	_
+40	,	,	PUNCT	$,	_	55	punct	_	_
+41	denen	der	PRON	PRELS	Case=Dat|Number=Plur|PronType=Rel	55	iobj	_	_
+42	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
+43	Personenkult	Personenkult	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	55	nsubj	_	_
+44	im	em	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
+45	allgemeinen	allgemein	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Sing	48	amod	_	_
+46	und	und	CCONJ	KON	_	48	cc	_	_
+47	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
+48	Kult	Kult	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	43	conj	_	_
+49	um	um	ADP	APPR	_	52	case	_	_
+50	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	52	det	_	_
+51	eigene	eigen	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	52	amod	_	_
+52	Person	Person	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	55	obl	_	_
+53	im	im	ADP	APPR	_	55	xcomp	_	_
+54	besonderen	besonder	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	55	amod	_	_
+55	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	acl	_	_
+56	-	-	PUNCT	$(	_	69	punct	_	_
+57	und	und	CCONJ	KON	_	69	cc	_	_
+58	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	61	det	_	_
+59	im	im	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	61	amod	_	_
+60	egozentrischen	egozentrisch	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	61	amod	_	_
+61	Theaterbetrieb	Theaterbetrieb	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	69	obj	_	_
+62	vielleicht	vielleicht	ADV	ADV	_	69	advmod	_	_
+63	deshalb	deshalb	ADV	PAV	_	69	advmod	_	_
+64	unangefochtene	unangefocht	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	65	amod	_	_
+65	Achtung	Achtung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	69	obj	_	_
+66	und	und	CCONJ	KON	_	68	cc	_	_
+67	internationales	international	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	68	amod	_	_
+68	Ansehen	Ansehen	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	65	conj	_	_
+69	geniessen	genießen	VERB	VVFIN	Mood=Ind|Person=3|VerbForm=Inf	55	conj	_	_
+70	.	.	PUNCT	$.	_	5	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1996_07_27_a216_seg3_s70;31;Trost spendet aber der Zürcher Metzgermeister Heinz Hubli , der seit zwanzig Jahren am Röntgenplatz im Kreis 4 wurstet : « Nie würde ich Blutplasma einem Cervelatbrät beimischen , das widerstrebt mir . »;"1	Trost	Trost	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	spendet	spenden	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	aber	aber	ADV	ADV	_	2	advmod	_	_
+4	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	Zürcher	Zürcher	PROPN	ADJA	_	6	amod	_	_
+6	Metzgermeister	Metzgermeister	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+7	Heinz	Heinz	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
+8	Hubli	Hubli	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	7	flat	_	_
+9	,	,	PUNCT	$,	_	19	punct	_	_
+10	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	19	nsubj	_	_
+11	seit	seit	ADP	APPR	_	13	case	_	_
+12	zwanzig	zwanzig	NUM	CARD	NumType=Card	13	nummod	_	_
+13	Jahren	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	19	obl	_	_
+14	am	am	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	Röntgenplatz	Röntgenplatz	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	_
+16	im	em	PUNCT	$(	_	17	punct	_	_
+17	Kreis	Kreis	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	15	appos	_	_
+18	4	4	NUM	CARD	NumType=Card	17	appos	_	_
+19	wurstet	wursten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+20	:	:	PUNCT	$.	_	28	punct	_	_
+21	«	""	PUNCT	$(	_	28	punct	_	_
+22	Nie	nie	ADV	ADV	_	28	advmod	_	_
+23	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	28	aux	_	_
+24	ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
+25	Blutplasma	Blutplasma	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	28	obj	_	_
+26	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	Cervelatbrät	Cervelatbrät	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	28	iobj	_	_
+28	beimischen	beimischen	VERB	VVINF	VerbForm=Inf	2	parataxis	_	_
+29	,	,	PUNCT	$,	_	31	punct	_	_
+30	das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	31	nsubj	_	_
+31	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	parataxis	_	_
+32	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	31	iobj	_	_
+33	.	.	PUNCT	$.	_	28	punct	_	_
+34	»	""	PUNCT	$(	_	28	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;NZZ;
+widerstreben;NZZ_1996_07_31_a26_seg7_s3;5;« Welsch » wiederum widerstrebt vielen Deutschschweizern .;"1	«	""	PUNCT	$(	_	2	punct	_	_
+2	Welsch	Welsch	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	»	""	PUNCT	$(	_	2	punct	_	_
+4	wiederum	wiederum	ADV	ADV	_	5	advmod	_	_
+5	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	vielen	viel	DET	PIAT	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	7	amod	_	_
+7	Deutschschweizern	Deutschschweizern	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	_
+8	.	.	PUNCT	$.	_	5	punct	_	_
+";x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+widerstreben;NZZ_1996_07_31_a3_seg10_s3;5;« Welsch » wiederum widerstrebt vielen Deutschschweizern .;"1	«	""	PUNCT	$(	_	2	punct	_	_
+2	Welsch	Welsch	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	»	""	PUNCT	$(	_	2	punct	_	_
+4	wiederum	wiederum	ADV	ADV	_	5	advmod	_	_
+5	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	vielen	viel	DET	PIAT	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	7	amod	_	_
+7	Deutschschweizern	Deutschschweizern	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	_
+8	.	.	PUNCT	$.	_	5	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;NZZ;
+widerstreben;NZZ_1996_07_31_a35_seg6_s3;2;"Es widerstrebt der Sprache , Synonyme synonym bleiben zu lassen ; jeder Begriff bringt ein Erbe mit und wuchert damit weiter .";"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Sprache	Sprache	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	_
+5	,	,	PUNCT	$,	_	10	punct	_	_
+6	Synonyme	Synonym|Synonyme	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
+7	synonym	synonym	ADJ	ADJD	_	8	xcomp	_	_
+8	bleiben	bleiben	VERB	VVINF	VerbForm=Inf	10	xcomp	_	_
+9	zu	zu	PART	PTKZU	_	10	mark	_	_
+10	lassen	lassen	VERB	VVINF	VerbForm=Inf	2	csubj	_	_
+11	;	;	PUNCT	$.	_	14	punct	_	_
+12	jeder	jed	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
+13	Begriff	Begriff	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	bringt	bringen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+15	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+16	Erbe	Erbe	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+17	mit	mit	ADP	PTKVZ	_	14	compound:prt	_	_
+18	und	und	CCONJ	KON	_	19	cc	_	_
+19	wuchert	wuchern	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+20	damit	damit	ADV	PAV	_	19	advmod	_	_
+21	weiter	weiter	ADV	PTKVZ	_	19	compound:prt	_	_
+22	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object;;
+widerstreben;NZZ_1996_08_30_a48_seg6_s1;12;Dies aber scheint ihm , dem Machtworte zu sprechen à fond widerstrebt , der statt dessen auf die Überzeugungskraft des Gesprächs nie zu hoffen müde wird , von allem Anfang an schwergefallen zu sein .;"1	Dies	dies	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	aber	aber	ADV	ADV	_	3	advmod	_	_
+3	scheint	scheinen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+5	,	,	PUNCT	$,	_	9	punct	_	_
+6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Machtworte	Machtworte	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	_
+8	zu	zu	PART	PTKZU	_	9	mark	_	_
+9	sprechen	sprechen	VERB	VVINF	VerbForm=Inf	3	csubj	_	_
+10	à	à	CCONJ	KON	_	12	cc	_	_
+11	fond	fond	NOUN	NN	_	12	nsubj	_	_
+12	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+13	,	,	PUNCT	$,	_	25	punct	_	_
+14	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj:pass	_	_
+15	statt	statt	ADP	APPR	_	16	case	_	_
+16	dessen	der	DET	PDAT	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	25	obl	_	_
+17	auf	auf	ADP	APPR	_	19	case	_	_
+18	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Überzeugungskraft	Überzeugungskraft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
+20	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	21	det	_	_
+21	Gesprächs	Gespräch	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	_
+22	nie	nie	ADV	ADV	_	25	advmod	_	_
+23	zu	zu	PART	PTKZU	_	24	mark	_	_
+24	hoffen	hoffen	VERB	VVINF	VerbForm=Inf	25	xcomp	_	_
+25	müde	müden	VERB	VVPP	VerbForm=Part	11	acl	_	_
+26	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	25	aux:pass	_	_
+27	,	,	PUNCT	$,	_	32	punct	_	_
+28	von	von	ADP	APPR	_	29	case	_	_
+29	allem	alle	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	32	obl	_	_
+30	Anfang	Anfang	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
+31	an	an	ADP	APPR	_	32	xcomp	_	_
+32	schwergefallen	schwerfallen	VERB	VVINF	VerbForm=Inf	25	xcomp	_	_
+33	zu	zu	PART	PTKZU	_	32	mark	_	_
+34	sein	sein	AUX	VAINF	VerbForm=Inf	32	aux:pass	_	_
+35	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;???;
+widerstreben;NZZ_1996_09_16_a84_seg13_s17;2;Es widerstrebt Foreman , mit einer fertigen Produktion auf Tournee zu gehen , deshalb ist er ein seltener Gast auf Festivals .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Foreman	Foreman	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	,	,	PUNCT	$,	_	12	punct	_	_
+5	mit	mit	ADP	APPR	_	8	case	_	_
+6	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+7	fertigen	fertig	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	8	amod	_	_
+8	Produktion	Produktion	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
+9	auf	auf	ADP	APPR	_	10	case	_	_
+10	Tournee	Tournee	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+11	zu	zu	PART	PTKZU	_	12	mark	_	_
+12	gehen	gehen	VERB	VVINF	VerbForm=Inf	2	csubj	_	_
+13	,	,	PUNCT	$,	_	19	punct	_	_
+14	deshalb	deshalb	ADV	PAV	_	19	advmod	_	_
+15	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+16	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+17	ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+18	seltener	selten	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	19	amod	_	_
+19	Gast	Gast	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
+20	auf	auf	ADP	APPR	_	21	case	_	_
+21	Festivals	Festival	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	19	nmod	_	_
+22	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1996_11_19_a44_seg2_s3;16;Die Liberalen ergriffen das Referendum , weil ihnen unter anderem die vorgesehene Besteuerung der Ersparnisse widerstrebt .;"1	Die	der	DET	ART	Case=Nom|Number=Plur|PronType=Art	2	det	_	_
+2	Liberalen	Liberale	NOUN	NN	Case=Nom|Number=Plur	3	nsubj	_	_
+3	ergriffen	ergreifen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Referendum	Referendum	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	$,	_	16	punct	_	_
+7	weil	weil	SCONJ	KOUS	_	16	mark	_	_
+8	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	16	iobj	_	_
+9	unter	unter	ADP	APPR	_	10	case	_	_
+10	anderem	ander	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	16	obl	_	_
+11	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	vorgesehene	vorgesehen	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	13	amod	_	_
+13	Besteuerung	Besteuerung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+14	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	det	_	_
+15	Ersparnisse	Ersparnis	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	_
+16	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+17	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1997_02_19_a150_seg7_s14;2;Demgegenüber widerstrebt ihm ernste Musik mit klaren Botschaften , die der arme Zuhörer dann verstehen soll .;"1	Demgegenüber	demgegenüber	ADV	ADV	_	2	advmod	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	ernste	ernst	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
+5	Musik	Musik	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+6	mit	mit	ADP	APPR	_	8	case	_	_
+7	klaren	klar	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	8	amod	_	_
+8	Botschaften	Botschaft	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	5	nmod	_	_
+9	,	,	PUNCT	$,	_	15	punct	_	_
+10	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	15	obj	_	_
+11	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+12	arme	arm	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	13	amod	_	_
+13	Zuhörer	Zuhörer	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	_
+14	dann	dann	ADV	ADV	_	15	advmod	_	_
+15	verstehen	verstehen	VERB	VVINF	VerbForm=Inf	5	acl	_	_
+16	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+17	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1997_02_22_a206_seg5_s12;10;« Er hat Visionen , denen unsere harten Erfahrungen widerstreben , er erliegt einer Trunkenheit , die nur einem befriedeten Dasein vergönnt ist ... » - Anders gesagt , wie sehr solches Malen auch die Gunst arkadischer Verhältnisse nutzt , so entflieht es , zugleich , in den Schein .;"1	«	""	PUNCT	$(	_	3	punct	_	_
+2	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	hat	haben	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	Visionen	Vision	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	_
+5	,	,	PUNCT	$,	_	10	punct	_	_
+6	denen	der	PRON	PRELS	Case=Dat|Number=Plur|PronType=Rel	10	iobj	_	_
+7	unsere	unser	DET	PPOSAT	Case=Nom|Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	9	det:poss	_	_
+8	harten	hart	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Plur	9	amod	_	_
+9	Erfahrungen	Erfahrung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	10	obj	_	_
+10	widerstreben	widerstreben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	_
+11	,	,	PUNCT	$,	_	13	punct	_	_
+12	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+13	erliegt	erliegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+14	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
+15	Trunkenheit	Trunkenheit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	13	iobj	_	_
+16	,	,	PUNCT	$,	_	22	punct	_	_
+17	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	22	nsubj	_	_
+18	nur	nur	ADV	ADV	_	22	advmod	_	_
+19	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	21	det	_	_
+20	befriedeten	befriedet	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	21	amod	_	_
+21	Dasein	Dasein	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	22	iobj	_	_
+22	vergönnt	vergönnt	ADJ	ADJD	_	15	acl	_	_
+23	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+24	...	...	PUNCT	$(	_	28	punct	_	_
+25	»	""	PUNCT	$(	_	28	punct	_	_
+26	-	-	PUNCT	$(	_	27	punct	_	_
+27	Anders	anders	ADV	ADV	_	28	advmod	_	_
+28	gesagt	sagen	VERB	VVPP	VerbForm=Part	13	parataxis	_	_
+29	,	,	PUNCT	$,	_	39	punct	_	_
+30	wie	wie	SCONJ	KOUS	_	39	advmod	_	_
+31	sehr	sehr	ADV	ADV	_	32	advmod	_	_
+32	solches	solch	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	33	det	_	_
+33	Malen	Mal|Malen	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	39	nsubj	_	_
+34	auch	auch	ADV	ADV	_	39	advmod	_	_
+35	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	Gunst	Gunst	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	39	obj	_	_
+37	arkadischer	arkadisch	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	38	amod	_	_
+38	Verhältnisse	Verhältnis	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	36	nmod	_	_
+39	nutzt	nutzen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	advcl	_	_
+40	,	,	PUNCT	$,	_	39	punct	_	_
+41	so	so	ADV	ADV	_	42	advmod	_	_
+42	entflieht	entfliehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	parataxis	_	_
+43	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	_
+44	,	,	PUNCT	$,	_	42	punct	_	_
+45	zugleich	zugleich	ADV	ADV	_	42	advmod	_	_
+46	,	,	PUNCT	$,	_	49	punct	_	_
+47	in	in	ADP	APPR	_	49	case	_	_
+48	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
+49	Schein	Schein	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	42	obl	_	_
+50	.	.	PUNCT	$.	_	28	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
+widerstreben;NZZ_1997_03_03_a33_seg16_s12;2;Mir widerstrebt diese Idee , denn unter welcher Erklärung solche Gelder auch gegeben würden , die andere Seite würde sie in etwas andere umfunktionieren .;"1	Mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	diese	dies	PRON	PDAT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	Idee	Idee	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	,	,	PUNCT	$,	_	13	punct	_	_
+6	denn	denn	SCONJ	KON	_	13	mark	_	_
+7	unter	unter	ADP	APPR	_	9	case	_	_
+8	welcher	welch	PRON	PWAT	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	9	det	_	_
+9	Erklärung	Erklärung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	_
+10	solche	solch	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur|PronType=Ind	11	det	_	_
+11	Gelder	Geld	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	13	nsubj	_	_
+12	auch	auch	ADV	ADV	_	13	advmod	_	_
+13	gegeben	geben	VERB	VVPP	VerbForm=Part	2	advcl	_	_
+14	würden	werden	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+15	,	,	PUNCT	$,	_	24	punct	_	_
+16	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	andere	ander	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	_
+18	Seite	Seite	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	_
+19	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
+20	sie	sie	PRON	PPER	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+21	in	in	ADP	APPR	_	22	case	_	_
+22	etwas	etwas	PRON	PIAT	Definite=Ind|PronType=Ind	23	det	_	_
+23	andere	ander	PRON	PIS	Case=Acc|Definite=Ind|Number=Plur|PronType=Ind	24	obl	_	_
+24	umfunktionieren	umfunktionieren	VERB	VVINF	VerbForm=Inf	2	conj	_	_
+25	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;;
+widerstreben;NZZ_1997_03_03_a80_seg3_s2;7;Von seiner eigenen Musik zu sprechen widerstrebt dem 1931 geborenen Komponisten Rudolf Kelterborn , obwohl seine Musik nicht selten sprechenden Gestus verrät .;"1	Von	von	ADP	APPR	_	4	case	_	_
+2	seiner	sein	DET	PPOSAT	Case=Dat|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	eigenen	eigen	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	4	amod	_	_
+4	Musik	Musik	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+5	zu	zu	PART	PTKZU	_	6	mark	_	_
+6	sprechen	sprechen	VERB	VVINF	VerbForm=Inf	7	acl	_	_
+7	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+9	1931	1931	NUM	CARD	NumType=Card	10	nmod	_	_
+10	geborenen	geboren	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	11	amod	_	_
+11	Komponisten	Komponist	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	_
+12	Rudolf	Rudolf	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	_
+13	Kelterborn	Kelterborn	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	12	flat	_	_
+14	,	,	PUNCT	$,	_	22	punct	_	_
+15	obwohl	obwohl	SCONJ	KOUS	_	22	mark	_	_
+16	seine	sein	DET	PPOSAT	Case=Nom|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	Musik	Musik	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	_
+18	nicht	nicht	PART	PTKNEG	Polarity=Neg	19	advmod	_	_
+19	selten	selten	ADJ	ADJD	_	20	advmod	_	_
+20	sprechenden	sprechend	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	21	amod	_	_
+21	Gestus	Gestus	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+22	verrät	verraten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+23	.	.	PUNCT	$.	_	7	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;;;
+widerstreben;NZZ_1997_05_12_a121_seg3_s8;2;Warum widerstreben , wenn es doch einträglicher ist , sich Amerika auch in seiner Esskultur anzubiedern ?;"1	Warum	warum	ADV	PWAV	PronType=Int	2	advmod	_	_
+2	widerstreben	widerstreben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	$,	_	7	punct	_	_
+4	wenn	wenn	SCONJ	KOUS	_	7	mark	_	_
+5	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+6	doch	doch	ADV	ADV	_	7	advmod	_	_
+7	einträglicher	einträglich	ADJ	ADJD	_	2	ccomp	_	_
+8	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+9	,	,	PUNCT	$,	_	16	punct	_	_
+10	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	16	obj	_	_
+11	Amerika	Amerika	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	16	obj	_	_
+12	auch	auch	ADV	ADV	_	16	advmod	_	_
+13	in	in	ADP	APPR	_	15	case	_	_
+14	seiner	sein	DET	PPOSAT	Case=Dat|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det:poss	_	_
+15	Esskultur	Esskultur	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	_
+16	anzubiedern	anbiedern	VERB	VVIZU	VerbForm=Inf	7	csubj	_	_
+17	?	?	PUNCT	$.	_	2	punct	_	_
+";x;;;;;;;;;;;;;;;;;;;;;polysemous;bare infinitive;
+widerstreben;NZZ_1997_10_07_a166_seg16_s32;8;Esther Zumbrunn ( ldu. , Winterthur ) widerstrebt eine Zwangskörperschaft .;"1	Esther	Esther	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+2	Zumbrunn	Zumbrunn	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
+3	(	(	PUNCT	$(	_	4	punct	_	_
+4	ldu.	ldu.	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	_
+5	,	,	PUNCT	$,	_	6	punct	_	_
+6	Winterthur	Winterthur	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+7	)	)	PUNCT	$(	_	4	punct	_	_
+8	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Zwangskörperschaft	Zwangskörperschaft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+11	.	.	PUNCT	$.	_	8	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1997_11_03_a26_seg4_s3;3;Der FDP widerstrebt eine Revision des ZGB im Bereich des Eherechts grundsätzlich , weil das Gesetz erst seit 1988 in Kraft sei und man in der Praxis erst wenig Erfahrung habe sammeln können .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	FDP	FDP	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Revision	Revision	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	ZGB	ZGB	PROPN	NN	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	im	em	PUNCT	$(	_	9	punct	_	_
+9	Bereich	Bereich	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	_
+10	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	Eherechts	Eherecht	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
+12	grundsätzlich	grundsätzlich	ADJ	ADJD	_	3	advmod	_	_
+13	,	,	PUNCT	$,	_	22	punct	_	_
+14	weil	weil	SCONJ	KOUS	_	22	mark	_	_
+15	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+16	Gesetz	Gesetz	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+17	erst	erst	ADV	ADV	_	22	advmod	_	_
+18	seit	seit	ADP	APPR	_	19	case	_	_
+19	1988	1988	NUM	CARD	NumType=Card	22	obl	_	_
+20	in	in	ADP	APPR	_	21	case	_	_
+21	Kraft	Kraft	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	22	obl	_	_
+22	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+23	und	und	CCONJ	KON	_	32	cc	_	_
+24	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	32	nsubj	_	_
+25	in	in	ADP	APPR	_	27	case	_	_
+26	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	Praxis	Praxis	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	32	obl	_	_
+28	erst	erst	ADV	ADV	_	32	advmod	_	_
+29	wenig	wenig	PRON	PIAT	Definite=Ind|PronType=Ind	30	det	_	_
+30	Erfahrung	Erfahrung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
+31	habe	haben	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
+32	sammeln	sammeln	VERB	VVINF	VerbForm=Inf	22	conj	_	_
+33	können	können	AUX	VMINF	VerbForm=Inf	32	aux	_	_
+34	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy;;
+widerstreben;NZZ_1997_12_09_a102_seg8_s7;2;Daher widerstrebe ihnen eine Finanzierung von Projekten der Industrie oder auch nur eine zu starke Ausrichtung auf deren Wünsche .;"1	Daher	daher	ADV	PAV	_	2	advmod	_	_
+2	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	iobj	_	_
+4	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Finanzierung	Finanzierung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+6	von	von	ADP	APPR	_	7	case	_	_
+7	Projekten	Projekt	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	5	nmod	_	_
+8	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Industrie	Industrie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	oder	oder	CCONJ	KON	_	16	cc	_	_
+11	auch	auch	ADV	ADV	_	16	advmod	_	_
+12	nur	nur	ADV	ADV	_	16	advmod	_	_
+13	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+14	zu	zu	PART	PTKZU	_	15	mark	_	_
+15	starke	stark	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	16	amod	_	_
+16	Ausrichtung	Ausrichtung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	_
+17	auf	auf	ADP	APPR	_	19	case	_	_
+18	deren	der	DET	PDAT	Case=Gen|Number=Plur|PronType=Dem	19	nmod:poss	_	_
+19	Wünsche	Wunsch	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	nmod	_	_
+20	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1997_12_23_a132_seg7_s12;3;Der Inhalt widerstrebt doch manchmal der Sprache , obschon die berndeutsche Übersetzung des ersten Psalms ganz bernisch tönt : « Glücklich der Mönsch , wo nid de Gottlose folget , wo mit de Sünder nid leichet , nid zämesitzt mit de Spötter !;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Inhalt	Inhalt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	doch	doch	ADV	ADV	_	3	advmod	_	_
+5	manchmal	manchmal	ADV	ADV	_	3	advmod	_	_
+6	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Sprache	Sprache	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	_
+8	,	,	PUNCT	$,	_	18	punct	_	_
+9	obschon	obschon	SCONJ	KOUS	_	18	mark	_	_
+10	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	berndeutsche	berndeutsch	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	12	amod	_	_
+12	Übersetzung	Übersetzung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+13	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	ersten	erst	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	_
+15	Psalms	Psalm	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+16	ganz	ganz	ADV	ADV	_	17	advmod	_	_
+17	bernisch	bernisch	ADJ	ADJD	_	18	advmod	_	_
+18	tönt	tönen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+19	:	:	PUNCT	$.	_	21	punct	_	_
+20	«	""	PUNCT	$(	_	21	punct	_	_
+21	Glücklich	glücklich	ADJ	ADJD	_	3	parataxis	_	_
+22	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	Mönsch	Mönsch	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+24	,	,	PUNCT	$,	_	29	punct	_	_
+25	wo	wo	ADV	PWAV	PronType=Int	29	advmod	_	_
+26	nid	nid	PROPN	NE	Case=Nom|Number=Sing	29	nsubj	_	_
+27	de	de	PROPN	NE	Foreign=Yes	26	flat	_	_
+28	Gottlose	Gottlose	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	26	flat	_	_
+29	folget	folgen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl	_	_
+30	,	,	PUNCT	$,	_	36	punct	_	_
+31	wo	wo	ADV	PWAV	PronType=Int	36	advmod	_	_
+32	mit	mit	ADP	APPR	_	34	case	_	_
+33	de	de	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	34	compound	_	_
+34	Sünder	Sünder	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	36	obl	_	_
+35	nid	nid	PROPN	FM	Foreign=Yes	36	nsubj	_	_
+36	leichet	leichen	VERB	VVFIN	VerbForm=Fin	23	acl	_	_
+37	,	,	PUNCT	$,	_	39	punct	_	_
+38	nid	nid	PROPN	FM	Foreign=Yes	39	nsubj	_	_
+39	zämesitzt	zämesitzen	VERB	FM	_	36	conj	_	_
+40	mit	mit	ADP	APPR	_	41	case	_	_
+41	de	de	PROPN	NE	Case=Dat|Number=Sing	42	amod	_	_
+42	Spötter	Soötte	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	39	obl	_	_
+43	!	!	PUNCT	$.	_	3	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;ambiguous, polysemous, psych_ambiguous;;
+widerstreben;NZZ_1998_01_09_a148_seg2_s21;9;Es ist verständlich , dass es den Filmmachern widerstrebt , sich der Lautsprache anzuvertrauen , die man über Generationen hinweg den Gehörlosen zu ihrem Schaden aufgezwungen hat .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	verständlich	verständlich	ADJ	ADJD	_	0	root	_	_
+4	,	,	PUNCT	$,	_	9	punct	_	_
+5	dass	dass	SCONJ	KOUS	_	9	mark	_	_
+6	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	Filmmachern	Filmmacher	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	_
+9	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+10	,	,	PUNCT	$,	_	14	punct	_	_
+11	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	_
+12	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Lautsprache	Lautsprache	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	14	iobj	_	_
+14	anzuvertrauen	anvertreuen	VERB	VVIZU	VerbForm=Inf	9	xcomp	_	_
+15	,	,	PUNCT	$,	_	26	punct	_	_
+16	die	der	PRON	PRELS	Case=Acc|Number=Plur|PronType=Rel	26	obj	_	_
+17	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	26	nsubj	_	_
+18	über	über	ADP	APPR	_	19	case	_	_
+19	Generationen	Generation	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	26	obl	_	_
+20	hinweg	hinweg	ADV	ADV	_	26	advmod	_	_
+21	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	Gehörlosen	Gehörlose	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
+23	zu	zu	ADP	APPR	_	25	case	_	_
+24	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det:poss	_	_
+25	Schaden	Schaden	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	_
+26	aufgezwungen	aufzwingen	VERB	VVPP	VerbForm=Part	13	acl	_	_
+27	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+28	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1998_03_02_a6_seg6_s11;8;Die Übertreibungen Berlusconis schienen ihm zutiefst zu widerstreben .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	Übertreibungen	Übertreibung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
+3	Berlusconis	Berlusconis	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	schienen	scheinen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+6	zutiefst	zutiefst	ADV	ADV	_	8	advmod	_	_
+7	zu	zu	PART	PTKZU	_	8	mark	_	_
+8	widerstreben	widerstreben	VERB	VVINF	VerbForm=Inf	4	acl	_	_
+9	.	.	PUNCT	$.	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1998_04_09_a241_seg2_s10;32;In Apostelgeschichte 7 , 52 rechtfertigt sich Stephanus nach seiner Gefangennahme vor dem Hohen Rat : « Ihr , die ihr halsstarrig und an Herzen und Ohren unbeschnitten seid , ihr widerstrebt allezeit dem heiligen Geist , wie eure Väter , so auch ihr .;"1	In	in	ADP	APPR	_	2	case	_	_
+2	Apostelgeschichte	Apostelgeschichte	PROPN	NN	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+3	7	7	NUM	CARD	NumType=Card	2	appos	_	_
+4	,	,	PUNCT	$,	_	5	punct	_	_
+5	52	52	NUM	CARD	NumType=Card	2	appos	_	_
+6	rechtfertigt	rechtfertigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	_
+8	Stephanus	Stephanus	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+9	nach	nach	ADP	APPR	_	11	case	_	_
+10	seiner	sein	DET	PPOSAT	Case=Dat|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	_
+11	Gefangennahme	Gefangennahme	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
+12	vor	vor	ADP	APPR	_	15	case	_	_
+13	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	Hohen	hoch	PROPN	ADJA	Case=Dat|Gender=Masc|Number=Sing	15	amod	_	_
+15	Rat	Rat	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	_
+16	:	:	PUNCT	$.	_	18	punct	_	_
+17	«	""	PUNCT	$(	_	18	punct	_	_
+18	Ihr	Ihr|ihr	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+19	,	,	PUNCT	$,	_	28	punct	_	_
+20	die	der	PRON	PRELS	Case=Nom|Number=Sing|PronType=Rel	28	nsubj	_	_
+21	ihr	ihr	PRON	PPER	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	iobj	_	_
+22	halsstarrig	halsstarrig	ADJ	ADJD	_	28	advmod	_	_
+23	und	und	CCONJ	KON	_	25	cc	_	_
+24	an	an	ADP	APPR	_	25	case	_	_
+25	Herzen	Herz	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	22	conj	_	_
+26	und	und	CCONJ	KON	_	27	cc	_	_
+27	Ohren	Ohr	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	25	conj	_	_
+28	unbeschnitten	unbeschnitten	ADJ	ADJD	_	18	acl	_	_
+29	seid	seid	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
+30	,	,	PUNCT	$,	_	32	punct	_	_
+31	ihr	ihr	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
+32	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+33	allezeit	allezeit	ADV	ADV	_	32	advmod	_	_
+34	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+35	heiligen	heilig	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	36	amod	_	_
+36	Geist	Geist	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	32	iobj	_	_
+37	,	,	PUNCT	$,	_	40	punct	_	_
+38	wie	wie	ADP	KOKOM	_	40	case	_	_
+39	eure	euer	DET	PPOSAT	Case=Nom|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	40	det:poss	_	_
+40	Väter	Vat	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	36	nmod	_	_
+41	,	,	PUNCT	$,	_	44	punct	_	_
+42	so	so	ADV	ADV	_	44	advmod	_	_
+43	auch	auch	ADV	ADV	_	44	advmod	_	_
+44	ihr	ihr	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	40	appos	_	_
+45	.	.	PUNCT	$.	_	6	punct	_	_
+";;x;x;;;;;;;;;;;;;;;anim;;;;ambiguous, metaphoric_EXP, psych_ambiguous;;
+widerstreben;NZZ_1998_07_09_a2_seg8_s5;11;Dass es der ODS und ihrem Chef Klaus seit je widerstrebt hatte , sich dem Druck kleiner Koalitionsparteien beugen zu müssen und ihnen ein grösseres Gewicht zuzugestehen , als arithmetisch ihrem Wähleranteil entsprochen hätte , mag in seiner Partei dazu beigetragen haben , sich für das im ersten Moment absurd erscheinende Zweckbündnis mit den Sozialdemokraten zu entscheiden .;"1	Dass	daß	SCONJ	KOUS	_	11	mark	_	_
+2	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+3	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	ODS	ODS	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing	11	iobj	_	_
+5	und	und	CCONJ	KON	_	7	cc	_	_
+6	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	Chef	Chef	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	4	conj	_	_
+8	Klaus	Klaus	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	_
+9	seit	seit	ADP	APPR	_	10	case	_	_
+10	je	je	ADV	ADV	_	11	advmod	_	_
+11	widerstrebt	widerstreben	VERB	VVPP	VerbForm=Part	41	advcl	_	_
+12	hatte	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+13	,	,	PUNCT	$,	_	19	punct	_	_
+14	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	obj	_	_
+15	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Druck	Druck	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	_
+17	kleiner	klein	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Plur	18	amod	_	_
+18	Koalitionsparteien	Koalitionspartei	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	16	nmod	_	_
+19	beugen	beugen	VERB	VVINF	VerbForm=Inf	11	xcomp	_	_
+20	zu	zu	PART	PTKZU	_	19	mark	_	_
+21	müssen	müssen	AUX	VMINF	VerbForm=Inf	19	aux	_	_
+22	und	und	CCONJ	KON	_	27	cc	_	_
+23	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	27	iobj	_	_
+24	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	26	det	_	_
+25	grösseres	groß	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	26	amod	_	_
+26	Gewicht	Gewicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	27	obj	_	_
+27	zuzugestehen	zugestehen	VERB	VVIZU	VerbForm=Inf	19	conj	_	_
+28	,	,	PUNCT	$,	_	33	punct	_	_
+29	als	als	SCONJ	KOUS	_	33	mark	_	_
+30	arithmetisch	arithmetisch	ADJ	ADJD	_	33	advmod	_	_
+31	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	det:poss	_	_
+32	Wähleranteil	Wähleranteil	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	33	iobj	_	_
+33	entsprochen	entsprechen	VERB	VVPP	VerbForm=Part	27	advcl	_	_
+34	hätte	haben	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	aux	_	_
+35	,	,	PUNCT	$,	_	33	punct	_	_
+36	mag	mögen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	_
+37	in	in	ADP	APPR	_	39	case	_	_
+38	seiner	sein	DET	PPOSAT	Case=Dat|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	39	det:poss	_	_
+39	Partei	Partei	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	41	obl	_	_
+40	dazu	dazu	ADV	PAV	_	41	advmod	_	_
+41	beigetragen	beitragen	VERB	VVPP	VerbForm=Part	0	root	_	_
+42	haben	haben	AUX	VAINF	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	_
+43	,	,	PUNCT	$,	_	57	punct	_	_
+44	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	57	obj	_	_
+45	für	für	ADP	APPR	_	49	case	_	_
+46	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	49	det	_	_
+47	im	im	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	49	amod	_	_
+48	ersten	erst	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	49	amod	_	_
+49	Moment	Moment	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	57	obl	_	_
+50	absurd	absurd	ADJ	ADJD	_	51	advmod	_	_
+51	erscheinende	erscheinend	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Plur	52	amod	_	_
+52	Zweckbündnis	Zweckbündnis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	57	obj	_	_
+53	mit	mit	ADP	APPR	_	55	case	_	_
+54	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	55	det	_	_
+55	Sozialdemokraten	Sozialdemokrat	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	52	nmod	_	_
+56	zu	zu	PART	PTKZU	_	57	mark	_	_
+57	entscheiden	entscheiden	VERB	VVINF	VerbForm=Inf	40	acl	_	_
+58	.	.	PUNCT	$.	_	41	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es, EXP_coordination, EXP_anim_proxy;;
+widerstreben;NZZ_1998_07_25_a37_seg1_s35;11;Es wäre unsinnig , wollte die Schweiz der europäischen Öffnungspolitik widerstreben .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	wäre	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	unsinnig	unsinnig	ADJ	ADJD	_	0	root	_	_
+4	,	,	PUNCT	$,	_	11	punct	_	_
+5	wollte	wollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+6	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Schweiz	Schweiz	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+8	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	europäischen	europäisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	10	amod	_	_
+10	Öffnungspolitik	Öffnungspolitik	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	11	iobj	_	_
+11	widerstreben	widerstreben	VERB	VVINF	VerbForm=Inf	3	conj	_	_
+12	.	.	PUNCT	$.	_	3	punct	_	_
+";;x;x;;;;;;;;;;;;;;;anim_proxy;;;;polysemous;;
+widerstreben;NZZ_1998_08_21_a14_seg5_s11;3;Ihr jedenfalls widerstrebe die Überhöhung des Jahrestags .;"1	Ihr	Ihr|ihr	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	jedenfalls	jedenfalls	ADV	ADV	_	3	advmod	_	_
+3	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	Überhöhung	Überhöhung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	_
+6	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	Jahrestags	Jahrestag	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1998_09_10_a150_seg2_s6;2;Es widerstrebt jeglichem prätentiösen Getue um « Emotionen » und « Authentizität » .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	jeglichem	jeglich	PRON	PIAT	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	5	det	_	_
+4	prätentiösen	prätentiös	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	5	amod	_	_
+5	Getue	Getue	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	2	iobj	_	_
+6	um	um	ADP	APPR	_	8	case	_	_
+7	«	""	PUNCT	$(	_	8	punct	_	_
+8	Emotionen	Emotion	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	5	nmod	_	_
+9	»	""	PUNCT	$(	_	8	punct	_	_
+10	und	und	CCONJ	KON	_	12	cc	_	_
+11	«	""	PUNCT	$(	_	12	punct	_	_
+12	Authentizität	Authentizität	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	_
+13	»	""	PUNCT	$(	_	12	punct	_	_
+14	.	.	PUNCT	$.	_	2	punct	_	_
+";;x;x;;;;;;;;;;;;;;;ambiguous;;;;polysemous;;
+widerstreben;NZZ_1998_09_26_a230_seg3_s7;18;Und man beachte , dass allein schon die Idee einer grossen Stadt dem Empfinden der authentischen Schweizer widerstrebt , welche wissen , dass sie in einem Verband freier Gemeinden leben , in dem jede Zusammenballung fatal wäre , jedes Überhandnehmen einzelner Organe zum Schaden des Gesamtkörpers .;"1	Und	und	CCONJ	KON	_	3	cc	_	_
+2	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	beachte	beachen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	,	,	PUNCT	$,	_	18	punct	_	_
+5	dass	dass	SCONJ	KOUS	_	18	mark	_	_
+6	allein	allein	ADV	ADV	_	18	advmod	_	_
+7	schon	schon	ADV	ADV	_	9	advmod	_	_
+8	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Idee	Idee	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+10	einer	ein	DET	ART	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	grossen	groß	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	12	amod	_	_
+12	Stadt	Stadt	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+13	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+14	Empfinden	Empfinden	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	18	iobj	_	_
+15	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	authentischen	authentisch	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Plur	17	amod	_	_
+17	Schweizer	Schweizer	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	_
+18	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+19	,	,	PUNCT	$,	_	21	punct	_	_
+20	welche	welch	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	21	nsubj	_	_
+21	wissen	wissen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl	_	_
+22	,	,	PUNCT	$,	_	30	punct	_	_
+23	dass	dass	SCONJ	KOUS	_	30	mark	_	_
+24	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	_
+25	in	in	ADP	APPR	_	27	case	_	_
+26	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+27	Verband	Verband	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	30	obl	_	_
+28	freier	frei	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Plur	29	amod	_	_
+29	Gemeinden	Gemeinde	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	27	nmod	_	_
+30	leben	leben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
+31	,	,	PUNCT	$,	_	36	punct	_	_
+32	in	in	ADP	APPR	_	33	case	_	_
+33	dem	der	PRON	PRELS	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	36	nmod	_	_
+34	jede	jed	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	35	det	_	_
+35	Zusammenballung	Zusammenballung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	36	nsubj	_	_
+36	fatal	fatal	ADJ	ADJD	_	29	acl	_	_
+37	wäre	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	cop	_	_
+38	,	,	PUNCT	$,	_	40	punct	_	_
+39	jedes	jed	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	40	det	_	_
+40	Überhandnehmen	Überhandnehmen	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	44	nsubj	_	_
+41	einzelner	einzeln	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Plur	42	amod	_	_
+42	Organe	Organ	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	40	nmod	_	_
+43	zum	zum	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
+44	Schaden	Schaden	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	36	conj	_	_
+45	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
+46	Gesamtkörpers	Gesamtkörpers	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	44	nmod	_	_
+47	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object;NZZ;
+widerstreben;NZZ_1998_10_06_a127_seg4_s30;13;Jeder weiss , dass ich mit grösstem Ernst arbeite , und trotzdem widerstrebt es mir , meine Arbeit allzu ernst zu nehmen .;"1	Jeder	jed	PRON	PIS	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	_
+2	weiss	wissen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	,	,	PUNCT	$,	_	9	punct	_	_
+4	dass	dass	SCONJ	KOUS	_	9	mark	_	_
+5	ich	ich	PRON	PPER	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+6	mit	mit	ADP	APPR	_	8	case	_	_
+7	grösstem	groß	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	8	amod	_	_
+8	Ernst	Ernst	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+9	arbeite	arbeiten	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+10	,	,	PUNCT	$,	_	13	punct	_	_
+11	und	und	CCONJ	KON	_	13	cc	_	_
+12	trotzdem	trotzdem	ADV	PAV	_	13	advmod	_	_
+13	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+14	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	expl	_	_
+15	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	13	iobj	_	_
+16	,	,	PUNCT	$,	_	22	punct	_	_
+17	meine	mein	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det:poss	_	_
+18	Arbeit	Arbeit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	_
+19	allzu	allzu	ADV	ADV	_	22	advmod	_	_
+20	ernst	ernst	ADJ	ADJD	_	22	advmod	_	_
+21	zu	zu	PART	PTKZU	_	22	mark	_	_
+22	nehmen	nehmen	VERB	VVINF	VerbForm=Inf	13	xcomp	_	_
+23	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1998_11_07_a253_seg7_s19;18;Jan Ross betont das Rebellische , Gebrochene und Willensmässig-Nietzscheanische dieser Entscheidung , die einer simplen frommen Deutung widerstrebe , und er hebt schliesslich in sehr pauschaler und etwas wohlfeiler Art die « Wahrhaftigkeitstat » Schweitzers gegenüber der - wie er meint - « dialektischen Mogelei » der übrigen Theologie dieses Jahrhunderts im Umgang mit dem Problem der Eschatologie hervor .;"1	Jan	Jan	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	Ross	Roß	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
+3	betont	betonen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Rebellische	Rebellisch	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	,	,	PUNCT	$,	_	7	punct	_	_
+7	Gebrochene	Gebrochene	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+8	und	und	CCONJ	KON	_	9	cc	_	_
+9	Willensmässig-Nietzscheanische	Willensmässig-Nietzeanisch	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+10	dieser	dies	PRON	PDAT	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	Entscheidung	Entscheidung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+12	,	,	PUNCT	$,	_	18	punct	_	_
+13	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
+14	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+15	simplen	simpl	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	17	amod	_	_
+16	frommen	fromm	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	17	amod	_	_
+17	Deutung	Deutung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	18	iobj	_	_
+18	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
+19	,	,	PUNCT	$,	_	22	punct	_	_
+20	und	und	CCONJ	KON	_	22	cc	_	_
+21	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+22	hebt	heben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+23	schliesslich	schliesslich	ADJ	ADJD	_	22	advmod	_	_
+24	in	in	ADP	APPR	_	30	case	_	_
+25	sehr	sehr	ADV	ADV	_	26	advmod	_	_
+26	pauschaler	pauschal	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	30	amod	_	_
+27	und	und	CCONJ	KON	_	29	cc	_	_
+28	etwas	etwas	ADV	ADV	_	29	advmod	_	_
+29	wohlfeiler	wohlfeil	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	26	conj	_	_
+30	Art	Art	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	22	obl	_	_
+31	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+32	«	""	PUNCT	$(	_	33	punct	_	_
+33	Wahrhaftigkeitstat	Wahrhaftigkeitstat	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	_
+34	»	""	PUNCT	$(	_	33	punct	_	_
+35	Schweitzers	Schweitzers	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
+36	gegenüber	gegenüber	ADP	APPR	_	37	case	_	_
+37	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
+38	-	-	PUNCT	$(	_	37	punct	_	_
+39	wie	wie	ADP	KOKOM	_	40	case	_	_
+40	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	obl	_	_
+41	meint	meinen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl	_	_
+42	-	-	PUNCT	$(	_	45	punct	_	_
+43	«	""	PUNCT	$(	_	45	punct	_	_
+44	dialektischen	dialektisch	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	45	amod	_	_
+45	Mogelei	Mogelei	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	41	obj	_	_
+46	»	""	PUNCT	$(	_	45	punct	_	_
+47	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
+48	übrigen	übrig	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	49	amod	_	_
+49	Theologie	Theologie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	45	nmod	_	_
+50	dieses	dies	PRON	PDAT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	51	det	_	_
+51	Jahrhunderts	Jahrhundert	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	49	nmod	_	_
+52	im	em	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	_
+53	Umgang	Umgang	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	obj	_	_
+54	mit	mit	ADP	APPR	_	56	case	_	_
+55	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	56	det	_	_
+56	Problem	Problem	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	53	nmod	_	_
+57	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	58	det	_	_
+58	Eschatologie	Eschatologie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	56	nmod	_	_
+59	hervor	hervor	ADV	PTKVZ	_	22	compound:prt	_	_
+60	.	.	PUNCT	$.	_	3	punct	_	_
+";;x;x;;;;;;;;;;;;;;;inanim;;;;polysemous;;
+widerstreben;NZZ_1998_11_28_a162_seg4_s16;5;Als ökologisch denkendem Menschen widerstrebe es ihm , ohne Sinn die Luft zu belasten .;"1	Als	als	ADP	KOKOM	_	4	case	_	_
+2	ökologisch	ökologisch	ADJ	ADJD	_	3	advmod	_	_
+3	denkendem	denkend	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	_
+4	Menschen	Mensch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	_
+5	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+7	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+8	,	,	PUNCT	$,	_	14	punct	_	_
+9	ohne	ohne	ADP	KOUI	_	14	case	_	_
+10	Sinn	Sinn	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+11	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	Luft	Luft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+13	zu	zu	PART	PTKZU	_	14	mark	_	_
+14	belasten	belasten	VERB	VVINF	VerbForm=Inf	5	advcl	_	_
+15	.	.	PUNCT	$.	_	5	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1998_12_18_a187_seg3_s15;2;Denervaud widerstrebt vor allem die Absicht der FIS , im Snowboard die Strukturen aus dem Skisport einzuführen .;"1	Denervaud	Denervaud	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	vor	vor	ADP	APPR	_	4	case	_	_
+4	allem	alle	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	2	obl	_	_
+5	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Absicht	Absicht	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+7	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	FIS	Fis	PROPN	NE	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	,	,	PUNCT	$,	_	17	punct	_	_
+10	im	im	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	17	iobj	_	_
+11	Snowboard	Snowboard	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	10	flat	_	_
+12	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
+13	Strukturen	Struktur	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	_
+14	aus	aus	ADP	APPR	_	16	case	_	_
+15	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Skisport	Skisport	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	_
+17	einzuführen	einführen	VERB	VVIZU	VerbForm=Inf	6	acl	_	_
+18	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+widerstreben;NZZ_1999_03_13_a2_seg12_s3;11;Dem auf Konsens und Zustimmung in der Bevölkerung bedachten Kanzler widerstrebt der von Lafontaine inszenierte Dauerkonflikt mit Wirtschaft und Opposition , insofern dürfte sich das innenpolitische Klima in Deutschland entspannen .;"1	Dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+2	auf	auf	ADP	APPR	_	3	case	_	_
+3	Konsens	Konsen	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	_
+4	und	und	CCONJ	KON	_	5	cc	_	_
+5	Zustimmung	Zustimmung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	_
+6	in	in	ADP	APPR	_	8	case	_	_
+7	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Bevölkerung	Bevölkerung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	3	nmod	_	_
+9	bedachten	bedacht	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
+10	Kanzler	Kanzler	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+13	von	von	ADP	APPR	_	14	case	_	_
+14	Lafontaine	Lafontaine	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	15	nmod	_	_
+15	inszenierte	inszeniert	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	_
+16	Dauerkonflikt	Dauerkonflikt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+17	mit	mit	ADP	APPR	_	18	case	_	_
+18	Wirtschaft	Wirtschaft	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	16	nmod	_	_
+19	und	und	CCONJ	KON	_	20	cc	_	_
+20	Opposition	Opposition	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	18	conj	_	_
+21	,	,	PUNCT	$,	_	30	punct	_	_
+22	insofern	insofern	ADV	ADV	_	30	advmod	_	_
+23	dürfte	dürfen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	_
+24	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	30	obj	_	_
+25	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	27	det	_	_
+26	innenpolitische	innenpolitisch	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	27	amod	_	_
+27	Klima	Klima	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	_
+28	in	in	ADP	APPR	_	29	case	_	_
+29	Deutschland	Deutschland	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	30	obl	_	_
+30	entspannen	entspannen	VERB	VVINF	VerbForm=Inf	11	conj	_	_
+31	.	.	PUNCT	$.	_	11	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1999_09_09_a107_seg7_s6;2;So widerstrebt es ihnen doch , eine Minderung des ausgewiesenen Unternehmenswertes per simplen Federstrich hinzunehmen .;"1	So	so	ADV	ADV	_	2	advmod	_	_
+2	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+4	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	iobj	_	_
+5	doch	doch	ADV	ADV	_	2	advmod	_	_
+6	,	,	PUNCT	$,	_	15	punct	_	_
+7	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Minderung	Minderung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+9	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+10	ausgewiesenen	ausgewiesen	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Sing	11	amod	_	_
+11	Unternehmenswertes	Unternehmenswert	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+12	per	per	ADP	APPR	_	14	case	_	_
+13	simplen	simpl	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	14	amod	_	_
+14	Federstrich	Federstrich	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	_
+15	hinzunehmen	hinzunehmen	VERB	VVIZU	VerbForm=Inf	2	csubj	_	_
+16	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
+widerstreben;NZZ_1999_09_29_a1_seg9_s6;12;Der Einsatz moderner Mittel für traditionelle Werte von Recht und Ordnung widerstrebt dem Labour-Führer keineswegs .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Einsatz	Einsatz	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+3	moderner	modern	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	_
+4	Mittel	Mittel	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	2	nmod	_	_
+5	für	für	ADP	APPR	_	7	case	_	_
+6	traditionelle	traditionell	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Plur	7	amod	_	_
+7	Werte	Wert	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	_
+8	von	von	ADP	APPR	_	9	case	_	_
+9	Recht	Recht	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	_
+10	und	und	CCONJ	KON	_	11	cc	_	_
+11	Ordnung	Ordnung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	conj	_	_
+12	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Labour-Führer	Labour-Führer	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	_
+15	keineswegs	keineswegs	ADV	ADV	_	12	advmod	_	_
+16	.	.	PUNCT	$.	_	12	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+widerstreben;NZZ_1999_10_02_a183_seg3_s9;2;Dies widerstrebe zwar vielen Lehrkräften , aber eine genau abgesteckte Toleranzschwelle gebe den Schülern eine Grenze vor , an der sie sich orientieren könnten .;"1	Dies	dies	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	widerstrebe	widerstrebe	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zwar	zwar	ADV	ADV	_	2	advmod	_	_
+4	vielen	viel	DET	PIAT	Case=Dat|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	5	amod	_	_
+5	Lehrkräften	Lehrkraft	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	2	iobj	_	_
+6	,	,	PUNCT	$,	_	12	punct	_	_
+7	aber	aber	CCONJ	KON	_	12	cc	_	_
+8	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+9	genau	genau	ADJ	ADV	_	10	advmod	_	_
+10	abgesteckte	abgesteckt	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	11	amod	_	_
+11	Toleranzschwelle	Toleranzschwelle	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+12	gebe	geben	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	Schülern	Schüler	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	12	iobj	_	_
+15	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Grenze	Grenze	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+17	vor	vor	ADP	PTKVZ	_	12	compound:prt	_	_
+18	,	,	PUNCT	$,	_	23	punct	_	_
+19	an	an	ADP	APPR	_	20	case	_	_
+20	der	der	PRON	PRELS	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	23	obl	_	_
+21	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	_
+22	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	23	obj	_	_
+23	orientieren	orientieren	VERB	VVINF	VerbForm=Inf	16	acl	_	_
+24	könnten	können	AUX	VMFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	_
+25	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;;;
+widerstreben;NZZ_1999_10_22_a170_seg12_s3;39;Finsler räumte nun zwar ein , dass unter dem Kollegialsystem nicht alles so sei , wie man es sich wünschen könnte , und dass das Direktorialsystem durchaus Vorteile gewähre , doch die Nachteile seien grösser : « Es widerstrebt dem allgemeinen Gefühle , Wohl und Wehe ganzer Zweige in eines Einzelnen Hand zu legen . »;"1	Finsler	Finsler	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	räumte	räumen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	nun	nun	ADV	ADV	_	2	advmod	_	_
+4	zwar	zwar	ADV	ADV	_	2	advmod	_	_
+5	ein	ein	ADV	PTKVZ	_	2	compound:prt	_	_
+6	,	,	PUNCT	$,	_	14	punct	_	_
+7	dass	dass	SCONJ	KOUS	_	14	mark	_	_
+8	unter	unter	ADP	APPR	_	10	case	_	_
+9	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	Kollegialsystem	Kollegialsystem	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	14	obl	_	_
+11	nicht	nicht	PART	PTKNEG	Polarity=Neg	14	advmod	_	_
+12	alles	alle	PRON	PIS	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	14	nsubj	_	_
+13	so	so	ADV	ADV	_	14	advmod	_	_
+14	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+15	,	,	PUNCT	$,	_	20	punct	_	_
+16	wie	wie	SCONJ	KOUS	_	20	mark	_	_
+17	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	20	nsubj	_	_
+18	es	es	PRON	PPER	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+19	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	obj	_	_
+20	wünschen	wünschen	VERB	VVINF	VerbForm=Inf	14	ccomp	_	_
+21	könnte	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
+22	,	,	PUNCT	$,	_	29	punct	_	_
+23	und	und	CCONJ	KON	_	29	cc	_	_
+24	dass	dass	SCONJ	KOUS	_	29	mark	_	_
+25	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	26	det	_	_
+26	Direktorialsystem	Direktorialsystem	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	_
+27	durchaus	durchaus	ADV	ADV	_	29	advmod	_	_
+28	Vorteile	Vorteil	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	29	obj	_	_
+29	gewähre	gewähren	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
+30	,	,	PUNCT	$,	_	35	punct	_	_
+31	doch	doch	CCONJ	KON	_	35	cc	_	_
+32	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
+33	Nachteile	Nachteil	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	_
+34	seien	sein	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
+35	grösser	groß	ADJ	ADJD	_	2	conj	_	_
+36	:	:	PUNCT	$.	_	39	punct	_	_
+37	«	""	PUNCT	$(	_	39	punct	_	_
+38	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	39	expl	_	_
+39	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	parataxis	_	_
+40	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	42	det	_	_
+41	allgemeinen	allgemein	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	42	amod	_	_
+42	Gefühle	Gefühl	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	39	iobj	_	_
+43	,	,	PUNCT	$,	_	54	punct	_	_
+44	Wohl	wohl	ADV	ADV	_	54	advmod	_	_
+45	und	und	CCONJ	KON	_	46	cc	_	_
+46	Wehe	Wehe	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	42	conj	_	_
+47	ganzer	ganz	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Plur	48	amod	_	_
+48	Zweige	Zweig	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	46	nmod	_	_
+49	in	in	ADP	APPR	_	51	case	_	_
+50	eines	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	51	det	_	_
+51	Einzelnen	Einzelne	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	54	obl	_	_
+52	Hand	Hand	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	54	obj	_	_
+53	zu	zu	PART	PTKZU	_	54	mark	_	_
+54	legen	legen	VERB	VVINF	VerbForm=Inf	39	xcomp	_	_
+55	.	.	PUNCT	$.	_	39	punct	_	_
+56	»	""	PUNCT	$(	_	39	punct	_	_
+";;;x;;;;;;;;;;;;;;;propositional;;;;EXP-related_object, non-phoric_es;;
+widerstreben;NZZ_1999_12_17_a52_seg15_s3;3;Vielen Menschen widerstrebt das .;"1	Vielen	viel	DET	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	Menschen	Mensch	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+3	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+5	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;;;

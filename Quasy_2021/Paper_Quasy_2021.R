@@ -16,18 +16,18 @@ verben <- sapply(dateinamenliste_csv, str_sub, 16, -5)
 names(df_liste_csv) <- verben
 
 df_csv <- bind_rows(df_liste_csv, .id = "Verb") %>%
-  select(1:25) # without Misc 2.
+  select(1:27) # without Misc and Misc 2.
 
 
 ##### data wrangling #####
 
 # creating one pattern column
-for(i in 6:20){
+for(i in 8:22){
   df_csv[,i] <- ifelse(is.na(df_csv[,i]), "", colnames(df_csv)[i])
 }
 
 # main df
-df_all_verbs_cat <- unite(df_csv, pattern, 6:20, sep = "", remove = T)
+df_all_verbs_cat <- unite(df_csv, pattern, 8:22, sep = "", remove = T)
 
 # factorizing
 df_all_verbs_cat$pattern <- factor(df_all_verbs_cat$pattern)

@@ -6,8 +6,11 @@ This repository contains a set of annotations on German sentences containing an 
 This folder contains the annotations: one CSV file per verb, encoding: utf-8, separator: ;
 
 Data points go by rows, annotations by columns. The columns:
+* Verb: verb lemma
 * NZZ_ID: Unique identifier of sentence
 * Token_ID: position of verb in sentence
+* Sentence: the sentence
+* Sentence CoNLL: contains grammatical information on the sentence presented in CoNLL-U format, i.e. one word per line, properties separated by whitespace. The properties: word ID, word, lemma, universal part-of-speech tag, STTS tag, morphological features, ID of syntactic head, dependency relation between the word and its head (Universal Dependencies, cf. (de Marneffe et al., 2021)). Automatically generated with Stanza 1.2.3 (Qi et al., 2020) using the default models for German, which were trained on the gsd corpus (McDonald et al., 2013).
 * not_of_interest: X or empty, should data point be excluded?
 * non-psych: X or empty, does the verb have a psych reading in this sentence?
 * X-STM_V_Y-EXP -- tough: X or empty, syntactic pattern

@@ -1,30 +1,775 @@
-NZZ_ID;Token_ID;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
-NZZ_1993_01_11_a29_seg2_s26;15;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1993_06_05_a117_seg2_s61;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;ambiguous;„sehr“ seems to modify „nahe“ (instead of „nahegehen“);
-NZZ_1994_09_03_a200_seg3_s11;27;;;;x;;;;;;;;;;;;;;inanim;;;;title;;
-NZZ_1994_09_24_a121_seg7_s3;2;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1995_04_18_a95_seg3_s22;40;;;x;;;;;;;;;;;;;;;inanim;;;;metonymic_EXP;metaphoric? Ungrammatical?;
-NZZ_1995_01_07_a145_seg3_s22;2;;;;x;;;;;;;;;;;;;;ambiguous;;;;;probably propositional;
-NZZ_1995_01_21_a189_seg3_s137;8;x;;;;;;;;;;;;;;;;;;;;;false hit;;
-NZZ_1995_05_03_a186_seg4_s2;3;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;„sehr“ seems to modify „nahe“ (instead of „nahegehen“), PA?;
-NZZ_1995_09_09_a183_seg9_s28;10;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1996_02_09_a115_seg3_s14;20;;;x;;;;;;;;;;;;;;;ambiguous;;;;ambiguous;es could also be non-phoric?;
-NZZ_1996_07_16_a95_seg5_s5;36;;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
-NZZ_1996_11_08_a77_seg15_s15;2;x;;;;;;;;;;;;;;;;;;;;;false hit;;
-NZZ_1996_10_01_a47_seg14_s10;7;x;;;;;;;;;;;;;;;;;;;;;fragment;;
-NZZ_1996_10_05_a196_seg9_s9;12;;;x;;;;;;;;;;;;;;;inanim;;;;;PA?;
-NZZ_1996_09_19_a230_seg8_s1;13;;;;x;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1996_09_27_a158_seg3_s19;6;;;;x;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1997_01_04_a121_seg3_s16;32;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;generic EXP;
-NZZ_1997_06_14_a48_seg8_s5;15;;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;PA?;
-NZZ_1997_11_06_a130_seg3_s30;19;;;x;;;;;;;;;;;;;;;inanim;;;;;ambiguous?;
-NZZ_1997_11_22_a218_seg5_s7;2;;;x;;;;;;;;;;;;;;;ambiguous;;;;;„sehr“ seems to modify „nahe“ (instead of „nahegehen“);
-NZZ_1998_08_07_a141_seg3_s34;29;;;x;;;;;;;;;;;;;;;anim;in;;;;;
-NZZ_1998_05_30_a252_seg9_s5;22;;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun, STM_coordination;Geist STM_psych_noun in coordination;
-NZZ_1998_11_06_a127_seg3_s5;37;;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun;Menge;
-NZZ_1998_09_18_a141_seg3_s9;14;;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;PA?;
-NZZ_1999_12_02_a194_seg5_s6;25;;;x;;;;;;;;;;;;;;;ambiguous;;;;ambiguous;could also be non-phoric_es;
-NZZ_1999_12_23_a201_seg10_s18;5;;;x;;;;;;;;;;;;;;;inanim;;;;;;
-NZZ_1999_01_25_a1_seg8_s5;45;;;x;;;;;;;;;;;;;;;inanim;;;;ungrammatical;;
-NZZ_1999_11_25_a209_seg3_s6;25;x;;;;;;;;;;;;;;;;;;;;;duplicate;;
-NZZ_1999_09_02_a194_seg4_s5;10;;;x;;;;;;;;;;;;;;;inanim;;;;;;
+Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y-EXP;X-STM_V;sein_V-PII;werden_V-PII;X_lassen_refl_V;X_V_refl;refl_V-PII_zeigen;NoAux_V-PII;Acc/Dat-EXP_V;wirken/scheinen_V-PII;X-CAUS_V_Y-EXP_PP;Nom-EXP_V;EXP_V_refl_Gen-STM;sein_zu-Inf;tough;Stimulus_Type;Stimulus_PP;Control;Other_stimulus_adjunct;Comment;Misc;Misc 2
+nahegehen;NZZ_1993_01_11_a29_seg2_s26;15;Und , seltsam genug , gerade diese Verfremdung bewirkt , dass das Buch einem nahegeht .;"1	Und	und	CCONJ	KON	_	3	cc	_	_
+2	,	,	PUNCT	$,	_	3	punct	_	_
+3	seltsam	seltsam	ADJ	ADJD	_	0	root	_	_
+4	genug	genug	ADV	ADV	_	3	advmod	_	_
+5	,	,	PUNCT	$,	_	9	punct	_	_
+6	gerade	gerade	ADV	ADV	_	9	advmod	_	_
+7	diese	dies	PRON	PDAT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	Verfremdung	Verfremdung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+9	bewirkt	bewirken	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+10	,	,	PUNCT	$,	_	11	punct	_	_
+11	dass	dass	SCONJ	KOUS	_	9	mark	_	_
+12	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	Buch	Buch	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+14	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	nahegeht	nahegeht	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	_
+16	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+nahegehen;NZZ_1993_06_05_a117_seg2_s61;2;Es gehe einem jedesmal sehr nahe .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	gehe	gehen	VERB	VVFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	einem	ein	PRON	PIS	Case=Dat|Definite=Ind|Number=Sing|PronType=Ind	2	iobj	_	_
+4	jedesmal	jedesmal	ADV	ADV	_	2	advmod	_	_
+5	sehr	sehr	ADV	ADV	_	2	advmod	_	_
+6	nahe	nahe	ADV	PTKVZ	_	2	compound:prt	_	_
+7	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;ambiguous;„sehr“ seems to modify „nahe“ (instead of „nahegehen“);
+nahegehen;NZZ_1994_09_03_a200_seg3_s11;27;Schon das Eröffnungslied , « Delia ' s Gone » , die Neuinterpretation einer alten Mörderballade , die Cash bereits in den sechziger Jahren sang , geht unmittelbar nahe und stimmt auf einen Zyklus oft düsterer Lieder ein .;"1	Schon	schon	ADV	ADV	_	3	advmod	_	_
+2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	Eröffnungslied	Eröffnungslied	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	27	nsubj	_	_
+4	,	,	PUNCT	$,	_	8	punct	_	_
+5	«	""	PUNCT	$(	_	8	punct	_	_
+6	Delia	Delia	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	_
+7	'	'	PUNCT	$(	_	6	punct	_	_
+8	s	s	PROPN	NE	Foreign=Yes	3	appos	_	_
+9	Gone	Gone	PROPN	NE	Case=Nom|Number=Sing	8	flat	_	_
+10	»	""	PUNCT	$(	_	8	punct	_	_
+11	,	,	PUNCT	$,	_	13	punct	_	_
+12	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	Neuinterpretation	Neuinterpretation	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	_
+14	einer	ein	DET	ART	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	alten	alt	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	16	amod	_	_
+16	Mörderballade	Mörderballade	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+17	,	,	PUNCT	$,	_	25	punct	_	_
+18	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj	_	_
+19	Cash	Cash	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+20	bereits	bereits	ADV	ADV	_	25	advmod	_	_
+21	in	in	ADP	APPR	_	24	case	_	_
+22	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	24	det	_	_
+23	sechziger	sechziger	ADJ	ADJA	_	24	amod	_	_
+24	Jahren	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	25	obl	_	_
+25	sang	singen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	acl	_	_
+26	,	,	PUNCT	$,	_	25	punct	_	_
+27	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+28	unmittelbar	unmittelbar	ADJ	ADJD	_	27	advmod	_	_
+29	nahe	nahe	ADV	PTKVZ	_	27	compound:prt	_	_
+30	und	und	CCONJ	KON	_	31	cc	_	_
+31	stimmt	stimmen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
+32	auf	auf	ADP	APPR	_	34	case	_	_
+33	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	Zyklus	Zyklus	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	_
+35	oft	oft	ADV	ADV	_	31	advmod	_	_
+36	düsterer	düster	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	37	amod	_	_
+37	Lieder	Lied	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	34	nmod	_	_
+38	ein	ein	ADV	PTKVZ	_	31	compound:prt	_	_
+39	.	.	PUNCT	$.	_	27	punct	_	_
+";;;;x;;;;;;;;;;;;;;inanim;;;;title;;
+nahegehen;NZZ_1994_09_24_a121_seg7_s3;2;Paris ging ihm nahe , weil es vorführte , was allgegenwärtiger Verfall , modernistisch verbrämt und als gedankenlose Massenveranstaltung inszeniert , bedeuten konnte .;"1	Paris	Paris	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	ging	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+4	nahe	nahe	ADV	PTKVZ	_	2	compound:prt	_	_
+5	,	,	PUNCT	$,	_	8	punct	_	_
+6	weil	weil	SCONJ	KOUS	_	8	mark	_	_
+7	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	vorführte	vorführen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
+9	,	,	PUNCT	$,	_	22	punct	_	_
+10	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	nsubj	_	_
+11	allgegenwärtiger	allgegenwärtig	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	12	amod	_	_
+12	Verfall	Verfall	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	obj	_	_
+13	,	,	PUNCT	$,	_	15	punct	_	_
+14	modernistisch	modernistisch	ADJ	ADJD	_	15	advmod	_	_
+15	verbrämt	verbrämen	ADJ	ADJD	_	12	conj	_	_
+16	und	und	CCONJ	KON	_	19	cc	_	_
+17	als	als	ADP	KOKOM	_	19	case	_	_
+18	gedankenlose	gedankenlos	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	19	amod	_	_
+19	Massenveranstaltung	Massenveranstaltung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	20	obl	_	_
+20	inszeniert	inszenieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl	_	_
+21	,	,	PUNCT	$,	_	20	punct	_	_
+22	bedeuten	bedeuten	VERB	VVINF	VerbForm=Inf	8	ccomp	_	_
+23	konnte	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	_
+24	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+nahegehen;NZZ_1995_04_18_a95_seg3_s22;40;» Und mitunter wird sichtbar , woher die bald greifbare , bald verwehte Trauer ( « Eine Art geheimer , öffentlicher Traurigkeit erfüllte mein Herz » ) rührt : es ist der Verlust an Wirklichkeit , was den Texten nahegeht .;"1	»	""	PUNCT	$(	_	4	punct	_	_
+2	Und	und	CCONJ	KON	_	4	cc	_	_
+3	mitunter	mitunter	ADV	ADV	_	4	advmod	_	_
+4	wird	werden	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	sichtbar	sichtbar	ADJ	ADJD	_	4	xcomp	_	_
+6	,	,	PUNCT	$,	_	28	punct	_	_
+7	woher	woher	ADV	PWAV	PronType=Int	28	advmod	_	_
+8	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+9	bald	bald	ADV	ADV	_	10	advmod	_	_
+10	greifbare	greifbar	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	14	amod	_	_
+11	,	,	PUNCT	$,	_	10	punct	_	_
+12	bald	bald	ADV	ADV	_	13	advmod	_	_
+13	verwehte	verweht	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
+14	Trauer	Trauer	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
+15	(	(	PUNCT	$(	_	18	punct	_	_
+16	«	""	PUNCT	$(	_	18	punct	_	_
+17	Eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	Art	Art	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	14	appos	_	_
+19	geheimer	geheim	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Plur	22	amod	_	_
+20	,	,	PUNCT	$,	_	21	punct	_	_
+21	öffentlicher	öffentlich	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	19	conj	_	_
+22	Traurigkeit	Traurigkeit	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+23	erfüllte	erfüllen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl	_	_
+24	mein	mein	DET	PPOSAT	Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	25	det:poss	_	_
+25	Herz	Herz	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	23	obj	_	_
+26	»	""	PUNCT	$(	_	23	punct	_	_
+27	)	)	PUNCT	$(	_	23	punct	_	_
+28	rührt	rühren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
+29	:	:	PUNCT	$.	_	33	punct	_	_
+30	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	33	nsubj	_	_
+31	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cop	_	_
+32	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	Verlust	Verlust	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	28	parataxis	_	_
+34	an	an	ADP	APPR	_	35	case	_	_
+35	Wirklichkeit	Wirklichkeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	33	nmod	_	_
+36	,	,	PUNCT	$,	_	40	punct	_	_
+37	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	40	nsubj	_	_
+38	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
+39	Texten	Text|Texten	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	40	iobj	_	_
+40	nahegeht	nahegehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl	_	_
+41	.	.	PUNCT	$.	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;metonymic_EXP;metaphoric? Ungrammatical?;
+nahegehen;NZZ_1995_01_07_a145_seg3_s22;2;Das geht nahe , auch heute noch , immer wieder .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nahe	nahe	ADV	PTKVZ	_	2	compound:prt	_	_
+4	,	,	PUNCT	$,	_	7	punct	_	_
+5	auch	auch	ADV	ADV	_	6	advmod	_	_
+6	heute	heute	ADV	ADV	_	2	advmod	_	_
+7	noch	noch	ADV	ADV	_	2	advmod	_	_
+8	,	,	PUNCT	$,	_	10	punct	_	_
+9	immer	immer	ADV	ADV	_	10	advmod	_	_
+10	wieder	wieder	ADV	ADV	_	2	advmod	_	_
+11	.	.	PUNCT	$.	_	2	punct	_	_
+";;;;x;;;;;;;;;;;;;;ambiguous;;;;;probably propositional;
+nahegehen;NZZ_1995_01_21_a189_seg3_s137;8;Das war noch in Beirut , er ging zu einem politischen Treffen in ein Kaffeehaus nahe beim Hafen .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	noch	noch	ADV	ADV	_	2	advmod	_	_
+4	in	in	ADP	APPR	_	5	case	_	_
+5	Beirut	Beirut	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	$,	_	8	punct	_	_
+7	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	ging	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	zu	zu	ADP	APPR	_	12	case	_	_
+10	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+11	politischen	politisch	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	12	amod	_	_
+12	Treffen	Treffen	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+13	in	in	ADP	APPR	_	15	case	_	_
+14	ein	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	det	_	_
+15	Kaffeehaus	Kaffeehaus	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	_
+16	nahe	nahe	ADP	APPR	_	18	case	_	_
+17	beim	beim	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	Hafen	Hafen	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	15	nmod	_	_
+19	.	.	PUNCT	$.	_	2	punct	_	_
+";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+nahegehen;NZZ_1995_05_03_a186_seg4_s2;3;Ihre Absicht geht mir sehr nahe , denn was dieser Mann in Mauthausen geleistet hat , gehört mit zu den besonderen Gesten in der Geschichte des humanitären Wirkens .;"1	Ihre	Ihr|ihr	DET	PPOSAT	Case=Nom|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
+2	Absicht	Absicht	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+5	sehr	sehr	ADV	ADV	_	3	advmod	_	_
+6	nahe	nahe	ADV	PTKVZ	_	3	compound:prt	_	_
+7	,	,	PUNCT	$,	_	14	punct	_	_
+8	denn	denn	SCONJ	KON	_	14	mark	_	_
+9	was	was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	14	nsubj	_	_
+10	dieser	dies	PRON	PDAT	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+11	Mann	Mann	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	in	in	ADP	APPR	_	13	case	_	_
+13	Mauthausen	Mauthausen	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	14	obl	_	_
+14	geleistet	leisten	VERB	VVPP	VerbForm=Part	3	ccomp	_	_
+15	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+16	,	,	PUNCT	$,	_	14	punct	_	_
+17	gehört	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+18	mit	mit	ADP	ADV	_	17	advmod	_	_
+19	zu	zu	ADP	APPR	_	22	case	_	_
+20	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+21	besonderen	besonder	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	22	amod	_	_
+22	Gesten	Gest	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	17	obl	_	_
+23	in	in	ADP	APPR	_	25	case	_	_
+24	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	Geschichte	Geschichte	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	22	nmod	_	_
+26	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	28	det	_	_
+27	humanitären	humanitär	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Sing	28	amod	_	_
+28	Wirkens	Wirken	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	_
+29	.	.	PUNCT	$.	_	3	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;„sehr“ seems to modify „nahe“ (instead of „nahegehen“), PA?;
+nahegehen;NZZ_1995_09_09_a183_seg9_s28;10;Uns Schweizern müsste dieses Element personorientierter politischer Ethik besonders nahegehen , lassen wir uns doch in Erinnerung an den legendären Rütlischwur im In- und Ausland als « Eidgenossen » bezeichnen .;"1	Uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	10	iobj	_	_
+2	Schweizern	Schweizern	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	10	iobj	_	_
+3	müsste	müssen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+4	dieses	dies	PRON	PDAT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	Element	Element	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+6	personorientierter	personorientierter	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+7	politischer	politisch	ADJ	ADJA	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+8	Ethik	Ethik	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	_
+9	besonders	besonders	ADV	ADV	_	10	advmod	_	_
+10	nahegehen	nahegehen	VERB	VVINF	VerbForm=Inf	0	root	_	_
+11	,	,	PUNCT	$,	_	12	punct	_	_
+12	lassen	lassen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	_
+13	wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
+14	uns	wir	PRON	PRF	Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	26	nsubj	_	_
+15	doch	doch	ADV	ADV	_	12	advmod	_	_
+16	in	in	ADP	APPR	_	17	case	_	_
+17	Erinnerung	Erinnerung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	30	obl	_	_
+18	an	an	ADP	APPR	_	21	case	_	_
+19	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+20	legendären	legendär	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	21	amod	_	_
+21	Rütlischwur	Rütlischwur	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	17	nmod	_	_
+22	im	em	PUNCT	$,	_	23	case	_	_
+23	In-	In-	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	21	nmod	_	_
+24	und	und	CCONJ	KON	_	25	cc	_	_
+25	Ausland	Ausland	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	23	conj	_	_
+26	als	als	ADP	KOKOM	_	28	case	_	_
+27	«	""	PUNCT	$(	_	28	punct	_	_
+28	Eidgenossen	Eidgenosse	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	30	obl	_	_
+29	»	""	PUNCT	$(	_	28	punct	_	_
+30	bezeichnen	bezeichnen	VERB	VVINF	VerbForm=Inf	12	xcomp	_	_
+31	.	.	PUNCT	$.	_	10	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+nahegehen;NZZ_1996_02_09_a115_seg3_s14;20;Verwundert beobachten wir eine künstlich verquälte Körpersprache , die das Fremde als befremdlich zeigt , so dass es einem nahegeht .;"1	Verwundert	verwundert	ADJ	ADJD	_	2	advmod	_	_
+2	beobachten	beobachten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+4	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	künstlich	künstlich	ADV	ADJD	_	6	advmod	_	_
+6	verquälte	verquält	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
+7	Körpersprache	Körpersprache	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+8	,	,	PUNCT	$,	_	14	punct	_	_
+9	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	obj	_	_
+10	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	Fremde	Fremde	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	14	obj	_	_
+12	als	als	ADP	KOKOM	_	14	xcomp	_	_
+13	befremdlich	befremdlich	ADJ	ADJD	_	14	amod	_	_
+14	zeigt	zeigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	_
+15	,	,	PUNCT	$,	_	20	punct	_	_
+16	so	so	ADV	KOUS	_	20	advmod	_	_
+17	dass	dass	SCONJ	KOUS	_	20	mark	_	_
+18	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+19	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	iobj	_	_
+20	nahegeht	nahegehen	VERB	VVFIN	VerbForm=Fin	14	advcl	_	_
+21	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;ambiguous;es could also be non-phoric?;
+nahegehen;NZZ_1996_07_16_a95_seg5_s5;36;"Den Sieg der Demokratie haben sie ( vielleicht etwas zu früh ) konstatiert , aber nicht begrüsst ; im Tagebuch liest man ( 16. Mai 1860 ) : « Es ist dumm , aber uns geht der Niedergang der Könige , der alten Prinzipien , persönlich nahe , dieses Europa , wo es kein Europa mehr gibt , kein Gleichgewicht , kein Völkerrecht ... » In ihren Romanen betrachten sie die Gegenwart gleichsam von aussen , daneben schreiben sie historische Bücher über die Frauen im 18. Jahrhundert , über Marie-Antoinette , über die französische Gesellschaft zur Zeit der Revolution .";"1	Den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Sieg	Sieg	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+3	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Demokratie	Demokratie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+6	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+7	(	(	PUNCT	$(	_	11	punct	_	_
+8	vielleicht	vielleicht	ADV	ADV	_	11	advmod	_	_
+9	etwas	etwas	ADV	ADV	_	11	advmod	_	_
+10	zu	zu	ADV	PTKA	_	11	advmod	_	_
+11	früh	früh	ADJ	ADJD	_	13	advmod	_	_
+12	)	)	PUNCT	$(	_	11	punct	_	_
+13	konstatiert	konstatieren	VERB	VVPP	VerbForm=Part	0	root	_	_
+14	,	,	PUNCT	$,	_	17	punct	_	_
+15	aber	aber	CCONJ	KON	_	17	cc	_	_
+16	nicht	nicht	PART	PTKNEG	Polarity=Neg	17	advmod	_	_
+17	begrüsst	begrüssen	VERB	VVPP	VerbForm=Part	13	conj	_	_
+18	;	;	PUNCT	$.	_	21	punct	_	_
+19	im	em	DET	PPOSAT	Case=Nom|Gender=Neut|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	Tagebuch	Tagebuch	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+21	liest	lesen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+22	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	21	nsubj	_	_
+23	(	(	PUNCT	$(	_	25	punct	_	_
+24	16.	16.	ADV	ADV	_	25	advmod	_	_
+25	Mai	Mai	PROPN	NN	Case=Nom|Gender=Masc|Number=Sing	21	obl	_	_
+26	1860	1860	NUM	CARD	NumType=Card	25	nmod	_	_
+27	)	)	PUNCT	$(	_	25	punct	_	_
+28	:	:	PUNCT	$.	_	32	punct	_	_
+29	«	""	PUNCT	$(	_	32	punct	_	_
+30	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	_
+31	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
+32	dumm	dumm	ADJ	ADJD	_	21	parataxis	_	_
+33	,	,	PUNCT	$,	_	36	punct	_	_
+34	aber	aber	CCONJ	KON	_	36	cc	_	_
+35	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	36	iobj	_	_
+36	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	conj	_	_
+37	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+38	Niedergang	Niedergang	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	_
+39	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
+40	Könige	König	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	_
+41	,	,	PUNCT	$,	_	44	punct	_	_
+42	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
+43	alten	alt	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	44	amod	_	_
+44	Prinzipien	Prinzip	NOUN	NN	Case=Gen|Gender=Neut|Number=Plur	40	conj	_	_
+45	,	,	PUNCT	$,	_	47	punct	_	_
+46	persönlich	persönlich	ADV	ADJD	_	36	advmod	_	_
+47	nahe	nahe	ADV	ADV	_	36	compound:prt	_	_
+48	,	,	PUNCT	$,	_	50	punct	_	_
+49	dieses	dies	PRON	PDAT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	50	det	_	_
+50	Europa	Europa	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	38	appos	_	_
+51	,	,	PUNCT	$,	_	57	punct	_	_
+52	wo	wo	ADV	PWAV	PronType=Int	57	advmod	_	_
+53	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	57	nsubj	_	_
+54	kein	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg	55	nmod	_	_
+55	Europa	Europa	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	57	nsubj	_	_
+56	mehr	mehr	ADV	ADV	_	57	advmod	_	_
+57	gibt	geben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	acl	_	_
+58	,	,	PUNCT	$,	_	60	punct	_	_
+59	kein	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg	60	nmod	_	_
+60	Gleichgewicht	Gleichgewicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	50	conj	_	_
+61	,	,	PUNCT	$,	_	63	punct	_	_
+62	kein	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg	63	nmod	_	_
+63	Völkerrecht	Völkerrecht	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	60	conj	_	_
+64	...	...	PUNCT	$(	_	69	punct	_	_
+65	»	""	PUNCT	$(	_	69	punct	_	_
+66	In	in	ADP	APPR	_	68	case	_	_
+67	ihren	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	68	det:poss	_	_
+68	Romanen	Roman	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	69	obl	_	_
+69	betrachten	betrachten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	57	parataxis	_	_
+70	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	69	nsubj	_	_
+71	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	72	det	_	_
+72	Gegenwart	Gegenwart	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	69	obj	_	_
+73	gleichsam	gleichsam	ADV	ADV	_	69	advmod	_	_
+74	von	von	ADP	APPR	_	75	case	_	_
+75	aussen	außenßen	ADV	ADV	_	69	advmod	_	_
+76	,	,	PUNCT	$,	_	78	punct	_	_
+77	daneben	daneben	ADV	PAV	_	78	advmod	_	_
+78	schreiben	schreiben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	69	parataxis	_	_
+79	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	78	nsubj	_	_
+80	historische	historisch	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Plur	81	amod	_	_
+81	Bücher	Buch	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	78	obj	_	_
+82	über	über	ADP	APPR	_	84	case	_	_
+83	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	84	det	_	_
+84	Frauen	Frau	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	81	nmod	_	_
+85	im	im	ADP	APPR	_	87	case	_	_
+86	18.	18.	NUM	CARD	NumType=Card	87	nummod	_	_
+87	Jahrhundert	Jahrhundert	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	84	nmod	_	_
+88	,	,	PUNCT	$,	_	90	punct	_	_
+89	über	über	ADP	APPR	_	90	case	_	_
+90	Marie-Antoinette	Marie-Antoinette	PROPN	NN	Case=Acc|Gender=Fem|Number=Sing	84	nmod	_	_
+91	,	,	PUNCT	$,	_	95	punct	_	_
+92	über	über	ADP	APPR	_	95	case	_	_
+93	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	95	det	_	_
+94	französische	französisch	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	95	amod	_	_
+95	Gesellschaft	Gesellschaft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	78	obl	_	_
+96	zur	zur	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	97	det	_	_
+97	Zeit	Zeit	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	78	obj	_	_
+98	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	99	det	_	_
+99	Revolution	Revolution	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	97	nmod	_	_
+100	.	.	PUNCT	$.	_	69	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination;;
+nahegehen;NZZ_1996_11_08_a77_seg15_s15;2;Es geht nahe an die Grenze , der Schweiz eine « Kollektivschuld » aufzubürden .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	nahe	nahe	ADV	ADV	_	2	advmod	_	_
+4	an	an	ADP	APPR	_	6	case	_	_
+5	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Grenze	Grenze	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+7	,	,	PUNCT	$,	_	14	punct	_	_
+8	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Schweiz	Schweiz	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing	6	appos	_	_
+10	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	«	""	PUNCT	$(	_	12	punct	_	_
+12	Kollektivschuld	Kollektivschuld	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+13	»	""	PUNCT	$(	_	12	punct	_	_
+14	aufzubürden	aufberden	VERB	VVIZU	VerbForm=Inf	6	acl	_	_
+15	.	.	PUNCT	$.	_	2	punct	_	_
+";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+nahegehen;NZZ_1996_10_01_a47_seg14_s10;7;, Bern ) als einem Juden geht die heutige Gesetzgebungsarbeit sehr nahe .;"1	,	,	PUNCT	$,	_	2	punct	_	_
+2	Bern	Bern	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	)	)	PUNCT	$(	_	2	punct	_	_
+4	als	als	ADP	KOKOM	_	6	case	_	_
+5	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Juden	Jude	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+7	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+9	heutige	heutig	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	10	amod	_	_
+10	Gesetzgebungsarbeit	Gesetzgebungsarbeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+11	sehr	sehr	ADV	ADV	_	7	advmod	_	_
+12	nahe	nahe	ADV	PTKVZ	_	7	compound:prt	_	_
+13	.	.	PUNCT	$.	_	7	punct	_	_
+";x;;;;;;;;;;;;;;;;;;;;;fragment;;
+nahegehen;NZZ_1996_10_05_a196_seg9_s9;12;Dann vor allem , wenn Dante das Schicksal der Verdammten besonders nahegeht .;"1	Dann	dann	ADV	ADV	_	0	root	_	_
+2	vor	vor	ADP	APPR	_	3	case	_	_
+3	allem	alle	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	1	nmod	_	_
+4	,	,	PUNCT	$,	_	12	punct	_	_
+5	wenn	wenn	SCONJ	KOUS	_	12	mark	_	_
+6	Dante	Dante	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+7	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	Schicksal	Schicksal	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+9	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	Verdammten	Verdammte	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+11	besonders	besonders	ADV	ADV	_	12	advmod	_	_
+12	nahegeht	nahegehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+13	.	.	PUNCT	$.	_	1	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;PA?;
+nahegehen;NZZ_1996_09_19_a230_seg8_s1;13;Der intensive Austausch mit den vorwiegend muslimischen und kroatischen Lehrerinnen und Lehrern geht sehr nahe .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	intensive	intensiv	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+3	Austausch	Austausch	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+4	mit	mit	ADP	APPR	_	10	case	_	_
+5	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+6	vorwiegend	vorwiegend	ADJ	ADJD	_	7	advmod	_	_
+7	muslimischen	muslimischen	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	10	amod	_	_
+8	und	und	CCONJ	KON	_	9	cc	_	_
+9	kroatischen	kroatisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	7	conj	_	_
+10	Lehrerinnen	Lehrerin	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	3	nmod	_	_
+11	und	und	CCONJ	KON	_	12	cc	_	_
+12	Lehrern	Lehrer	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	_
+13	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	sehr	sehr	ADV	ADV	_	15	advmod	_	_
+15	nahe	nahe	ADJ	ADJD	_	13	advmod	_	_
+16	.	.	PUNCT	$.	_	13	punct	_	_
+";;;;x;;;;;;;;;;;;;;inanim;;;;;;
+nahegehen;NZZ_1996_09_27_a158_seg3_s19;6;Das Filmerlebnis , das so nahegeht , macht mit Genickstarre und Augenflimmern krank .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	Filmerlebnis	Filmerlebnis	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+3	,	,	PUNCT	$,	_	6	punct	_	_
+4	das	der	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	nsubj	_	_
+5	so	so	ADV	ADV	_	6	advmod	_	_
+6	nahegeht	nahegeht	ADJ	ADJD	_	2	acl	_	_
+7	,	,	PUNCT	$,	_	6	punct	_	_
+8	macht	machen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	mit	mit	ADP	APPR	_	10	case	_	_
+10	Genickstarre	Genickstarre	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+11	und	und	CCONJ	KON	_	12	cc	_	_
+12	Augenflimmern	Augenflimmer	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	_
+13	krank	krank	ADJ	ADJD	_	8	xcomp	_	_
+14	.	.	PUNCT	$.	_	8	punct	_	_
+";;;;x;;;;;;;;;;;;;;inanim;;;;;;
+nahegehen;NZZ_1997_01_04_a121_seg3_s16;32;Als die schweizerische Touristin Esperanza dem chinesischen Nationalturner Donghua begegnete ... In vielen Interviewausschnitten waren natürlich die Ehepartner zu sehen - aber ihre Aussagen in einer Symbiose von Hölzernheit und Glätte gingen dem Zuhörer nicht besonders nahe .;"1	Als	als	SCONJ	KOUS	_	10	mark	_	_
+2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+3	schweizerische	schweizerisch	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+4	Touristin	Touristin	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+5	Esperanza	Esperanza	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	_
+6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	chinesischen	chinesisch	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	8	amod	_	_
+8	Nationalturner	Nationalturner	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	_
+9	Donghua	Donghua	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	8	appos	_	_
+10	begegnete	begegnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
+11	...	...	PUNCT	$(	_	20	punct	_	_
+12	In	in	ADP	APPR	_	14	case	_	_
+13	vielen	viel	DET	PIAT	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	14	amod	_	_
+14	Interviewausschnitten	Interviewausschnitt	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	20	obl	_	_
+15	waren	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	aux:pass	_	_
+16	natürlich	natürlich	ADJ	ADV	_	20	advmod	_	_
+17	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
+18	Ehepartner	Ehepartner	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	20	nsubj:pass	_	_
+19	zu	zu	PART	PTKZU	_	20	mark	_	_
+20	sehen	sehen	VERB	VVINF	VerbForm=Inf	0	root	_	_
+21	-	-	PUNCT	$(	_	32	punct	_	_
+22	aber	aber	CCONJ	KON	_	32	cc	_	_
+23	ihre	ihr	DET	PPOSAT	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	Aussagen	Aussage	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	32	nsubj	_	_
+25	in	in	ADP	APPR	_	27	case	_	_
+26	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	Symbiose	Symbiose	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	24	nmod	_	_
+28	von	von	ADP	APPR	_	29	case	_	_
+29	Hölzernheit	Hölzernheit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	27	nmod	_	_
+30	und	und	CCONJ	KON	_	31	cc	_	_
+31	Glätte	Glätte	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	29	conj	_	_
+32	gingen	gehen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	parataxis	_	_
+33	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	Zuhörer	Zuhörer	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	32	iobj	_	_
+35	nicht	nicht	PART	PTKNEG	Polarity=Neg	36	advmod	_	_
+36	besonders	besonders	ADV	ADV	_	32	advmod	_	_
+37	nahe	nahe	ADV	PTKVZ	_	32	compound:prt	_	_
+38	.	.	PUNCT	$.	_	20	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;generic EXP;
+nahegehen;NZZ_1997_06_14_a48_seg8_s5;15;Weil das Land insgesamt unsicher ist über seinen Weg in die politische Zukunft , gehen die Fragen zur Rolle der Schweiz im Zweiten Weltkrieg uns so nahe .;"1	Weil	weil	SCONJ	KOUS	_	5	mark	_	_
+2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	Land	Land	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	insgesamt	insgesamt	ADV	ADV	_	5	advmod	_	_
+5	unsicher	unsich	ADJ	ADJD	_	15	advcl	_	_
+6	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+7	über	über	ADP	APPR	_	9	case	_	_
+8	seinen	sein	DET	PPOSAT	Case=Acc|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	Weg	Weg	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
+10	in	in	ADP	APPR	_	13	case	_	_
+11	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+12	politische	politisch	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
+13	Zukunft	Zukunft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	_
+14	,	,	PUNCT	$,	_	5	punct	_	_
+15	gehen	gehen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
+17	Fragen	Frage	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	_
+18	zur	zur	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	Rolle	Rolle	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+20	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	Schweiz	Schweiz	PROPN	NE	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	im	em	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	Zweiten	zweit	PROPN	ADJA	Case=Gen|Gender=Masc|Number=Sing	24	amod	_	_
+24	Weltkrieg	Weltkrieg	PROPN	NN	Case=Dat|Gender=Masc|Number=Sing	21	nmod	_	_
+25	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	15	iobj	_	_
+26	so	so	ADV	ADV	_	15	advmod	_	_
+27	nahe	nahe	ADV	PTKVZ	_	15	compound:prt	_	_
+28	.	.	PUNCT	$.	_	15	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;PA?;
+nahegehen;NZZ_1997_11_06_a130_seg3_s30;19;Konsequent hält er sich die Figur vom Leib , und dennoch schimmert durch , wie sehr sie ihm nahegeht .;"1	Konsequent	konsequent	ADJ	ADJD	_	2	advmod	_	_
+2	hält	halten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
+5	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	Figur	Figur	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+7	vom	vom	DET	ART	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	8	det	_	_
+8	Leib	Leib	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	_
+9	,	,	PUNCT	$,	_	12	punct	_	_
+10	und	und	CCONJ	KON	_	12	cc	_	_
+11	dennoch	dennoch	ADV	ADV	_	12	advmod	_	_
+12	schimmert	schimmern	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+13	durch	durch	ADP	PTKVZ	_	12	compound:prt	_	_
+14	,	,	PUNCT	$,	_	19	punct	_	_
+15	wie	wie	SCONJ	KOUS	_	19	mark	_	_
+16	sehr	sehr	ADV	ADV	_	19	advmod	_	_
+17	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	_	_
+18	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
+19	nahegeht	nahegehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+20	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;ambiguous?;
+nahegehen;NZZ_1997_11_22_a218_seg5_s7;2;Das geht mir sehr , sehr nahe .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
+4	sehr	sehr	ADV	ADV	_	2	advmod	_	_
+5	,	,	PUNCT	$,	_	7	punct	_	_
+6	sehr	sehr	ADV	ADV	_	7	advmod	_	_
+7	nahe	nahe	ADJ	ADJD	_	2	advmod	_	_
+8	.	.	PUNCT	$.	_	2	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;;„sehr“ seems to modify „nahe“ (instead of „nahegehen“);
+nahegehen;NZZ_1998_08_07_a141_seg3_s34;29;Die Jugendlichen , die wir dort kennenlernen , schlagen sich mit Raubüberfällen auf Taxis und ähnlichen Delikten durch , aber gerade in ihrer harten Realität und chaotischen Gefühlswelt gehen sie uns nahe und lassen uns nicht kalt .;"1	Die	der	DET	ART	Case=Nom|Number=Plur|PronType=Art	2	det	_	_
+2	Jugendlichen	Jugendliche	NOUN	NN	Case=Nom|Number=Plur	9	nsubj	_	_
+3	,	,	PUNCT	$,	_	7	punct	_	_
+4	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	7	nsubj	_	_
+5	wir	wir	PRON	PPER	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+6	dort	dort	ADV	ADV	_	7	advmod	_	_
+7	kennenlernen	kennenlernen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+8	,	,	PUNCT	$,	_	7	punct	_	_
+9	schlagen	schlagen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	_
+11	mit	mit	ADP	APPR	_	12	case	_	_
+12	Raubüberfällen	Raubüberfällen	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	9	obl	_	_
+13	auf	auf	ADP	APPR	_	14	case	_	_
+14	Taxis	Taxi	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	12	nmod	_	_
+15	und	und	CCONJ	KON	_	17	cc	_	_
+16	ähnlichen	ähnlich	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	17	amod	_	_
+17	Delikten	Delikt	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	14	conj	_	_
+18	durch	durch	ADP	PTKVZ	_	9	compound:prt	_	_
+19	,	,	PUNCT	$,	_	29	punct	_	_
+20	aber	aber	CCONJ	KON	_	29	cc	_	_
+21	gerade	gerade	ADV	ADV	_	25	advmod	_	_
+22	in	in	ADP	APPR	_	25	case	_	_
+23	ihrer	ihr	DET	PPOSAT	Case=Dat|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det:poss	_	_
+24	harten	hart	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	25	amod	_	_
+25	Realität	Realität	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	29	obl	_	_
+26	und	und	CCONJ	KON	_	28	cc	_	_
+27	chaotischen	chaotisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	28	amod	_	_
+28	Gefühlswelt	Gefühlswelt	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	25	conj	_	_
+29	gehen	gehen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
+30	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	_
+31	uns	wir	PRON	PPER	Case=Acc|Number=Plur|Person=1|PronType=Prs	29	obj	_	_
+32	nahe	nahe	ADV	PTKVZ	_	29	compound:prt	_	_
+33	und	und	CCONJ	KON	_	34	cc	_	_
+34	lassen	lassen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	conj	_	_
+35	uns	wir	PRON	PPER	Case=Acc|Number=Plur|Person=1|PronType=Prs	34	obj	_	_
+36	nicht	nicht	PART	PTKNEG	Polarity=Neg	34	advmod	_	_
+37	kalt	kalt	ADJ	ADJD	_	34	xcomp	_	_
+38	.	.	PUNCT	$.	_	9	punct	_	_
+";;;x;;;;;;;;;;;;;;;anim;in;;;;;
+nahegehen;NZZ_1998_05_30_a252_seg9_s5;22;Die edle Traurigkeit , die von Ruinenstädten ausgeht , und der Untergang der Antike überhaupt waren den grossen Geistern jener Zeit nahegegangen .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	edle	edle	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	Traurigkeit	Traurigkeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	_
+4	,	,	PUNCT	$,	_	8	punct	_	_
+5	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
+6	von	von	ADP	APPR	_	7	case	_	_
+7	Ruinenstädten	Ruinenstadt	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	8	obl	_	_
+8	ausgeht	ausgehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
+9	,	,	PUNCT	$,	_	22	punct	_	_
+10	und	und	CCONJ	KON	_	22	cc	_	_
+11	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Untergang	Untergang	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+13	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+14	Antike	Antike	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	überhaupt	überhaupt	ADV	ADV	_	22	advmod	_	_
+16	waren	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_
+17	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	grossen	groß	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	19	amod	_	_
+19	Geistern	Geister	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	22	iobj	_	_
+20	jener	jen	DET	PDAT	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	_
+21	Zeit	Zeit	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+22	nahegegangen	nahegegang	ADJ	VVPP	VerbForm=Part	0	root	_	_
+23	.	.	PUNCT	$.	_	22	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun, STM_coordination;Geist STM_psych_noun in coordination;
+nahegehen;NZZ_1998_11_06_a127_seg3_s5;37;In den Märztagen des Jahres 1848 lässt sich Ferdinand durch die Gassen Wiens kutschieren und nimmt die Ovationen einer Menge entgegen , der die Demontage der Monarchie so fremd ist , wie ihr der tägliche Hunger nahegeht .;"1	In	in	ADP	APPR	_	3	case	_	_
+2	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	Märztagen	Märztagen	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	7	obl	_	_
+4	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Jahres	Jahr	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+6	1848	1848	NUM	CARD	NumType=Card	5	nmod	_	_
+7	lässt	lassen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	obj	_	_
+9	Ferdinand	Ferdinand	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+10	durch	durch	ADP	APPR	_	12	case	_	_
+11	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	Gassen	Gasse	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	14	obl	_	_
+13	Wiens	Wien	PROPN	NE	Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	_
+14	kutschieren	kutschieren	VERB	VVINF	VerbForm=Inf	7	xcomp	_	_
+15	und	und	CCONJ	KON	_	16	cc	_	_
+16	nimmt	nehmen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+17	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	Ovationen	Ovation	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	16	obj	_	_
+19	einer	ein	DET	ART	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	Menge	Menge	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+21	entgegen	entgegen	ADP	PTKVZ	_	16	compound:prt	_	_
+22	,	,	PUNCT	$,	_	29	punct	_	_
+23	der	der	PRON	PRELS	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	_
+24	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	Demontage	Demontage	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	29	nsubj	_	_
+26	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	Monarchie	Monarchie	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+28	so	so	ADV	ADV	_	29	advmod	_	_
+29	fremd	fremd	ADJ	ADJD	_	20	acl	_	_
+30	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
+31	,	,	PUNCT	$,	_	37	punct	_	_
+32	wie	wie	SCONJ	KOUS	_	37	mark	_	_
+33	ihr	ihr	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	_
+34	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+35	tägliche	täglich	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	36	amod	_	_
+36	Hunger	Hunger	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	_
+37	nahegeht	nahegehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
+38	.	.	PUNCT	$.	_	7	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun;Menge;
+nahegehen;NZZ_1998_09_18_a141_seg3_s9;14;Offenbar ist dem selbst auf einer Ranch in Utah lebenden Star das Thema nahegegangen .;"1	Offenbar	offenbar	ADV	ADV	_	14	advmod	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+4	selbst	selbst	ADV	ADV	_	10	advmod	_	_
+5	auf	auf	ADP	APPR	_	7	case	_	_
+6	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	Ranch	Ranch	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	_
+8	in	in	ADP	APPR	_	9	case	_	_
+9	Utah	Utah	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	_
+10	lebenden	lebend	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	11	amod	_	_
+11	Star	Star	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	Thema	Thema	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	nahegegangen	nahegegang	ADJ	VVPP	VerbForm=Part	0	root	_	_
+15	.	.	PUNCT	$.	_	14	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN-C;PA?;
+nahegehen;NZZ_1999_12_02_a194_seg5_s6;25;Angesiedelt ist sie im Jahr 1971 : Das mag - von westlicher Unkenntnis einmal abgesehen - erklären , warum ' s einem nicht übermässig nahegeht .;"1	Angesiedelt	ansiedeln	VERB	VVPP	VerbForm=Part	0	root	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+4	im	em	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Jahr	Jahr	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+6	1971	1971	NUM	CARD	NumType=Card	5	nmod	_	_
+7	:	:	PUNCT	$.	_	17	punct	_	_
+8	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	_
+9	mag	mögen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+10	-	-	PUNCT	$(	_	15	punct	_	_
+11	von	von	ADP	APPR	_	13	case	_	_
+12	westlicher	westlich	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	13	amod	_	_
+13	Unkenntnis	Unkenntnis	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	_
+14	einmal	einmal	ADV	ADV	_	15	advmod	_	_
+15	abgesehen	abgesehen	VERB	VVPP	VerbForm=Part	1	parataxis	_	_
+16	-	-	PUNCT	$(	_	15	punct	_	_
+17	erklären	erklären	VERB	VVINF	VerbForm=Inf	1	parataxis	_	_
+18	,	,	PUNCT	$,	_	25	punct	_	_
+19	warum	warum	ADV	PWAV	PronType=Int	25	advmod	_	_
+20	'	'	PUNCT	$(	_	25	punct	_	_
+21	s	s	PRON	PPER	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+22	einem	ein	PRON	PIS	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	25	iobj	_	_
+23	nicht	nicht	PART	PTKNEG	Polarity=Neg	25	advmod	_	_
+24	übermässig	übermässig	ADJ	ADJD	_	25	advmod	_	_
+25	nahegeht	nahegehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+26	.	.	PUNCT	$.	_	1	punct	_	_
+";;;x;;;;;;;;;;;;;;;ambiguous;;;;ambiguous;could also be non-phoric_es;
+nahegehen;NZZ_1999_12_23_a201_seg10_s18;5;Das Missgeschick seines Kollegen geht ihm mächtig nahe .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	Missgeschick	Missgeschick	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+3	seines	sein	DET	PPOSAT	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+4	Kollegen	Kollege	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+7	mächtig	mächtig	ADJ	ADJD	_	5	advmod	_	_
+8	nahe	nahe	ADV	PTKVZ	_	5	compound:prt	_	_
+9	.	.	PUNCT	$.	_	5	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
+nahegehen;NZZ_1999_01_25_a1_seg8_s5;45;Der Abfall der « Technokraten » seiner Partei , die sich nun gerne als respektablere Formation als die zurückgebliebene Gefolgschaft Le Pens anpreisen möchten , obgleich sie in Wahrheit nicht weniger extremistisch als der bisherige Front national sind , ist dem Parteigründer zwar sichtlich nahegegangen .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Abfall	Abfall	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	45	nsubj	_	_
+3	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+4	«	""	PUNCT	$(	_	5	punct	_	_
+5	Technokraten	Technokraten	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+6	»	""	PUNCT	$(	_	5	punct	_	_
+7	seiner	sein	DET	PPOSAT	Case=Gen|Gender=Fem|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	Partei	Partei	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+9	,	,	PUNCT	$,	_	23	punct	_	_
+10	die	der	PRON	PRELS	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	_
+11	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	23	obj	_	_
+12	nun	nun	ADV	ADV	_	23	advmod	_	_
+13	gerne	gerne	ADV	ADV	_	23	advmod	_	_
+14	als	als	ADP	KOKOM	_	16	case	_	_
+15	respektablere	respektablere	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	16	amod	_	_
+16	Formation	Formation	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	23	obl	_	_
+17	als	als	ADP	KOKOM	_	20	case	_	_
+18	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	zurückgebliebene	zurückgeblieben	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	20	amod	_	_
+20	Gefolgschaft	Gefolgschaft	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	23	obl	_	_
+21	Le	Le	PROPN	NE	Case=Acc|Gender=Fem|Number=Sing	22	nmod	_	_
+22	Pens	Pens	PROPN	NE	Case=Acc|Gender=Fem|Number=Sing	20	appos	_	_
+23	anpreisen	anpreisen	VERB	VVINF	VerbForm=Inf	2	acl	_	_
+24	möchten	mögen	AUX	VMFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	_
+25	,	,	PUNCT	$,	_	32	punct	_	_
+26	obgleich	obgleich	SCONJ	KOUS	_	32	mark	_	_
+27	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
+28	in	in	ADP	APPR	_	29	case	_	_
+29	Wahrheit	Wahrheit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	32	nmod	_	_
+30	nicht	nicht	PART	PTKNEG	Polarity=Neg	32	advmod	_	_
+31	weniger	weniger	ADV	ADV	_	32	advmod	_	_
+32	extremistisch	extremistisch	ADJ	ADJD	_	23	advcl	_	_
+33	als	als	ADP	KOKOM	_	36	case	_	_
+34	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+35	bisherige	bisherig	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	36	amod	_	_
+36	Front	Front	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	37	nmod	_	_
+37	national	national	ADJ	ADJD	_	32	conj	_	_
+38	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
+39	,	,	PUNCT	$,	_	32	punct	_	_
+40	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	45	cop	_	_
+41	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	42	det	_	_
+42	Parteigründer	Parteigründer	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	45	iobj	_	_
+43	zwar	zwar	ADV	ADV	_	45	advmod	_	_
+44	sichtlich	sichtlich	ADJ	ADJD	_	45	advmod	_	_
+45	nahegegangen	nahegegang	ADJ	VVPP	VerbForm=Part	0	root	_	_
+46	.	.	PUNCT	$.	_	45	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;ungrammatical;;
+nahegehen;NZZ_1999_11_25_a209_seg3_s6;25;Angesiedelt ist sie im Jahr 1971 : Das mag - von westlicher Unkenntnis einmal abgesehen - erklären , warum ' s einem nicht übermässig nahegeht .;"1	Angesiedelt	ansiedeln	VERB	VVPP	VerbForm=Part	0	root	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+4	im	em	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Jahr	Jahr	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+6	1971	1971	NUM	CARD	NumType=Card	5	nmod	_	_
+7	:	:	PUNCT	$.	_	17	punct	_	_
+8	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	_
+9	mag	mögen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+10	-	-	PUNCT	$(	_	15	punct	_	_
+11	von	von	ADP	APPR	_	13	case	_	_
+12	westlicher	westlich	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	13	amod	_	_
+13	Unkenntnis	Unkenntnis	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	_
+14	einmal	einmal	ADV	ADV	_	15	advmod	_	_
+15	abgesehen	abgesehen	VERB	VVPP	VerbForm=Part	1	parataxis	_	_
+16	-	-	PUNCT	$(	_	15	punct	_	_
+17	erklären	erklären	VERB	VVINF	VerbForm=Inf	1	parataxis	_	_
+18	,	,	PUNCT	$,	_	25	punct	_	_
+19	warum	warum	ADV	PWAV	PronType=Int	25	advmod	_	_
+20	'	'	PUNCT	$(	_	25	punct	_	_
+21	s	s	PRON	PPER	Case=Nom|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+22	einem	ein	PRON	PIS	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	25	iobj	_	_
+23	nicht	nicht	PART	PTKNEG	Polarity=Neg	25	advmod	_	_
+24	übermässig	übermässig	ADJ	ADJD	_	25	advmod	_	_
+25	nahegeht	nahegehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl	_	_
+26	.	.	PUNCT	$.	_	1	punct	_	_
+";x;;;;;;;;;;;;;;;;;;;;;duplicate;;
+nahegehen;NZZ_1999_09_02_a194_seg4_s5;10;Jobins neuste Choreographie zeigt jedoch Bilder , die einem nahegehen , die ärgern , beklemmen , ja gar physisch schmerzen .;"1	Jobins	Jobin	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
+2	neuste	neu	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+3	Choreographie	Choreographie	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	zeigt	zeigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	jedoch	jedoch	ADV	ADV	_	4	advmod	_	_
+6	Bilder	Bild	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+7	,	,	PUNCT	$,	_	13	punct	_	_
+8	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	15	nsubj	_	_
+9	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	nahegehen	nahegehen	ADJ	ADJA	Case=Dat|Number=Sing	6	amod	_	_
+11	,	,	PUNCT	$,	_	13	punct	_	_
+12	die	der	PRON	PRELS	Case=Nom|Number=Plur|PronType=Rel	13	nsubj	_	_
+13	ärgern	ärgern	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	_
+14	,	,	PUNCT	$,	_	13	punct	_	_
+15	beklemmen	beklemmen	VERB	VVFIN	VerbForm=Fin	6	acl	_	_
+16	,	,	PUNCT	$,	_	20	punct	_	_
+17	ja	ja	ADV	ADV	_	20	advmod	_	_
+18	gar	gar	ADV	ADV	_	19	advmod	_	_
+19	physisch	physisch	ADJ	ADJD	_	20	advmod	_	_
+20	schmerzen	schmerzen	VERB	VVINF	VerbForm=Inf	15	conj	_	_
+21	.	.	PUNCT	$.	_	4	punct	_	_
+";;;x;;;;;;;;;;;;;;;inanim;;;;;;
