@@ -5128,7 +5128,7 @@ verblüffen;NZZ_1998_03_27_a220_seg4_s19;28;Es sei das wohl beste Resultat der K
 27	Hindernissen	Hindernis	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	23	nmod	_	_
 28	verblüffte	verblüffen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl	_	_
 29	.	.	PUNCT	$.	_	6	punct	_	_
-";;;;X;;;;;;;;;;;;;;anim;mit, durch;;;;;
+";;;;X;;;;;;;;;;;;;;anim;durch,mit;;;;;
 verblüffen;NZZ_1998_11_12_a140_seg4_s2;46;John Hammond Senior , der amerikanische Talent Scout , der bereits Billie Holiday , Miles Davis , Aretha Franklin und Bob Dylan entdeckt und unter Vertrag genommen hatte , liess den blutjungen Sänger und Gitarristen im Mai 1972 vorspielen und war vom Talent des 23jährigen verblüfft : « Er hat mich komplett überwältigt .;"1	John	John	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	_
 2	Hammond	Hammond	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
 3	Senior	Senior	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_

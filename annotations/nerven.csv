@@ -4036,7 +4036,7 @@ nerven;NZZ_1999_09_23_a217_seg4_s14;3;Maja Brunner nervt die beiden anderen als 
 17	und	und	CCONJ	KON	_	18	cc	_	_
 18	Leidenschaft	Leidenschaft	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	14	conj	_	_
 19	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;als, mit;;;;instrumental;
+";;;x;;;;;;;;;;;;;;;anim;als,mit;;;;instrumental;
 nerven;NZZ_1999_11_19_a160_seg5_s21;23;Der junge Tierarzt schilderte , Heike habe sich oft darüber beschwert , dass Gabor ständig mit ihr schlafen wolle und sie das nerve .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	junge	jung	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Tierarzt	Tierarzt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_

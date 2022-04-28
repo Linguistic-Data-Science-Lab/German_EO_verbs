@@ -15,7 +15,7 @@ Data points go by rows, annotations by columns. The columns:
 * non-psych: X or empty, does the verb have a psych reading in this sentence?
 * X-STM_V_Y-EXP -- tough: X or empty, syntactic pattern
 * Stimulus_type: character string or empty, type of stimulus
-* Stimulus_PP: character string or empty, form of eventual stimulus PP
+* Stimulus_PP: character string or empty, form of eventual stimulus preposition (if there is more than one: prepositions in alphabetical order separated by commas)
 * Control: X or empty, is the verb embedded under a control predicate?
 * Other_stimulus_adjunct: X or empty, is there another kind of stimulus indicating adjunct?
 * Comment: string or empty, obligatory comments

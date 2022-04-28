@@ -4530,7 +4530,7 @@ entzücken;NZZ_1998_06_10_a156_seg3_s9;52;Und so schickten sich nun am Dienstag 
 52	entzücken	entzücken	VERB	VVINF	VerbForm=Inf	35	acl	_	_
 53	müsste	müssen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	52	aux	_	_
 54	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;in, mit;;;ambiguous;PP-Attachment;mit-PP most probably part of Golfer-NP
+";;;x;;;;;;;;;;;;;;;inanim;in,mit;;;ambiguous;PP-Attachment;mit-PP most probably part of Golfer-NP
 entzücken;NZZ_1998_07_02_a232_seg5_s15;53;Umhüllt von Nebelschwaden , die um den Gipfel fegen , führt eine junge Australierin Tagebuch , bietet mir Tee an , ist von Zürich begeistert - eine Begeisterung , die ich teile - , zeigt sich , als Löcher im Nebel Durchblick in die sonnige Tiefe zulassen , über meine geographischen Ausführungen entzückt und findet mich - mein Widerspruch ob ihres Lobes regt sich nur matt - « a famous old chap » .;"1	Umhüllt	umhüllen	VERB	VVPP	VerbForm=Part	11	acl	_	_
 2	von	von	ADP	APPR	_	3	case	_	_
 3	Nebelschwaden	Nebelschwaden	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	1	obl	_	_

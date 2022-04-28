@@ -1839,7 +1839,7 @@ quälen;NZZ_1995_03_16_a131_seg12_s2;8;"Allerdings ist seine Position prekärer 
 32	erhoffen	erhoffen	VERB	VVINF	VerbForm=Inf	23	acl	_	_
 33	darf	dürfen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
 34	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;mit, durch;;;ambiguous, EXP_anim_proxy;STIM?;Welt, stimulus PPs in coordination
+";;;x;;;;;;;;;;;;;;;inanim;durch,mit;;;ambiguous, EXP_anim_proxy;STIM?;Welt, stimulus PPs in coordination
 quälen;NZZ_1995_03_18_a131_seg2_s12;11;Sein autobiographisch gefärbter Roman , in dem sich Kinder gegenseitig quälen , um ihren Platz in der Rangordnung zu verteidigen , in dem die Lehrkraft überfordert ist und Eltern vergessen haben , wie es ist , zwölf Jahre alt zu sein , vermag weder zu berühren noch zu erheitern .;"1	Sein	sein	DET	PPOSAT	Case=Nom|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
 2	autobiographisch	autobiographisch	ADJ	ADJD	_	3	advmod	_	_
 3	gefärbter	gefärbt	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
@@ -2944,7 +2944,7 @@ quälen;NZZ_1996_11_04_a15_seg2_s2;22;Zeugen hätten übereinstimmend berichtet 
 22	gequält	quälen	VERB	VVPP	VerbForm=Part	4	ccomp	_	_
 23	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	22	aux:pass	_	_
 24	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;;;x;;;;;;;;;;;;;mit, durch;;;;PP coordination;inanim durch-PP
+";;;;;;x;;;;;;;;;;;;;durch,mit;;;;PP coordination;inanim durch-PP
 quälen;NZZ_1996_11_14_a133_seg3_s4;10;Weniger die wie gewohnt raspelnden Sounds , die ihn quälen wie kleine Teufel der Hölle , oder die Beats , die sich an ihn hängen wie schwere Bremsklötze , stehen diesmal im Vordergrund der allesamt unfertigen Songs , sondern es sind die Texte , die aufhorchen lassen - als würde Tricky eigentlich gerne aufschreien ( was man im Trip-Hop aber nicht tut ) : « They used to call me Tricky Kid / I lived the life they wished they did / I live the life they own a part / But now they call me superstar . »;"1	Weniger	weniger	ADV	ADV	_	6	advmod	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 3	wie	wie	ADP	KOKOM	_	4	case	_	_
