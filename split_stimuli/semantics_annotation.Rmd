@@ -1,0 +1,373 @@
+---
+title: "Semantics Split Stimuli"
+author: "SM"
+date: "14 6 2022"
+output: 
+  html_document:
+    toc: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F, message = F)
+library(tidyverse)
+```
+
+## The data
+
+This script reads in the annotations and creates the graphs used in the presentation / the data.
+The graphs there are only based on the simple cases, i.e. examples that contain only one stimulus preposition and no coordination as subject or internal argument of the P.
+(The generalisations drawn from them are checked on the whole dataset, but the annotations for these examples are hard to visualise).
+
+```{r}
+annotations <- read_csv("full_pp_annotation.csv", col_types = "fcdcfffcccccc") %>%
+  mutate(interpr_sem_class_PP_int = if_else(is.na(interpr_sem_class_PP_int), # Fill the "gaps" that made annotation easier
+                                                     sem_class_PP_int,
+                                                     interpr_sem_class_PP_int))
+
+# Fill gaps for determiner column
+new_det_PP_int <- list()
+for (i in 1:nrow(annotations)) {
+  if(! is.na(annotations$det_PP_int[i])){
+    if(str_starts(annotations$det_PP_int[i], "[/+]")){new_det_PP_int[i] <- str_c("norm", annotations$det_PP_int[i])}
+    else 
+      if(str_ends(annotations$det_PP_int[i], "[/+]")){new_det_PP_int[i] <- str_c(annotations$det_PP_int[i], "norm")}
+      else {new_det_PP_int[i] <- annotations$det_PP_int[i]}}
+  else 
+    if(str_detect(annotations$interpr_sem_class_PP_int[i], "[/+]")){
+    inner <- str_c(str_extract_all(annotations$interpr_sem_class_PP_int[i], "[//+]")[[1]], collapse = "norm")
+    new_det_PP_int[i] <- str_c("norm", inner, "norm")
+  }
+  else new_det_PP_int[i] <- "norm"
+}
+
+annotations$new_det_PP_int <- as.character(new_det_PP_int)
+
+annotations <- mutate(annotations,
+                      sem_class_subj_f = factor(sem_class_subj),
+                      sem_class_PP_int_f = factor(sem_class_PP_int),
+                      interpr_sem_class_PP_int_f = factor(interpr_sem_class_PP_int),
+                      det_PP_int_f = factor(new_det_PP_int),
+                      utterance = if_else(str_detect(Comment_PP, coll("utterance")), T, F, missing = F),
+                      popoart = if_else(str_detect(Comment_PP, coll("(part of) piece of art")), T, F, missing = F))
+
+summary(annotations)
+
+simple_cases <- filter(annotations, ! str_detect(interpr_sem_class_PP_int, "[/+]") & ! str_detect(sem_class_subj, "[/+]") & ! str_detect(sem_class_PP_int, "[/+]")) %>%
+  droplevels()
+```
+
+## Prepositions and verbs
+
+Which prepositions occurr with which verbs?
+Since we also want to show how many examples we find *without* a stimulus PP, we will also need information on the examples that don't contain a stimulus preposition here. So we also have to read in the original GerEO annotations.
+
+```{r}
+list_file_names_csv <- list.files(path = "../annotations", pattern='*.csv')
+list_file_names_csv <- map_chr(list_file_names_csv, function(x){str_glue("../annotations", x, .sep = "/")})
+
+df_list_csv <- lapply(list_file_names_csv, read_csv2, show_col_types = F)
+verben <- sapply(list_file_names_csv, str_sub, 16, -5)
+
+names(df_list_csv) <- verben
+
+df_csv <- bind_rows(df_list_csv, .id = "Verb") %>%
+  select(1:27) # without Misc etc.
+
+# creating one pattern column
+for(i in 8:22){
+  df_csv[,i] <- ifelse(is.na(df_csv[,i]), "", colnames(df_csv)[i])
+}
+df_all_verbs_cat <- unite(df_csv, pattern, 8:22, sep = "", remove = T)
+
+# factorizing
+df_all_verbs_cat$pattern <- factor(df_all_verbs_cat$pattern)
+df_all_verbs_cat$Stimulus_Type <- factor(df_all_verbs_cat$Stimulus_Type)
+df_all_verbs_cat$Stimulus_PP <- factor(df_all_verbs_cat$Stimulus_PP)
+df_all_verbs_cat$Verb <- factor(df_all_verbs_cat$Verb)
+df_all_verbs_cat$not_of_interest <- ifelse(is.na(df_all_verbs_cat$not_of_interest), F, T)
+df_all_verbs_cat$`non-psych` <- ifelse(is.na(df_all_verbs_cat$`non-psych`), F, T)
+
+# verb translations
+transl <- read_csv2("gloss_verbs.csv")
+
+levels(df_all_verbs_cat$Verb) <- fct_relabel(levels(df_all_verbs_cat$Verb), function(x){str_c(x, ' "', str_sub(transl$Translation, 4), '"')})
+
+only_spl_stm_relevant <- filter(df_all_verbs_cat, ! not_of_interest, ! `non-psych`,
+                                pattern == "X-STM_V_Y-EXP" | pattern == "X-STM_V")
+
+spl_verbsandpreps <- data.frame(verb = only_spl_stm_relevant$Verb, prep = only_spl_stm_relevant$Stimulus_PP)
+# also exclude für, osa, über, von. Check of the few relevant examples showed that definitely not split stimuli (although one will keep the Stimulus_PP annotation)
+spl_verbsandpreps$prep <- factor(ifelse(is.na(spl_verbsandpreps$prep) | spl_verbsandpreps$prep == "für" | spl_verbsandpreps$prep == "über" | spl_verbsandpreps$prep == "von", "none", as.character(spl_verbsandpreps$prep)))
+spl_verbsandpreps$prep <- relevel(spl_verbsandpreps$prep, ref = "none")
+
+ggplot(spl_verbsandpreps, aes(x = verb, fill = prep)) +
+  geom_bar(position = "stack") +
+  theme(axis.text.x = element_text(size = 8, angle = 55, vjust = 1, hjust = 1),
+        legend.key.size = unit(0.2, 'cm'),
+        legend.text = element_text(size = 11)) +
+  scale_fill_manual(values = c("grey85", "red2", "red", "aquamarine",
+                               "grey35", "pink", "black", "blue2",
+                               "blue", "yellow", "yellow2", "orange2",
+                               "magenta", "white", "lightgreen"))
+```
+
+
+## Durch
+
+```{r}
+colour_codes <- c("abstract_obj" = "purple", "abstract_obj,property" = "orange", "abstract_obj,concrete_obj" = "grey25", 
+                  "abstract_obj,event" = "yellow2", "abstract_obj,event(action)" = "yellow4",
+                  "ambiguous" = "black", "anim_proxy" = "darkgreen", "animal" = "green3", 
+                  "event" = "red", "event(action)" = "darkred", "human" = "green",
+                  "locative" = "gold2", "property" = "blue2", "concrete_obj" = "grey", "other" = "white")
+
+durch_data_simple <- simple_cases %>%
+  filter(Stimulus_PP == "durch")
+
+durch_data_general <- annotations %>%
+  filter(Stimulus_PP == "durch")
+
+othervec_int_durch <- names(summary(durch_data_simple$interpr_sem_class_PP_int_f))[summary(durch_data_simple$interpr_sem_class_PP_int_f) > 2]
+othervec_subj_durch <- names(summary(durch_data_simple$sem_class_subj_f))[summary(durch_data_simple$sem_class_subj_f) > 2]
+othervec_PP_int_durch <- names(summary(durch_data_simple$sem_class_PP_int_f))[summary(durch_data_simple$sem_class_PP_int_f) > 2]
+```
+
+### Overview
+```{r}
+durch_overview_summary <- 
+  durch_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_durch, interpr_sem_class_PP_int, "other"),
+         sem_class_subj_f_short = if_else(sem_class_subj %in% othervec_subj_durch, sem_class_subj, "other"),
+         sem_class_PP_int_f_short = if_else(sem_class_PP_int %in% othervec_PP_int_durch, if_else(sem_class_PP_int == "event(action),abstract_obj", "abstract_obj,event(action)", sem_class_PP_int), "other")) %>%
+  group_by(sem_class_subj_f_short, interpr_sem_class_PP_int_f_short, sem_class_PP_int_f_short) %>% 
+  summarise(count = n()) %>%
+  ungroup() %>%
+  transmute(subject = factor(sem_class_subj_f_short),
+            PP_int_arg = factor(sem_class_PP_int_f_short),
+            interpretation = factor(interpr_sem_class_PP_int_f_short),
+            count = count) %>%
+  pivot_longer(c(subject, PP_int_arg, interpretation), names_to = "NP", values_to = "semantics")
+
+ggplot(durch_overview_summary, aes(x = NP, y = count, fill = semantics)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = NULL, y = "Frequency", fill = NULL) +
+  theme(legend.position = "bottom", legend.key.size = unit(10, "pt")) +
+  scale_fill_manual(values = colour_codes)
+
+#ggsave("durch_overview.png", device = "png", width = 18.5, height = 11, units = "cm")
+```
+
+### Utterance and (part of) piece of art
+```{r}
+durch_ut_popo_summary <- 
+  durch_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_durch, interpr_sem_class_PP_int, "other"),
+         ut_popoa = if_else(utterance & popoart, "utterance & (part of) piece of art",
+                            if_else(utterance & ! popoart, "utterance",
+                            if_else(! utterance & popoart, "(part of) piece of art",
+                            " ")))) %>%
+  group_by(interpr_sem_class_PP_int_f_short, ut_popoa) %>% 
+  summarise(count = n())
+
+ggplot(durch_ut_popo_summary, aes(x = interpr_sem_class_PP_int_f_short, y = count, fill = ut_popoa)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = "Interpr. int. arg.", y = "Frequency", fill = NULL) +
+  theme(axis.text.x = element_text(angle = 90))
+```
+
+
+### Interpretation by subject
+```{r}
+colour_codes_inter <- c("abstract_obj" = "purple",
+                  "abstract_obj,event" = "yellow2", "abstract_obj,event(action)" = "yellow4",
+                  "ambiguous" = "black",
+                  "event" = "red", "event(action)" = "darkred", "human" = "green",
+                  "locative" = "gold2", "property" = "blue2", "concrete_obj" = "grey", "other" = "white")
+
+durch_subj_int_summary <- 
+  durch_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_durch, interpr_sem_class_PP_int, "other"),
+         sem_class_subj_f_short = if_else(sem_class_subj %in% othervec_subj_durch, sem_class_subj, "other")) %>%
+  group_by(sem_class_subj_f_short, interpr_sem_class_PP_int_f_short) %>% 
+  summarise(count = n())
+
+
+ggplot(durch_subj_int_summary, aes(x = count, y = sem_class_subj_f_short, fill = interpr_sem_class_PP_int_f_short)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = "Frequency", y = "Subject", fill = "Interpr. int. arg.") +
+  theme(legend.position = "bottom", legend.key.size = unit(2, "pt")) +
+  scale_fill_manual(values = colour_codes_inter)
+```
+
+## Mit
+
+```{r}
+mit_data_simple <- simple_cases %>%
+  filter(Stimulus_PP == "mit")
+mit_data_general <- annotations %>%
+  filter(Stimulus_PP == "mit")
+
+othervec_int_mit <- names(summary(mit_data_simple$interpr_sem_class_PP_int_f))[summary(mit_data_simple$interpr_sem_class_PP_int_f) > 5]
+othervec_subj_mit <- names(summary(mit_data_simple$sem_class_subj_f))[summary(mit_data_simple$sem_class_subj_f) > 5]
+othervec_PP_int_mit <- names(summary(mit_data_simple$sem_class_PP_int_f))[summary(mit_data_simple$sem_class_PP_int_f) > 5]
+```
+
+### Overview
+```{r}
+mit_overview_summary <- 
+  mit_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_mit, if_else(sem_class_PP_int == "event(action),abstract_obj", "abstract_obj,event(action)", interpr_sem_class_PP_int), "other"),
+         sem_class_subj_f_short = if_else(sem_class_subj %in% othervec_subj_mit, sem_class_subj, "other"),
+         sem_class_PP_int_f_short = if_else(sem_class_PP_int %in% othervec_PP_int_mit, if_else(sem_class_PP_int == "event(action),abstract_obj", "abstract_obj,event(action)", sem_class_PP_int), "other")) %>%
+  group_by(sem_class_subj_f_short, interpr_sem_class_PP_int_f_short, sem_class_PP_int_f_short) %>% 
+  summarise(count = n()) %>%
+  ungroup() %>%
+  transmute(subject = factor(sem_class_subj_f_short),
+            PP_int_arg = factor(sem_class_PP_int_f_short),
+            interpretation = factor(interpr_sem_class_PP_int_f_short),
+            count = count) %>%
+  pivot_longer(c(subject, PP_int_arg, interpretation), names_to = "NP", values_to = "semantics")
+
+ggplot(mit_overview_summary, aes(x = NP, y = count, fill = semantics)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = NULL, y = "Frequency", fill = NULL) +
+  theme(legend.position = "bottom", legend.key.size = unit(10, "pt")) +
+  scale_fill_manual(values = colour_codes)
+
+#ggsave("mit_overview.png", device = "png", width = 18.5, height = 11, units = "cm")
+```
+
+### Utterance and (part of) piece of art
+```{r}
+mit_ut_popo_summary <- 
+  mit_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_mit, interpr_sem_class_PP_int, "other"),
+         ut_popoa = if_else(utterance & popoart, "utterance & (part of) piece of art",
+                            if_else(utterance & ! popoart, "utterance",
+                            if_else(! utterance & popoart, "(part of) piece of art",
+                            " ")))) %>%
+  group_by(interpr_sem_class_PP_int_f_short, ut_popoa) %>% 
+  summarise(count = n())
+
+ggplot(mit_ut_popo_summary, aes(x = interpr_sem_class_PP_int_f_short, y = count, fill = ut_popoa)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = "Interpr. int. arg.", y = "Frequency", fill = NULL) +
+  theme(axis.text.x = element_text(angle = 90))
+```
+
+
+## Als
+
+```{r}
+als_data_simple <- simple_cases %>%
+  filter(Stimulus_PP == "als")
+
+als_data_general <- annotations %>%
+  filter(Stimulus_PP == "als")
+
+othervec_int_als <- names(summary(als_data_simple$interpr_sem_class_PP_int_f))[summary(als_data_simple$interpr_sem_class_PP_int_f) > 0]
+othervec_subj_als <- names(summary(als_data_simple$sem_class_subj_f))[summary(als_data_simple$sem_class_subj_f) > 0]
+othervec_PP_int_als <- names(summary(als_data_simple$sem_class_PP_int_f))[summary(als_data_simple$sem_class_PP_int_f) > 0 & ! names(summary(als_data_simple$sem_class_PP_int_f)) %in% c("abstract_obj,locative", "human,abstract_obj")]
+```
+
+### Overview
+```{r}
+als_overview_summary <- 
+  als_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_als, interpr_sem_class_PP_int, "other"),
+         sem_class_subj_f_short = if_else(sem_class_subj %in% othervec_subj_als, sem_class_subj, "other"),
+         sem_class_PP_int_f_short = if_else(sem_class_PP_int %in% othervec_PP_int_als, sem_class_PP_int, "other")) %>%
+  group_by(sem_class_subj_f_short, interpr_sem_class_PP_int_f_short, sem_class_PP_int_f_short) %>% 
+  summarise(count = n()) %>%
+  ungroup() %>%
+  transmute(subject = factor(sem_class_subj_f_short),
+            PP_int_arg = factor(sem_class_PP_int_f_short),
+            interpretation = factor(interpr_sem_class_PP_int_f_short),
+            count = count) %>%
+  pivot_longer(c(subject, PP_int_arg, interpretation), names_to = "NP", values_to = "semantics")
+
+ggplot(als_overview_summary, aes(x = NP, y = count, fill = semantics)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = NULL, y = "Frequency", fill = NULL)+
+  scale_fill_manual(values = colour_codes) +
+  theme(legend.position = "bottom", legend.key.size = unit(10, "pt")) 
+
+#ggsave("als_overview.png", device = "png", width = 18.5, height = 11, units = "cm")
+```
+
+### Utterance and (part of) piece of art
+```{r}
+als_ut_popo_summary <- 
+  als_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_als, interpr_sem_class_PP_int, "other"),
+         ut_popoa = if_else(utterance & popoart, "utterance & (part of) piece of art",
+                            if_else(utterance & ! popoart, "utterance",
+                            if_else(! utterance & popoart, "(part of) piece of art",
+                            " ")))) %>%
+  group_by(interpr_sem_class_PP_int_f_short, ut_popoa) %>% 
+  summarise(count = n())
+
+ggplot(als_ut_popo_summary, aes(x = interpr_sem_class_PP_int_f_short, y = count, fill = ut_popoa)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = "Interp. int. arg.", y = "Frequency", fill = NULL) +
+  theme(axis.text.x = element_text(angle = 90))
+```
+
+
+## An
+
+```{r}
+an_data_simple <- simple_cases %>%
+  filter(Stimulus_PP == "an")
+
+an_data_general <- annotations %>%
+  filter(Stimulus_PP == "an")
+
+othervec_int_an <- names(summary(an_data_simple$interpr_sem_class_PP_int_f))[summary(an_data_simple$interpr_sem_class_PP_int_f) > 0 & ! names(summary(an_data_simple$interpr_sem_class_PP_int_f)) %in% c("locative,abstract_obj", "abstract_obj,human", "abstract_obj,locative", "property,human", "abstract_obj,concrete_obj", "event(action),abstract_obj", "temporal")]
+othervec_subj_an <- names(summary(an_data_simple$sem_class_subj_f))[summary(an_data_simple$sem_class_subj_f) > 0 & ! names(summary(an_data_simple$sem_class_subj_f)) %in% c("locative,abstract_obj", "abstract_obj,human", "abstract_obj,locative", "property,human", "abstract_obj,concrete_obj", "event(action),abstract_obj", "temporal", "abstract_obj,event,state", "abstract_obj,state", "event(action),property", "property,ambiguous", "property,abstract_obj")]
+othervec_PP_int_an <- names(summary(an_data_simple$sem_class_PP_int_f))[summary(an_data_simple$sem_class_PP_int_f) > 0 & ! names(summary(an_data_simple$sem_class_PP_int_f)) %in% c("locative,abstract_obj", "abstract_obj,human", "abstract_obj,locative", "property,human", "abstract_obj,concrete_obj", "event(action),abstract_obj", "temporal", "	
+locative,concrete_obj", "locative,concrete_obj")]
+```
+
+### Overview
+```{r}
+an_overview_summary <- 
+  an_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_an, interpr_sem_class_PP_int, "other"),
+         sem_class_subj_f_short = if_else(sem_class_subj %in% othervec_subj_an, sem_class_subj, "other"),
+         sem_class_PP_int_f_short = if_else(sem_class_PP_int %in% othervec_PP_int_an, sem_class_PP_int, "other")) %>%
+  group_by(sem_class_subj_f_short, interpr_sem_class_PP_int_f_short, sem_class_PP_int_f_short) %>% 
+  summarise(count = n()) %>%
+  ungroup() %>%
+  transmute(subject = factor(sem_class_subj_f_short),
+            PP_int_arg = factor(sem_class_PP_int_f_short),
+            interpretation = factor(interpr_sem_class_PP_int_f_short),
+            count = count) %>%
+  pivot_longer(c(subject, PP_int_arg, interpretation), names_to = "NP", values_to = "semantics")
+
+ggplot(an_overview_summary, aes(x = NP, y = count, fill = semantics)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = NULL, y = "Frequency", fill = NULL) +
+  theme(legend.position = "bottom", legend.key.size = unit(10, "pt")) +
+  scale_fill_manual(values = colour_codes)
+
+#ggsave("an_overview.png", device = "png", width = 18.5, height = 11, units = "cm")
+```
+
+### Utterance and (part of) piece of art
+```{r}
+an_ut_popo_summary <- 
+  an_data_simple %>%
+  mutate(interpr_sem_class_PP_int_f_short = if_else(interpr_sem_class_PP_int %in% othervec_int_an, interpr_sem_class_PP_int, "other"),
+         ut_popoa = if_else(utterance & popoart, "utterance & (part of) piece of art",
+                            if_else(utterance & ! popoart, "utterance",
+                            if_else(! utterance & popoart, "(part of) piece of art",
+                            " ")))) %>%
+  group_by(interpr_sem_class_PP_int_f_short, ut_popoa) %>% 
+  summarise(count = n())
+
+ggplot(an_ut_popo_summary, aes(x = interpr_sem_class_PP_int_f_short, y = count, fill = ut_popoa)) +
+  geom_bar(stat = "identity", position = "stack") +
+  labs(x = "Interpr. int. arg.", y = "Freq.", fill = NULL) +
+  theme(axis.text.x = element_text(angle = 90))
+```

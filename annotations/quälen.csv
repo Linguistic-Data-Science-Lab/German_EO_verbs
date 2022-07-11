@@ -6378,7 +6378,7 @@ quälen;NZZ_1999_10_12_a167_seg3_s15;23;Unlängst wurde ich Zeuge , wie ein Sper
 22	Tode	Tod	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	23	obl	_	_
 23	quälte	quälen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
 24	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;mit;;;result_PP, collocation;;zu Tode
+";;;x;;;;;;;;;;;;;;;anim;;;;result_PP, collocation;;zu Tode
 quälen;NZZ_1999_10_12_a224_seg7_s10;27;In ihrem ersten Roman , « Verführungen » ( 1996 ) , war es das graue Wien des Mittelstands , durch das sich eine unglückliche Helene quälte , durch den Schutt der Beziehungen , am Ende auf dem Weg zum Arbeitsamt , angetrieben von einer peitschenden Stammelprosa ohne stilistischen Zierat .;"1	In	in	ADP	APPR	_	4	case	_	_
 2	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
 3	ersten	erst	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	_

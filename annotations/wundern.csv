@@ -3551,7 +3551,7 @@ wundern;NZZ_1996_07_20_a113_seg3_s4;2;Wen wunderte es angesichts dieses Angebots
 33	keine	kein	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Neg|PronType=Neg	34	nmod	_	_
 34	Konkurrenz	Konkurrenz	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	_
 35	?	?	PUNCT	$.	_	2	punct	_	_
-";;;X;;;;;;;;;;;;;;;propositional;angesichts;;;non-phoric_es;;
+";;;X;;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
 wundern;NZZ_1996_08_28_a113_seg3_s7;3;Und wer wundert sich , der Künstler , der Besucher ?;"1	Und	und	CCONJ	KON	_	3	cc	_	_
 2	wer	wer	PRON	PWS	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
 3	wundert	wundern	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

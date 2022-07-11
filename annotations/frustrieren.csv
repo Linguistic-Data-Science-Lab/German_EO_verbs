@@ -205,7 +205,7 @@ frustrieren;NZZ_1993_10_25_a134_seg7_s1;33;Die Qualifikation der Schweizerinnen 
 32	zu	zu	PART	PTKZU	_	33	mark	_	_
 33	frustrieren	frustrieren	VERB	VVINF	VerbForm=Inf	12	advcl	_	_
 34	.	.	PUNCT	$.	_	10	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;angesichts;x;;;inanim control, adjunct control;
+";;;x;;;;;;;;;;;;;;;inanim;;x;;;inanim control, adjunct control;
 frustrieren;NZZ_1993_11_03_a46_seg4_s1;19;Versuche , die Kaninchen und Füchse wieder unter Kontrolle zu bringen , haben die Australier während 110 Jahren frustriert .;"1	Versuche	Versuch	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
 2	,	,	PUNCT	$,	_	11	punct	_	_
 3	die	der	DET	ART	Case=Nom|Number=Plur|PronType=Art	4	det	_	_

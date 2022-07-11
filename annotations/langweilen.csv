@@ -506,7 +506,7 @@ langweilen;NZZ_1993_10_20_a110_seg2_s37;12;Angesichts der unendlichen Wiederholu
 14	bald	bald	ADV	ADV	_	12	advmod	_	_
 15	einmal	einmal	ADV	ADV	_	12	advmod	_	_
 16	.	.	PUNCT	$.	_	12	punct	_	_
-";;;;x;;;;;;;;;;;;;;ambiguous;angesichts;;;ambiguous;could also be Acc/Dat-EXP V;
+";;;;x;;;;;;;;;;;;;;ambiguous;;;;ambiguous;could also be Acc/Dat-EXP V;
 langweilen;NZZ_1993_10_23_a93_seg4_s11;17;Und jedesmal in der Nacht denke ich , ich begreife jetzt , weshalb ich mich derart langweile .;"1	Und	und	CCONJ	KON	_	6	cc	_	_
 2	jedesmal	jedesmal	ADV	ADV	_	6	advmod	_	_
 3	in	in	ADP	APPR	_	5	case	_	_

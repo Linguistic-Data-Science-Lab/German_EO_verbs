@@ -3350,7 +3350,7 @@ schmeicheln;NZZ_1996_06_01_a203_seg6_s7;31;Diese Überzeugung leitet mich allein
 64	zu	zu	PART	PTKZU	_	65	mark	_	_
 65	vermindern	vermindern	VERB	VVINF	VerbForm=Inf	51	csubj	_	_
 66	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;mit;;;ambiguous;instrumental,  transitive refl?;sich schmeicheln mit
+";;;x;;;;;;;;;;;;;;;anim;;;;ambiguous;instrumental,  transitive refl?;sich schmeicheln mit
 schmeicheln;NZZ_1996_06_14_a194_seg3_s5;21;Den Schweizer Spielern , die aus finanziellen Überlegungen im letzten Moment den Ausrüster gewechselt und englische Schuhe geschnürt hatten , schmeichelten solch respektvolle Worte , weil im eigenen Land in den letzten Tagen und Wochen über ihre Nöte wie unverständliche Kaderaufgebotspraxis oder ungenügende Trainingsbedingungen offensichtlich nichts für die Öffentlichkeit bestimmt war .;"1	Den	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	Schweizer	Schweizer	PROPN	ADJA	_	3	amod	_	_
 3	Spielern	Spieler	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	21	iobj	_	_

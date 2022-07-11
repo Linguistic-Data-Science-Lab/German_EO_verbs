@@ -2,6 +2,8 @@
 
 This repository contains _GerEO_, a set of annotations on German sentences containing an experiencer-object (EO) verb, as well as scripts and materials for publications that relate to it. EO verbs are psychological predicates whose Experiencer argument is mapped onto the object. They are claimed to be syntactically special in the literature. All annotations were performed as part of our project [The grammar of Experiencer-Object verbs: theoretical, computational and experimental approaches towards reflexive binding in German](https://ldsl.rub.de/research/projects/stm-subj) (supported by a DFG grant (KI 759/9-1)). The complete annotation guidelines are available from the LDSL website as volume 4 of [SLLDS](https://ldsl.rub.de/research/resources/sllds).
 
+Additionally, the directory contains supplementary annotations on so-called "split stimuli" performed on a subset of GerEO (namely all relevant sentences).
+
 ## annotations
 This folder contains the annotations: one CSV file per verb, encoding: utf-8, separator: ;
 
@@ -27,3 +29,6 @@ Materials for (Poppek, Masloch, Robrecht & Kiss, 2021): A Quantitative Approach 
 
 ## FGLS
 Handout for our talk on the divergent behaviour of _schmeicheln_ and _imponieren_ (compared to other dative EO verbs) at the 15th Forum for Germanic Language Studies conference in January, 2022.
+
+## split_stimuli
+Materials for our talk on so-called "Split Stimuli" at Grammar and Corpora 2022 in Ghent. The term "split stimulus" has been used in the literature for cases in which the semantic stimulus of the experiencer’s emotion appears to be "split up" between an NP and another phrase (usually a PP). The folder contains its own README.

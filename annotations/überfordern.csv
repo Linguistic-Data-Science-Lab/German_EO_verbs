@@ -2391,7 +2391,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 14	weitem	weit	PRON	PIS	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	15	nmod	_	_
 15	überfordert	überfordern	ADJ	ADJD	_	8	conj	_	_
 16	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;mit;;;pronominal_adverb;;
+";;x;;;;;;;;;;;;;;;;;;;;;;
 überfordern;NZZ_1995_05_29_a145_seg6_s8;21;Zahlreiche Wendungen , lange Linien und eine tückisch gestellte Dreierkombination selektionierten im gewünschten Umfang , ohne die Teilnehmer aber zu überfordern .;"1	Zahlreiche	zahlreich	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Plur	2	amod	_	_
 2	Wendungen	Wendung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
 3	,	,	PUNCT	$,	_	5	punct	_	_

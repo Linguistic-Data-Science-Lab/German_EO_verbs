@@ -492,7 +492,7 @@ verblüffen;NZZ_1993_03_15_a134_seg6_s3;2;Sie verblüffte trotz der psychischen 
 31	verblüffen	verblüffen	VERB	VVINF	VerbForm=Inf	18	acl	_	_
 32	mussten	müssen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	31	aux	_	_
 33	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;X;;;;;;;;;;;;;;anim;durch;;;;inanim durch-PP;
+";;;;X;;;;;;;;;;;;;;anim_proxy;durch;;;;inanim durch-PP;
 verblüffen;NZZ_1993_03_20_a96_seg3_s14;36;Dass die Partie schliesslich einen für die Gäste ungünstigen Ausgang nahm und die Niederlage aus Schadenfreude der BVB-Verantwortlichen nach Schlusspfiff mit dem aus den Stadionlautsprechern scheppernden Evergreen « Arrividerci Roma » noch bitterer wurde , verblüffte nicht : ein Unglück kommt immer noch selten allein .;"1	Dass	daß	SCONJ	KOUS	_	11	mark	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Partie	Partie	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_

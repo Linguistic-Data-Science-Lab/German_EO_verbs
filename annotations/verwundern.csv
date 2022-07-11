@@ -527,7 +527,7 @@ verwundern;NZZ_1993_03_18_a164_seg8_s1;5;Angesichts der rückläufigen Produktio
 24	Jahr	Jahr	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	_
 25	zuvor	zuvor	ADV	ADV	_	24	advmod	_	_
 26	.	.	PUNCT	$.	_	5	punct	_	_
-";;;;x;;;;;;;;;;;;;;propositional;angesichts;;;non-phoric_es;;
+";;;;x;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
 verwundern;NZZ_1993_03_19_a123_seg13_s5;6;RTL kam dabei - wen verwundert es - auf einen ähnlich geringen Anteil wie ARD und ZDF , während SAT 1 und Pro 7 deutlich schlechter abschnitten .;"1	RTL	RTL	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	kam	kommen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	dabei	dabei	ADV	PAV	_	2	advmod	_	_
@@ -1041,7 +1041,7 @@ verwundern;NZZ_1994_01_28_a28_seg9_s5;24;Angesichts der Tatsache , dass der Flug
 34	Polizeiautos	Polizeiautos	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	32	nmod	_	_
 35	wimmelt	wimmeln	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	ccomp	_	_
 36	.	.	PUNCT	$.	_	24	punct	_	_
-";;;;x;;;;;;;;;;;;;;propositional;angesichts;;;non-phoric_es;;
+";;;;x;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
 verwundern;NZZ_1994_06_02_a70_seg3_s22;6;Es muss daher auch nicht verwundern , dass 1992 die Beanspruchung der von der SNB eingeräumten Limiten von 5,9 Mrd. Fr .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 2	muss	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 3	daher	daher	ADV	PAV	_	6	advmod	_	_
@@ -5544,7 +5544,7 @@ verwundern;NZZ_1999_05_29_a85_seg1_s5;6;Vor diesem Hintergrund muss es verwunder
 37	einiges	einiges	PRON	PIS	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	38	obl	_	_
 38	hinterherhinken	hinterherhinken	VERB	VVINF	VerbForm=Inf	6	ccomp	_	_
 39	.	.	PUNCT	$.	_	6	punct	_	_
-";;;;x;;;;;;;;;;;;;;propositional;vor;;;non-phoric_es;;
+";;;;x;;;;;;;;;;;;;;propositional;;;;non-phoric_es;;
 verwundern;NZZ_1999_05_29_a227_seg6_s1;2;So verwundert es jedenfalls nicht , wenn der IAAF weiterhin ein Hauptsponsor für die insgesamt 21 GP-Meetings fehlt .;"1	So	so	ADV	ADV	_	2	advmod	_	_
 2	verwundert	verwundern	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
