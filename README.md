@@ -2,8 +2,6 @@
 
 This repository contains _GerEO_, a set of annotations on German sentences containing an experiencer-object (EO) verb, as well as scripts and materials for publications that relate to it. EO verbs are psychological predicates whose Experiencer argument is mapped onto the object. They are claimed to be syntactically special in the literature. All annotations were performed as part of our project [The grammar of Experiencer-Object verbs: theoretical, computational and experimental approaches towards reflexive binding in German](https://ldsl.rub.de/research/projects/stm-subj) (supported by a DFG grant (KI 759/9-1)). The complete annotation guidelines are available from the LDSL website as volume 4 of [SLLDS](https://ldsl.rub.de/research/resources/sllds).
 
-Additionally, the directory contains supplementary annotations on so-called "split stimuli" performed on a subset of GerEO (namely all relevant sentences).
-
 ## annotations
 This folder contains the annotations: one CSV file per verb, encoding: utf-8, separator: ;
 
