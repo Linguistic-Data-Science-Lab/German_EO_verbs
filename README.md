@@ -29,6 +29,3 @@ Materials for (Poppek, Masloch, Robrecht & Kiss, 2021): A Quantitative Approach 
 
 ## FGLS
 Handout for our talk on the divergent behaviour of _schmeicheln_ and _imponieren_ (compared to other dative EO verbs) at the 15th Forum for Germanic Language Studies conference in January, 2022.
-
-## split_stimuli
-Materials for our talk on so-called "Split Stimuli" at Grammar and Corpora 2022 in Ghent. The term "split stimulus" has been used in the literature for cases in which the semantic stimulus of the experiencer’s emotion appears to be "split up" between an NP and another phrase (usually a PP). The folder contains its own README.
