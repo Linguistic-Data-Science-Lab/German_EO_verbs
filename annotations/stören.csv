@@ -2220,7 +2220,7 @@ stören;NZZ_1993_04_10_a166_seg2_s68;28;Es ist von Unterwassergrotten die Rede ,
 28	gestört	stören	VERB	VVPP	VerbForm=Part	20	acl	_	_
 29	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	28	aux:pass	_	_
 30	.	.	PUNCT	$.	_	6	punct	_	_
-";;x;x;;;;;;;;;;;;;;;anim_proxy;;;;collocation;;
+";;x;;;;x;;;;;;;;;;;;anim_proxy;;;;collocation;;
 stören;NZZ_1993_04_10_a219_seg2_s14;40;Im Gegensatz zu anderen Bereichen , wo über die Lastenverteilung gestritten wird , herrscht nach Hug auf dem Gebiet der Abfallbewirtschaftung eine Art « Güselfrieden » zwischen Stadt und Landschaft , der durch ein Beharren auf der Deponie Lybenstein gestört würde .;"1	Im	im	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Gegensatz	Gegensatz	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 3	zu	zu	ADP	APPR	_	5	case	_	_
