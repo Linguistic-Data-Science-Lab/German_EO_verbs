@@ -27,3 +27,6 @@ Materials for (Poppek, Masloch, Robrecht & Kiss, 2021): A Quantitative Approach 
 
 ## FGLS
 Handout for our talk on the divergent behaviour of _schmeicheln_ and _imponieren_ (compared to other dative EO verbs) at the 15th Forum for Germanic Language Studies conference in January, 2022.
+
+## split_stimuli
+Materials for our paper "A Corpus-based Perspective on ‘Split Stimuli’ in German" based on a presentation delivered at Grammar and Corpora 2022 in Ghent. See separate Readme there.
