@@ -2022,7 +2022,7 @@ verärgern;NZZ_1994_02_01_a21_seg8_s12;4;Was die Kroaten verärgert , ist der Um
 71	Triest	Triest	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	68	nmod	_	_
 72	verbinden	verbinden	VERB	VVFIN	VerbForm=Inf	58	acl	_	_
 73	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 verärgern;NZZ_1994_02_03_a1_seg5_s1;29;Der britische Aussenminister Hurd , der sich zeitgleich mit Adams ' Auftritt in New York in Washington aufhielt , reagierte denn auch auf die Äusserungen des Sinn-Fein-Führers sichtlich verärgert und erklärte , sie enthielten nichts anderes als Zweideutigkeiten und Ablenkungen .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	britische	britisch	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Aussenminister	Aussenminister	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -2362,7 +2362,7 @@ verärgern;NZZ_1994_04_02_a37_seg3_s5;44;"Besonders unbeliebt sind in Kanada die
 46	kanadische	kanadisch	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	47	amod	_	_
 47	Administration	Administration	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	44	nsubj	_	_
 48	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,EXP_anim_proxy;;
 verärgern;NZZ_1994_04_08_a21_seg8_s4;4;Aristides mangelnde Konzessionsbereitschaft verärgert die Administration , die Aristide hinter vorgehaltener Hand als starrköpfig bezeichnet .;"1	Aristides	Aristides	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	_
 2	mangelnde	mangelnd	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Konzessionsbereitschaft	Konzessionsbereitschaft	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -4370,7 +4370,7 @@ verärgern;NZZ_1995_01_10_a86_seg3_s20;27;Hier dominiert eher die Gesinnung des 
 48	überholt	überholt	ADJ	VVPP	VerbForm=Part	26	acl	_	_
 49	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	cop	_	_
 50	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 verärgern;NZZ_1995_01_11_a71_seg8_s10;13;Der Handelsbeauftragte Mickey Kantor hat die Japaner mit der Einleitung eines Sanktionsverfahrens verärgert , das allerdings nur auf den Autoersatzteilmarkt abzielt und somit eher symbolischen Charakter hat .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Handelsbeauftragte	Handelsbeauftragte	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 3	Mickey	Mickey	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
@@ -4614,7 +4614,7 @@ verärgern;NZZ_1995_01_27_a86_seg3_s10;18;Das Vorgehen von Glaxo und der Stiftun
 17	verständlicherweise	verständlicherweise	ADV	ADV	_	18	advmod	_	_
 18	verärgert	verärgert	VERB	VVPP	VerbForm=Part	0	root	_	_
 19	.	.	PUNCT	$.	_	18	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,EXP_anim_proxy;;
 verärgern;NZZ_1995_02_07_a124_seg3_s13;1;Verärgert habe ihn die gemächliche Gangart der Behörden .;"1	Verärgert	verärgert	ADJ	ADJD	_	0	root	_	_
 2	habe	haben	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux	_	_
 3	ihn	er	PRON	PPER	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -5675,7 +5675,7 @@ verärgern;NZZ_1995_07_26_a108_seg3_s6;17;Doch der Brauch der Druiden , ihretweg
 31	geschaffen	schaffen	VERB	VVPP	VerbForm=Part	17	advcl	_	_
 32	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	_
 33	.	.	PUNCT	$.	_	17	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;PA+A,EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;anim;;;;PCN+C,EXP_anim_proxy;;
 verärgern;NZZ_1995_07_26_a31_seg5_s4;13;Mit den bisherigen Protestpausen hat das BVB-Fahrpersonal nicht nur die städtischen Fahrgäste verärgert , sondern auch jene der Baselland Transport ( BLT ) , die ihre Linien zum Teil durch die Stadt führt .;"1	Mit	mit	ADP	APPR	_	4	case	_	_
 2	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 3	bisherigen	bisherig	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Plur	4	amod	_	_

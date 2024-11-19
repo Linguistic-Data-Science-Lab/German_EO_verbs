@@ -223,7 +223,7 @@ zermürben;NZZ_1993_01_04_a159_seg8_s2;15;Das bekannte Problem der einheitsbedin
 19	ausufern	ausufern	VERB	VVINF	VerbForm=Inf	20	xcomp	_	_
 20	lassen	lassen	VERB	VVINF	VerbForm=Inf	15	conj	_	_
 21	.	.	PUNCT	$.	_	15	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;interesting event structure
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;interesting event structure
 zermürben;NZZ_1993_06_18_a78_seg3_s3;29;Der beste Freund des Menschen darf seinem Herrn oder seiner Herrin künftig unverstümmelt entgegenwedeln , nachdem die grosse Kammer , von der Standfestigkeit des Ständerates gegenüber den Tierzüchtern zermürbt , in der Differenzbereinigung zum internationalen Tierschutzübereinkommen das Kupieren von Hundeschwänzen schliesslich ebenfalls verboten hat .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	beste	gut	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Freund	Freund	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_

@@ -1588,7 +1588,7 @@ genügen;NZZ_1993_04_19_a43_seg2_s17;3;"Ein Beispiel genüge : Das Wirken des Je
 45	historisches	historisch	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	46	amod	_	_
 46	Ereignis	Ereignis	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	43	nmod	_	_
 47	.	.	PUNCT	$.	_	11	punct	_	_
-";;x;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;x;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 genügen;NZZ_1993_04_19_a47_seg6_s19;33;Das Bundesgericht schrieb : « Das Kindeswohl ist hier nämlich im Sinne schweizerischer Verhältnisse zu verstehen : dass ein Kind wahrscheinlich bei den künftigen Adoptiveltern in der Schweiz besser aufgehoben wäre , genügt nicht , um im Falle der Nichtanerkennung der ausländischen Adoption die Gesuchsteller ohne jegliche Abklärung als geeignete Adoptiv- bzw. Pflegeeltern zu betrachten . »;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	Bundesgericht	Bundesgericht	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 3	schrieb	schreiben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2060,7 +2060,7 @@ genügen;NZZ_1993_04_23_a13_seg8_s3;30;"Aus diesem Grund versuchten sie sich ein
 31	ihnen	sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	30	iobj	_	_
 32	nicht	nicht	PART	PTKNEG	Polarity=Neg	30	advmod	_	_
 33	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;psych?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;psych?;
 genügen;NZZ_1993_04_23_a189_seg2_s6;2;Dies genüge aber nicht .;"1	Dies	dies	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	genüge	genüge	ADV	ADV	_	0	root	_	_
 3	aber	aber	ADV	ADV	_	4	advmod	_	_
@@ -2727,7 +2727,7 @@ genügen;NZZ_1993_07_31_a118_seg6_s7;42;Die aus lauter Internationalen bestehend
 41	zu	zu	PART	PTKZU	_	42	mark	_	_
 42	genügen	nügen	VERB	VVINF	VerbForm=Inf	29	xcomp	_	_
 43	.	.	PUNCT	$.	_	18	punct	_	_
-";;x;x;;;;;;;;;;;;;;;anim_proxy;;;;psych_ambiguous, colllocation;psych?;
+";;x;x;;;;;;;;;;;;;;;anim_proxy;;;;psych_ambiguous, collocation;psych?;
 genügen;NZZ_1993_07_31_a13_seg8_s10;20;Ein Waffenstillstandsangebot des Hizbullah , das der Generalsekretär der Organisation am Freitag in Beirut machte , kann Israel nicht genügen , solange nicht wie auch immer geartete syrische Zusicherungen ein gewisses Vertrauen in dessen Einhaltung erlaubt .;"1	Ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Waffenstillstandsangebot	Waffenstillstandsangebot	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
 3	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -3752,7 +3752,7 @@ genügen;NZZ_1993_08_11_a30_seg11_s4;2;Dafür genügte den Deutschen die Tatsach
 21	wahrgenommen	wahrnehmen	VERB	VVPP	VerbForm=Part	2	ccomp	_	_
 22	hatten	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
 23	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;psych?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;psych?;
 genügen;NZZ_1993_08_11_a33_seg8_s6;9;Um das Risiko von Nierensteinen zu minimieren , genügt es , einige einfache Regeln zu befolgen .;"1	Um	um	ADP	KOUI	_	7	mark	_	_
 2	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Risiko	Risiko	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
@@ -5725,7 +5725,7 @@ genügen;NZZ_1993_12_04_a187_seg3_s4;3;Seine Skulpturen genügen sich nicht selb
 14	örtliche	örtlich	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
 15	Situation	Situation	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 16	.	.	PUNCT	$.	_	3	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous, transitive refl;psych? (metaphoric);
+";;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous;psych? (metaphoric), transitive refl;
 genügen;NZZ_1993_12_04_a35_seg2_s21;24;Damit lässt sich wohl nicht gerade die Welt aus den Angeln heben , aber ein kleiner Ruck der Optik , eine mutwillige Flause genügen , um etwas Bewegung in die starren Verhältnisse zu bringen .;"1	Damit	damit	ADV	PAV	_	2	advmod	_	_
 2	lässt	lassen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_

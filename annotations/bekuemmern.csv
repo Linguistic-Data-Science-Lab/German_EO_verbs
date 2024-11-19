@@ -791,7 +791,7 @@ bekümmern;NZZ_1995_06_28_a95_seg10_s3;24;Die Tatsache , dass die Kreditnachfrag
 23	muss	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
 24	bekümmern	bekümmern	VERB	VVINF	VerbForm=Inf	0	root	_	_
 25	.	.	PUNCT	$.	_	24	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 bekümmern;NZZ_1995_07_01_a207_seg12_s1;79;« war es das Gefühl der durch bürgerliche Verhältnisse unterdrückten Menschheit , das sich seiner ... bemächtigte und ihm das Leben verhasst machte - er musste einen jungen Edelmann unterrichten , der ihn dafür bezahlte und ihm nach geendigter Stunde auf eine höfliche Art die Türe weisen konnte , wenn es ihm beliebte - was hatte er vor seiner Geburt verbrochen , dass er nicht auch ein Mensch geworden war , um den sich eine Anzahl anderer Menschen bekümmern ... müssen - warum erhielt er gerade die Rolle des Arbeitenden und ein anderer die des Bezahlenden ?;"1	«	""	PUNCT	$(	_	5	punct	_	_
 2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -1010,7 +1010,7 @@ bekümmern;NZZ_1995_10_07_a183_seg9_s4;38;Der Widerspruch , dass dort am meisten
 86	zu	zu	PART	PTKZU	_	87	mark	_	_
 87	schicken	schicken	VERB	VVINF	VerbForm=Inf	69	acl	_	_
 88	.	.	PUNCT	$.	_	34	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 bekümmern;NZZ_1995_10_14_a200_seg3_s15;22;"Gab überhaupt frisch von der Leber weg über sich Auskunft ; ich hingegen , à propos Leber , war ein wenig bekümmert , sie möchte aus der Kombination meines gegenwärtigen bedauerlichen Zustands mit der Erinnerung an meine treue Kundschaft bei der Weinhandlung Groll zu einem unvorteilhaften Urteil über meine Person gelangen .";"1	Gab	geben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	_
 2	überhaupt	überhaupt	ADV	ADV	_	3	advmod	_	_
 3	frisch	frisch	ADV	ADJD	_	1	advmod	_	_

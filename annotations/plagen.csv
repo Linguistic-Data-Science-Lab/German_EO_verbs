@@ -23,7 +23,7 @@ plagen;NZZ_1993_07_01_a80_seg1_s4;18;Diffuse Schuldgefühle , dass man die Mutte
 plagen;NZZ_1993_07_02_a149_seg1_s81;2;La plage .;"1	La	La	PROPN	NE	Case=Nom|Number=Sing	2	nmod	_	_
 2	plage	plage	PROPN	NE	Number=Sing	0	root	_	_
 3	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1993_07_05_a62_seg12_s4;8;Primorac blieb daraufhin im Hotel , offiziell plagte ihn eine Magengrippe .;"1	Primorac	Primorac	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	blieb	bleiben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	daraufhin	daraufhin	ADV	PAV	_	2	advmod	_	_
@@ -43,7 +43,7 @@ plagen;NZZ_1993_07_26_a45_seg1_s205;5;11.05 Rendez-vous sur la plage .;"1	11.05	
 4	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 5	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1993_04_15_a97_seg2_s17;6;Fünf Tage vor dem WM-Beginn plagen Grippeviren diverse Schweizer Spieler .;"1	Fünf	fünf	NUM	CARD	NumType=Card	2	nummod	_	_
 2	Tage	Tag	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	5	nmod	_	_
 3	vor	vor	ADP	APPR	_	5	case	_	_
@@ -528,7 +528,7 @@ plagen;NZZ_1994_04_12_a155_seg2_s13;3;Ähnliche Probleme plagten im vergangenen 
 49	Wettbewerb	Wettbewerb	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	50	obl	_	_
 50	qualifizieren	qualifizieren	VERB	VVINF	VerbForm=Inf	23	conj	_	_
 51	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 plagen;NZZ_1994_04_23_a199_seg6_s20;9;Als er zwei Jahre später , vom Heimweh geplagt , die Heimreise antrat , blieb er beim chilenischen Zoll hängen .;"1	Als	als	SCONJ	KOUS	_	9	mark	_	_
 2	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 3	zwei	zwei	NUM	CARD	NumType=Card	4	nummod	_	_
@@ -673,7 +673,7 @@ plagen;NZZ_1994_08_20_a56_seg4_s13;2;Zudem plagte manchen Anleger offenbar die S
 34	durchschlagen	durchschlagen	VERB	VVINF	VerbForm=Part	7	ccomp	_	_
 35	könnte	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	aux	_	_
 36	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun, PCN+C;;
 plagen;NZZ_1994_12_09_a43_seg6_s7;11;Die neue sozial-liberale Regierung aber ist von Zweifeln und Unentschlossenheit geplagt .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 2	neue	neu	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
 3	sozial-liberale	sozial-liberale	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
@@ -694,7 +694,7 @@ plagen;NZZ_1994_12_24_a175_seg7_s9;6;19.25 Les garçons de la plage .;"1	19.25	1
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1994_12_27_a152_seg7_s11;6;19.25 Les garçons de la plage .;"1	19.25	19.25	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -702,7 +702,7 @@ plagen;NZZ_1994_12_27_a152_seg7_s11;6;19.25 Les garçons de la plage .;"1	19.25	
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1994_12_28_a133_seg7_s10;6;19.25 Les garçons de la plage .;"1	19.25	19.25	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -710,7 +710,7 @@ plagen;NZZ_1994_12_28_a133_seg7_s10;6;19.25 Les garçons de la plage .;"1	19.25	
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1994_02_09_a33_seg4_s5;27;Aus der beträchtlichen , rund 3 Prozentpunkte ausmachenden Diskrepanz zwischen den kurzfristigen und langfristigen Zinsen könnte abgeleitet werden , dass die Märkte unentwegt von erheblichen Stabilitätssorgen geplagt werden .;"1	Aus	aus	ADP	APPR	_	9	case	_	_
 2	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 3	beträchtlichen	beträchtlich	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	9	amod	_	_
@@ -824,20 +824,20 @@ plagen;NZZ_1994_01_14_a198_seg3_s20;4;Tous à la plage .;"1	Tous	Tous	PROPN	NE	F
 3	la	la	PROPN	NE	Foreign=Yes	4	nmod	_	_
 4	plage	plage	PROPN	NE	Foreign=Yes	1	flat	_	_
 5	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1994_07_08_a140_seg8_s39;5;Une si jolie petite plage .;"1	Une	Une	PROPN	FM	Foreign=Yes	0	root	_	_
 2	si	si	PROPN	FM	Foreign=Yes	1	flat	_	_
 3	jolie	jolie	PROPN	FM	Foreign=Yes	1	flat	_	_
 4	petite	petite	PROPN	FM	Foreign=Yes	5	nsubj	_	_
 5	plage	plage	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1994_07_12_a155_seg11_s19;4;Rendez-vous à la plage .;"1	Rendez-vous	Rendez-vous	PROPN	NE	Foreign=Yes	0	root	_	_
 2	à	à	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 4	plage	plage	PROPN	NE	Foreign=Yes	1	flat	_	_
 5	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1994_06_07_a100_seg10_s5;18;Die Uno wurde dabei aber nicht bloss von jenen organisatorischen , logistischen , personellen und finanziellen Stresssymptomen geplagt , die in einer Phase ungewöhnlich starker Beanspruchung unvermeidbar sind .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Uno	Uno	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	18	nsubj:pass	_	_
 3	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	aux:pass	_	_
@@ -1127,7 +1127,7 @@ plagen;NZZ_1994_11_21_a82_seg3_s20;8;Die Ich-Erzählerin , eine vierundvierzigj�
 23	sehnte	sehnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	ccomp	_	_
 24	»	""	PUNCT	$(	_	23	punct	_	_
 25	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_psych_noun;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, STM_psych_noun;;
 plagen;NZZ_1994_09_08_a93_seg20_s9;35;Weshalb nach dreimonatigen Sommerferien die notwendigen Sicherheitseinrichtungen immer noch nicht zustande gekommen sind , kann wohl auch dann nur mit Schlamperei erklärt werden , wenn man weiss , dass die Stadtverwaltung von akuter Finanznot geplagt ist .;"1	Weshalb	weshalb	ADV	PWAV	PronType=Int	12	mark	_	_
 2	nach	nach	ADP	APPR	_	4	case	_	_
 3	dreimonatigen	dreimonatig	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	4	amod	_	_
@@ -1259,7 +1259,7 @@ plagen;NZZ_1995_04_03_a89_seg7_s4;6;17.30 Les garçons de la plage .;"1	17.30	17
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_04_06_a143_seg7_s5;6;17.30 Les garçons de la plage .;"1	17.30	17.30	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -1267,7 +1267,7 @@ plagen;NZZ_1995_04_06_a143_seg7_s5;6;17.30 Les garçons de la plage .;"1	17.30	1
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_04_08_a137_seg3_s26;11;Auch die drängenden baulichen Probleme , die das Kinderspital derzeit plagen , kamen zur Sprache .;"1	Auch	auch	ADV	ADV	_	5	advmod	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	_
 3	drängenden	drängend	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Plur	5	amod	_	_
@@ -1292,7 +1292,7 @@ plagen;NZZ_1995_04_11_a106_seg7_s8;6;17.30 Les garçons de la plage .;"1	17.30	1
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_04_18_a102_seg7_s11;6;17.30 Les garçons de la plage .;"1	17.30	17.30	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -1300,7 +1300,7 @@ plagen;NZZ_1995_04_18_a102_seg7_s11;6;17.30 Les garçons de la plage .;"1	17.30	
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_04_20_a121_seg7_s8;6;17.30 Les garçons de la plage .;"1	17.30	17.30	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -1308,7 +1308,7 @@ plagen;NZZ_1995_04_20_a121_seg7_s8;6;17.30 Les garçons de la plage .;"1	17.30	1
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_08_26_a115_seg7_s5;11;Die schöne Serafina jedoch , ganz unerwartet von religiösen Skrupeln geplagt , ergeht sich derweil in allerlei Indiskretionen über die turbulente Vergangenheit ihres Mannes und gibt so der Inquisition Gelegenheit , ihm endlich den Prozess zu machen ( mit dem man in Wirklichkeit die römische Freimaurerei treffen wollte ) .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	schöne	schön	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Serafina	Serafina	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
@@ -1558,7 +1558,7 @@ plagen;NZZ_1995_06_01_a120_seg7_s6;6;17.25 Les garçons de la plage .;"1	17.25	1
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_06_03_a158_seg7_s5;6;17.25 Les garçons de la plage .;"1	17.25	17.25	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -1566,7 +1566,7 @@ plagen;NZZ_1995_06_03_a158_seg7_s5;6;17.25 Les garçons de la plage .;"1	17.25	1
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_06_06_a94_seg7_s6;6;17.25 Les garçons de la plage .;"1	17.25	17.25	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -1574,7 +1574,7 @@ plagen;NZZ_1995_06_06_a94_seg7_s6;6;17.25 Les garçons de la plage .;"1	17.25	17
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_06_06_a123_seg3_s27;4;Die Vorjahresfinalistin , geplagt von einer Erkältung und einer Leistenverletzung , fand gegen die bald 18jährige Kroatin Iva Majoli nie ihren idealen Rhythmus .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Vorjahresfinalistin	Vorjahresfinalistin	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
 3	,	,	PUNCT	$,	_	4	punct	_	_
@@ -1607,7 +1607,7 @@ plagen;NZZ_1995_06_09_a129_seg7_s8;6;17.25 Les garçons de la plage .;"1	17.25	1
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_06_13_a117_seg7_s7;6;17.25 Les garçons de la plage .;"1	17.25	17.25	NUM	CARD	NumType=Card	0	root	_	_
 2	Les	Les	PROPN	NE	Foreign=Yes	1	flat	_	_
 3	garçons	garçons	PROPN	NE	Foreign=Yes	2	flat	_	_
@@ -1615,7 +1615,7 @@ plagen;NZZ_1995_06_13_a117_seg7_s7;6;17.25 Les garçons de la plage .;"1	17.25	1
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_06_23_a168_seg3_s4;25;"Derart optimistische Töne hat es in den letzten fünf Jahren in der deutschen Leichtathletik nicht gegeben ; Dopingfälle ( Katrin Krabbe ) und Vereinigungsschwierigkeiten plagten den Verband .";"1	Derart	derart	ADV	ADV	_	3	advmod	_	_
 2	optimistische	optimistisch	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
 3	Töne	Ton	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
@@ -1652,7 +1652,7 @@ plagen;NZZ_1995_05_02_a118_seg7_s8;6;17.30 Les garçons de la plage .;"1	17.30	1
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_05_24_a62_seg5_s7;9;Die Krankheit sollte Perfeller mehr als zwei Jahre plagen , und seine Frau und sein ältester Sohn liessen ihn 1855 unter Kuratel stellen .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Krankheit	Krankheit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
 3	sollte	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
@@ -1734,7 +1734,7 @@ plagen;NZZ_1995_03_22_a123_seg7_s4;6;17.30 Les garçons de la plage .;"1	17.30	1
 5	la	la	PROPN	NE	Foreign=Yes	2	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1995_11_11_a78_seg8_s10;11;Dass die Sozialdemokraten nun auch noch von einer akuten Führungskrise geplagt werden , schürt den Kampfwillen der Arbeitnehmerorganisationen nur noch mehr , bietet sich jetzt doch die seltene Gelegenheit , einen ihnen gefügigen Kandidaten in den Sattel zu heben .;"1	Dass	daß	SCONJ	KOUS	_	11	mark	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	Sozialdemokraten	Sozialdemokrat	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	11	nsubj:pass	_	_
@@ -1985,14 +1985,14 @@ plagen;NZZ_1996_12_24_a124_seg19_s4;2;Nash plagt jetzt nur eine Frage : Wen hat 
 11	eigentlich	eigentlich	ADV	ADV	_	12	advmod	_	_
 12	erschossen	erschießen	VERB	VVPP	VerbForm=Part	2	parataxis	_	_
 13	?	?	PUNCT	$.	_	12	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 plagen;NZZ_1996_02_24_a166_seg5_s2;5;Une fille sur la plage .;"1	Une	Une	PROPN	FM	Foreign=Yes	0	root	_	_
 2	fille	fille	PROPN	FM	Foreign=Yes	1	flat	_	_
 3	sur	sur	PROPN	NE	Foreign=Yes	1	flat	_	_
 4	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 5	plage	plage	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1996_01_06_a85_seg5_s6;1;Geplagt von einem teuren Yen , büssten dagegen die Japaner zusätzliches Terrain ein , während die Marktanteile der Europäer trotz gewissen Achtungserfolgen marginal blieben ( vgl. Kasten ) .;"1	Geplagt	plagen	VERB	VVPP	VerbForm=Part	7	acl	_	_
 2	von	von	ADP	APPR	_	5	case	_	_
 3	einem	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -2055,7 +2055,7 @@ plagen;NZZ_1996_01_19_a158_seg7_s2;10;Un jour , une femme blonde apparaît sur l
 18	'	'	PUNCT	$(	_	14	punct	_	_
 19	enflamme	enflammen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	.	.	PUNCT	$.	_	19	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1996_07_19_a24_seg4_s3;31;Während sich die lokalen Führer an ihre Macht klammern , werden die Menschen , ob Serben , Bosnjaken oder Kroaten , über die nationalen Trennlinien hinweg von den gleichen Sorgen geplagt .;"1	Während	während	SCONJ	KOUS	_	9	mark	_	_
 2	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -2552,7 +2552,7 @@ plagen;NZZ_1996_10_01_a205_seg8_s3;32;"Nur schon die Tatsache des Geborenseins ;
 58	voreilige	voreilig	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Plur	59	amod	_	_
 59	Versöhnungen	Versöhnung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	56	conj	_	_
 60	.	.	PUNCT	$.	_	34	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1996_10_08_a153_seg2_s18;19;Ein neuer Anlauf , zu Beginn dieser Saison , erwies sich als ebenso erfolglos : den Serben Bjekovic plagen Verletzungen mehr als verpasste Torchancen .;"1	Ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	neuer	neu	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Anlauf	Anlauf	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
@@ -2630,7 +2630,7 @@ plagen;NZZ_1996_09_07_a159_seg3_s1;2;Recherche plage , désespérément Assidûm
 19	laboratoire	laboratoire	PROPN	NE	Foreign=Yes	14	flat	_	_
 20	vivant	vivant	PROPN	NE	Foreign=Yes	14	flat	_	_
 21	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1996_09_09_a118_seg6_s5;29;Die Gabe , mit Leid und Unannehmlichkeiten umgehen zu können , befähigt beide , einen ausnehmend starken Willen zu entwickeln , sich auch ausdauernd über harte Trainingseinheiten zu plagen und die Konzentration auf das Wesentliche aufrecht zu halten .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Gabe	Gabe	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
 3	,	,	PUNCT	$,	_	8	punct	_	_
@@ -2817,7 +2817,7 @@ plagen;NZZ_1997_12_13_a149_seg19_s4;5;14.40 Gamba , la plage des éléphants .;"
 6	des	des	PROPN	ART	Foreign=Yes	4	flat	_	_
 7	éléphants	éléphants	PROPN	NE	Foreign=Yes	4	flat	_	_
 8	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1997_02_11_a99_seg3_s29;12;"Später war er monatelang abwesend ; während sie , von Geldproblemen geplagt , mit den Kindern in Dänemark sass , quälte er sich in Berlin mit seiner Doktorarbeit , versuchte die politischen Fäden wieder aufzunehmen , zerstritt sich mit Freunden und Verlegern , hatte andere Beziehungen .";"1	Später	spät	ADJ	ADJD	_	5	advmod	_	_
 2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
@@ -2910,7 +2910,7 @@ plagen;NZZ_1997_02_27_a22_seg3_s3;9;Nach Angaben der Internationalen Arbeitsorga
 42	Schäden	Schaden	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	43	obj	_	_
 43	hinterlassen	hinterlassen	VERB	VVPP	VerbForm=Part	33	acl	_	_
 44	.	.	PUNCT	$.	_	9	punct	_	_
-";X;;;;;;;;;;;;;;;;;;;;;false hit;;
+";X;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1997_01_18_a197_seg8_s1;3;Von Verletzungen geplagt;"1	Von	von	ADP	APPR	_	2	case	_	_
 2	Verletzungen	Verletzung	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	3	obl	_	_
 3	geplagt	plagen	VERB	VVPP	VerbForm=Part	0	root	_	_
@@ -2993,7 +2993,7 @@ plagen;NZZ_1997_05_17_a158_seg3_s1;24;Rendez-vous à Nancite Nancite , au nord d
 41	des	des	PROPN	ART	Foreign=Yes	37	flat	_	_
 42	oufs	oufs	PROPN	NE	Foreign=Yes	37	flat	_	_
 43	.	.	PUNCT	$.	_	24	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1997_05_27_a16_seg2_s4;24;In Paris und in der Provinz wieder sichtbar oder in Gesprächen zu vernehmen ist , dass auch gut ausgebildete Menschen von materiellen Sorgen geplagt werden , sich keine Ferien mehr leisten können und sozial an den Rand gedrängt werden .;"1	In	in	ADP	APPR	_	2	case	_	_
 2	Paris	Paris	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	_
 3	und	und	CCONJ	KON	_	6	cc	_	_
@@ -3105,7 +3105,7 @@ plagen;NZZ_1997_03_15_a168_seg24_s5;8;Qui a tué le gardien de la plage ?;"1	Qui
 7	la	la	PROPN	FM	Foreign=Yes	1	flat	_	_
 8	plage	plage	PROPN	FM	Foreign=Yes	1	flat	_	_
 9	?	?	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1997_11_21_a153_seg21_s23;10;23.20 S Am Strand von Belfast ( Sur la plage de Belfast ) .;"1	23.20	23.20	NUM	CARD	NumType=Card	2	nummod	_	_
 2	S	S	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	Am	Am	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
@@ -3120,7 +3120,7 @@ plagen;NZZ_1997_11_21_a153_seg21_s23;10;23.20 S Am Strand von Belfast ( Sur la p
 12	Belfast	Belfast	PROPN	NE	Foreign=Yes	8	flat	_	_
 13	)	)	PUNCT	$(	_	8	punct	_	_
 14	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1997_11_22_a218_seg8_s7;42;"Rilke seinerseits entdeckt im Frühsommer 1921 den Schlossturm von Muzot ; es gelingt dem Winterthurer Industriellen Werner Reinhart , das Gebäude zu mieten und etwas später zu kaufen : da lebt nun der Lyriker , von Gebrechen und Spannungen der Seele geplagt , bis zum Tod .";"1	Rilke	Rilke	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	seinerseits	seinerseits	ADV	ADV	_	1	advmod	_	_
 3	entdeckt	entdecken	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3500,7 +3500,7 @@ plagen;NZZ_1998_08_28_a155_seg18_s4;8;1.35 Doc : Des maîtres de la plage .;"1	1
 7	la	la	PROPN	NE	Foreign=Yes	4	flat	_	_
 8	plage	plage	PROPN	NE	Foreign=Yes	4	flat	_	_
 9	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_12_08_a197_seg9_s6;9;Der EHC Kloten , von wieder wachsenden Liquiditätsproblemen geplagt , verlangte für den fraglichen Arbeitnehmer im Transferverkehr einen Aufpreis - ein Zuschlag , der nicht allen Interessenten genehm war .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	EHC	EHC	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 3	Kloten	Kloten	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
@@ -3616,7 +3616,7 @@ plagen;NZZ_1998_02_26_a170_seg11_s31;9;23.35 Pauline am Strand ( Pauline à la p
 9	plage	plage	PROPN	NE	Foreign=Yes	6	flat	_	_
 10	)	)	PUNCT	$(	_	6	punct	_	_
 11	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_01_31_a135_seg7_s6;4;Aber auch Schuld plagt die Menschen , denn sie fühlen sich durch Verschwendungssucht , Konsumrausch und Materialismus mitschuldig an der Misere .;"1	Aber	aber	CCONJ	KON	_	4	cc	_	_
 2	auch	auch	ADV	ADV	_	3	advmod	_	_
 3	Schuld	Schuld	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -3691,7 +3691,7 @@ plagen;NZZ_1998_01_19_a99_seg13_s3;6;9.35 Les garçons de la plage .;"1	9.35	9.3
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_01_21_a133_seg7_s10;20;Erst die allerneueste Schöpfung , mit der Goossens sich derzeit noch - « schneckengleich und mühsam voranschreitend » - plagt , wurde von vorneherein als etwa fünfzigseitiges Album konzipiert .;"1	Erst	erst	ADV	ADV	_	4	advmod	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	allerneueste	allerneuest	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
@@ -3730,7 +3730,7 @@ plagen;NZZ_1998_01_26_a110_seg13_s4;6;9.35 Les garçons de la plage .;"1	9.35	9.
 5	la	la	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	plage	plage	PROPN	NE	Foreign=Yes	2	flat	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_07_23_a143_seg6_s4;5;Une si jolie petite plage / Le siècle en image : Kertch : le malheur .;"1	Une	Une	PROPN	NE	Case=Nom|Number=Sing	0	root	_	_
 2	si	si	PROPN	FM	Foreign=Yes	1	flat	_	_
 3	jolie	jolie	PROPN	FM	Foreign=Yes	1	flat	_	_
@@ -3747,7 +3747,7 @@ plagen;NZZ_1998_07_23_a143_seg6_s4;5;Une si jolie petite plage / Le siècle en i
 14	le	le	PROPN	NE	Case=Nom|Number=Sing	15	nmod	_	_
 15	malheur	malheur	PROPN	FM	_	12	appos	_	_
 16	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_07_27_a75_seg4_s8;20;Das war im September 1997 jedoch ein nur mässig attraktiver Job : Das im Bereich der Informationstechnologie tätige Unternehmen plagten Schulden in der Höhe von 2,3 Mrd. $ , die Produktepalette deckte alles und gleichzeitig nichts ab , und die verschiedenen Unternehmenseinheiten führten ein wildes Eigenleben ohne erkennbare Gesamtstrategie .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	nsubj	_	_
 2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
 3	im	im	ADP	APPR	_	4	case	_	_
@@ -3851,7 +3851,7 @@ plagen;NZZ_1998_06_13_a164_seg20_s2;5;Une si jolie petite plage .;"1	Une	Une	PRO
 4	petite	petite	PROPN	FM	Foreign=Yes	5	nsubj	_	_
 5	plage	plage	PROPN	NE	Foreign=Yes	1	flat	_	_
 6	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_06_19_a152_seg21_s5;3;Bis heute plagen sie deshalb Schuldgefühle .;"1	Bis	bis	ADP	APPR	_	2	case	_	_
 2	heute	heute	ADV	ADV	_	3	advmod	_	_
 3	plagen	plagen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3912,7 +3912,7 @@ plagen;NZZ_1998_06_26_a153_seg3_s22;4;Gamba , la plage des éléphants .;"1	Gamb
 5	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	éléphants	éléphants	PROPN	NE	Foreign=Yes	4	nmod	_	_
 7	.	.	PUNCT	$.	_	1	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_05_05_a32_seg6_s5;23;Zudem wurde sie nach dem Ausscheiden des früheren Premiers Lubbers und dem ruhmlosen Abgang seines designierten Nachfolgers Brinkman lange Zeit von Führungssorgen geplagt .;"1	Zudem	zudem	ADV	PAV	_	23	advmod	_	_
 2	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	aux:pass	_	_
 3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj:pass	_	_
@@ -3973,7 +3973,7 @@ plagen;NZZ_1998_05_09_a164_seg3_s22;22;Für 5,06 Millionen Dollar und damit knap
 33	Bieter	Bieter	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	34	iobj	_	_
 34	zugeschlagen	zuschlagen	VERB	VVPP	VerbForm=Part	0	root	_	_
 35	.	.	PUNCT	$.	_	34	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_03_05_a132_seg5_s8;16;Und es kann gezeigt werden , dass Picasso bei « Deux femmes courantes sur la plage » von 1922 in der Darstellung der Arme und Beine auf bestimmte pompejanische Fresken zurückgriff , wie er auch die futuristischen Farbsequenzen zur Kolorierung von Flächen herbeizog .;"1	Und	und	CCONJ	KON	_	4	cc	_	_
 2	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 3	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
@@ -4018,7 +4018,7 @@ plagen;NZZ_1998_03_05_a132_seg5_s8;16;Und es kann gezeigt werden , dass Picasso 
 42	Flächen	Fläche	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	40	nmod	_	_
 43	herbeizog	herbeiziehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	advcl	_	_
 44	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_03_10_a104_seg3_s6;11;Die Aluminium-Industrie wurde während der letzten Jahre von hohen Überkapazitäten geplagt , die zu zahlreichen Betriebsschliessungen führten .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Aluminium-Industrie	Aluminium-Industrie	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	11	nsubj:pass	_	_
 3	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	11	aux:pass	_	_
@@ -4173,7 +4173,7 @@ plagen;NZZ_1998_11_21_a162_seg3_s5;29;- Pendant ce temps , dans la région d ' A
 44	y	y	PROPN	FM	Foreign=Yes	45	nmod	_	_
 45	reproduire	reproduire	PROPN	FM	Foreign=Yes	41	flat	_	_
 46	.	.	PUNCT	$.	_	45	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 plagen;NZZ_1998_09_15_a175_seg20_s17;20;Die Verlängerung der Piste 16 nach Norden und die Einführung des Right-turn würde eine bereits geplagte Bevölkerung noch mehr plagen .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Verlängerung	Verlängerung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
 3	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -4577,7 +4577,7 @@ plagen;NZZ_1999_12_30_a63_seg3_s27;5;Die Nachrichtenagentur Reuters wiederum pla
 20	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	19	aux:pass	_	_
 21	könnte	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 22	.	.	PUNCT	$.	_	5	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;STM_psych_noun, PCN+C;;
 plagen;NZZ_1999_02_17_a69_seg5_s1;27;ai. Stockholm , 16. Februar Trotz dem ansehnlichen Erdölreichtum , der manch andere Nation vor Neid erblassen lässt , werden die Norweger derzeit von wirtschaftlichen Sorgen geplagt , die - wenn sich Oslo nicht vorsieht - leicht in eine Rezession münden könnten .;"1	ai.	ai.	ADP	APPR	_	2	case	_	_
 2	Stockholm	Stockholm	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	27	obl	_	_
 3	,	,	PUNCT	$,	_	5	punct	_	_

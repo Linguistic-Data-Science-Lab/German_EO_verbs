@@ -162,7 +162,7 @@ nahegehen;NZZ_1995_01_21_a189_seg3_s137;8;Das war noch in Beirut , er ging zu ei
 17	beim	beim	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	Hafen	Hafen	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	15	nmod	_	_
 19	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 nahegehen;NZZ_1995_05_03_a186_seg4_s2;3;Ihre Absicht geht mir sehr nahe , denn was dieser Mann in Mauthausen geleistet hat , gehört mit zu den besonderen Gesten in der Geschichte des humanitären Wirkens .;"1	Ihre	Ihr|ihr	DET	PPOSAT	Case=Nom|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
 2	Absicht	Absicht	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	geht	gehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -363,7 +363,7 @@ nahegehen;NZZ_1996_11_08_a77_seg15_s15;2;Es geht nahe an die Grenze , der Schwei
 13	»	""	PUNCT	$(	_	12	punct	_	_
 14	aufzubürden	aufberden	VERB	VVIZU	VerbForm=Inf	6	acl	_	_
 15	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 nahegehen;NZZ_1996_10_01_a47_seg14_s10;7;, Bern ) als einem Juden geht die heutige Gesetzgebungsarbeit sehr nahe .;"1	,	,	PUNCT	$,	_	2	punct	_	_
 2	Bern	Bern	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 3	)	)	PUNCT	$(	_	2	punct	_	_
@@ -491,7 +491,7 @@ nahegehen;NZZ_1997_06_14_a48_seg8_s5;15;Weil das Land insgesamt unsicher ist üb
 26	so	so	ADV	ADV	_	15	advmod	_	_
 27	nahe	nahe	ADV	PTKVZ	_	15	compound:prt	_	_
 28	.	.	PUNCT	$.	_	15	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;PA?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;PA?;
 nahegehen;NZZ_1997_11_06_a130_seg3_s30;19;Konsequent hält er sich die Figur vom Leib , und dennoch schimmert durch , wie sehr sie ihm nahegeht .;"1	Konsequent	konsequent	ADJ	ADJD	_	2	advmod	_	_
 2	hält	halten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_

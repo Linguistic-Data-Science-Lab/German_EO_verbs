@@ -2713,7 +2713,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 21	psychisch	psychisch	ADJ	ADJD	_	22	advmod	_	_
 22	überforderten	überfordern	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	7	advcl	_	_
 23	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 überfordern;NZZ_1996_12_11_a198_seg4_s21;24;Wenn sich heute gewisse Ämter konkurrenzieren und gegenseitig blockieren oder gar die guten Leute gegenseitig abwerben , wenn öffentliche Stellen z. T. kapazitätsmässig überfordert sind , dann muss an dieser Stelle deutlich gesagt werden : Wir müssen uns alle zusammenraufen und das volkswirtschaftliche Ganze im Blick behalten .;"1	Wenn	wenn	SCONJ	KOUS	_	6	mark	_	_
 2	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	_
 3	heute	heute	ADV	ADV	_	6	advmod	_	_
@@ -4141,7 +4141,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 51	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	52	obl	_	_
 52	zieht	zeihen|ziehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	_
 53	.	.	PUNCT	$.	_	22	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 überfordern;NZZ_1997_05_26_a171_seg10_s12;4;Diese aussergewöhnliche Entwicklung überforderte selbstverständlich alle bestehenden Strukturen der Gemeinde , auch die Behörden .;"1	Diese	dies	PRON	PDAT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 2	aussergewöhnliche	aussergewöhnlich	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Entwicklung	Entwicklung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
@@ -4507,7 +4507,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 81	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	82	obl	_	_
 82	band	binden	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	73	conj	_	_
 83	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 überfordern;NZZ_1998_12_02_a34_seg2_s14;38;Diese Zweiteilung des Verfahrens stösst nicht in allen Kantonen auf Verständnis und wäre als Dauerlösung auch kaum zufriedenstellend ( man denke an die Gerichte in gewissen kleineren Kantonen , die mehrheitlich mit Laien besetzt sind und schlicht überfordert wären , undurchsichtige und weitreichende Wirtschaftsdelikte zu beurteilen ) .;"1	Diese	dies	PRON	PDAT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	Zweiteilung	Zweiteilung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_

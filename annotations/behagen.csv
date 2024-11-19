@@ -804,7 +804,7 @@ behagen;NZZ_1993_09_25_a77_seg12_s1;13;Die Balkanvölker als Gefangene und Opfer
 13	behagt	behagen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 14	nicht	nicht	PART	PTKNEG	Polarity=Neg	13	advmod	_	_
 15	.	.	PUNCT	$.	_	13	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 behagen;NZZ_1993_09_30_a91_seg2_s13;5;Dass ihm die Offensive behagt , unterstreicht die Tatsache , dass er auf schnellem Wimbledon-Rasen die bemerkenswertesten Grand-Slam-Resultate erzielte und 1990 in den Viertel- sowie ein Jahr danach in den Achtelfinals stand .;"1	Dass	daß	SCONJ	KOUS	_	5	mark	_	_
 2	ihm	er	PRON	PPER	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -3936,7 +3936,7 @@ behagen;NZZ_1996_03_21_a60_seg5_s20;44;Diese Ortswechsel zwingen die Schar der M
 52	hörbar	hörbar	ADJ	ADJD	_	49	conj	_	_
 53	kundtaten	kundtaten	VERB	VVFIN	VerbForm=Inf	44	advcl	_	_
 54	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 behagen;NZZ_1996_03_22_a122_seg3_s4;11;Das arg konventionelle Libretto von Catulle Mendès hat ihm nicht behagt , der Gegensatz zu « Pelléas et Mélisande » könnte ja auch nicht grösser sein .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 2	arg	arg	ADJ	ADJD	_	3	advmod	_	_
 3	konventionelle	konventionell	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
@@ -4310,7 +4310,7 @@ behagen;NZZ_1996_07_22_a28_seg12_s3;29;"Blieben die Kleinstaaten nämlich ausser
 42	hervorgehoben	hervorheben	VERB	VVPP	VerbForm=Part	29	advcl	_	_
 43	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	aux	_	_
 44	.	.	PUNCT	$.	_	9	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,EXP_anim_proxy;PA+A? Proposition only visible here because a semicolon is used to connect the two sentences so that they are parsed as one sentence.;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,EXP_anim_proxy;PCN+C? Proposition only visible here because a semicolon is used to connect the two sentences so that they are parsed as one sentence.;
 behagen;NZZ_1996_07_25_a100_seg7_s7;6;Ein Symbol zu sein jedoch behagte ihr nicht .;"1	Ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	Symbol	Symbol	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
 3	zu	zu	PART	PTKZU	_	2	mark	_	_

@@ -1311,7 +1311,7 @@ entzücken;NZZ_1994_09_13_a219_seg8_s10;10;Nicht jeder ist im gleichen Masse von
 38	Jahrhunderts	Jahrhundert	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	_
 39	beharrt	beharren	VERB	VVPP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 40	.	.	PUNCT	$.	_	10	punct	_	_
-";;;;;x;;;;;;;;;;;;;;von;;;PA+A;;inanim von-PP
+";;;;;x;;;;;;;;;;;;;;von;;;PCN+C;;inanim von-PP
 entzücken;NZZ_1994_09_17_a205_seg4_s30;8;Uns Romantiker kümmert das wenig , uns entzücken die bronzenen Hirsche im stillen Park , die von der Vortreppe herab über blasse Rosen hinweg in die Ferne blicken .;"1	Uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
 2	Romantiker	Romantiker	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
 3	kümmert	kümmern	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3243,7 +3243,7 @@ entzücken;NZZ_1996_11_27_a172_seg4_s7;49;In diesem Fall partizipierten beide Eq
 50	haben	haben	AUX	VAINF	VerbForm=Inf	49	aux	_	_
 51	dürfte	dürfen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	49	aux	_	_
 52	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 entzücken;NZZ_1997_01_18_a209_seg4_s3;3;"Effi war entzückt : &lt;Ach , Geert , das ist ja Capri , das ist ja Sorrent .";"1	Effi	Effi	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 3	entzückt	entzücken	ADJ	ADJD	_	0	root	_	_
@@ -5213,7 +5213,7 @@ entzücken;NZZ_1999_04_06_a166_seg5_s4;3;Noch mehr entzückte ihn die Aussicht ,
 24	hätten	haben	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	aux	_	_
 25	»	""	PUNCT	$(	_	23	punct	_	_
 26	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 entzücken;NZZ_1999_04_17_a229_seg35_s2;6;Wie mich geheimnisvoll die Form entzückte !;"1	Wie	wie	SCONJ	KOUS	_	6	mark	_	_
 2	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	obj	_	_
 3	geheimnisvoll	geheimnisvoll	ADJ	ADJD	_	6	advmod	_	_

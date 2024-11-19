@@ -45,7 +45,7 @@ bewegen;NZZ_1993_03_31_a38_seg10_s3;29;In einem am Montag in New York vorgelegte
 28	Vertrags	Vertrag	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	_
 29	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	14	ccomp	_	_
 30	.	.	PUNCT	$.	_	14	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_03_31_a40_seg9_s11;19;"Besson , der Praktiker , an der Arbeit : wenn er zu erklären versuchte , was ihn jeweils bewogen hatte , die Rolle des Hamlet mit einer bestimmten Schauspieler-Persönlichkeit zu besetzen ; aber ebenso , wenn er die Schauspieler während ihrer Ausführungen so genau beobachtete , als stünden sie vor ihm auf der Bühne .";"1	Besson	Besson	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	,	,	PUNCT	$,	_	4	punct	_	_
 3	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -695,7 +695,7 @@ bewegen;NZZ_1993_04_05_a162_seg3_s6;10;Die Angst vor dem wachsenden Antisemitism
 15	Australien	Australien	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	16	obl	_	_
 16	auszuwandern	auswandern	VERB	VVIZU	VerbForm=Inf	10	xcomp	_	_
 17	.	.	PUNCT	$.	_	10	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 bewegen;NZZ_1993_04_05_a169_seg5_s6;33;Letztere tanzten nicht , sie amüsierten sich vielmehr zur aktuellen Musik der Jugend auf der Bühne , wobei der Schweizer Christophe Mounoud schliesslich gewann , weil er sich um einen Touch quecksilbriger bewegte als seine ebenfalls unglaublich sprühenden Kontrahenten aus verschiedenen europäischen Ländern .;"1	Letztere	Letztere	PRON	PIS	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	2	nsubj	_	_
 2	tanzten	tenzen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	nicht	nicht	PART	PTKNEG	Polarity=Neg	2	advmod	_	_
@@ -857,7 +857,7 @@ bewegen;NZZ_1993_04_05_a8_seg4_s2;38;Auch dem Sondergesandten von Präsident Jel
 37	zu	zu	PART	PTKZU	_	38	mark	_	_
 38	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	31	acl	_	_
 39	.	.	PUNCT	$.	_	24	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_06_a144_seg12_s3;6;Dieser alle Erwartungen übertreffende Erfolg bewog Rey , der Aktienemission noch im selben Jahr drei PS-Emissionen folgen zu lassen .;"1	Dieser	dies	PRON	PDAT	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 2	alle	alle	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
 3	Erwartungen	Erwartung	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
@@ -962,7 +962,7 @@ bewegen;NZZ_1993_04_06_a19_seg6_s11;23;Dass der griechische Aussenminister am Mo
 27	dieselbe	dieselbe	PRON	PDAT	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	_
 28	Richtung	Richtung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
 29	.	.	PUNCT	$.	_	25	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_06_a30_seg2_s5;2;Was bewegt denn Käufer solcher Wagen zu dieser fragwürdigen Investition ?;"1	Was	was	PRON	PWS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	2	nsubj	_	_
 2	bewegt	bewegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	denn	denn	ADV	ADV	_	2	advmod	_	_
@@ -974,7 +974,7 @@ bewegen;NZZ_1993_04_06_a30_seg2_s5;2;Was bewegt denn Käufer solcher Wagen zu di
 9	fragwürdigen	fragwürdig	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	10	amod	_	_
 10	Investition	Investition	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
 11	?	?	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_06_a32_seg2_s15;19;Ein senkrechter und ein waagrechter heller Streifen , die langsam hin und her , auf und ab sich bewegen , sind das einzige - unsichere - Helle im dunklen Raum .;"1	Ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 2	senkrechter	senkrecht	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
 3	und	und	CCONJ	KON	_	6	cc	_	_
@@ -1213,7 +1213,7 @@ bewegen;NZZ_1993_04_08_a15_seg3_s8;40;Ein Nachgeben in der Frage der Teilnahme v
 41	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	40	aux:pass	_	_
 42	könnten	können	AUX	VMFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	40	aux	_	_
 43	.	.	PUNCT	$.	_	17	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_08_a164_seg4_s3;13;In der ersten März-Woche hatte er sich noch um 16 800 Yen bewegt .;"1	In	in	ADP	APPR	_	4	case	_	_
 2	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	ersten	erst	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	4	amod	_	_
@@ -1290,7 +1290,7 @@ bewegen;NZZ_1993_04_08_a26_seg2_s1;26;Der ägyptische Präsident Mubarak hat in 
 25	zu	zu	PART	PTKZU	_	26	mark	_	_
 26	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	12	advcl	_	_
 27	.	.	PUNCT	$.	_	12	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_08_a26_seg6_s7;26;Es ist daher damit zu rechnen , dass auch Damaskus einigen Druck auf die Palästinenser ausübt , um sie zur Rückkehr an den Gesprächstisch zu bewegen .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
 3	daher	daher	ADV	PAV	_	6	advmod	_	_
@@ -1318,7 +1318,7 @@ bewegen;NZZ_1993_04_08_a26_seg6_s7;26;Es ist daher damit zu rechnen , dass auch 
 25	zu	zu	PART	PTKZU	_	26	mark	_	_
 26	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	16	advcl	_	_
 27	.	.	PUNCT	$.	_	6	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_08_a41_seg3_s16;39;Im altmodischen Frack mit karottenroter Perücke und langem Schwanz wird die Ratte von Arno Feffer verkörpert , der in der « Epidemie » mit derselben amoralischen Gleichgültigkeit den Befehl ausführte , auf alles zu schiessen , was sich bewegt .;"1	Im	im	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	altmodischen	altmodisch	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	3	amod	_	_
 3	Frack	Frack	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	16	nsubj:pass	_	_
@@ -1559,7 +1559,7 @@ bewegen;NZZ_1993_04_10_a18_seg13_s8;8;Kein Geld der Welt könne sie dazu bewegen
 22	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 23	Söhne	Sohn	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
 24	.	.	PUNCT	$.	_	8	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_10_a22_seg2_s35;20;Die Ostererfahrungen vieler Menschen heute , sofern es sich nicht überhaupt nur um die Erfüllung privater Freizeitbedürfnisse handelt , bewegen sich in anderen Richtungen .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	Ostererfahrungen	Ostererfahrung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	_
 3	vieler	viel	PRON	PIAT	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
@@ -1641,7 +1641,7 @@ bewegen;NZZ_1993_04_10_a226_seg5_s4;24;"Zwar wird mit Interesse verfolgt , wie s
 23	zu	zu	PART	PTKZU	_	24	mark	_	_
 24	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	5	xcomp	_	_
 25	.	.	PUNCT	$.	_	5	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_10_a33_seg10_s1;26;Um so überzeugender gab sich der mit grossen Vorschusslorbeeren bedachte Regierungschef auf dem Gebiet republikanischer Tugenden und öffentlicher Sicherheit , auf dem er sich sicher bewegen kann , solange sich sein Innenminister Pasqua zurückhält und die Sozial- und Stadtministerin Simone Veil zu ihm hält .;"1	Um	um	ADP	KOUI	_	3	case	_	_
 2	so	so	ADV	ADV	_	3	advmod	_	_
 3	überzeugender	überzeugend	ADJ	ADJD	_	4	advcl	_	_
@@ -1763,7 +1763,7 @@ bewegen;NZZ_1993_04_10_a90_seg16_s4;11;Von Strether wird erwartet , dass er Chad
 20	auch	auch	ADV	ADV	_	21	advmod	_	_
 21	heiraten	heiraten	VERB	VVINF	VerbForm=Inf	11	conj	_	_
 22	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_13_a134_seg1_s159;7;9.45 S JOYrobic - Mit Freude bewegen ( 18 ) .;"1	9.45	9.45	NUM	CARD	NumType=Card	2	nummod	_	_
 2	S	S	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 3	JOYrobic	JOYrobic	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
@@ -1844,7 +1844,7 @@ bewegen;NZZ_1993_04_13_a186_seg3_s4;27;Nach Angaben von Heinz Bösch , Leiter de
 36	Haltung	Haltung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	37	obj	_	_
 37	aufzugeben	aufgeben	VERB	VVIZU	VerbForm=Inf	27	xcomp	_	_
 38	.	.	PUNCT	$.	_	16	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_13_a80_seg3_s17;72;An die Stelle des sympathischen Newcomers Hitzfeld , des Boulevard-Gockels Daum und des serbo-hessischen Kneipenwirts Stepanovic tritt die Generation der gesetzten Fünfziger auf die Bühne : der geschulte PR-Mann Erich Ribbeck , den sie in München auf Grund seines Auftretens und seiner Eloquenz den « eiskalten Engel » nennen , der introvertierte Otto Rehhagel - für viele ein « Guru » - , obwohl er ausserhalb der Bremer Stadtgrenzen noch nichts bewegt hat , sowie Horst Heese , ein Bundesliga-Fossil , bekannt als Kämpfernatur und Weltenbummler , zuletzt Nationaltrainer auf Malta .;"1	An	an	ADP	APPR	_	3	case	_	_
 2	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Stelle	Stelle	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
@@ -2017,7 +2017,7 @@ bewegen;NZZ_1993_04_14_a1_seg2_s2;40;Trotz der galoppierenden Inflation und der 
 39	zu	zu	PART	PTKZU	_	40	mark	_	_
 40	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	25	advcl	_	_
 41	.	.	PUNCT	$.	_	17	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_14_a1_seg8_s3;15;Jetzt sei der bosnische Präsident Izetbegovic von den Amerikanern gegen sein Sträuben zur Unterschrift bewogen worden , damit man von nun an den Druck auf Restjugoslawien konzentrieren könne .;"1	Jetzt	jetzt	ADV	ADV	_	15	advmod	_	_
 2	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 3	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -2108,7 +2108,7 @@ bewegen;NZZ_1993_04_14_a47_seg7_s7;29;Selbst dies genügt der unter ihrer Schuld
 28	zu	zu	PART	PTKZU	_	29	mark	_	_
 29	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	3	advcl	_	_
 30	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_14_a73_seg7_s13;11;Türkyilmaz wich zwar den Zweikämpfen konsequent aus , doch er bewegte sich mehr als üblich .;"1	Türkyilmaz	Türkyilmaz	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	wich	weichen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	zwar	zwar	ADV	ADV	_	2	advmod	_	_
@@ -2203,7 +2203,7 @@ bewegen;NZZ_1993_04_15_a15_seg3_s3;19;Peking überhäufte darauf Patten mit Besc
 18	zu	zu	PART	PTKZU	_	19	mark	_	_
 19	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	8	xcomp	_	_
 20	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_15_a21_seg2_s2;23;( Reuter ) Der russische Präsident Jelzin hat am Mittwoch angedeutet , dass er versuchen könnte , Vizepräsident Ruzkoi zum Rücktritt zu bewegen .;"1	(	(	PUNCT	$(	_	2	punct	_	_
 2	Reuter	Reuter	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 3	)	)	PUNCT	$(	_	2	punct	_	_
@@ -2228,7 +2228,7 @@ bewegen;NZZ_1993_04_15_a21_seg2_s2;23;( Reuter ) Der russische Präsident Jelzin
 22	zu	zu	PART	PTKZU	_	23	mark	_	_
 23	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	15	xcomp	_	_
 24	.	.	PUNCT	$.	_	11	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_15_a29_seg10_s13;2;Gerichtsakten bewegen sich schneller an die Oberfläche eines überladenen Schreibtisches und zum Richter , wenn beim zuständigen Sekretär fleissig hofiert und geschmiert wird .;"1	Gerichtsakten	Gerichtsakte	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
 2	bewegen	bewegen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
@@ -2501,7 +2501,7 @@ bewegen;NZZ_1993_04_16_a18_seg3_s13;12;Die Aussicht auf eine Lösung hat Teile d
 17	Debatten	Debatte	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	18	obl	_	_
 18	teilzunehmen	teilnehmen	VERB	VVIZU	VerbForm=Inf	12	xcomp	_	_
 19	.	.	PUNCT	$.	_	6	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_16_a98_seg2_s4;27;Allein , bisher sicherte sie erst die Teilnahme an der Doppelkonkurrenz zu , lässt sich aber allenfalls noch zu einem Eintrag in die Entry-List des Einzels bewegen .;"1	Allein	allein	ADJ	ADV	_	4	advmod	_	_
 2	,	,	PUNCT	$,	_	1	punct	_	_
 3	bisher	bisher	ADV	ADV	_	4	advmod	_	_
@@ -2530,7 +2530,7 @@ bewegen;NZZ_1993_04_16_a98_seg2_s4;27;Allein , bisher sicherte sie erst die Teil
 26	Einzels	Einzel	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
 27	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	14	xcomp	_	_
 28	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_17_a123_seg3_s7;5;Schon seit geraumer Zeit bewegt das Thema der hohen CD-Preise die britischen Gemüter .;"1	Schon	schon	ADV	ADV	_	4	advmod	_	_
 2	seit	seit	ADP	APPR	_	4	case	_	_
 3	geraumer	geraumer	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	4	amod	_	_
@@ -2545,7 +2545,7 @@ bewegen;NZZ_1993_04_17_a123_seg3_s7;5;Schon seit geraumer Zeit bewegt das Thema 
 12	britischen	britisch	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Plur	13	amod	_	_
 13	Gemüter	Gemüt	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
 14	.	.	PUNCT	$.	_	5	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, PCN+C;;
 bewegen;NZZ_1993_04_17_a14_seg4_s3;25;Wähler zu registrieren ist das eine , doch nun geht es darum , diese Leute Ende Mai auch zum Gang zu den Wahllokalen zu bewegen .;"1	Wähler	Wähler	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	dep	_	_
 2	zu	zu	PART	PTKZU	_	3	mark	_	_
 3	registrieren	registrieren	VERB	VVINF	VerbForm=Inf	0	root	_	_
@@ -2572,7 +2572,7 @@ bewegen;NZZ_1993_04_17_a14_seg4_s3;25;Wähler zu registrieren ist das eine , doc
 24	zu	zu	PART	PTKZU	_	25	mark	_	_
 25	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	10	csubj	_	_
 26	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_17_a22_seg6_s7;34;Offensichtlich getragen vom Hochgefühl des unerwarteten 43,4-Milliarden-Dollar-Segens , den die G-7-Aussen- und Finanzminister über Russland auszuschütten beschlossen haben , verstieg sich Jelzin zur Behauptung , Russland beginne sich langsam zurück zur Normalität zu bewegen .;"1	Offensichtlich	offensichtlich	ADJ	ADJD	_	2	advmod	_	_
 2	getragen	tragen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vom	vom	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
@@ -2776,7 +2776,7 @@ bewegen;NZZ_1993_04_17_a76_seg5_s28;16;Zwetajewas seltsamer Kommentar : « Diese
 16	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	3	parataxis	_	_
 17	.	.	PUNCT	$.	_	3	punct	_	_
 18	»	""	PUNCT	$(	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_19_a34_seg2_s22;21;Eine noch junge , aber erfolgversprechende Wissenschaft , die sich jenseits der angestammten Fächergrenzen von Literaturwissenschaft , Soziologie und Historie bewegt , soll eine Heimstätte erhalten .;"1	Eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 2	noch	noch	ADV	ADV	_	3	advmod	_	_
 3	junge	jung	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	_
@@ -2871,7 +2871,7 @@ bewegen;NZZ_1993_04_20_a23_seg4_s4;12;Er zählte acht Punkte auf , die ihn zu di
 18	und	und	CCONJ	KON	_	19	cc	_	_
 19	Misswirtschaft	Misswirtschaft	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	_
 20	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_20_a32_seg6_s3;21;Nur die unzweideutige Androhung eines militärischen Eingreifens seitens der USA könne Belgrad und seine Verbündeten zur Einstellung ihres blutigen Expansionsfeldzuges bewegen , argumentiert Dole .;"1	Nur	nur	ADV	ADV	_	4	advmod	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	unzweideutige	unzweideutig	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
@@ -2897,7 +2897,7 @@ bewegen;NZZ_1993_04_20_a32_seg6_s3;21;Nur die unzweideutige Androhung eines mili
 23	argumentiert	argumentieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 24	Dole	Dole	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
 25	.	.	PUNCT	$.	_	23	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_21_a134_seg5_s5;19;Man hoffte auf diese Weise , zumindest die Frauen mit ihren Kindern zum umgehenden Verlassen der Häuser zu bewegen .;"1	Man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	2	nsubj	_	_
 2	hoffte	hoffen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	auf	auf	ADP	APPR	_	5	case	_	_
@@ -2918,7 +2918,7 @@ bewegen;NZZ_1993_04_21_a134_seg5_s5;19;Man hoffte auf diese Weise , zumindest di
 18	zu	zu	PART	PTKZU	_	19	mark	_	_
 19	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	2	xcomp	_	_
 20	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_21_a134_seg9_s2;62;In erster Linie werden die Verantwortlichen plausibel zu erklären haben , wieso ein forcierter Showdown mit der unberechenbaren Sektengemeinschaft überhaupt notwendig war und warum man sich nicht dafür entschied , Koresh und seine Leute durch geduldiges Abwarten - möglichst ohne jenes sensationslüsternes Medienspektakel , wie es sich seit Wochen um die Ereignisse in Waco abspielt - zur Aufgabe ihres Widerstandes zu bewegen .;"1	In	in	ADP	APPR	_	3	case	_	_
 2	erster	erst	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	3	amod	_	_
 3	Linie	Linie	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
@@ -2982,7 +2982,7 @@ bewegen;NZZ_1993_04_21_a134_seg9_s2;62;In erster Linie werden die Verantwortlich
 61	zu	zu	PART	PTKZU	_	62	mark	_	_
 62	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	55	conj	_	_
 63	.	.	PUNCT	$.	_	9	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_21_a173_seg7_s13;2;Sarnatech bewegt sich gegenwärtig - trotz Restrukturierungs- und Integrationskosten - auf dem Ertragsniveau der Gesamtgruppe .;"1	Sarnatech	Sarnatech	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	bewegt	bewegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
@@ -3180,7 +3180,7 @@ bewegen;NZZ_1993_04_22_a224_seg2_s20;17;Es sei ausserordentlich schwierig , die 
 33	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	Arbeitsplatzes	Arbeitsplatz	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	_
 35	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_22_a51_seg5_s3;26;Mittlerweile ist die politische Polizei aus dem Aufmerksamkeitsbereich der Bevölkerung , sogar des Parlaments , verschwunden , weil es ermüdend ist , wenn sich nichts bewegen lässt .;"1	Mittlerweile	mittlerweile	ADV	ADV	_	16	advmod	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -3491,7 +3491,7 @@ bewegen;NZZ_1993_04_23_a25_seg10_s8;21;Ausserdem ist für den Augenblick die Gef
 21	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	7	acl	_	_
 22	konnte	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	_
 23	.	.	PUNCT	$.	_	10	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_23_a25_seg8_s1;25;In Gisenyi haben die aufgeregten Tage vom Februar wohl die meisten Expatriierten mit Familie , nicht aber Heinrich Peyer und seine Frau zum Abzug bewogen .;"1	In	in	ADP	APPR	_	2	case	_	_
 2	Gisenyi	Gisenyi	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	25	obl	_	_
 3	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
@@ -3612,7 +3612,7 @@ bewegen;NZZ_1993_04_24_a177_seg2_s2;59;"Bei eher dünnen Volumina gaben die Noti
 58	Abgaben	Abgabe	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	59	obl	_	_
 59	bewegte	bewegt	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	45	acl	_	_
 60	.	.	PUNCT	$.	_	5	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_24_a203_seg2_s14;3;Und Schumann bewegt sich auf ihr - nicht ein einziges Mal nach aussen drängend - nachdenklich suchend , unruhig sich verkrampfend und befreiend sich lösend als ein Mann , der offenkundig sich mitteilen möchte und dies nicht tun kann .;"1	Und	und	CCONJ	KON	_	3	cc	_	_
 2	Schumann	Schumann	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	bewegt	bewegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3678,7 +3678,7 @@ bewegen;NZZ_1993_04_24_a21_seg2_s6;10;Um die Palästinenser zur Rückkehr an den
 22	Delegation	Delegation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	23	nmod	_	_
 23	einverstanden	einverstanden	ADJ	ADJD	_	12	xcomp	_	_
 24	.	.	PUNCT	$.	_	12	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_24_a44_seg2_s3;3;"Gewisse Tierarten bewegen sich im Laufe des Lebens nur wenige Meter weit ; andere legen Zehntausende von Kilometern zurück .";"1	Gewisse	gewiß	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Plur	2	amod	_	_
 2	Tierarten	Tierart	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 3	bewegen	bewegen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3914,7 +3914,7 @@ bewegen;NZZ_1993_04_26_a14_seg2_s3;22;Damit sind die Bemühungen des EG-Vermittl
 23	,	,	PUNCT	$,	_	22	punct	_	_
 24	gescheitert	scheitern	VERB	VVPP	VerbForm=Part	0	root	_	_
 25	.	.	PUNCT	$.	_	24	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_26_a158_seg3_s2;44;"Der DLV - eine der tragenden Säulen des Internationalen Leichtathletik-Verbandes ( IAAF ) - war in den letzten vier Jahren nämlich in seine bisher grösste Krise geschlittert ; in eine Krise , die das spiegelte , was die internationale Leichtathletik in dieser Zeit bewegt : kolossale finanzielle Schwierigkeiten , ein dauerhaftes und tiefes Ost-West-Zerwürfnis nach dem Zerfall des Ostblocks sowie eine nicht bereinigte Doping-Vergangenheit , die in einer Schmierenkomödie um die Neubrandenburger Sprint-Weltmeisterin Katrin Krabbe gipfelte .";"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	DLV	DLV	PROPN	NN	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
 3	-	-	PUNCT	$(	_	4	punct	_	_
@@ -4032,7 +4032,7 @@ bewegen;NZZ_1993_04_26_a238_seg1_s4;7;Die Homosexuellen wollen den Kongress dazu
 18	zu	zu	PART	PTKZU	_	19	mark	_	_
 19	bewilligen	bewilligen	VERB	VVINF	VerbForm=Inf	6	acl	_	_
 20	.	.	PUNCT	$.	_	7	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_26_a248_seg7_s2;7;Man müsse sich zur Normalität hin bewegen , in der Unternehmen Geschäfte machten .;"1	Man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	7	nsubj	_	_
 2	müsse	müssen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	obj	_	_
@@ -4144,7 +4144,7 @@ bewegen;NZZ_1993_04_26_a5_seg2_s1;41;Der Vermittler der EG im Bosnien-Konflikt ,
 40	zu	zu	PART	PTKZU	_	41	mark	_	_
 41	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	20	advcl	_	_
 42	.	.	PUNCT	$.	_	20	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_26_a89_seg4_s4;33;Dagegen ergriffen bürgerliche Kreise das Referendum mit der Absicht , der Regierung bei ihrer Sparpolitik den Rücken zu stärken und den Kanton Basel-Landschaft zu einer stärkeren finanziellen Unterstützung des Theaters Basel zu bewegen .;"1	Dagegen	dagegen	ADV	PAV	_	2	advmod	_	_
 2	ergriffen	ergreifen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	bürgerliche	bürgerlich	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_
@@ -4179,7 +4179,7 @@ bewegen;NZZ_1993_04_26_a89_seg4_s4;33;Dagegen ergriffen bürgerliche Kreise das 
 32	zu	zu	PART	PTKZU	_	33	mark	_	_
 33	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	19	conj	_	_
 34	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_27_a167_seg4_s9;35;Der Umstand , dass sein Schwiegersohn im Zusammenhang mit jener Tat im Gefängnis sitzt , und weitere Meinungsverschiedenheiten mit der Tochter dürften den Mann - nach den bisherigen Abklärungen der Polizei - zur Tat bewogen haben .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Umstand	Umstand	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	,	,	PUNCT	$,	_	14	punct	_	_
@@ -4547,7 +4547,7 @@ bewegen;NZZ_1993_04_28_a58_seg2_s10;34;Sichtlich unwohl fühlte sich der interna
 33	zu	zu	PART	PTKZU	_	34	mark	_	_
 34	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	18	xcomp	_	_
 35	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_04_29_a209_seg7_s3;2;Dabei bewegt sich die Kapazitätsauslastung mit rund 80% markant unter dem Vorjahresniveau von 83% , was zu einem weiteren Beschäftigungsrückgang und damit exponentiell wachsenden Arbeitslosenzahlen geführt hat .;"1	Dabei	dabei	ADV	PAV	_	2	advmod	_	_
 2	bewegt	bewegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
@@ -5020,7 +5020,7 @@ bewegen;NZZ_1993_08_03_a93_seg1_s38;20;Er fühlt sich hier nicht sehr wohl , und
 27	zu	zu	PART	PTKZU	_	28	mark	_	_
 28	ziehen	ziehen	VERB	VVINF	VerbForm=Inf	20	xcomp	_	_
 29	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_04_a111_seg3_s7;11;Die bilateralen Wechselkurse können sich also vorläufig « ungestört » bewegen , jedenfalls solange sie nicht an die neuen Interventionsgrenzen stossen ( vgl. Kästchen ) .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	bilateralen	bilateral	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
 3	Wechselkurse	Wechselkurse	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -5076,7 +5076,7 @@ bewegen;NZZ_1993_08_04_a19_seg4_s1;27;Mit der Entsendung zweier hochrangiger Ver
 26	zu	zu	PART	PTKZU	_	27	mark	_	_
 27	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	12	xcomp	_	_
 28	.	.	PUNCT	$.	_	12	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_04_a4_seg10_s4;25;Versöhnlich schliesst er , dass Premierminister Major jetzt , nachdem das grosse Projekt gescheitert und die Dinge sich in die von Grossbritannien eingeschlagene Richtung bewegt hätten , eine einmalige Chance habe , die Konservativen zu einigen und in einem Europa voll neuem Realismus eine Führungsrolle einzunehmen .;"1	Versöhnlich	versöhnlich	ADJ	ADJD	_	2	advmod	_	_
 2	schliesst	schließen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -5258,7 +5258,7 @@ bewegen;NZZ_1993_08_05_a185_seg3_s2;42;Obwohl die Verfassungsrichter die Bestimm
 46	stellenweise	stellenweise	ADV	ADV	_	47	advmod	_	_
 47	zurückzuweisen	zurückweisen	VERB	VVIZU	VerbForm=Inf	42	xcomp	_	_
 48	.	.	PUNCT	$.	_	20	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_05_a185_seg5_s3;20;Doch Deutschland , Grossbritannien und Dänemark hatten das Regelwerk Anfang Jahr noch nicht ratifiziert , was den Verfassungsrat dazu bewog , die Voraussetzungen als nicht erfüllt zu betrachten und sich auf die herrschenden Verfassungsbestimmungen zu berufen .;"1	Doch	doch	CCONJ	KON	_	14	cc	_	_
 2	Deutschland	Deutschland	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
 3	,	,	PUNCT	$,	_	4	punct	_	_
@@ -5523,7 +5523,7 @@ bewegen;NZZ_1993_08_09_a104_seg2_s6;12;Die Patrouille versuchte , den Fahrer mit
 11	zu	zu	PART	PTKZU	_	12	mark	_	_
 12	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	3	xcomp	_	_
 13	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_09_a20_seg2_s14;26;Gerade Reagan hat es mit seinen einfachen , mit populistischer Verve vermittelten Überzeugungen fertiggebracht , nicht nur die Dinge , sondern auch die Menschen zu bewegen .;"1	Gerade	gerade	ADV	ADV	_	2	dep	_	_
 2	Reagan	Reagan	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 3	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
@@ -5914,7 +5914,7 @@ bewegen;NZZ_1993_08_12_a130_seg12_s8;13;Bauministerin Schwaetzer versuchte in de
 21	zu	zu	PART	PTKZU	_	22	mark	_	_
 22	streichen	streichen	VERB	VVINF	VerbForm=Inf	13	xcomp	_	_
 23	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_12_a27_seg3_s3;13;Der grosse Trompeter war zwar damals aufgeräumter Stimmung , aber was ihn bewogen hatte , seinen Eid , nie mehr sein altes Repertoire hervorzugrübeln , zu brechen , bleibt rätselhaft .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	grosse	groß	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Trompeter	Trompeter	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -5988,7 +5988,7 @@ bewegen;NZZ_1993_08_13_a11_seg2_s9;15;Die Regierung bemühte sich ihrerseits , d
 14	zu	zu	PART	PTKZU	_	15	mark	_	_
 15	bewegen	bewegen	VERB	VVINF	VerbForm=Inf	10	conj	_	_
 16	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_13_a123_seg2_s16;9;Um Länder und Kommunen zu verstärkten Privatisierungsanstrengungen zu bewegen , will Rexrodt « möglichst noch in dieser Legislaturperiode » eine Änderung des Haushaltrechts durchsetzen .;"1	Um	um	ADP	KOUI	_	9	mark	_	_
 2	Länder	Land	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	9	obj	_	_
 3	und	und	CCONJ	KON	_	4	cc	_	_
@@ -6014,7 +6014,7 @@ bewegen;NZZ_1993_08_13_a123_seg2_s16;9;Um Länder und Kommunen zu verstärkten P
 23	Haushaltrechts	Haushaltrecht	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	21	nmod	_	_
 24	durchsetzen	durchsetzen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 25	.	.	PUNCT	$.	_	24	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_13_a124_seg5_s7;22;Dazu muss sie aber die Zinsen auf einem vergleichsweise hohen Niveau halten , um die Spekulanten auf diese Weise dazu zu bewegen , ihre gegen den Franc gerichteten Positionen aufzulösen und sich erneut in der französischen Währung zu engagieren .;"1	Dazu	dazu	ADV	PAV	_	12	advmod	_	_
 2	muss	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
@@ -6055,7 +6055,7 @@ bewegen;NZZ_1993_08_13_a124_seg5_s7;22;Dazu muss sie aber die Zinsen auf einem v
 38	zu	zu	PART	PTKZU	_	39	mark	_	_
 39	engagieren	engagieren	VERB	VVINF	VerbForm=Inf	30	conj	_	_
 40	.	.	PUNCT	$.	_	12	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_13_a153_seg5_s15;5;Im Rahmen der Vorjahre bewegt sich die Aufklärungsquote von 23% , das heisst , nur jede vierte Straftat wird aufgeklärt .;"1	Im	im	ADP	APPR	_	2	case	_	_
 2	Rahmen	Rahmen	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	_
 3	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -6201,7 +6201,7 @@ bewegen;NZZ_1993_08_14_a188_seg3_s12;12;Der Stadtärztliche Dienst hofft , jähr
 14	können	können	AUX	VMINF	VerbForm=Inf	15	aux	_	_
 15	zusammenzuziehen	zusammenziehen	VERB	VVIZU	VerbForm=Inf	12	conj	_	_
 16	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;psych? not of interest (bewegen, bewogen instead of bewegen, bewegt)?
 bewegen;NZZ_1993_08_14_a72_seg2_s3;6;Für die Verantwortlichen im Auslandschweizersekretariat bewegt sich die Einschreibequote « im Rahmen der Erwartungen » .;"1	Für	für	ADP	APPR	_	3	case	_	_
 2	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	3	det	_	_
 3	Verantwortlichen	Verantwortliche	NOUN	NN	Case=Acc|Number=Plur	6	obl	_	_

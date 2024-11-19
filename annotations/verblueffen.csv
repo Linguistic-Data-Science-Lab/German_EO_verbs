@@ -3175,7 +3175,7 @@ verblüffen;NZZ_1996_03_14_a123_seg2_s3;4;Um so mehr verblüfft die Meldung , da
 16	erklärt	erklären	VERB	VVPP	VerbForm=Part	4	ccomp	_	_
 17	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 18	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;X;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;X;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 verblüffen;NZZ_1996_03_22_a115_seg6_s17;17;Als sie 1995 mit ihrem Sohn , dem Kameramann Hugo Cassirer , in Berlin war , verblüfften sie die Parallelen .;"1	Als	als	SCONJ	KOUS	_	15	mark	_	_
 2	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 3	1995	1995	NUM	CARD	NumType=Card	15	obl	_	_

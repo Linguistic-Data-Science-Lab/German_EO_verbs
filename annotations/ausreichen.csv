@@ -508,7 +508,7 @@ ausreichen;NZZ_1993_03_04_a196_seg4_s3;46;"Reis ist das landwirtschaftliche Prod
 61	nichts	nichts	PRON	PIS	Definite=Ind|PronType=Ind	60	nsubj	_	_
 62	übrig	übrig	ADJ	ADJD	_	60	mark	_	_
 63	.	.	PUNCT	$.	_	5	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 ausreichen;NZZ_1993_03_20_a202_seg11_s5;2;"Es reicht nämlich nicht aus , immer wieder auf die menschliche Dimension in der Entwicklung zu verweisen ; wie dies geschehen soll , muss man auch sagen .";"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	reicht	reichen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	nämlich	nämlich	ADV	ADV	_	2	advmod	_	_
@@ -1123,7 +1123,7 @@ ausreichen;NZZ_1993_10_16_a129_seg3_s12;19;Namentlich erforderlich wären , nebs
 31	erhöhte	erhöht	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	32	amod	_	_
 32	Planungssicherheit	Planungssicherheit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	21	conj	_	_
 33	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 ausreichen;NZZ_1993_12_07_a32_seg8_s3;18;"Deutlich enger ist der Wagenfond bemessen ; hier gibt es zwar auch zwei vollwertige Sitze , doch reichen Knieraum und vor allem Kopffreiheit höchstens für Kinder aus .";"1	Deutlich	deutlich	ADJ	ADJD	_	2	advmod	_	_
 2	enger	eng	ADJ	ADJD	_	6	advmod	_	_
 3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -1269,7 +1269,7 @@ ausreichen;NZZ_1994_03_08_a52_seg10_s2;17;"Denn nicht jedes als « Dog » einges
 28	zu	zu	PART	PTKZU	_	29	mark	_	_
 29	beschreiben	beschreiben	VERB	VVINF	VerbForm=Inf	17	xcomp	_	_
 30	.	.	PUNCT	$.	_	10	punct	_	_
-";;x;;x;;;;;;;;;;;;;;inanim;;;;PA;final;
+";;x;;x;;;;;;;;;;;;;;inanim;;;;PCN-C;final;
 ausreichen;NZZ_1994_03_12_a114_seg3_s5;100;"In Hunderten von Filmen ( vorsichtige Schätzungen umkreisen die Zahl 200 ) spielte der auf eine leicht altmodische Art attraktive , ausgesprochen elegante Mann mit dem edlen Aussehen eines spanischen Granden , der fünf Sprachen beherrschte ; spielte in Europa ebenso wie in Hollywood für Regisseure , an deren langer Namensliste man ein cinematographisches Prominenten- Alphabet von A wie Altman bis Z wie Zurlini demonstrieren könnte : Blasetti , Bolognini , Cayatte , Comencini , Fellini , Frankenheimer , Frears , Friedkin ... - um aber schliesslich bis zu Rosi , Saura , Vadim und Welles zu gelangen , reichen die Zeilen kaum aus .";"1	In	in	ADP	APPR	_	2	case	_	_
 2	Hunderten	Hundert	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	13	obl	_	_
 3	von	von	ADP	APPR	_	4	case	_	_
@@ -3092,7 +3092,7 @@ ausreichen;NZZ_1996_01_26_a219_seg9_s11;12;"Dem Benutzer stellt sich keine besti
 15	...	...	PUNCT	$(	_	16	punct	_	_
 16	Thomas	Thomas	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	12	obl	_	_
 17	Feibel	Feibel	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	16	flat	_	_
-";;x;;x;;;;;;;;;;;;;;inanim;;;;STM psych noun;;
+";;x;;x;;;;;;;;;;;;;;inanim;;;;STM_psych_noun;;
 ausreichen;NZZ_1996_01_31_a75_seg5_s3;31;Lastwagen und Busse eingerechnet , konnten die Auslieferungen um 4,9% auf 5,15 Mio. Einheiten gesteigert werden , was jedoch noch nicht zu einer Verbesserung der Kapazitätsauslastung ( vgl. Kasten ) ausreichte .;"1	Lastwagen	Lastwagen	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	_
 2	und	und	CCONJ	KON	_	3	cc	_	_
 3	Busse	Bus	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
@@ -3229,7 +3229,7 @@ ausreichen;NZZ_1996_04_02_a116_seg5_s21;18;Die Normalität eines Dorfes erschein
 25	NS-Euthanasiefall	NS-Euthanasiefall	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	26	obl	_	_
 26	aufzusprengen	aufsprengen	VERB	VVIZU	VerbForm=Inf	18	xcomp	_	_
 27	?	?	PUNCT	$.	_	5	punct	_	_
-";;x;;x;;;;;;;;;;;;;;inanim;;;;STM metaphoric;final;
+";;x;;x;;;;;;;;;;;;;;inanim;;;;metaphoric_STM;final;
 ausreichen;NZZ_1996_04_10_a130_seg3_s23;16;Da dürfte schon ein Test anhand des Wandbildes im ägyptischen Fürstengrab zu Beni-Hasan als Beweis ausreichen .;"1	Da	da	ADV	ADV	_	16	advmod	_	_
 2	dürfte	dürfen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	_
 3	schon	schon	ADV	ADV	_	16	advmod	_	_
@@ -4612,7 +4612,7 @@ ausreichen;NZZ_1998_07_24_a209_seg3_s6;18;Sie haben darunter zu leiden , dass se
 42	gewachsen	wachsen	VERB	VVPP	VerbForm=Part	36	acl	_	_
 43	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	42	aux	_	_
 44	.	.	PUNCT	$.	_	2	punct	_	_
-";;x;;x;;;;;;;;;;;;;;propositional;;;;experiencer-related object;;
+";;x;;x;;;;;;;;;;;;;;propositional;;;;EXP-related_object;;
 ausreichen;NZZ_1998_08_06_a12_seg3_s1;15;Dubai , 5. Aug. ( Reuters ) Trotz der Verringerung in den vergangenen Monaten reicht die amerikanische Streitmacht am Golf nach Angaben eines Militärsprechers aus , um eine neue Irak-Krise zu bewältigen .;"1	Dubai	Dubai	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
 2	,	,	PUNCT	$,	_	4	punct	_	_
 3	5.	5.	ADJ	NE	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
@@ -5117,7 +5117,7 @@ ausreichen;NZZ_1998_11_13_a9_seg10_s3;15;Die Grosse Koalition ist zwar nur noch 
 27	Belastungsprobe	Belastungsprobe	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
 28	aussetzt	aussetzen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 29	.	.	PUNCT	$.	_	9	punct	_	_
-";;x;;x;;;;;;;;;;;;;;inanim;;;;STM anim_proxy;für-PP;
+";;x;;x;;;;;;;;;;;;;;anim_proxy;;;;;für-PP;
 ausreichen;NZZ_1998_12_07_a117_seg7_s6;19;Das Projekt Aufgaben- und Leistungsüberprüfung ( ALÜB ) ist dringend umzusetzen , wird allein zur Finanzsanierung jedoch nicht ausreichen .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	Projekt	Projekt	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	11	nsubj:pass	_	_
 3	Aufgaben-	Aufgaben-	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	_

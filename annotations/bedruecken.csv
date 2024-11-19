@@ -361,7 +361,7 @@ bedrücken;NZZ_1993_03_20_a96_seg3_s20;3;Dortmund-Manager Meier bedrückt zurzei
 67	virulentes	virulentes	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	68	amod	_	_
 68	Problem	Problem	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	33	conj	_	_
 69	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;Problem, +A?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;Problem, +A?;
 bedrücken;NZZ_1993_03_25_a90_seg2_s2;22;- Die verbitterten Worte des FCZ-Präsidenten Hotz kurz vor dem Matchbeginn liessen keine Zweifel darüber aufkommen , welche Sorgen ihn zurzeit bedrücken .;"1	-	-	PUNCT	$(	_	2	punct	_	_
 2	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 3	verbitterten	verbittert	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	_
@@ -1940,7 +1940,7 @@ bedrücken;NZZ_1997_02_25_a168_seg2_s31;15;Das leidige Stürmerproblem , das dem
 19	Hannes	Hannes	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	18	appos	_	_
 20	Bongartz	Bongartz	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	19	flat	_	_
 21	.	.	PUNCT	$.	_	15	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,psych_ambiguous;polysemous? Problem;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,psych_ambiguous;polysemous? Problem;
 bedrücken;NZZ_1997_06_14_a2_seg1_s22;12;Allenthalben in Europa klaffen Haushaltlücken , drohen weiter schwindende Steuereinnahmen , bedrücken die Heere der Arbeitslosen .;"1	Allenthalben	Allenthalben	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
 2	in	in	ADP	APPR	_	3	case	_	_
 3	Europa	Europa	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
@@ -2394,7 +2394,7 @@ bedrücken;NZZ_1999_08_27_a139_seg3_s21;20;Dessen Vorwurf , der Sohn habe trotz 
 21	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	Maturanden	Maturande	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
 23	.	.	PUNCT	$.	_	20	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 bedrücken;NZZ_1999_12_18_a173_seg21_s2;3;Schon bald bedrückt ihn die Lieblosigkeit der Mitmenschen .;"1	Schon	schon	ADV	ADV	_	2	advmod	_	_
 2	bald	bald	ADV	ADV	_	3	advmod	_	_
 3	bedrückt	bedrücken	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2485,7 +2485,7 @@ bedrücken;NZZ_1999_05_15_a83_seg3_s2;20;Die Furcht , die Notenbank werde am Die
 21	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	Finanzmärkte	Finanzmarkt	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
 23	.	.	PUNCT	$.	_	18	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_psych_noun,EXP_anim_proxy,psych_ambiguous;psych?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, STM_psych_noun,EXP_anim_proxy,psych_ambiguous;psych?;
 bedrücken;NZZ_1999_10_15_a29_seg4_s4;28;Die durch die Kontroverse um das Verhalten der Schweiz und der Schweizer Banken im Zweiten Weltkrieg ausgelösten Spannungen zwischen den Juden und der Schweiz hätten ihn sehr bedrückt .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 2	durch	durch	ADP	APPR	_	4	case	_	_
 3	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_

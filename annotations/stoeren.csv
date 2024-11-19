@@ -1562,7 +1562,7 @@ stören;NZZ_1993_02_19_a36_seg8_s5;25;Diese Tatsache , doch auch die Unmöglichk
 29	weniger	weniger	ADV	ADV	_	28	advmod	_	_
 30	Ungarn	Ungarn	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	25	obj	_	_
 31	.	.	PUNCT	$.	_	25	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-related_object, STM_coordination, PCN-C;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP-related_object, STM_coordination, PCN-C;;
 stören;NZZ_1993_02_19_a74_seg10_s3;16;Corazza stellte dabei fest , dass die Zinsbildung in der Untersuchungsperiode nicht durch kartellistische Absprachen gestört war .;"1	Corazza	Corazza	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	stellte	stellen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	dabei	dabei	ADV	PAV	_	2	advmod	_	_
@@ -2189,7 +2189,7 @@ stören;NZZ_1993_04_10_a166_seg2_s19;24;Anderseits liegen die Hotelburgen von Ja
 29	wieder	wieder	ADV	ADV	_	30	advmod	_	_
 30	verzogen	verziehen	VERB	VVPP	VerbForm=Part	2	conj	_	_
 31	.	.	PUNCT	$.	_	2	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;STM_anim_proxy, collocation;;
+";;x;x;;;;;;;;;;;;;;;anim_proxy;;;;collocation;;
 stören;NZZ_1993_04_10_a166_seg2_s68;28;Es ist von Unterwassergrotten die Rede , von Munitionslagern , geheimen Kommandoposten auf Jandía , wo die Guardia Civil dafür sorgt , dass der bukolische Friede nicht gestört wird .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	von	von	ADP	APPR	_	4	case	_	_
@@ -4985,7 +4985,7 @@ stören;NZZ_1993_12_13_a130_seg4_s3;8;Dabei kann ihn selbst die Tatsache nicht s
 36	gut	gut	ADJ	ADJD	_	31	xcomp	_	_
 37	»	""	PUNCT	$(	_	29	punct	_	_
 38	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 stören;NZZ_1993_12_13_a23_seg2_s3;17;Nach Polizeiangaben wurden drei Mitglieder der radikalen Kach-Bewegung festgenommen , die versuchten , die Kundgebung zu stören .;"1	Nach	nach	ADP	APPR	_	2	case	_	_
 2	Polizeiangaben	Polizeiangaben	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	9	obl	_	_
 3	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	9	aux:pass	_	_

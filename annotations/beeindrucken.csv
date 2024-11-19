@@ -3122,7 +3122,7 @@ beeindrucken;NZZ_1993_05_26_a107_seg3_s10;15;Immerhin , die Art , wie sie diese 
 14	zu	zu	PART	PTKZU	_	15	mark	_	_
 15	beeindrucken	beeindrucken	VERB	VVINF	VerbForm=Inf	13	xcomp	_	_
 16	.	.	PUNCT	$.	_	13	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;x;;PA+A;;inanim control, zu beeindrucken wissen
+";;;;x;;;;;;;;;;;;;;inanim;;x;;PCN+C;;inanim control, zu beeindrucken wissen
 beeindrucken;NZZ_1993_05_27_a105_seg4_s15;4;In vielen Momenten beeindruckte der französische Meister jedenfalls auch nach diesem Treffer durch die geradezu exemplarische Taktik - mit einem Libero und vier weiteren Defensivspielern , von denen Di Méco und Eydelie die Flanken abschirmten und Angloma bzw. Desailly sich der beiden Sturmspitzen annahmen .;"1	In	in	ADP	APPR	_	3	case	_	_
 2	vielen	viel	DET	PIAT	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	3	amod	_	_
 3	Momenten	Moment	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
@@ -3398,7 +3398,7 @@ beeindrucken;NZZ_1993_06_01_a194_seg4_s11;2;Positiv beeindruckt allerdings die T
 23	Mrd.	Mrd.	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	20	nmod	_	_
 24	sing	sein	NOUN	NN	_	2	ccomp	_	_
 25	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A, fragment;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C, fragment;;
 beeindrucken;NZZ_1993_06_01_a9_seg6_s1;6;Diese Weigerung scheint die Militärs beeindruckt zu haben .;"1	Diese	dies	PRON	PDAT	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	Weigerung	Weigerung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	scheint	scheinen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -4405,7 +4405,7 @@ beeindrucken;NZZ_1993_07_12_a117_seg6_s1;4;Im leichten Doppelzweier beeindruckte
 24	Hick/Lynag	Hick/Lynag	PROPN	NE	Case=Dat|Gender=Neut|Number=Sing	23	appos	_	_
 25	ruderten	rudern	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
 26	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beeindrucken;NZZ_1993_07_12_a41_seg3_s11;4;An Kaunzingers Spiel beeindruckten die pianistische Attitüde und die teilweise horrenden Tempi , so dass sogar jeweils die Einschwingvorgänge der Pfeifen auf der Strecke blieben .;"1	An	an	ADP	APPR	_	3	case	_	_
 2	Kaunzingers	Kaunzingers	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 3	Spiel	Spiel	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_

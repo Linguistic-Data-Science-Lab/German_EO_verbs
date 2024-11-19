@@ -469,7 +469,7 @@ widerstreben;NZZ_1994_10_12_a110_seg3_s8;17;Die Möglichkeit , den Fehlbetrag du
 38	erleben	erleben	VERB	VVINF	VerbForm=Inf	24	ccomp	_	_
 39	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	aux	_	_
 40	.	.	PUNCT	$.	_	17	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 widerstreben;NZZ_1995_01_28_a209_seg14_s6;19;Dem Personalchef , welcher seit fast fünf Jahren auf eine Gelegenheit wartet , um Espol zu entlassen , widerstrebt es nun , auf ihn zu verzichten .;"1	Dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Personalchef	Personalchef	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	_
 3	,	,	PUNCT	$,	_	12	punct	_	_
@@ -746,7 +746,7 @@ widerstreben;NZZ_1995_09_11_a38_seg2_s7;4;Eine solche Absicht widerstrebe der he
 12	Initiative	Initiative	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
 13	zusetzen	zusetzen	VERB	VVINF	VerbForm=Inf	4	xcomp	_	_
 14	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-related_object, polysemous;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP-related_object, polysemous;;
 widerstreben;NZZ_1995_09_21_a44_seg4_s11;3;Macht ausüben widerstrebt mir .;"1	Macht	machen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 2	ausüben	ausüben	VERB	VVINF	VerbForm=Inf	3	xcomp	_	_
 3	widerstrebt	widerstreben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1982,7 +1982,7 @@ widerstreben;NZZ_1998_12_18_a187_seg3_s15;2;Denervaud widerstrebt vor allem die 
 16	Skisport	Skisport	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	_
 17	einzuführen	einführen	VERB	VVIZU	VerbForm=Inf	6	acl	_	_
 18	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 widerstreben;NZZ_1999_03_13_a2_seg12_s3;11;Dem auf Konsens und Zustimmung in der Bevölkerung bedachten Kanzler widerstrebt der von Lafontaine inszenierte Dauerkonflikt mit Wirtschaft und Opposition , insofern dürfte sich das innenpolitische Klima in Deutschland entspannen .;"1	Dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 2	auf	auf	ADP	APPR	_	3	case	_	_
 3	Konsens	Konsen	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	_

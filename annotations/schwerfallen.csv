@@ -1358,7 +1358,7 @@ schwerfallen;NZZ_1993_05_25_a148_seg4_s5;15;Kosten , welche binnenwirtschaftlich
 26	ins	er	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Sing	27	amod	_	_
 27	Gewicht	Gewicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
 28	.	.	PUNCT	$.	_	15	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1993_06_04_a66_seg2_s9;19;Obschon der ursprünglich zum Architekten und Designer ausgebildete Filmemacher vor allem an europäischen Festivals reichlich Anerkennung fand , fiel es ihm zu Hause zusehends schwerer , selbst für seine Billig ( st ) produktionen Geldgeber zu finden .;"1	Obschon	obschon	SCONJ	KOUS	_	17	mark	_	_
 2	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 3	ursprünglich	ursprünglich	ADJ	ADJD	_	4	advmod	_	_
@@ -1894,7 +1894,7 @@ schwerfallen;NZZ_1993_08_18_a75_seg2_s24;11;Weil die reichsten Vereine bis zu 40
 20	ins	er	DET	ART	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	21	det	_	_
 21	Gewicht	Gewicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
 22	.	.	PUNCT	$.	_	11	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1993_08_19_a23_seg8_s8;5;Pryor dürfte es nicht schwerfallen , für seinen Vorstoss Verbündete zu finden , die alte Rechnungen begleichen möchten .;"1	Pryor	Pryor	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	dürfte	dürfen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 3	es	es	PRON	PPER	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
@@ -2851,7 +2851,7 @@ schwerfallen;NZZ_1993_11_27_a125_seg22_s2;44;Vorläufige , auf Grund einer schwe
 49	empfangenen	empfangen	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	50	amod	_	_
 50	Transferzahlungen	Transferzahlung	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	44	obl	_	_
 51	.	.	PUNCT	$.	_	22	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1993_11_27_a155_seg2_s4;6;Gebeugt ist sie , als fiele es ihr schwer , sich aufrecht zu halten im Wind des Lebens , der sie ständig umzublasen droht .;"1	Gebeugt	gebeugt	ADJ	ADJD	_	0	root	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	sie	sie	PRON	PPER	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -3154,7 +3154,7 @@ schwerfallen;NZZ_1994_01_14_a7_seg8_s10;14;Schwieriger einzuschätzen ist , wie 
 13	Gewicht	Gewicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
 14	fallen	fallen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	csubj:pass	_	_
 15	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1994_01_25_a35_seg4_s3;22;Mit diesem offiziellen Eingeständnis wird es der Konservativen Partei , die nun seit fast fünfzehn Jahren die Regierung stellt , zunehmend schwerfallen , weiterhin den Anspruch zu erheben , eine erfolgreiche Politik der steten Reduktion der Steuerlast zu verfolgen .;"1	Mit	mit	ADP	APPR	_	4	case	_	_
 2	diesem	dies	PRON	PDAT	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 3	offiziellen	offiziell	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	4	amod	_	_
@@ -3412,7 +3412,7 @@ schwerfallen;NZZ_1994_03_04_a30_seg6_s3;13;Die ökonomischen und sozialen Opfer 
 16	ins	er	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	17	amod	_	_
 17	Gewicht	Gewicht	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	13	obj	_	_
 18	.	.	PUNCT	$.	_	13	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1994_03_07_a12_seg4_s5;7;Sich von dieser Umarmung zu befreien fiel den Esten bis zur Einführung der eigenen Währung schwer .;"1	Sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	_
 2	von	von	ADP	APPR	_	4	case	_	_
 3	dieser	dies	PRON	PDAT	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
@@ -3579,7 +3579,7 @@ schwerfallen;NZZ_1994_04_02_a170_seg3_s19;3;Noch schwerer fiel die bescheidene E
 12	ins	ins	ADP	APPR	_	13	case	_	_
 13	Gewicht	Gewicht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	11	nmod	_	_
 14	.	.	PUNCT	$.	_	3	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1994_04_08_a29_seg10_s6;10;- Dokumente vorliegen sollten , wird es Schirinowski nicht schwerfallen , sie als Falsifikate abzuqualifizieren und seine politischen Gegner dunkler Machenschaften zu beschuldigen .;"1	-	-	PUNCT	$(	_	2	punct	_	_
 2	Dokumente	Dokument	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
 3	vorliegen	vorliegen	VERB	VVINF	VerbForm=Inf	10	advcl	_	_
@@ -3838,7 +3838,7 @@ schwerfallen;NZZ_1994_05_03_a130_seg3_s14;3;Der Beweis fiel ihr nicht schwer , d
 28	richten	richten	VERB	VVINF	VerbForm=Inf	15	conj	_	_
 29	sollte	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
 30	.	.	PUNCT	$.	_	3	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous, PA+A;psych???;
+";;x;x;;;;;;;;;;;;;;;inanim;;;;psych_ambiguous, PCN+C;psych???;
 schwerfallen;NZZ_1994_05_05_a8_seg5_s2;14;Die Umsetzung ihres Votums in eine veränderte Politik wird den Haager Parteien jedoch schwerfallen , denn die Wählerbewegung weist keineswegs in eine klare Richtung .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Umsetzung	Umsetzung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	_
 3	ihres	ihr	DET	PPOSAT	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
@@ -4886,7 +4886,7 @@ schwerfallen;NZZ_1994_08_02_a37_seg3_s8;20;Dunkle Wolken am Horizont bilden auch
 47	machen	machen	VERB	VVINF	VerbForm=Inf	25	conj	_	_
 48	könnte	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	47	aux	_	_
 49	.	.	PUNCT	$.	_	5	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1994_08_06_a149_seg3_s7;10;Solche sozialen Faktoren in die Fallpauschalen zu integrieren dürfte schwerfallen .;"1	Solche	solch	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 2	sozialen	sozial	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
 3	Faktoren	Faktor	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
@@ -4929,7 +4929,7 @@ schwerfallen;NZZ_1994_08_13_a78_seg7_s5;2;So fiel dem Regierungsrat der Antrag ,
 28	nicht	nicht	PART	PTKNEG	Polarity=Neg	29	advmod	_	_
 29	schwer	schwer	ADJ	ADJD	_	2	xcomp	_	_
 30	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,psych_ambiguous;psych??;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,psych_ambiguous;psych??;
 schwerfallen;NZZ_1994_08_16_a56_seg8_s3;12;Angesichts einer solchen ertragsrelevanten Informationslücke dürfte es auch den scharfsichtigsten Analytikern schwerfallen , eine einigermassen verlässliche Gewinnprognose zu stellen .;"1	Angesichts	angesichts	ADP	APPR	_	5	case	_	_
 2	einer	ein	DET	ART	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 3	solchen	solch	DET	PIAT	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur|PronType=Ind	5	amod	_	_
@@ -5363,7 +5363,7 @@ schwerfallen;NZZ_1994_11_16_a165_seg3_s14;2;Dies fiel um so schwerer ins Gewicht
 25	verschont	verschonen	ADJ	VVPP	VerbForm=Part	26	xcomp	_	_
 26	blieb	bleiben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
 27	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 schwerfallen;NZZ_1994_11_22_a1_seg8_s9;9;Überhaupt werde es der palästinensische Polizei sehr schwer fallen , Extremisten zu verfolgen , wo doch oft in der gleichen Familie oder im gleichen Haus PLO- Anhänger und Islamisten zusammenlebten .;"1	Überhaupt	überhaupt	ADV	ADV	_	9	advmod	_	_
 2	werde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
@@ -5496,7 +5496,7 @@ schwerfallen;NZZ_1994_12_02_a157_seg4_s12;7;Auch wenn ihm dieser Entscheid schwe
 18	herangezogen	heranziehen	VERB	VVPP	VerbForm=Part	0	root	_	_
 19	werden	werden	AUX	VAINF	VerbForm=Inf|Voice=Pass	18	aux:pass	_	_
 20	.	.	PUNCT	$.	_	18	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;psych?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;psych?;
 schwerfallen;NZZ_1994_12_07_a102_seg3_s7;2;"Es fiel der Kirche nicht schwer - oder es fiel ihr zeitweise schwer , aber es gelang ihr - , eine neutrale Haltung gegenüber den Staatsformen einzunehmen ; einfacher gesagt , sich mit der Demokratie abzufinden .";"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	fiel	fallen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_

@@ -2227,7 +2227,7 @@ erfreuen;NZZ_1995_10_03_a136_seg4_s10;36;Auf die Blauglockenbäume kann man sich
 52	dichte	dicht	ADJ	ADJA	Case=Acc|Gender=Masc|Number=Sing	53	amod	_	_
 53	Schatten	Schatten	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	46	obj	_	_
 54	.	.	PUNCT	$.	_	7	punct	_	_
-";;;;x;;;;;;;;;;;;;;anim;mit;;;clearly_non_agentive;;
+";;;;x;;;;;;;;;;;;;;anim;mit;;;clearly_non-agentive;;
 erfreuen;NZZ_1995_10_19_a176_seg3_s8;2;Bali erfreut sich einer üppigen tropischen Vegetation , während Lombok ausserhalb der Regenzeit und seines zentralen grünen Gürtels relativ trocken ist und von der Fauna und Flora her fast mehr Gemeinsamkeiten mit Australien als mit Bali aufweist .;"1	Bali	Bali	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	erfreut	erfreuen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_

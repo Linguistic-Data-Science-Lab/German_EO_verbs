@@ -1919,7 +1919,7 @@ bezaubern;NZZ_1996_03_07_a185_seg3_s16;20;Das « Halbpensions-Frühlingsangebot 
 20	bezaubern	bezaubern	VERB	VVPP	VerbForm=Part	9	acl	_	_
 21	werden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	20	aux:pass	_	_
 22	.	.	PUNCT	$.	_	5	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;EXP-related_object, clearly_non_agentive, EXP_coordination;;
+";;;x;;;;;;;;;;;;;;;anim;;;;EXP-related_object, clearly_non-agentive, EXP_coordination;;
 bezaubern;NZZ_1996_03_09_a151_seg23_s3;2;Bali bezauberte schon früh durch seine Kunst und einzigartige Kultur - eine Insel , die den Paradiesbegriff touristisch ausschlachtet .;"1	Bali	Bali	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	bezauberte	bezaubern	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	schon	schon	ADV	ADV	_	4	advmod	_	_
@@ -3459,7 +3459,7 @@ bezaubern;NZZ_1998_06_13_a252_seg3_s22;10;Der wuchernde Schlingknöterich gehör
 21	grünlichweissen	grünlichweissen	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	19	conj	_	_
 22	Blüten	Blüte	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	17	nmod	_	_
 23	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;anim;mit;;;clearly_non_agentive;plant! Instrumental?;
+";;;;x;;;;;;;;;;;;;;anim;mit;;;clearly_non-agentive;plant! Instrumental?;
 bezaubern;NZZ_1998_07_08_a235_seg3_s3;38;Es ist das « Zeitalter der grossen Amateure » , das in den siebzehn Porträts von « Privatgelehrten , Theologen , Heilkundigen , Apothekergesellen , Rechtsgelehrte , » rekonstruiert wird , « die sich von dieser Geheimwissenschaft bezaubern liessen » .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
@@ -3742,7 +3742,7 @@ bezaubern;NZZ_1999_03_20_a272_seg3_s12;7;Dank ihrer Kleinwüchsigkeit und ungewo
 9	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Gartenliebhaber	Gartenliebhaber	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	_
 11	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;dank;;;clearly_non_agentive;plant;generic EXP
+";;;x;;;;;;;;;;;;;;;anim;dank;;;clearly_non-agentive;plant;generic EXP
 bezaubern;NZZ_1999_03_22_a90_seg5_s10;32;( ... ) Le génie , l ' âme , le goût naturel de Vandyck , sa docilité , son application , ses progrès rapides » , das alles habe Rubens bezaubert .;"1	(	(	PUNCT	$(	_	5	punct	_	_
 2	...	...	PUNCT	$(	_	5	punct	_	_
 3	)	)	PUNCT	$(	_	5	punct	_	_
@@ -3826,7 +3826,7 @@ bezaubern;NZZ_1999_04_03_a250_seg9_s15;3;"Im Garten bezaubern die gelben Blüten
 23	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	Steingarten	Steingarten	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	20	obl	_	_
 25	.	.	PUNCT	$.	_	3	punct	_	_
-";;;;x;;;;;;;;;;;;;;anim;;;;clearly_non_agentive;plant;
+";;;;x;;;;;;;;;;;;;;anim;;;;clearly_non-agentive;plant;
 bezaubern;NZZ_1999_04_03_a253_seg3_s25;4;Um so mehr bezaubern uns die prachtvollen Blütengestecke der Hausherrin : In jedem Zimmer , auf jedem Tisch , sogar im Flur stehen frische Sträusse , verstärken das Gefühl , in einer Oase zu wohnen .;"1	Um	um	ADP	KOUI	_	4	mark	_	_
 2	so	so	ADV	ADV	_	3	advmod	_	_
 3	mehr	mehr	ADV	ADV	_	4	advmod	_	_
@@ -4496,4 +4496,4 @@ bezaubern;NZZ_1999_11_27_a212_seg3_s3;70;Mit seiner Tierschar präsentiert Henry
 69	zu	zu	PART	PTKZU	_	70	mark	_	_
 70	bezaubern	bezaubern	VERB	VVINF	VerbForm=Inf	45	xcomp	_	_
 71	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;mit;x;;clearly_non_agentive, STM_coordination;volitional? Instrumental?;
+";;;x;;;;;;;;;;;;;;;anim;mit;x;;clearly_non-agentive, STM_coordination;volitional? Instrumental?;

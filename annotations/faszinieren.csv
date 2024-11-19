@@ -1932,7 +1932,7 @@ faszinieren;NZZ_1993_11_27_a146_seg2_s96;24;Aber eine , die ihr nicht behagt , d
 35	aufgeben	aufgeben	VERB	VVINF	VerbForm=Inf	24	advcl	_	_
 36	möchte	mögen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	aux	_	_
 37	.	.	PUNCT	$.	_	24	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 faszinieren;NZZ_1993_12_01_a125_seg2_s20;23;Vorgeführt wurde über lange Strecken ein Rezital bekannter Filmausschnitte und Trickszenen über die exotischen Aspekte des SDI-Programms , die während einiger Jahre faszinieren mochten , die aber längst als nicht realisierbar aufgegeben worden sind .;"1	Vorgeführt	vorführen	VERB	VVPP	VerbForm=Part	0	root	_	_
 2	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	aux:pass	_	_
 3	über	über	ADP	APPR	_	5	case	_	_
@@ -2440,7 +2440,7 @@ faszinieren;NZZ_1994_03_03_a192_seg3_s16;3;"Was ihn faszinierte , war die Situat
 34	unüberblickbaren	unüberblickbaren	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	35	amod	_	_
 35	Publikum	Publikum	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	25	conj	_	_
 36	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;PA?
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;PA?
 faszinieren;NZZ_1994_03_10_a225_seg6_s1;19;Es ist natürlich kein Zufall , dass gerade in diesen Jahren die Idee der Schulentwicklung so sehr zu faszinieren vermag .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	natürlich	natürlich	ADV	ADV	_	5	advmod	_	_
@@ -4186,7 +4186,7 @@ faszinieren;NZZ_1994_09_12_a174_seg2_s10;2;Blumen faszinierten auch Yves Saint L
 5	Saint	Saint	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	_
 6	Laurent	Laurent	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	_
 7	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;clearly_non_agentive;volitional?;
+";;;x;;;;;;;;;;;;;;;anim;;;;clearly_non-agentive;volitional?;
 faszinieren;NZZ_1994_09_15_a166_seg9_s3;20;Nicht nur der Rundblick weit über Stadt und Land hinaus , auch der ständige Sturmwind und die kärgliche Vegetation faszinieren uns .;"1	Nicht	nicht	PART	PTKNEG	Polarity=Neg	4	advmod	_	_
 2	nur	nur	ADV	ADV	_	4	advmod	_	_
 3	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -4794,7 +4794,7 @@ faszinieren;NZZ_1994_11_26_a179_seg3_s13;27;Während er das Konzert mit einem ph
 58	tun	tun	VERB	VVINF	VerbForm=Inf	45	advcl	_	_
 59	hat	haben	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	58	aux	_	_
 60	.	.	PUNCT	$.	_	27	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;bei;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;bei;;;PCN+C;;
 faszinieren;NZZ_1994_11_26_a83_seg3_s2;34;Der neue Rektor , Hans- Joachim Güntherodt , sprach zum Thema « Physik der kondensierten Materie : Betrachtungen zu Kollektiv und Einzelatom » , und er vermochte die Gäste gleich zu Beginn zu faszinieren , indem er am Beispiel eines in atomare Dimensionen verkleinerten Textes das Vorstellungsvermögen anregte .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	neue	neu	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Rektor	Rektor	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -5200,7 +5200,7 @@ faszinieren;NZZ_1995_01_20_a120_seg3_s9;51;Die Abwesenheit von Zensur und Selbst
 51	faszinierte	faszinieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	45	conj	_	_
 52	ihn	er	PRON	PPER	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	obj	_	_
 53	.	.	PUNCT	$.	_	45	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_coordination;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, STM_coordination;;
 faszinieren;NZZ_1995_01_24_a142_seg3_s4;2;Ihn fasziniert das Rohmaterial - Eisen , Bronze , Holz - , das er quasi als prima materia verarbeitet und in Kunst transformiert .;"1	Ihn	er	PRON	PPER	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 2	fasziniert	faszinieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
@@ -5455,7 +5455,7 @@ faszinieren;NZZ_1995_02_22_a106_seg6_s3;2;Ihn faszinierte die Idee eines rein al
 12	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
 13	Verstorbenen	Verstorbene	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
 14	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 faszinieren;NZZ_1995_02_25_a228_seg6_s16;4;Doch das Posieren faszinierte sie nicht sonderlich , und mit dem Ballett , das erkannte sie bald , hatte sie zu spät begonnen , um es wirklich zu etwas bringen zu können .;"1	Doch	doch	CCONJ	KON	_	4	advmod	_	_
 2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Posieren	Posier	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_

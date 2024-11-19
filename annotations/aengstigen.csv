@@ -1396,7 +1396,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 25	andere	ander	PRON	PIS	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	26	obj	_	_
 26	tun	tun	VERB	VVINF	VerbForm=Inf	22	acl	_	_
 27	.	.	PUNCT	$.	_	13	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ängstigen;NZZ_1994_09_29_a41_seg9_s2;26;Senator Bob Packwood aus Oregon , republikanischer Co-Sponsor der Vorlage , meinte , er sehe « grosse Probleme » und er sei « zu Tode geängstigt » , dass nicht genügend Stimmen mobilisiert werden können .;"1	Senator	Senator	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	dep	_	_
 2	Bob	Bob	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
 3	Packwood	Packwood	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
@@ -2304,7 +2304,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 29	ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	Zeitabschnitt	Zeitabschnitt	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	25	obl	_	_
 31	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ängstigen;NZZ_1996_03_18_a101_seg5_s3;18;Hier begegnet er dem schönen Knaben Tadzio , dessen Anmut ihn ebenso lockt , wie sie ihn ängstigt .;"1	Hier	hier	ADV	ADV	_	2	advmod	_	_
 2	begegnet	begegnen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -3054,7 +3054,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 42	,	,	PUNCT	$,	_	41	punct	_	_
 43	ängstigte	ängstigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	acl	_	_
 44	.	.	PUNCT	$.	_	27	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ängstigen;NZZ_1998_05_23_a237_seg5_s98;2;Oder ängstigt mich gar dieser Austausch über den Gartenzaun ?;"1	Oder	Oder	CCONJ	KON	_	2	cc	_	_
 2	ängstigt	ängstigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
@@ -3231,7 +3231,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 22	zu	zu	PART	PTKZU	_	23	mark	_	_
 23	verlieren	verlieren	VERB	VVINF	VerbForm=Inf	14	acl	_	_
 24	.	.	PUNCT	$.	_	11	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ängstigen;NZZ_1999_02_18_a41_seg3_s5;15;Die Laufeigenschaften eingefrorener Fahrzeuge sind wenig komfortabel , und nicht informierte Reisende können sie ängstigen .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	Laufeigenschaften	Laufeigenschaft	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
 3	eingefrorener	eingefroren	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	_

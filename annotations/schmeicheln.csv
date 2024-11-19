@@ -959,7 +959,7 @@ schmeicheln;NZZ_1993_12_27_a22_seg10_s13;19;Die Aussicht , vom amerikanischen Ma
 32	zu	zu	PART	PTKZU	_	33	mark	_	_
 33	reden	reden	VERB	VVINF	VerbForm=Inf	19	xcomp	_	_
 34	.	.	PUNCT	$.	_	10	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schmeicheln;NZZ_1994_02_08_a122_seg3_s16;29;Neben dem von George Richmond 1850 gemalten Porträt der Schriftstellerin muss die Photographie unvorteilhaft aussehen - doch ist bekannt , dass Richmonds Pinsel den vom Maler Porträtierten zu schmeicheln pflegte .;"1	Neben	neben	ADP	APPR	_	8	case	_	_
 2	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 3	von	von	ADP	APPR	_	4	case	_	_
@@ -3084,7 +3084,7 @@ schmeicheln;NZZ_1996_04_12_a128_seg3_s16;29;Die griffen zu , weil es unübersehb
 38	zu	zu	PART	PTKZU	_	39	mark	_	_
 39	verschmelzen	verschmelzen	VERB	VVINF	VerbForm=Inf	29	xcomp	_	_
 40	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schmeicheln;NZZ_1996_04_13_a148_seg2_s7;16;Und der Moloch stellte seine Ohren auf , legte seine Fangarme in die Schreibstuben , schmeichelte den schönen Frauen der mutigen Dichter und flüsterte mit vielen Stimmen , dass es grosses Unrecht sei , was die einsamen Dichter planten .;"1	Und	und	CCONJ	KON	_	4	cc	_	_
 2	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Moloch	Moloch	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -3880,7 +3880,7 @@ schmeicheln;NZZ_1996_10_07_a81_seg5_s8;37;Weil sich die Wissenschaft der Neuzeit
 40	statt	statt	ADP	APPR	_	41	case	_	_
 41	Metaphysik	Metaphysik	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	39	nmod	_	_
 42	.	.	PUNCT	$.	_	30	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP-related_object, PCN+C;;
 schmeicheln;NZZ_1996_10_15_a174_seg7_s9;13;Dem Prestige der mehr Bezahlenden wird nicht wie beim Check-in der Fluggesellschaften geschmeichelt .;"1	Dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Prestige	Prestige	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	_
 3	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -6146,7 +6146,7 @@ schmeicheln;NZZ_1999_02_22_a102_seg9_s22;20;Der Einwurf , dass er damit einem Bi
 19	zu	zu	PART	PTKZU	_	20	mark	_	_
 20	schmeicheln	schmeicheln	VERB	VVINF	VerbForm=Inf	17	acl	_	_
 21	.	.	PUNCT	$.	_	17	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schmeicheln;NZZ_1999_04_01_a156_seg3_s5;10;Mit seinem modulationsfähigen Bariton konnte Williams wunderbar shouten und schmeicheln , seine Intonation war stets makellos , sein Sinn für Phrasierung exakt und scheinbar unfehlbar .;"1	Mit	mit	ADP	APPR	_	4	case	_	_
 2	seinem	sein	DET	PPOSAT	Case=Dat|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
 3	modulationsfähigen	modulationsfähigen	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	_
@@ -6303,7 +6303,7 @@ schmeicheln;NZZ_1999_06_08_a154_seg3_s2;19;Das Etikett , ein « anarchistischer 
 68	zu	zu	PART	PTKZU	_	69	mark	_	_
 69	lassen	lassen	VERB	VVINF	VerbForm=Inf	59	conj	_	_
 70	.	.	PUNCT	$.	_	29	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schmeicheln;NZZ_1999_06_10_a175_seg3_s7;16;Dass das äquatoriale Temperament vielleicht nicht unbedingt dem mitteleuropäischen Kehlkopf , dafür aber dem Gaumen schmeichelt , beweisen etwa die Brocheta de camerón y pulpo en mantequilla de culantro y paprica , ein koriandergesättigter Crevetten- und Tintenfischspiess ( Fr. 48.50 ) , oder eine Chuleta de cordero en salsa de ajo , ein eher gewöhnlich gewürztes Lammcarré ( Fr. 42.50 ) .;"1	Dass	daß	SCONJ	KOUS	_	16	mark	_	_
 2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 3	äquatoriale	äquatorial	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_

@@ -710,7 +710,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 32	4	4	NUM	CARD	NumType=Card	29	appos	_	_
 33	gelang	gelingen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	advcl	_	_
 34	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ärgern;NZZ_1994_11_24_a147_seg3_s10;17;Die Eishockey-Puristen vermissten in dieser Saison der neuerlichen Niveau-Nivellierung ein wirkliches Topteam in der Schweiz und ärgerten sich über die kleinliche Regelauslegung der Schiedsrichter in der , wie sie sie nannten , NCHL ( Noncontact-Hockey-League ) .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Eishockey-Puristen	Eishockey-Purist	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
 3	vermissten	vermissen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -5428,7 +5428,7 @@ Verb;NZZ_ID;Token_ID;Sentence;Sentence_CoNLL;not_of_interest;non-psych;X-STM_V_Y
 55	zählen	zählen	VERB	VVINF	VerbForm=Inf	40	acl	_	_
 56	durfte	dürfen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	55	aux	_	_
 57	.	.	PUNCT	$.	_	21	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ärgern;NZZ_1999_03_01_a141_seg7_s15;17;Und im nachhinein dürfte ihn auch der verlorene Spurt in der Verfolgung gegen Thomas Alsgaard etwas geärgert haben .;"1	Und	und	CCONJ	KON	_	17	cc	_	_
 2	im	im	ADV	ADV	_	17	advmod	_	_
 3	nachhinein	nachhinein	ADV	ADV	_	17	advmod	_	_

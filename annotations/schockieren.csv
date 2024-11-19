@@ -1254,7 +1254,7 @@ schockieren;NZZ_1993_10_30_a68_seg10_s3;19;Der Gedanke , dass Frauen sich mit de
 21	männliche	männlich	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	22	amod	_	_
 22	Öffentlichkeit	Öffentlichkeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
 23	.	.	PUNCT	$.	_	19	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,metonymic_EXP;Öffentlichkeit;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,metonymic_EXP;Öffentlichkeit;
 schockieren;NZZ_1993_10_30_a74_seg18_s1;3;Die Selbstverständlichkeit schockiert , mit welcher der exzentrische Transvestit « Sparrow 13 » das Recht des Stärkeren in der harten Schwulenszene schildert .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Selbstverständlichkeit	Selbstverständlichkeit	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	schockiert	schockiert	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -1486,7 +1486,7 @@ schockieren;NZZ_1993_12_01_a129_seg5_s1;19;"Die Nachricht von der prophylaktisch
 46	angespannten	angespannt	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	47	amod	_	_
 47	Zeiten	Zeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	36	obl	_	_
 48	.	.	PUNCT	$.	_	17	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,EXP_anim_proxy;;
 schockieren;NZZ_1993_12_04_a165_seg5_s8;45;Wahrlich , das muss ein ganz besonderes Land sein , das sich Magistraten und Medien leisten kann , die über zweitrangige Geschmacksfragen diskutieren , während zahllose Bürgerinnen und Bürger unter unsicheren Strassen und makabren Resozialisierungsübungen leiden und gleichzeitig durch sozio- und multikulturell argumentierende Gerichtsurteile schockiert werden .;"1	Wahrlich	wahrlich	ADV	ADV	_	8	advmod	_	_
 2	,	,	PUNCT	$,	_	1	punct	_	_
 3	das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	_
@@ -1546,7 +1546,7 @@ schockieren;NZZ_1993_12_04_a49_seg3_s1;10;Die Meldung von der Erdbebenkatastroph
 9	1988	1988	NUM	CARD	NumType=Card	8	nmod	_	_
 10	schockierte	schockieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	.	.	PUNCT	$.	_	10	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schockieren;NZZ_1993_12_07_a55_seg5_s11;12;- Von ihrem Augenschein in der Zürcher Drogenszene ist die Departementsvorsteherin schockiert .;"1	-	-	PUNCT	$(	_	12	punct	_	_
 2	Von	von	ADP	APPR	_	4	case	_	_
 3	ihrem	ihr	DET	PPOSAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
@@ -2570,7 +2570,7 @@ schockieren;NZZ_1994_07_19_a73_seg5_s5;25;, Zürich ) kürzlich in einem Intervi
 24	geradezu	geradezu	ADV	ADV	_	25	advmod	_	_
 25	schockiert	schockiert	VERB	VVPP	VerbForm=Part	18	conj	_	_
 26	.	.	PUNCT	$.	_	9	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;fragment,PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;fragment,PCN+C;;
 schockieren;NZZ_1994_07_20_a67_seg5_s5;17;Jean Louis Scherrer wurde vor einem Jahr aus seinem eigenen Salon hinauskomplimentiert , und diesen Sommer schockiert die Mitteilung , dass die auf Mittwoch angekündigte Modeschau von Per Spook nicht stattfinden wird .;"1	Jean	Jean	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	12	nsubj:pass	_	_
 2	Louis	Louis	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
 3	Scherrer	Scherrer	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
@@ -2604,7 +2604,7 @@ schockieren;NZZ_1994_07_20_a67_seg5_s5;17;Jean Louis Scherrer wurde vor einem Ja
 31	stattfinden	stattfinden	VERB	VVPP	VerbForm=Part	19	ccomp	_	_
 32	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	31	aux:pass	_	_
 33	.	.	PUNCT	$.	_	12	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schockieren;NZZ_1994_08_02_a182_seg2_s10;5;Was sie vorfinden , schockiert sie : Monika ist tot .;"1	Was	was	PRON	PWS	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj	_	_
 2	sie	sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	vorfinden	vorfinden	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
@@ -2754,7 +2754,7 @@ schockieren;NZZ_1994_09_03_a50_seg11_s15;22;Die Aussage , es gebe zwischen den I
 21	manche	manch	PRON	PIS	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	22	nsubj	_	_
 22	schockieren	schockieren	VERB	VVINF	VerbForm=Inf	0	root	_	_
 23	.	.	PUNCT	$.	_	22	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schockieren;NZZ_1994_09_07_a124_seg4_s3;34;Nach den Angaben der Rechnungsprüfungskommission würde mit einer höheren Gebühr zwar die Abwasserbewirtschaftung rascher schuldenfrei , doch waren andererseits Private sowie Industrie und Gewerbe durch die massive Erhöhung der Gebühren im Jahr 1992 schockiert worden .;"1	Nach	nach	ADP	APPR	_	3	case	_	_
 2	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	Angaben	Angabe	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	15	nmod	_	_
@@ -5388,7 +5388,7 @@ schockieren;NZZ_1996_04_09_a203_seg9_s3;17;Als Agronom , welcher jahrelang in de
 35	verfüttert	verfüttern	VERB	VVPP	VerbForm=Part	22	ccomp	_	_
 36	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	35	aux:pass	_	_
 37	.	.	PUNCT	$.	_	17	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 schockieren;NZZ_1996_04_13_a82_seg5_s3;15;Auch wenn der Staatschef mit diesem auf fremdem Boden ausgesprochenen Tadel das Pariser Finanzestablishment schockierte , wiederholte er nur , was beispielsweise schon der Vorsitzende der hiesigen Bankiervereinigung ( AFB ) , Michel Freye , zuvor eingestanden hatte : 1995 sei abermals kein gutes Jahr für die französischen Banken gewesen .;"1	Auch	auch	ADV	ADV	_	15	advmod	_	_
 2	wenn	wenn	SCONJ	KOUS	_	15	mark	_	_
 3	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_

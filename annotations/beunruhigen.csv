@@ -27,7 +27,7 @@ beunruhigen;NZZ_1993_01_08_a36_seg12_s2;27;Die Tatsache , dass Syrien immer noch
 26	zu	zu	PART	PTKZU	_	27	mark	_	_
 27	beunruhigen	beunruhigen	VERB	VVINF	VerbForm=Inf	22	xcomp	_	_
 28	.	.	PUNCT	$.	_	22	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1993_01_11_a150_seg5_s1;11;Die Bevölkerung des Südteils der Shetland-Hauptinsel ist erneut aufs äusserste beunruhigt : Waren es bisher die Ölpartikel im Wind , welche Augen und Lungen gereizt hatten , klagen die Inselbewohner jetzt über Kopfschmerzen , Übelkeit und Augenbrennen - Symptome , die angeblich von den bisher verwendeten Detergenzien herrühren .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Bevölkerung	Bevölkerung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
 3	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -1187,7 +1187,7 @@ beunruhigen;NZZ_1993_06_04_a74_seg8_s2;12;In den letzten Tagen hat unter anderem
 26	gelangt	gelangen	VERB	VVPP	VerbForm=Part	12	ccomp	_	_
 27	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
 28	.	.	PUNCT	$.	_	12	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-related_object, collocation;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP-related_object, collocation;;
 beunruhigen;NZZ_1993_06_05_a24_seg8_s7;14;Die jüngsten Erfolge der FPÖ in den traditionellen linken Wählerschichten hat die SPÖ beunruhigt , die ihren nächsten Wahlkampf vor allem gegen Haider richten wird .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	jüngsten	jung	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
 3	Erfolge	Erfolg	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	14	obj	_	_
@@ -1300,7 +1300,7 @@ beunruhigen;NZZ_1993_06_12_a148_seg4_s8;9;In den letzten Wochen hatten Meldungen
 34	zu	zu	PART	PTKZU	_	35	mark	_	_
 35	ersticken	ersticken	VERB	VVINF	VerbForm=Inf	26	advcl	_	_
 36	.	.	PUNCT	$.	_	9	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP_anim_proxy, psych_ambiguous;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP_anim_proxy, psych_ambiguous;;
 beunruhigen;NZZ_1993_06_17_a55_seg2_s7;4;Nicht von ungefähr beunruhigte denn auch zum Beispiel Beth Sharon Ash ( Cincinnati ) einige Gemüter in ihrer methodenkritischen Antwort auf postfreudianische Deutungen bestimmter Werke .;"1	Nicht	nicht	PART	PTKNEG	Polarity=Neg	4	advmod	_	_
 2	von	von	ADP	APPR	_	3	case	_	_
 3	ungefähr	ungefähr	ADV	ADV	_	4	advmod	_	_
@@ -1598,7 +1598,7 @@ beunruhigen;NZZ_1993_08_28_a79_seg20_s29;14;"Es ist eine Frage , die viele junge
 33	vorgezogen	vorziehen	VERB	VVPP	VerbForm=Part	26	conj	_	_
 34	werden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	33	aux:pass	_	_
 35	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1993_08_31_a157_seg7_s5;8;Im übrigen braucht es nicht unbedingt zu beunruhigen , wenn die Investitionen noch keine Trendwende vollzogen haben .;"1	Im	im	DET	ART	Case=Nom|Definite=Def|Number=Sing|PronType=Art	2	det	_	_
 2	übrigen	Übrig	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	3	iobj	_	_
 3	braucht	brauchen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -2396,7 +2396,7 @@ beunruhigen;NZZ_1994_01_03_a150_seg11_s4;27;Auch der Umstand , dass einst zentra
 26	zu	zu	PART	PTKZU	_	27	mark	_	_
 27	beunruhigen	beunruhigen	VERB	VVINF	VerbForm=Inf	24	acl	_	_
 28	.	.	PUNCT	$.	_	24	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1994_01_04_a63_seg6_s1;32;Dass das Referendum , welches gegen den geplanten Beitritt der Schweiz zur Antirassismuskonvention der Uno ergriffen wurde , die an einer Konfliktkultur interessierten Bürger - zweifellos die Mehrzahl der Bevölkerung - beunruhigt , ist selbstverständlich .;"1	Dass	daß	SCONJ	KOUS	_	16	mark	_	_
 2	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	Referendum	Referendum	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	_
@@ -2766,7 +2766,7 @@ beunruhigen;NZZ_1994_02_09_a23_seg8_s8;32;Selbst wenn dies übertrieben ist : Di
 31	zutiefst	zutiefst	ADV	ADV	_	32	advmod	_	_
 32	beunruhigen	beunruhigen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 33	.	.	PUNCT	$.	_	32	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1994_02_16_a2_seg4_s5;20;Diese harschen Worte belegen im Prinzip nur , wie sehr das Ultimatum der Nato an die bosnischen Serben Moskau beunruhigt hat .;"1	Diese	dies	PRON	PDAT	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	det	_	_
 2	harschen	harsch	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Plur	3	amod	_	_
 3	Worte	Wort	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
@@ -3433,7 +3433,7 @@ beunruhigen;NZZ_1994_05_18_a102_seg2_s30;40;"Die beiden Beispiele zeigen , dass 
 71	getan	tun	VERB	VVPP	VerbForm=Part	63	advcl	_	_
 72	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	71	aux	_	_
 73	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1994_05_19_a31_seg3_s3;10;Die Londoner City ist von der gestiegenen Inflationsrate nicht beunruhigt .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	Londoner	Londoner	PROPN	ADJA	_	3	amod	_	_
 3	City	City	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -3473,7 +3473,7 @@ beunruhigen;NZZ_1994_05_27_a40_seg4_s14;2;"Hier beunruhigt weniger die Tatsache 
 25	normale	normal	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	26	amod	_	_
 26	Entwicklung	Entwicklung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	_
 27	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1994_05_27_a41_seg2_s25;2;Anderseits beunruhigen die Zurückhaltung der Industrie bei den Investitionen sowie die gedrückte Baukonjunktur , da die effizientesten Branchen bald mit Engpässen konfrontiert werden könnten .;"1	Anderseits	anderseits	ADV	ADV	_	2	advmod	_	_
 2	beunruhigen	beunruhigen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -4197,7 +4197,7 @@ beunruhigen;NZZ_1994_08_20_a24_seg4_s3;9;Die Frage , was nach Deng geschieht , b
 13	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	Welt	Welt	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	11	conj	_	_
 15	.	.	PUNCT	$.	_	9	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP_coordination;;Welt
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP_coordination;;Welt
 beunruhigen;NZZ_1994_08_24_a80_seg3_s1;14;Für ihren Roman « Le Ring » , dessen rätselhafte Suggestionskraft die Lesenden beunruhigt und fesselt , erhielt die 1955 geborene Elisabeth Horem den diesjährigen Prix Georges-Nicole .;"1	Für	für	ADP	APPR	_	3	case	_	_
 2	ihren	ihr	DET	PPOSAT	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
 3	Roman	Roman	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	_
@@ -4495,7 +4495,7 @@ beunruhigen;NZZ_1994_10_06_a114_seg8_s9;2;Ihn beunruhigt die Möglichkeit , « d
 26	ins	er	PUNCT	$(	_	27	punct	_	_
 27	Wanken	Wanke	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
 28	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1994_10_10_a57_seg3_s8;37;Vorwürfe wurden gegenüber dem Kanton Zug erhoben : Der « Skandal » einer Vermittlung von Raketentechnologie der Zuger Firmen Consen , Desintec und Ifat nach dem Irak im Jahre 1991 scheine die Zuger Behörden nicht zu beunruhigen .;"1	Vorwürfe	Vorwurf	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	7	nsubj:pass	_	_
 2	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
 3	gegenüber	gegenüber	ADP	APPR	_	5	case	_	_
@@ -5247,7 +5247,7 @@ beunruhigen;NZZ_1995_04_28_a2_seg6_s4;41;Ein zentrales Thema war in allen Reden 
 40	Politiker	Politiker	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	41	obj	_	_
 41	beunruhigt	beunruhigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	conj	_	_
 42	.	.	PUNCT	$.	_	10	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1995_08_04_a20_seg4_s2;40;Hohe Beamte des Verteidigungsministeriums bestritten nicht , dass Joseph Wei Chan und Dwayne Howard Florenzie gefasst wurden , als sie daran waren , an der Taiwan gegenüberliegenden Küste abgehaltene Manöver zu beobachten , die offensichtlich die Regierung in Taipeh beunruhigen sollten .;"1	Hohe	hoch	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
 2	Beamte	Beamter	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 3	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
@@ -5425,7 +5425,7 @@ beunruhigen;NZZ_1995_08_19_a43_seg17_s6;2;Ihn beunruhigten die damals schon abse
 11	zu	zu	PART	PTKZU	_	12	mark	_	_
 12	manipulieren	manipulieren	VERB	VVINF	VerbForm=Inf	7	acl	_	_
 13	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beunruhigen;NZZ_1995_08_24_a107_seg5_s4;28;Diese unsicheren Perspektiven haben die ausländischen Investoren , die sich in jüngster Zeit vermehrt wieder den mit höheren Risiken behafteten Währungen wie der Krone zugewandt hatten , beunruhigt und sie zu Verkäufen veranlasst .;"1	Diese	dies	PRON	PDAT	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 2	unsicheren	unsicher	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	_
 3	Perspektiven	Perspektive	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
@@ -5563,7 +5563,7 @@ beunruhigen;NZZ_1995_12_20_a14_seg8_s4;25;Und selbst Burns gab zu , dass der Vor
 24	Clinton	Clinton	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	23	appos	_	_
 25	beunruhigt	beunruhigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
 26	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PCN+C;;
 beunruhigen;NZZ_1995_12_20_a157_seg10_s28;12;, Zürich ) ist ob der politischen Signale in Richtung Uni beunruhigt .;"1	,	,	PUNCT	$,	_	2	punct	_	_
 2	Zürich	Zürich	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
 3	)	)	PUNCT	$(	_	2	punct	_	_

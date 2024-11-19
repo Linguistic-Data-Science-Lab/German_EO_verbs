@@ -73,7 +73,7 @@ beschämen;NZZ_1993_11_16_a117_seg2_s5;19;Zuvor hatte er erklärt , die Vorwürf
 25	Leid	Leid	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	26	obj	_	_
 26	zugefügt	zufügen	VERB	VVPP	VerbForm=Part	21	conj	_	_
 27	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beschämen;NZZ_1993_12_30_a41_seg2_s5;29;Vier Frauen Mitte vierzig , klug , leidenschaftlich , engagiert , tapfer , die in ihren Briefen kein Blatt vor den Mund nehmen und so manchen männlichen Schriftstellerkollegen beschämen .;"1	Vier	vier	NUM	CARD	NumType=Card	2	nummod	_	_
 2	Frauen	Frau	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 3	Mitte	Mitte	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	compound	_	_

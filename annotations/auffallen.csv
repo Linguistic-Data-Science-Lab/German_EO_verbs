@@ -2195,7 +2195,7 @@ auffallen;NZZ_1995_09_28_a9_seg6_s2;3;Was zunächst auffällt , ist der Umstand 
 48	eingehen	eingehen	VERB	VVINF	VerbForm=Inf	22	acl	_	_
 49	dürfen	dürfen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	48	aux	_	_
 50	.	.	PUNCT	$.	_	7	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 auffallen;NZZ_1995_10_04_a14_seg10_s6;21;Sie wohnen meist noch immer abgesondert von Weissen , von den amerikanischen Asiaten und von den sogenannten Hispanics - wobei auffällt , dass sich die Nichtweissen schon jetzt mindestens so stark von den Schwarzen abgesetzt haben wie die Weissen .;"1	Sie	Sie|sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	wohnen	wohnen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	meist	meist	ADV	ADV	_	2	advmod	_	_
@@ -2838,7 +2838,7 @@ auffallen;NZZ_1996_07_19_a24_seg7_s11;5;Was in Jajce besonders auffällt , ist d
 15	repariert	reparieren	VERB	VVPP	VerbForm=Part	9	csubj	_	_
 16	werden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	aux:pass	_	_
 17	.	.	PUNCT	$.	_	9	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-indicating_adjunct, ambiguous;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP-indicating_adjunct, ambiguous;;
 auffallen;NZZ_1996_07_26_a80_seg8_s7;2;Saurer fällt dagegen durch eine insgesamt sehr geringe Währungssensitivität auf .;"1	Saurer	Saurer	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	fällt	fallen|fällen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	dagegen	dagegen	ADV	PAV	_	2	advmod	_	_
@@ -3169,7 +3169,7 @@ auffallen;NZZ_1997_01_25_a211_seg10_s10;3;Was mir auffällt , wenn ich Ihnen zuh
 30	Lautstärke	Lautstärke	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	_
 31	verwirklichen	verwirklichen	VERB	VVFIN	VerbForm=Inf	12	ccomp	_	_
 32	.	.	PUNCT	$.	_	12	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 auffallen;NZZ_1997_02_08_a215_seg19_s1;7;Das erste , was einem Ausländer auffällt , wenn er von einem Bürger Ex-Jugoslawiens erfahren möchte , warum es zum Krieg kam , sind die Unfähigkeit , sich zu artikulieren , und der Gebrauch einer weitgehend emotionalen Sprache .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	erste	erst	NOUN	ADJA	Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
 3	,	,	PUNCT	$,	_	7	punct	_	_

@@ -355,7 +355,7 @@ aufstoßen;NZZ_1993_01_20_a17_seg6_s9;6;Was den Muslimen offenbar besonders aufs
 42	ihr	ihr	PRON	PPER	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	43	iobj	_	_
 43	gehörten	gehören	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	26	conj	_	_
 44	.	.	PUNCT	$.	_	10	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 aufstoßen;NZZ_1993_06_14_a55_seg8_s1;26;Dieser erfolgreiche Verbund von aggressivster Produktewerbung von privater Seite und einem politischen Populismus , der sich in erster Linie einem konsequenten Oppositionskurs verpflichtet fühlt , stiess nicht nur den Politikern sauer auf .;"1	Dieser	dies	PRON	PDAT	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 2	erfolgreiche	erfolgreich	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Verbund	Verbund	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
@@ -516,7 +516,7 @@ aufstoßen;NZZ_1993_05_25_a5_seg8_s3;4;Was ihr besonders aufstösst , ist jener 
 47	Gebieten	Gebiet	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	48	obl	_	_
 48	gehört	gehören	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl	_	_
 49	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 aufstoßen;NZZ_1993_04_30_a15_seg6_s1;25;Leicht abschätzige Töne schlägt von den grossen Zeitungen des Landes die « Repubblica » an , welcher das Weiterleben der « Nomenklatura » sauer aufstösst , auch wenn es sich nur noch um einzelne Elemente derselben handelt .;"1	Leicht	leicht	ADJ	ADJD	_	2	advmod	_	_
 2	abschätzige	abschätzig	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
 3	Töne	Ton	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -991,7 +991,7 @@ aufstoßen;NZZ_1994_12_08_a29_seg13_s1;27;Dass die Kommission als Hauptziel der 
 48	Steuerlasten	Steuerlasten	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	46	nmod	_	_
 49	auffassen	auffassen	VERB	VVFIN	VerbForm=Inf	27	ccomp	_	_
 50	.	.	PUNCT	$.	_	27	punct	_	_
-";;;x;;;;;;;;;;;;;;;clash of coordinations;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;clash of coordinations;;;;PCN+C;;
 aufstoßen;NZZ_1994_12_30_a66_seg4_s20;15;Dass in den Neuauflagen gleichzeitig von den PTT akquirierte Werbung positioniert werden soll , stiess insbesondere dem Verband der Zeitungs- und Zeitschriftenverleger sauer auf , da diese Konkurrenzierung des Anzeigengeschäftes mit der geplanten Erhöhung der Zeitungstransporttaxen einhergehen wird .;"1	Dass	daß	SCONJ	KOUS	_	11	mark	_	_
 2	in	in	ADP	APPR	_	4	case	_	_
 3	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -1249,7 +1249,7 @@ aufstoßen;NZZ_1994_06_16_a174_seg8_s7;2;Inseln stossen auf , zartgrün bewachse
 19	zähem	zähem	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	20	amod	_	_
 20	Gras	Gras	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	17	nmod	_	_
 21	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 aufstoßen;NZZ_1994_06_25_a213_seg3_s6;15;« Die Frauen Hollywoods » , die Lord Russell und seinem Gremium so sauer aufgestossen sind , hat die Londoner Gesellschaft Carlton in das Gemeinschaftsprogramm der ITV eingebracht .;"1	«	""	PUNCT	$(	_	3	punct	_	_
 2	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	Frauen	Frau	PROPN	NN	Case=Nom|Gender=Fem|Number=Plur	28	nsubj	_	_
@@ -2204,7 +2204,7 @@ aufstoßen;NZZ_1995_10_02_a24_seg8_s2;34;« Wir können die Landwirtschaft nicht
 35	sein	sein	AUX	VAINF	VerbForm=Inf	34	aux:pass	_	_
 36	dürfte	dürfen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	aux	_	_
 37	.	.	PUNCT	$.	_	13	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1995_10_07_a160_seg6_s11;4;Sämtlichen vier WM-Professionals stösst zudem der Umstand auf , dass in den Reihen des SRB hinsichtlich der Titelkämpfe keine Persönlichkeit als Motivator wirkt und « ein anständiges Team » zusammenbringt .;"1	Sämtlichen	sämtlich	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
 2	vier	vier	NUM	CARD	NumType=Card	3	nummod	_	_
 3	WM-Professionals	WM-Professional	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -2236,7 +2236,7 @@ aufstoßen;NZZ_1995_10_07_a160_seg6_s11;4;Sämtlichen vier WM-Professionals stö
 29	»	""	PUNCT	$(	_	28	punct	_	_
 30	zusammenbringt	zusammenbringen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
 31	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 aufstoßen;NZZ_1995_10_16_a119_seg8_s11;7;Scholls Kritik ist dem Trainer sauer aufgestossen , inzwischen zwar ausdiskutiert , aber im Ansatz offenbar trotzdem berechtigt .;"1	Scholls	Scholl	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	Kritik	Kritik	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
@@ -3401,7 +3401,7 @@ aufstoßen;NZZ_1996_09_21_a31_seg3_s1;24;crz. Der jüngste Vorschlag des Bundesr
 23	sauer	sauer	ADJ	ADJD	_	24	advmod	_	_
 24	aufgestossen	aufstießen	ADJ	VVPP	VerbForm=Part	0	root	_	_
 25	.	.	PUNCT	$.	_	24	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1996_09_27_a134_seg3_s24;18;Kandinsky ist die Führungskraft , der über seine Theorien an der Gruppe vorbei das Tor zur Abstraktion aufstösst .;"1	Kandinsky	Kandinsky	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -3602,7 +3602,7 @@ aufstoßen;NZZ_1997_01_18_a25_seg3_s9;13;Insbesondere die Tatsache , dass er ohn
 15	sauer	sauer	ADJ	ADJD	_	13	advmod	_	_
 16	auf	auf	ADP	PTKVZ	_	13	compound:prt	_	_
 17	.	.	PUNCT	$.	_	13	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1997_01_29_a181_seg7_s2;16;Dass man sich für die Olympischen Spiele in Nagano nur in FIS-Rennen qualifizieren kann , stösst so manchem ISF-Fahrer sauer auf .;"1	Dass	daß	SCONJ	KOUS	_	13	mark	_	_
 2	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	13	nsubj	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obj	_	_
@@ -3723,7 +3723,7 @@ aufstoßen;NZZ_1997_06_21_a75_seg2_s3;8;Der Basler Chemie und dem Nahrungsmittel
 39	und	und	CCONJ	KON	_	40	cc	_	_
 40	Genmanipulation	Genmanipulation	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	36	conj	_	_
 41	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_coordination, EXP_anim_proxy, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_coordination, EXP_anim_proxy, PCN+C;;
 aufstoßen;NZZ_1997_06_28_a28_seg10_s5;2;Lyrik stösst die Tür zu einer wesentlichen Kammer des Menschen Rainer Prachtl auf , der schon früh zu dichten begann , aber in der DDR weitgehend für die Schublade schrieb .;"1	Lyrik	Lyrik	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	stösst	stössen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -3774,7 +3774,7 @@ aufstoßen;NZZ_1997_05_10_a29_seg6_s6;5;Wie ein unverdauter Brocken stossen in d
 16	Mission	Mission	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
 17	auf	auf	ADP	PTKVZ	_	5	compound:prt	_	_
 18	.	.	PUNCT	$.	_	5	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 aufstoßen;NZZ_1997_05_13_a173_seg3_s4;7;"Dies hingegen würde wohl diesen Damen aufstossen ; sie wollen ja nicht fremdenfeindlich sein ...";"1	Dies	dies	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	_
 2	hingegen	hingegen	ADV	ADV	_	7	advmod	_	_
 3	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
@@ -4005,7 +4005,7 @@ aufstoßen;NZZ_1997_11_13_a12_seg6_s9;27;Auch die Tatsache , dass er offenbar in
 35	Gruppen	Gruppe	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	32	nmod	_	_
 36	geführt	führen	VERB	VVPP	VerbForm=Part	27	conj	_	_
 37	.	.	PUNCT	$.	_	27	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1997_11_14_a182_seg2_s6;8;Vielen würde die Limitierung des Angebots erst aufstossen , wenn es tatsächlich so weit wäre - wer macht sich schon jedesmal Gedanken darüber , ob er ein Buch in Händen hält , welches zu publizieren sich nach Aufhebung der Preisbindung nicht mehr lohnte ?;"1	Vielen	viel	PRON	PIS	Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	8	obj	_	_
 2	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -4079,7 +4079,7 @@ aufstoßen;NZZ_1997_11_20_a74_seg6_s3;3;Besonders sauer aufgestossen ist den Vet
 26	worden	werden	AUX	VAPP	VerbForm=Part|Voice=Pass	25	aux:pass	_	_
 27	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	_
 28	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1997_10_14_a87_seg8_s2;21;« Zürich » würde mit den britischen BAT-Töchtern Eagle Star und Allied Dunbar die Türe zum attraktiven Leben-Geschäft in Grossbritannien aufstossen und könnte das Standbein im amerikanischen Versicherungsmarkt mit dem Nichtleben-Geschäft der amerikanischen Tochter Farmers verstärken .;"1	«	""	PUNCT	$(	_	2	punct	_	_
 2	Zürich	Zürich	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
 3	»	""	PUNCT	$(	_	2	punct	_	_
@@ -4226,7 +4226,7 @@ aufstoßen;NZZ_1997_09_20_a212_seg8_s6;4;Wildhaber und Co. stösst vor allem der
 25	dotiert	dotieren	ADJ	VVPP	VerbForm=Part	4	ccomp	_	_
 26	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
 27	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A, EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C, EXP_anim_proxy;;
 aufstoßen;NZZ_1998_04_02_a97_seg3_s6;4;Dem aussenstehenden Beobachter stösst unweigerlich die Vermutung auf , dass es wohl nie zu einer « Dorsaz-Affäre » gekommen wäre , wenn bei der damaligen Walliser Kantonalbank - sie ist bereits 1993 grundlegend neu gestaltet worden - nicht eine heillose Schluderei und Schlamperei bestanden hätte .;"1	Dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	aussenstehenden	aussenstehend	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	3	amod	_	_
 3	Beobachter	Beobachter	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	_
@@ -4273,7 +4273,7 @@ aufstoßen;NZZ_1998_04_02_a97_seg3_s6;4;Dem aussenstehenden Beobachter stösst u
 44	bestanden	bestehen	VERB	VVPP	VerbForm=Part	35	conj	_	_
 45	hätte	haben	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	44	aux	_	_
 46	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;polysemous, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;polysemous, PCN+C;;
 aufstoßen;NZZ_1998_04_11_a3_seg3_s13;15;Im Tod - so die Gewissheit - wird eine Tür in eine neue Lebensdimension aufgestossen .;"1	Im	Im	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	15	nsubj:pass	_	_
 2	Tod	Tod	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	compound	_	_
 3	-	-	PUNCT	$(	_	6	punct	_	_
@@ -4624,7 +4624,7 @@ aufstoßen;NZZ_1998_02_10_a215_seg6_s2;2;Unwillkürlich stösst uns der oft von 
 38	bespiegeln	bespiegeln	VERB	VVFIN	VerbForm=Inf	31	acl	_	_
 39	.	.	PUNCT	$.	_	31	punct	_	_
 40	»	""	PUNCT	$(	_	31	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 aufstoßen;NZZ_1998_02_16_a80_seg5_s1;7;Weiten Teilen unserer Bevölkerung ist sauer aufgestossen , dass es geschickten Spekulanten gelungen ist , in kurzer Zeit erstaunliche Gewinne anzuhäufen und hierfür keine Steuern zu bezahlen .;"1	Weiten	weit	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	2	amod	_	_
 2	Teilen	Teil|Teilen	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	_
 3	unserer	unser	DET	PPOSAT	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	4	det:poss	_	_
@@ -5104,7 +5104,7 @@ aufstoßen;NZZ_1998_11_09_a157_seg3_s8;4;Schon lange nämlich stösst der Umstan
 23	festlegen	festlegen	VERB	VVINF	VerbForm=Inf	4	ccomp	_	_
 24	können	können	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 25	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1998_11_14_a189_seg3_s2;3;Einigen Delegierten stiessen die neuen Konten Planungen und Studien im Gesamtbetrag von 100 000 Franken sauer auf , was Werner Brühlmann , Stadtrat in Opfikon , zur Bemerkung veranlasste , dass die ZPG mangels aktueller Aufgaben auf Arbeitssuche gehe - mit Planungen .;"1	Einigen	einige	PRON	PIAT	Case=Dat|Definite=Ind|Number=Plur|PronType=Ind	2	det	_	_
 2	Delegierten	Delegierte	NOUN	NN	Case=Dat|Number=Plur	3	iobj	_	_
 3	stiessen	stossen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -5619,7 +5619,7 @@ aufstoßen;NZZ_1999_01_12_a194_seg8_s5;17;Um nur einen Vergleich hervorzuheben ,
 42	für	für	ADP	APPR	_	43	case	_	_
 43	Frauenfragen	Frauenfragen	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	41	nmod	_	_
 44	!	!	PUNCT	$.	_	38	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1999_07_01_a215_seg3_s12;4;Nicht solche Einzelfälle stiessen den kanadischen Verantwortlichen sauer auf , sondern der Exodus aus Osteuropa .;"1	Nicht	nicht	PART	PTKNEG	Polarity=Neg	2	advmod	_	_
 2	solche	solch	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	3	det	_	_
 3	Einzelfälle	Einzelfall	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
@@ -5797,7 +5797,7 @@ aufstoßen;NZZ_1999_07_30_a26_seg28_s8;3;Noch etwas stösst den Kritikern des CS
 30	verlegt	verlegen	VERB	VVPP	VerbForm=Part	13	ccomp	_	_
 31	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	30	aux:pass	_	_
 32	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 aufstoßen;NZZ_1999_06_01_a193_seg3_s12;7;Der Wermutstropfen , der ihm bitter aufstösst , ist die Absage von Interlaken .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Wermutstropfen	Wermutstropfen	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 3	,	,	PUNCT	$,	_	7	punct	_	_
@@ -5921,7 +5921,7 @@ aufstoßen;NZZ_1999_05_07_a199_seg3_s16;20;Noch eine - von den Zuschauern kaum b
 41	Eis	Eis	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	42	obj	_	_
 42	setzen	setzen	VERB	VVINF	VerbForm=Inf	20	parataxis	_	_
 43	.	.	PUNCT	$.	_	20	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1999_05_22_a79_seg3_s5;8;Das vorsorgliche Plädoyer des Aussenministers für Gerechtigkeit stiess der japanischen Aufsichtsbehörde allerdings sauer auf .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 2	vorsorgliche	vorsorglich	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
 3	Plädoyer	Plädoyer	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
@@ -5971,7 +5971,7 @@ aufstoßen;NZZ_1999_03_30_a191_seg3_s18;7;Den Zuschauern war die Tatsache sauer 
 31	Salvador	Salvador	PROPN	NE	Case=Acc|Gender=Neut|Number=Sing	29	appos	_	_
 32	drohte	drohen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	ccomp	_	_
 33	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, PCN+C;;
 aufstoßen;NZZ_1999_03_30_a205_seg2_s4;3;Und schliesslich stösst uns unangenehm auf , dass offenbar nur noch das « jüngere , urban geprägte Publikum » den Weg ins Museum Bellerive finden soll .;"1	Und	und	CCONJ	KON	_	3	cc	_	_
 2	schliesslich	schliesslich	ADJ	ADJD	_	3	advmod	_	_
 3	stösst	stössen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

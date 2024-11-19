@@ -1544,7 +1544,7 @@ entmutigen;NZZ_1995_03_31_a25_seg6_s12;30;"Ansonsten jedoch machen die zerstritt
 32	zu	zu	PART	PTKZU	_	33	mark	_	_
 33	lähmen	lähmen	VERB	VVINF	VerbForm=Inf	30	conj	_	_
 34	.	.	PUNCT	$.	_	3	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 entmutigen;NZZ_1995_03_31_a69_seg6_s2;17;Frühere Fehlschläge wie das Alkoholverbot ( Prohibition ) der Zwischenkriegszeit und die heutige Kriminalisierung von Rauschgiften entmutigen die Befürworter des Rauchverbots nicht .;"1	Frühere	früh	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
 2	Fehlschläge	Fehlschlag	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
 3	wie	wie	ADP	KOKOM	_	5	case	_	_

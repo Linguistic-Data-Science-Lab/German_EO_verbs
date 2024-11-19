@@ -660,7 +660,7 @@ peinigen;NZZ_1994_08_31_a16_seg8_s6;20;Hier fällt die Legitimation der Niederwe
 42	okkupiert	okkupieren	VERB	VVPP	VerbForm=Part	19	ccomp	_	_
 43	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	42	aux:pass	_	_
 44	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;;;x;;;;;;;;;;;;;durch;;;metonymic_EXP;Inanim durch-PP, PA+A in durch-PP;
+";;;;;;x;;;;;;;;;;;;;durch;;;metonymic_EXP;Inanim durch-PP, PCN+C in durch-PP;
 peinigen;NZZ_1995_04_10_a1_seg6_s9;13;Sie zeigen sich , wo ihre alte Baracke stand und wo sie gepeinigt wurden , und ihre langsamen Bewegungen zeugen nicht nur vom fortgeschrittenen Alter , sondern auch von Unsicherheit angesichts der wachgerufenen Erinnerungen .;"1	Sie	Sie|sie	PRON	PPER	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	zeigen	zeigen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
@@ -1084,7 +1084,7 @@ peinigen;NZZ_1995_10_31_a106_seg3_s5;2;Unablässig peinigt die Macher der Gedank
 31	aufnehmen	aufnehmen	VERB	VVINF	VerbForm=Inf	32	xcomp	_	_
 32	lässt	lassen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl	_	_
 33	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 peinigen;NZZ_1995_10_14_a167_seg3_s13;26;Gleichgültig bleiben uns ungeplante Schwangerschaft , astronautischer Grundkurs für den Kleinsten - überhaupt alle diese Menschen , die ob der Unglückszahl Dreizehn schon dunkle Vorahnungen peinigen , später gemartert vor dem Fernseher sitzen , die Salatschüssel fallen lassen , weinen und sich wieder fassen , die Astronauten verabschieden und endlich wieder begrüssen .;"1	Gleichgültig	gleichgültig	ADJ	ADJD	_	2	advmod	_	_
 2	bleiben	bleiben	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_

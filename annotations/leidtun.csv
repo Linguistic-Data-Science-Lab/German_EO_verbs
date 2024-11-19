@@ -3401,7 +3401,7 @@ leidtun;NZZ_1998_01_03_a154_seg3_s16;35;"Vom Filmemacher wohl danach gefragt , g
 46	deutlich	deutlich	ADV	ADJD	_	47	advmod	_	_
 47	grösser	groß	ADJ	ADJD	_	43	xcomp	_	_
 48	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;clearly_non_agentive;;
+";;;x;;;;;;;;;;;;;;;anim;;;;clearly_non-agentive;;
 leidtun;NZZ_1998_01_19_a93_seg10_s5;2;Das tut mir leid für den Dirigenten .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	tut	tun	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	_
@@ -4187,7 +4187,7 @@ leidtun;NZZ_1998_10_22_a150_seg5_s1;41;In den 26-Zeilen-Satz packt Jerry , polit
 40	leid	leid	ADV	ADV	_	41	advmod	_	_
 41	tut	tun	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	acl	_	_
 42	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;wegen;;;clearly_non_agentive;Transitive: „sich“ is clearly an anaphor here;
+";;;x;;;;;;;;;;;;;;;anim;wegen;;;clearly_non-agentive;Transitive: „sich“ is clearly an anaphor here;
 leidtun;NZZ_1998_09_05_a6_seg2_s3;3;« Es tut mir leid » , sagte Clinton bei einem Phototermin während seines Besuchs in Dublin .;"1	«	""	PUNCT	$(	_	3	punct	_	_
 2	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	tut	tun	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
@@ -5116,7 +5116,7 @@ leidtun;NZZ_1999_09_11_a34_seg7_s4;9;Doch Rolf wollte Bauer werden , die Tiere t
 17	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
 18	Fleisch	Fleisch	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
 19	.	.	PUNCT	$.	_	5	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;clearly_non_agentive;;
+";;;x;;;;;;;;;;;;;;;anim;;;;clearly_non-agentive;;
 leidtun;NZZ_1999_09_16_a3_seg3_s2;4;« Die Gewalttaten tun mir leid » , schreibt Pinochet in einem Brief an den chilenischen Senatspräsidenten Andres Zaldivar .;"1	«	""	PUNCT	$(	_	2	punct	_	_
 2	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	Gewalttaten	Gewalttat	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_

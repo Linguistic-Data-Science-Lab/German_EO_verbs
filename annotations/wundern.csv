@@ -2847,7 +2847,7 @@ wundern;NZZ_1995_10_19_a149_seg3_s3;47;Die Tatsache , dass ich nun also schon in
 67	eigentlich	eigentlich	ADV	ADV	_	65	advmod	_	_
 68	schon	schon	ADV	ADV	_	65	advmod	_	_
 69	.	.	PUNCT	$.	_	47	punct	_	_
-";;;X;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;X;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 wundern;NZZ_1995_10_25_a115_seg6_s30;2;Vielmehr wundern sich die neuen Studierenden über die zum Bersten gefüllten Vorlesungssäle .;"1	Vielmehr	vielmehr	ADV	ADV	_	2	advmod	_	_
 2	wundern	wundern	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_

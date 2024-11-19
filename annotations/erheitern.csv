@@ -1078,7 +1078,7 @@ erheitern;NZZ_1997_08_02_a194_seg3_s24;10;Die Vorstellung , selber Dichter werde
 58	Regenvorhang	Regenvorhang	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	59	nsubj	_	_
 59	fällt	fallen|fällen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	51	advcl	_	_
 60	.	.	PUNCT	$.	_	10	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 erheitern;NZZ_1997_02_25_a159_seg4_s3;13;Abgebucht unter den Skurrilitäten , mit denen uns die rührige Werbeindustrie zu erheitern versucht , entlockt uns der Anblick höchstens ein amüsiertes Lächeln .;"1	Abgebucht	abbuchen	VERB	VVPP	VerbForm=Part	16	acl	_	_
 2	unter	unter	ADP	APPR	_	4	case	_	_
 3	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -1659,7 +1659,7 @@ erheitern;NZZ_1999_01_21_a184_seg5_s2;14;Die Antwort « Das isch dä Fuessballer
 19	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	Schweiz	Schweiz	PROPN	NE	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
 21	.	.	PUNCT	$.	_	14	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 erheitern;NZZ_1999_01_23_a216_seg3_s3;20;Die Tennis- « Britannia » droht zu sinken , spöttelt einer , was die im englischen Presse-Korps gar nicht erheiterte .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Tennis-	Tennis-	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 3	«	""	PUNCT	$(	_	4	punct	_	_
@@ -1966,7 +1966,7 @@ erheitern;NZZ_1999_11_17_a179_seg3_s2;4;Die Meldung kann erheitern oder auch ers
 38	positiv	positiv	ADJ	ADJD	_	39	advmod	_	_
 39	getestet	testen	VERB	VVPP	VerbForm=Part	4	conj	_	_
 40	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 erheitern;NZZ_1999_09_27_a90_seg4_s6;12;Sosehr die geschilderten Fälle das Publikum an besagter Veranstaltung auch zu erheitern vermochten , so deutlich zeigten diese auf , wie einfach die Gier des breiten Anlegerpublikums zu wecken ist .;"1	Sosehr	sosehr	SCONJ	KOUS	_	13	mark	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 3	geschilderten	geschildert	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	4	amod	_	_

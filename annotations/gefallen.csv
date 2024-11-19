@@ -415,7 +415,7 @@ gefallen;NZZ_1993_01_25_a15_seg8_s2;25;Laut den Informationen des türkischen Me
 24	Opfer	Opfer	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	21	conj	_	_
 25	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 26	.	.	PUNCT	$.	_	25	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_01_26_a37_seg2_s26;13;Ihnen sei , berichtete Löwenthal , « das Herz in die Hosen gefallen » , als sie zur Kenntnis nehmen mussten , dass unter sozialdemokratischen , liberalen und republikanischen Fassaden krasseste Autoritätshörigkeit zum Vorschein kam .;"1	Ihnen	Sie|sie	PRON	PPER	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
 2	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 3	,	,	PUNCT	$,	_	2	punct	_	_
@@ -452,7 +452,7 @@ gefallen;NZZ_1993_01_26_a37_seg2_s26;13;Ihnen sei , berichtete Löwenthal , « d
 34	Vorschein	Vorschein	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	35	obl	_	_
 35	kam	kommen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	ccomp	_	_
 36	.	.	PUNCT	$.	_	4	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_01_28_a230_seg2_s12;6;Die im Barrique ausgebauten Rotweine gefielen allesamt dank ihrer Dichte , dank viel Extrakt und Stoff , was vor allem für die Zukunft ein Versprechen ist .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 2	im	im	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	Barrique	Barrique	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
@@ -762,7 +762,7 @@ gefallen;NZZ_1993_02_06_a160_seg4_s70;8;Dann sind wir kopfüber in die Freiheit 
 8	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 9	.	.	PUNCT	$.	_	8	punct	_	_
 10	»	""	PUNCT	$(	_	8	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_02_08_a192_seg3_s3;23;Mitglieder des Wiener Theaters in der Josefstadt rezitieren Chansons und Satiren aus dem « Vorhof der Hölle » : Vor fünfzig Jahren gefiel es der NS-Herrschaft , im böhmischen Provinznest Theresienstadt ein Sonderkonzentrationslager einzurichten .;"1	Mitglieder	Mitglied	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	_
 2	des	der	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 3	Wiener	Wiener	PROPN	ADJA	_	4	amod	_	_
@@ -1097,7 +1097,7 @@ gefallen;NZZ_1993_02_20_a79_seg7_s8;2;Besonders gefällt aber die Bemühung , ke
 17	zu	zu	PART	PTKZU	_	18	mark	_	_
 18	berücksichtigen	berücksichtigen	VERB	VVINF	VerbForm=Inf	10	conj	_	_
 19	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 gefallen;NZZ_1993_02_23_a39_seg2_s28;13;Bei allen kleineren Mängeln dürfte dieses Bändchen den Liebhabern der gehobenen Unterhaltung gefallen .;"1	Bei	bei	ADP	APPR	_	4	case	_	_
 2	allen	alle	PRON	PIAT	Case=Dat|Definite=Ind|Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
 3	kleineren	klein	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Plur	4	amod	_	_
@@ -1174,7 +1174,7 @@ gefallen;NZZ_1993_02_26_a269_seg3_s2;11;In Winterthur ist ein erster Vorentschei
 10	1994	1994	NUM	CARD	NumType=Card	9	nmod	_	_
 11	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 12	.	.	PUNCT	$.	_	11	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_02_26_a38_seg2_s7;8;Er musste sich im Nationalrat den Vorwurf gefallen lassen , es sei seine Haltung auch insofern nicht gerade taktvoll , als er 1956 als Ungarnflüchtling Aufnahme in unserem Land gefunden habe .;"1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 2	musste	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	iobj	_	_
@@ -1292,7 +1292,7 @@ gefallen;NZZ_1993_03_02_a123_seg1_s2;47;Bei einem Überfall auf einen Tresorraum
 46	Hände	Hand	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	47	obl	_	_
 47	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 48	.	.	PUNCT	$.	_	47	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_03_02_a41_seg8_s4;5;"Von den drei Triebwerken gefiel uns hinsichtlich Laufkultur der 1800er eindeutig am besten ; er fällt gegenüber den beiden stärkeren Ausführungen , insbesondere dem zweiventiligen 2-Liter , auch im Leistungsverhalten nicht wesentlich ab , wenngleich etwas öfter zum Schalthebel gegriffen werden muss ( ein Automat ist für alle Versionen lieferbar ) .";"1	Von	von	ADP	APPR	_	4	case	_	_
 2	den	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 3	drei	drei	NUM	CARD	NumType=Card	4	nummod	_	_
@@ -2129,7 +2129,7 @@ gefallen;NZZ_1993_04_20_a136_seg3_s2;28;( Reuter ) Das Defizit in der Leistungsb
 27	$	$	NOUN	NN	_	28	obj	_	_
 28	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 29	.	.	PUNCT	$.	_	28	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_04_21_a156_seg4_s7;12;Die Kommission musste sich von verschiedenen Parlamentariern den Vorwurf der Inkonsequenz gefallen lassen , etwa bei der Legalisierung von massiven Zuschüssen an Air France , Sabena und Iberian Airlines .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Kommission	Kommission	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
 3	musste	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
@@ -2852,7 +2852,7 @@ gefallen;NZZ_1993_05_14_a49_seg2_s49;10;"Die Entscheidung war im Mai 1933 für f
 43	lange	lang	ADJ	ADJA	Case=Acc|Gender=Neut|Number=Plur	44	amod	_	_
 44	Jahre	Jahr	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	39	nmod	_	_
 45	.	.	PUNCT	$.	_	10	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_05_18_a115_seg10_s14;18;Ihre Chancen , im folgenden Monat eine neue Stelle antreten zu können , sind mittlerweile unter diejenigen gefallen , die während der Hochkonjunktur für Langzeitarbeitslose ( Erwerbslose mit mehr als einem Jahr erfolgloser Stellensuche ) galten , und liegen inzwischen mit letzteren praktisch gleichauf , wobei sich diese im Vergleich zur Hochkonjunktur ebenfalls verschlechtert haben .;"1	Ihre	Ihr|ihr	DET	PPOSAT	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	_
 2	Chancen	Chance	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	18	nsubj	_	_
 3	,	,	PUNCT	$,	_	10	punct	_	_
@@ -2909,7 +2909,7 @@ gefallen;NZZ_1993_05_18_a115_seg10_s14;18;Ihre Chancen , im folgenden Monat eine
 54	verschlechtert	verschlechtern	VERB	VVPP	VerbForm=Part	39	advcl	_	_
 55	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	54	aux	_	_
 56	.	.	PUNCT	$.	_	18	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_05_21_a126_seg2_s9;39;"Nach fünf Minuten bereits hatte Dino Baggio , nach einem gerissenem Absatzkick Viallis , das 1 : 0 erzielt ; und damit war - mit Blick auf das Ergebnis in der ersten Begegnung - die Entscheidung natürlich bereits gefallen .";"1	Nach	nach	ADP	APPR	_	3	case	_	_
 2	fünf	fünf	NUM	CARD	NumType=Card	3	nummod	_	_
 3	Minuten	Minute	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	_
@@ -2950,7 +2950,7 @@ gefallen;NZZ_1993_05_21_a126_seg2_s9;39;"Nach fünf Minuten bereits hatte Dino B
 38	bereits	bereits	ADV	ADV	_	39	advmod	_	_
 39	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	5	conj	_	_
 40	.	.	PUNCT	$.	_	5	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_05_22_a22_seg6_s12;9;Der einzige Vorwurf , den sich die Regierung gefallen lassen muss , ist das Übermass an Versprechungen zu Beginn ihrer Amtszeit .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	einzige	einzig	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Vorwurf	Vorwurf	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
@@ -3173,7 +3173,7 @@ gefallen;NZZ_1993_05_27_a135_seg5_s15;30;"Es entsteht der Eindruck , dass sich d
 29	nicht	nicht	PART	PTKNEG	Polarity=Neg	30	advmod	_	_
 30	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	26	xcomp	_	_
 31	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_05_27_a38_seg9_s10;25;Czechowski tröstet sich mit dem Blick auf Karl Kraus : « Auch er / War ein Nörgler , / Dem die Welt / Nicht gefiel . »;"1	Czechowski	Czechowski	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	tröstet	trösten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
@@ -3559,7 +3559,7 @@ gefallen;NZZ_1993_06_17_a44_seg42_s1;6;Dem Management in den Rücken gefallen;"1
 4	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Rücken	Rücken	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
 6	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_06_17_a53_seg7_s1;20;In vielerlei Gestalt begegneten Selbstbescheidung und Selbstbeschränkung der Vernunft , ohne sich in der Pose bloss gespielter Demut zu gefallen oder die Vernunft in toto zu verabschieden .;"1	In	in	ADP	APPR	_	3	case	_	_
 2	vielerlei	vielerlei	PRON	PIAT	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
 3	Gestalt	Gestalt	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	_
@@ -4415,7 +4415,7 @@ gefallen;NZZ_1993_07_16_a74_seg4_s11;14;Der Anteil war von 6,3 Prozent im Jahr 1
 13	1991	1991	NUM	CARD	NumType=Card	12	nmod	_	_
 14	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 15	.	.	PUNCT	$.	_	14	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_07_17_a130_seg5_s11;2;Abendmodelle gefallen sich als ganz schmale , schlichte Etuikleider mit langen Ärmeln oder plustern sich zu voluminösen , reich bestickten Walzerroben auf .;"1	Abendmodelle	Abendmodelle	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
 2	gefallen	fallen|gefallen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	4	nsubj	_	_
@@ -4578,7 +4578,7 @@ gefallen;NZZ_1993_07_22_a18_seg2_s2;21;( ap ) Dem Untergrundkrieg Moskauer Verbr
 20	Opfer	Opfer	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	11	conj	_	_
 21	gefallen	fallen|gefallen	VERB	VVPP	VerbForm=Part	0	root	_	_
 22	.	.	PUNCT	$.	_	21	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_07_28_a11_seg6_s3;27;Auf der viertägigen konstituierenden Versammlung kamen mehrere hundert Delegierte zu Wort , und die allerwenigsten befleissigten sich jener Sprache , mit der man den Oberen zu gefallen wünscht .;"1	Auf	auf	ADP	APPR	_	5	case	_	_
 2	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 3	viertägigen	viertägig	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	5	amod	_	_
@@ -5132,7 +5132,7 @@ gefallen;NZZ_1993_08_10_a130_seg5_s7;59;Die einen hätten durch ihr zögerndes V
 65	Administration	Administration	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	63	nmod	_	_
 66	untergraben	untergreben	VERB	VVPP	VerbForm=Part	59	conj	_	_
 67	.	.	PUNCT	$.	_	10	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_08_13_a92_seg2_s6;8;Das aber wollten sich diese nicht länger gefallen lassen , zumal sie sich in gewissen Bereichen immer weniger mit der Verbandsführung einverstanden erklären konnten .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
 2	aber	aber	ADV	ADV	_	9	advmod	_	_
 3	wollten	wollen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
@@ -5531,7 +5531,7 @@ gefallen;NZZ_1993_08_26_a27_seg5_s12;30;Auch der inzwischen allseits bewilligte 
 53	Franken	Franke	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	48	nmod	_	_
 54	beizusteuern	beizusteuern	VERB	VVIZU	VerbForm=Inf	39	xcomp	_	_
 55	.	.	PUNCT	$.	_	24	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_08_27_a62_seg8_s1;8;Viel Kritik muss sich auch die Finanzverwaltung gefallen lassen .;"1	Viel	viel	PRON	PIAT	Definite=Ind|PronType=Ind	2	det	_	_
 2	Kritik	Kritik	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
 3	muss	müssen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
@@ -6137,7 +6137,7 @@ gefallen;NZZ_1993_12_18_a6_seg8_s7;12;Mit der Wirtschafts- und Währungsunion im
 32	zu	zu	PART	PTKZU	_	33	mark	_	_
 33	mildern	mildern	VERB	VVINF	VerbForm=Inf	11	acl	_	_
 34	.	.	PUNCT	$.	_	12	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;fallen;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;fallen;
 gefallen;NZZ_1993_12_18_a60_seg3_s9;13;Vermutlich würde es der spielfreudigen Familie Hurter in Basel auch heute noch gefallen .;"1	Vermutlich	vermutlich	ADJ	ADV	_	13	advmod	_	_
 2	würde	werden	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_

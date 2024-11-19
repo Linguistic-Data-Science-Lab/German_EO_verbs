@@ -193,7 +193,7 @@ provozieren;NZZ_1993_12_04_a69_seg4_s2;20;Insbesondere die These , dass « diese
 45	Lebensformen	Lebensformen	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	46	obl	_	_
 46	gerechtfertigt	rechtfertigen	VERB	VVPP	VerbForm=Part	20	conj	_	_
 47	.	.	PUNCT	$.	_	20	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;resultative_object,PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;resultative_object,PCN+C;;
 provozieren;NZZ_1993_12_29_a108_seg5_s1;39;Dass allerdings die tatsächliche Entwicklung des BIP im zu Ende gehenden Jahr mit einem Rückgang um 0,8% die Erwartungen selbst der pessimistischsten Experten ( -0,5% ) enttäuscht hat , mag bange Fragen auch zur Zuverlässigkeit der diesjährigen Prognoserunde provozieren .;"1	Dass	daß	SCONJ	KOUS	_	27	mark	_	_
 2	allerdings	allerdings	ADV	ADV	_	27	advmod	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -1648,7 +1648,7 @@ provozieren;NZZ_1995_08_19_a92_seg6_s3;67;Er stellte damit die These auf , dass 
 76	haben	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	75	aux	_	_
 77	»	""	PUNCT	$(	_	71	punct	_	_
 78	.	.	PUNCT	$.	_	2	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;PA+A, resultative_object;;
+";;x;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, resultative_object;;
 provozieren;NZZ_1995_12_09_a45_seg13_s7;41;Er sieht es als wichtige Aufgabe der Kirche , die weltlichen Verantwortungsträger zu unterstützen und Hilfe zu einem eigentlichen Wertemanagement zu bieten : « Wer nicht lernt , mit verschiedenen Weltanschauungen und Werthaltungen umzugehen und mit Andersdenkenden zu kommunizieren , provoziert Konflikte . »;"1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	sieht	sehen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	es	es	PRON	PPER	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -5099,7 +5099,7 @@ provozieren;NZZ_1999_08_27_a138_seg7_s8;21;Die bissige Äusserung de Koonings et
 39	Sammler	Sammler	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	40	obl	_	_
 40	verkaufte	verkaufen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	acl	_	_
 41	.	.	PUNCT	$.	_	21	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;result_PP, PA+A;result pronominal_adverb;
+";;;x;;;;;;;;;;;;;;;inanim;;;;result_PP, PCN+C;result pronominal_adverb;
 provozieren;NZZ_1999_12_11_a28_seg5_s3;16;Es gibt keine Hinweise darauf , dass die Öffnung der Grenze einen Angriff der Achsenmächte provoziert oder unüberwindbare wirtschaftliche Schwierigkeiten verursacht hätte .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	gibt	geben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	keine	kein	PRON	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Neg|PronType=Neg	4	nmod	_	_
@@ -5936,7 +5936,7 @@ provozieren;NZZ_1999_09_23_a252_seg5_s1;29;Im Rahmen der Reform der Volksschule 
 28	gehörig	gehörig	ADJ	ADJD	_	29	advmod	_	_
 29	provoziert	provozieren	VERB	VVFIN	VerbForm=Part	20	acl	_	_
 30	.	.	PUNCT	$.	_	21	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PA+A;Rest der Schweiz;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PCN+C;Rest der Schweiz;
 provozieren;NZZ_1999_09_29_a218_seg10_s4;18;Die immer knapper bemessenen Stellenpläne haben zu einer Überlastung beim noch vorhandenen Personal geführt und vermehrt Kündigungen provoziert .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 2	immer	immer	ADV	ADV	_	3	advmod	_	_
 3	knapper	knapper	ADJ	ADJD	_	4	advmod	_	_

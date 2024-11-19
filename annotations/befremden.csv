@@ -76,7 +76,7 @@ befremden;NZZ_1993_04_02_a36_seg2_s2;23;Deshalb hat mich die Meldung « Mässige
 22	)	)	PUNCT	$(	_	19	punct	_	_
 23	befremdet	befremden	VERB	VVPP	VerbForm=Part	0	root	_	_
 24	.	.	PUNCT	$.	_	23	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 befremden;NZZ_1993_12_07_a18_seg2_s19;2;Es befremdet daher , wenn einige im Westen die Gleichartigkeit der Spionage und damit letztlich der hinter ihnen stehenden Systeme akzeptierten .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	befremdet	befremden	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	daher	daher	ADV	PAV	_	2	advmod	_	_
@@ -1515,7 +1515,7 @@ befremden;NZZ_1995_06_08_a21_seg4_s6;2;Schliesslich befremdet auch die Tatsache 
 30	anerkannt	anerkennen	VERB	VVPP	VerbForm=Part	21	advcl	_	_
 31	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	30	aux:pass	_	_
 32	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 befremden;NZZ_1995_06_21_a164_seg3_s19;26;Stefan Sägesser und Peter Hauri sind auch über das Vorgehen der Präsidialabteilung bezüglich Subventionierung des von der Kompanie in vielen Arbeitsstunden selbst eingerichteten Theaters Westend befremdet .;"1	Stefan	Stefan	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
 2	Sägesser	Sägesser	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
 3	und	und	CCONJ	KON	_	4	cc	_	_
@@ -2015,7 +2015,7 @@ befremden;NZZ_1995_09_15_a144_seg3_s45;10;Ihr feu sacré vermag zwar zu überzeu
 25	entfachen	entfachen	VERB	VVINF	VerbForm=Inf	13	ccomp	_	_
 26	kann	können	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
 27	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;x;;PA+A, ellipsis;;vermögen
+";;;;x;;;;;;;;;;;;;;inanim;;x;;PCN+C, ellipsis;;vermögen
 befremden;NZZ_1996_04_13_a227_seg11_s2;5;Die Idee mag zuerst befremden , scheint der Dichter doch zu sehr noch in historischer Nähe zu unseren Tagen zu stehen , als dass man eine Fiktion aus seinem Leben fabrizieren dürfte .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Idee	Idee	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 3	mag	mögen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -2386,7 +2386,7 @@ befremden;NZZ_1996_05_14_a48_seg6_s12;14;Nicht nur mag der Gedanke von Tieren al
 24	ermöglichen	ermöglichen	VERB	VVINF	VerbForm=Inf	14	advcl	_	_
 25	würden	werden	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	aux	_	_
 26	.	.	PUNCT	$.	_	14	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A, ungrammatical;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C, ungrammatical;;
 befremden;NZZ_1996_05_28_a115_seg5_s1;28;af. Auch im Zürcher Oberland sind etliche Gemeinden über das Vorgehen des Kantons in bezug auf die bis Anfang 1997 zu realisierenden regionalen Arbeitsvermittlungszentren ( RAV ) befremdet .;"1	af.	af.	ADV	ADV	_	5	advmod	_	_
 2	Auch	auch	ADV	ADV	_	5	advmod	_	_
 3	im	em	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
@@ -3472,7 +3472,7 @@ befremden;NZZ_1997_09_20_a30_seg7_s7;7;Doch « was viele britische Zuschauer bef
 21	angingen	angehen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl	_	_
 22	»	""	PUNCT	$(	_	21	punct	_	_
 23	.	.	PUNCT	$.	_	13	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 befremden;NZZ_1997_09_27_a186_seg7_s40;4;Sogar könnte ihn befremden , ja beunruhigen , wie wenig seine Kunst einem Rückhalt in der Welt verdankt : hier die Ordnung eines Schöpfers , dort das gejagte und gestörte Leben , ein Chaos ohne Anfang und Ende .;"1	Sogar	sogar	ADV	ADV	_	4	advmod	_	_
 2	könnte	können	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 3	ihn	er	PRON	PPER	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
@@ -3818,7 +3818,7 @@ befremden;NZZ_1998_01_10_a212_seg5_s1;38;Gerard Manley Hopkins gehört zu den Di
 58	Anderssagen	Anderssagen	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	56	nmod	_	_
 59	nutzten	nutzen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	38	conj	_	_
 60	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;metonymic_EXP, clearly_non_agentive;;
+";;;x;;;;;;;;;;;;;;;anim;;;;metonymic_EXP, clearly_non-agentive;;
 befremden;NZZ_1998_01_14_a23_seg4_s3;13;Gewiss aber ist , dass eine solche Vermutung vor zwei Monaten noch befremdet hätte .;"1	Gewiss	gewiss	ADV	ADV	_	3	advmod	_	_
 2	aber	aber	ADV	ADV	_	3	advmod	_	_
 3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -4528,7 +4528,7 @@ befremden;NZZ_1999_12_03_a27_seg13_s2;3;Zum einen befremden in Polen die Forderu
 30	machen	machen	VERB	VVINF	VerbForm=Inf	10	acl	_	_
 31	solle	sollen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	_
 32	.	.	PUNCT	$.	_	3	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A, EXP-indicating_adjunct;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP-indicating_adjunct;;
 befremden;NZZ_1999_12_03_a218_seg2_s1;13;Die Reaktion der Parteispitze der SVP nach ihrem Wahlerfolg bei den Nationalratswahlen befremdet .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Reaktion	Reaktion	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	13	nsubj:pass	_	_
 3	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_

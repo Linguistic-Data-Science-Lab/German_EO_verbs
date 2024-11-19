@@ -972,7 +972,7 @@ beruhigen;NZZ_1994_02_26_a15_seg9_s4;20;Die Auskunft , dass sie nicht einmal ihr
 22	nur	nur	ADV	ADV	_	23	advmod	_	_
 23	halbwegs	halbwegs	ADV	ADV	_	20	advmod	_	_
 24	.	.	PUNCT	$.	_	20	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 beruhigen;NZZ_1994_01_04_a82_seg3_s1;21;Oft genug wird ein verbreiteter Konformismus beklagt , allzu sanft formulierte Meinungen , die sich vorherrschenden Regeln anpassen und eher beruhigen als wachrufen wollen .;"1	Oft	oft	ADV	ADV	_	7	advmod	_	_
 2	genug	genug	ADV	ADV	_	7	advmod	_	_
 3	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	aux:pass	_	_
@@ -2519,7 +2519,7 @@ beruhigen;NZZ_1996_11_23_a3_seg1_s30;30;Der Glaube , dass der sich in einigen L�
 36	weiteren	weit	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	37	amod	_	_
 37	Missverständnis	Missverständnis	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	32	obl	_	_
 38	.	.	PUNCT	$.	_	30	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, EXP-related_object, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;collocation, EXP-related_object, PCN+C;;
 beruhigen;NZZ_1996_11_26_a97_seg6_s3;8;Die Gemüter begannen sich wieder etwas zu beruhigen , als bekannt wurde , dass der frühere langjährige Vorsitzende der Bangkok Bank , Thailands grösste Bank , Amnuay Viravan , der neuen Regierung beitreten werde .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	_
 2	Gemüter	Gemüt	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	_
 3	begannen	beginnen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -3227,7 +3227,7 @@ beruhigen;NZZ_1997_11_08_a106_seg2_s6;29;Die Worte des amerikanischen Notenbankc
 28	wieder	wieder	ADV	ADV	_	29	advmod	_	_
 29	beruhigt	beruhigen	VERB	VVPP	VerbForm=Part	0	root	_	_
 30	.	.	PUNCT	$.	_	29	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PCN+C;;
 beruhigen;NZZ_1997_11_13_a93_seg4_s1;16;Während sich nach einem kurzzeitigen « Run » auf eine kleinere Bank die Gemüter wieder beruhigt zu haben scheinen , mehren sich die Stimmen , die im Vergleich mit früheren Krisen die Lage heute für ernster halten .;"1	Während	während	SCONJ	KOUS	_	19	mark	_	_
 2	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	19	obj	_	_
 3	nach	nach	ADP	APPR	_	7	case	_	_
@@ -3373,7 +3373,7 @@ beruhigen;NZZ_1997_10_18_a95_seg2_s3;28;Nachrichten , dass im Disput um die Zula
 34	sagten	sagen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 35	Beobachter	Beobachter	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	34	nsubj	_	_
 36	.	.	PUNCT	$.	_	34	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP_anim_proxy;;
 beruhigen;NZZ_1997_10_22_a156_seg4_s4;12;Erst die ereignislose Verlängerung vermochte die Gemüter dann beidseits wieder zu beruhigen .;"1	Erst	erst	ADV	ADV	_	4	advmod	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	ereignislose	ereignislos	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
@@ -4513,7 +4513,7 @@ beruhigen;NZZ_1998_10_29_a123_seg2_s3;24;Neben dem vorgelegten Finanzplan hätte
 23	weiter	weiter	ADJ	ADV	_	24	advmod	_	_
 24	beruhigt	beruhigen	VERB	VVPP	VerbForm=Part	18	conj	_	_
 25	.	.	PUNCT	$.	_	5	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;neben-PP
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;neben-PP
 beruhigen;NZZ_1998_09_03_a112_seg2_s1;15;( Reuters ) Das Geschehen an der Soffex hat sich am Mittwoch laut Händlern beruhigt .;"1	(	(	PUNCT	$(	_	2	punct	_	_
 2	Reuters	Reuters	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	15	dep	_	_
 3	)	)	PUNCT	$(	_	2	punct	_	_

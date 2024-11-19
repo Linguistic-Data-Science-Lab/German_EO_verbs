@@ -139,7 +139,7 @@ verängstigen;NZZ_1993_09_24_a14_seg10_s5;11;Was an der Gestalt des Chairman die
 47	zu	zu	PART	PTKZU	_	48	mark	_	_
 48	kanalisieren	kanalisieren	VERB	VVINF	VerbForm=Inf	39	xcomp	_	_
 49	.	.	PUNCT	$.	_	25	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;an;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;an;;;PCN+C;;
 verängstigen;NZZ_1993_10_12_a44_seg2_s14;3;Wer einmal verängstigt , von Schmerzen geplagt , von Arzt zu Arzt gereicht wurde , spürt etwas von der Anonymität der Medizin und der Überforderung ihrer Handlanger .;"1	Wer	wer	PRON	PWS	Case=Nom|Number=Sing|PronType=Int	3	nsubj	_	_
 2	einmal	einmal	ADV	ADV	_	3	advmod	_	_
 3	verängstigt	verängstigen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	csubj	_	_

@@ -902,7 +902,7 @@ interessieren;NZZ_1994_12_08_a60_seg3_s17;11;Zwar ist seit Montag eine geringfü
 26	ausgehen	ausgehen	VERB	VVINF	VerbForm=Inf	11	ccomp	_	_
 27	könnten	können	AUX	VMFIN	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	26	aux	_	_
 28	.	.	PUNCT	$.	_	8	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 interessieren;NZZ_1994_01_06_a33_seg7_s7;17;Kein Wunder also , dass seine Zusammensetzung das politische Establishment in Paris von Beginn weg stark interessierte und dass von verschiedenen Seiten verschiedene Kandidaten für diesen « Conseil de la politique monétaire » vorgeschlagen wurden .;"1	Kein	kein	PRON	PIAT	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Neg	2	nmod	_	_
 2	Wunder	Wunder	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 3	also	also	ADV	ADV	_	2	advmod	_	_
@@ -1838,7 +1838,7 @@ interessieren;NZZ_1995_03_09_a109_seg7_s13;4;In diesem Zusammenhang interessiert
 15	Rückkehrer	Rückkehrer	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	_
 16	behandelte	behandeln	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	_	_
 17	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 interessieren;NZZ_1995_03_17_a131_seg8_s14;25;Im « Kartengeheimnis » wird wiederholt gesagt , dass sich nur die wenigsten Menschen - Aussenseiter wie der Joker im Kartenspiel - für Philosophie interessieren .;"1	Im	im	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 2	«	""	PUNCT	$(	_	3	punct	_	_
 3	Kartengeheimnis	Kartengeheimnis	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	7	nsubj:pass	_	_
@@ -3444,7 +3444,7 @@ interessieren;NZZ_1997_05_17_a33_seg15_s1;5;An der schweizerischen Problematik i
 25	gewesen	sein	AUX	VAPP	VerbForm=Part	12	acl	_	_
 26	sei	sein	AUX	VAFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
 27	.	.	PUNCT	$.	_	5	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;an;;;PA+A,EXP-indicating_adjunct;;
+";;;;x;;;;;;;;;;;;;;inanim;an;;;PCN+C,EXP-indicating_adjunct;;
 interessieren;NZZ_1997_05_30_a58_seg5_s6;20;Ein Autohändler freut sich , dass er jetzt sogar Modelle absetze , für die sich bis vor kurzem niemand interessiert habe .;"1	Ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Autohändler	Autohändler	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	freut	freuen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -4122,7 +4122,7 @@ interessieren;NZZ_1998_02_20_a151_seg3_s10;4;Den ausländischen Besucher interes
 31	vertreten	vertreten	ADJ	VVPP	VerbForm=Part	4	ccomp	_	_
 32	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
 33	.	.	PUNCT	$.	_	4	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;bei;;;PA+A, pronominal_adverb;generic EXP;
+";;;x;;;;;;;;;;;;;;;inanim;bei;;;PCN+C, pronominal_adverb;generic EXP;
 interessieren;NZZ_1998_02_27_a2_seg5_s3;8;Fast ebenso wie das Debakel an sich interessiert die Öffentlichkeit aber , wie die geheimgehaltenen Nachrichten an die Medien gelangten .;"1	Fast	fast	ADV	ADV	_	2	advmod	_	_
 2	ebenso	ebenso	ADV	ADV	_	8	advmod	_	_
 3	wie	wie	ADP	KOKOM	_	5	case	_	_
@@ -4829,7 +4829,7 @@ interessieren;NZZ_1998_09_12_a29_seg3_s9;15;Die Frage , ob sie die CVP ( Wähler
 18	noch	noch	ADV	ADV	_	19	advmod	_	_
 19	nicht	nicht	PART	PTKNEG	Polarity=Neg	15	advmod	_	_
 20	.	.	PUNCT	$.	_	15	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A,EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C,EXP_anim_proxy;;
 interessieren;NZZ_1998_09_19_a235_seg9_s11;12;Aus archäologischer Sicht und im Rahmen des Schwerpunktprogrammes des Mainzer Sonderforschungsbereiches interessieren besonders die übergeordneten Fragen nach den Einflüssen bautechnischer , künstlerischer und kultischer Art auf die Gadarener Bauten , die Probleme der Zusammenarbeit einheimischer und auswärtiger Bauleiter und Handwerker sowie logistische Fragen .;"1	Aus	aus	ADP	APPR	_	3	case	_	_
 2	archäologischer	archäologisch	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Sing	3	amod	_	_
 3	Sicht	Sicht	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_

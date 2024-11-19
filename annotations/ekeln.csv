@@ -187,7 +187,7 @@ ekeln;NZZ_1995_04_13_a125_seg4_s41;14;Weil mich die Vorstellung , dieses miese k
 13	einfach	einfach	ADV	ADV	_	14	advmod	_	_
 14	ekelt	ekelen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	.	.	PUNCT	$.	_	14	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 ekeln;NZZ_1995_09_05_a112_seg15_s3;11;Diese Mieter möchte Perlacher mit aller Gewalt aus dem Haus ekeln , aber Amalie hat ein dickes Fell .;"1	Diese	dies	PRON	PDAT	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	Mieter	Mieter	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	_
 3	möchte	mögen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
@@ -1160,7 +1160,7 @@ ekeln;NZZ_1999_10_30_a60_seg5_s17;12;"Der Gedanke an ein Bad im Ganges möge eur
 45	zu	zu	PART	PTKZU	_	44	mark	_	_
 46	können	können	AUX	VMINF	VerbForm=Inf	44	aux	_	_
 47	.	.	PUNCT	$.	_	12	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;PA?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;PA?;
 ekeln;NZZ_1999_10_09_a232_seg9_s10;26;Einzelne Miesmacher dürfen dabei nicht sonderlich ins Gewicht fallen , wie etwa jener Joseph Roth , den es vor dieser phänomenalen Anpassungsfähigkeit der Ungarn regelrecht geekelt hat und der keine grosse Prosaschrift ausliess , nicht wenigstens einen dieser schmierigen Typen auftreten zu lassen .;"1	Einzelne	einzeln	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	2	amod	_	_
 2	Miesmacher	Miesmacher	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
 3	dürfen	dürfen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_

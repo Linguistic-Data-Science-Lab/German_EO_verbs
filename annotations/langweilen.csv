@@ -5116,7 +5116,7 @@ langweilen;NZZ_1999_12_24_a275_seg6_s21;27;So ist dem Kalligraphen beim Abschrei
 35	und	und	CCONJ	KON	_	36	cc	_	_
 36	Abrahams	Abrahams	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	34	conj	_	_
 37	.	.	PUNCT	$.	_	15	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;fragment, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;fragment, PCN+C;;
 langweilen;NZZ_1999_02_22_a95_seg8_s7;18;Das Schreiben müsse « ein Akt der Hypnose » sein , « wenn man sich beim Schreiben langweilt , langweilt sich der Leser auch beim Lesen » .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	Schreiben	Schreiben	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
 3	müsse	müssen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
@@ -5662,7 +5662,7 @@ langweilen;NZZ_1999_10_09_a138_seg9_s15;23;Allerdings fürchte ich weniger , das
 22	zu	zu	PART	PTKZU	_	23	mark	_	_
 23	langweilen	langweilen	VERB	VVINF	VerbForm=Inf	14	xcomp	_	_
 24	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;x;;clearly_non_agentive;real anphor, control in nominal context;
+";;;x;;;;;;;;;;;;;;;anim;;x;;clearly_non-agentive;real anphor, control in nominal context;
 langweilen;NZZ_1999_10_27_a157_seg2_s28;13;Da werden Familienfeiern zu anstrengenden Veranstaltungen , da die eine Seite sich langweilt , während die andere sich ausgeschlossen fühlt .;"1	Da	da	ADV	ADV	_	2	advmod	_	_
 2	werden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	Familienfeiern	Familienfeier	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_

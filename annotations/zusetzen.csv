@@ -521,7 +521,7 @@ zusetzen;NZZ_1993_04_14_a73_seg7_s10;23;Die von Medienvertretern oft gestellte F
 25	offensichtlich	offensichtlich	ADJ	ADJD	_	23	advmod	_	_
 26	zu	zu	ADP	PTKVZ	_	23	compound:prt	_	_
 27	.	.	PUNCT	$.	_	23	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 zusetzen;NZZ_1993_04_24_a13_seg6_s2;23;In der Democrazia cristiana regt sich jener Teil der Basis , der weder mit der Korruption , die der Partei im Norden zusetzte , noch mit den mafiosen Elementen , die sie im Süden unterwanderte , identifiziert werden will .;"1	In	in	ADP	APPR	_	3	case	_	_
 2	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Democrazia	Democrazia	PROPN	NE	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	_
@@ -1251,7 +1251,7 @@ zusetzen;NZZ_1993_06_09_a121_seg3_s2;27;Allen anderslautenden ministeriellen Abs
 43	$	$	PROPN	XY	_	42	appos	_	_
 44	zu	zu	ADP	PTKVZ	_	7	compound:prt	_	_
 45	.	.	PUNCT	$.	_	7	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 zusetzen;NZZ_1993_06_15_a12_seg8_s7;27;Auch der Westen bleibt für Frau Campbell - trotz ihrer westlichen Herkunft - ein Fragezeichen , da ihr hier die Konkurrenz der extrem konservativen Reformpartei ebenso zusetzen dürfte wie ihre enge politische Bindung an Mulroney und seine frankophone Garde .;"1	Auch	auch	ADV	ADV	_	3	advmod	_	_
 2	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Westen	Weste|Westen	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -1441,7 +1441,7 @@ zusetzen;NZZ_1993_07_07_a38_seg4_s5;54;In « Die Katze Autitschko » , einer der
 54	zuzusetzen	zusetzen	VERB	VVIZU	VerbForm=Inf	43	csubj	_	_
 55	»	""	PUNCT	$(	_	54	punct	_	_
 56	.	.	PUNCT	$.	_	15	punct	_	_
-";;x;x;;;;;;;;;;;;;;;anim;;;;clearly_non_agentive;NZZ;
+";;x;x;;;;;;;;;;;;;;;anim;;;;clearly_non-agentive;NZZ;
 zusetzen;NZZ_1993_07_10_a77_seg7_s5;11;Aber die vorsichtige preussische Politik desavouiert ihrerseits solchen Enthusiasmus , setzt ihm mit Zensur zu und entzieht ihm politisch durch eine Allianz mit dem gehassten Machthaber Napoleon gänzlich den Boden .;"1	Aber	aber	CCONJ	KON	_	6	cc	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 3	vorsichtige	vorsichtig	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
@@ -1628,7 +1628,7 @@ zusetzen;NZZ_1993_08_05_a92_seg2_s15;36;Im LC Zürich im speziellen , vom VfG ( 
 46	Athleten	Athlet	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	44	conj	_	_
 47	nach	nach	ADP	PTKVZ	_	28	compound:prt	_	_
 48	.	.	PUNCT	$.	_	26	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 zusetzen;NZZ_1993_08_06_a104_seg2_s17;36;Im LC Zürich im speziellen , vom VfG ( Verein für Grossanlässe ) aus dem Meeting-Erlös in den letzten Jahren mit rund zwei Millionen Franken unterstützt , stossen - in Relation zu Aufwand und Finanzkraft gesetzt - ( zu ) wenige vielversprechende junge Athletinnen und Athleten nach .;"1	Im	Im	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	26	nsubj:pass	_	_
 2	LC	LC	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
 3	Zürich	Zürich	PROPN	NE	Case=Nom|Gender=Neut|Number=Sing	1	flat	_	_
@@ -5226,7 +5226,7 @@ zusetzen;NZZ_1994_09_20_a70_seg6_s2;35;Berichte über Hormonrückstände im Kalb
 34	Produzenten	Produzent	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	35	iobj	_	_
 35	zugesetzt	zusetzen	VERB	VVPP	VerbForm=Part	0	root	_	_
 36	.	.	PUNCT	$.	_	35	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_coordination, EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, STM_coordination, EXP_anim_proxy;;
 zusetzen;NZZ_1994_09_27_a173_seg3_s10;15;Eine besondere Gefahr , die den Störchen in der Brutzeit wie auf dem Zug zusetzt , bildet die « Verdrahtung » der Landschaft .;"1	Eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	besondere	besonder	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Gefahr	Gefahr	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
@@ -5251,7 +5251,7 @@ zusetzen;NZZ_1994_09_27_a173_seg3_s10;15;Eine besondere Gefahr , die den Störch
 22	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	Landschaft	Landschaft	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
 24	.	.	PUNCT	$.	_	17	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, psych_ambiguous;;psych?
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, psych_ambiguous;;psych?
 zusetzen;NZZ_1994_09_28_a70_seg9_s1;23;Sparvorhaben der Regierung , die Rücktritte von Direktor Wolfgang Zörner und Verwaltungsratspräsident Armin Stieger sowie ein schleichender Publikumsschwund haben dem Theater Basel zugesetzt .;"1	Sparvorhaben	Sparvorhaben	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	23	nsubj	_	_
 2	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Regierung	Regierung	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
@@ -5448,7 +5448,7 @@ zusetzen;NZZ_1994_10_29_a10_seg3_s5;20;Noch viel mehr als die Flut von Appellen 
 57	Gebrauch	Gebrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	58	obj	_	_
 58	machten	machen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	38	conj	_	_
 59	.	.	PUNCT	$.	_	20	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination, PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;STM_coordination, PCN+C;;
 zusetzen;NZZ_1994_10_29_a3_seg2_s40;6;Seuchen , Hunger und Kälte setzen den Menschen zu , es fehlt an Strom und Trinkwasser , und schlimmer , wie Entronnene berichten , ist nur noch die Hoffnungslosigkeit , das lähmende Bewusstsein , dass kein Ende in Sicht kommt .;"1	Seuchen	Seuche	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
 2	,	,	PUNCT	$,	_	3	punct	_	_
 3	Hunger	Hunger	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
@@ -5592,7 +5592,7 @@ zusetzen;NZZ_1994_11_17_a122_seg6_s11;26;Das Überwachen der Zuchten am Ursprung
 25	Schildkröten	Schildkröte	NOUN	NN	Case=Gen|Gender=Fem|Number=Plur	23	nmod	_	_
 26	zusetzen	zusetzen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 27	.	.	PUNCT	$.	_	11	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;STM_coordination, clearly_non_agentive, psych_ambiguous;;psych?, Jugendstadien
+";;;x;;;;;;;;;;;;;;;anim;;;;STM_coordination, clearly_non-agentive, psych_ambiguous;;psych?, Jugendstadien
 zusetzen;NZZ_1994_11_21_a62_seg3_s2;29;Vientiane , im November Der Staub der Jahrhunderte hat der Literatur in Laos , aber auch Rechtstexten und buddhistischen Schriften , die auf Palmblättern niedergeschrieben wurden , massiv zugesetzt .;"1	Vientiane	Vientiane	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	29	nsubj:pass	_	_
 2	,	,	PUNCT	$,	_	4	punct	_	_
 3	im	em	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	amod	_	_
@@ -5751,7 +5751,7 @@ zusetzen;NZZ_1994_12_13_a161_seg2_s18;7;Der sportliche Wert ist höher an- zuset
 10	finanzielle	finanziell	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
 11	.	.	PUNCT	$.	_	7	punct	_	_
 12	»	""	PUNCT	$(	_	7	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 zusetzen;NZZ_1994_12_20_a44_seg9_s10;30;Sicher ist hingegen , dass für Mercedes einiges auf dem Spiel steht : Sollte das Projekt mit dem Kleinwagen scheitern , so kann dies dem Image des Hauses arg zusetzen .;"1	Sicher	sicher	ADJ	ADJD	_	0	root	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	hingegen	hingegen	ADV	ADV	_	1	advmod	_	_

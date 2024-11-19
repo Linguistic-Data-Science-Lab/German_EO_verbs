@@ -2720,7 +2720,7 @@ begeistern;NZZ_1993_06_08_a108_seg2_s25;4;Im romantischen Rosensteinpark begeist
 8	mächtigen	mächtig	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Plur	9	amod	_	_
 9	Kastanienbäume	Kastanienbaum	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	_
 10	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;clash of coordinations;;;;STM_coordination, clearly_non_agentive;;
+";;;;x;;;;;;;;;;;;;;clash of coordinations;;;;STM_coordination, clearly_non-agentive;;
 begeistern;NZZ_1993_06_11_a105_seg3_s8;4;Er liess sich begeistern und erregen , immer wieder , von Menschen , von Träumen , von Ideen .;"1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	liess	lassen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_

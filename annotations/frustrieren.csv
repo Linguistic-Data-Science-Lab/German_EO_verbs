@@ -226,7 +226,7 @@ frustrieren;NZZ_1993_11_03_a46_seg4_s1;19;Versuche , die Kaninchen und Füchse w
 18	Jahren	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	19	obl	_	_
 19	frustriert	frustrieren	VERB	VVPP	VerbForm=Part	0	root	_	_
 20	.	.	PUNCT	$.	_	19	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 frustrieren;NZZ_1993_11_15_a230_seg2_s2;21;Allerdings wurden die Erwartungen im überfüllten Alstadttheater ungeachtet des hervorragend besetzten Podiums von A bis , sagen wir : Y frustriert .;"1	Allerdings	allerdings	ADV	ADV	_	17	advmod	_	_
 2	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	17	aux:pass	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
@@ -3181,7 +3181,7 @@ frustrieren;NZZ_1999_04_16_a240_seg4_s24;30;Sein Fazit , dass die Zeit der drama
 37	Recht	Recht	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	38	obj	_	_
 38	geben	geben	VERB	VVINF	VerbForm=Inf	30	conj	_	_
 39	.	.	PUNCT	$.	_	30	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 frustrieren;NZZ_1999_04_30_a218_seg5_s6;2;Das frustriere die gesamte « zürcherische Land-SP » , da zu befürchten sei , dass es ihr im Herbst zu keiner grösseren Vertretung reichen werde .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	frustriere	frustrieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_

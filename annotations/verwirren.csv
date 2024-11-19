@@ -1735,7 +1735,7 @@ verwirren;NZZ_1995_01_21_a18_seg9_s2;47;Balladurs etwas aus der Mode gekommene E
 55	bereitwillig	bereitwillig	ADJ	ADJD	_	56	advmod	_	_
 56	ansprach	ansprechen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	acl	_	_
 57	.	.	PUNCT	$.	_	19	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;adjective;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;adjective;
 verwirren;NZZ_1995_07_08_a187_seg6_s15;20;Rückkehr in die Öffentlichkeit - doch mit der unveränderten Haltung des esprit : kein Sinnesdatum der Welt soll ihn verwirren können .;"1	Rückkehr	Rückkehr	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	in	in	ADP	APPR	_	4	case	_	_
 3	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -1894,7 +1894,7 @@ verwirren;NZZ_1995_06_07_a135_seg42_s1;8;Im ersten Moment mag die Ankündigung e
 18	zu	zu	PART	PTKZU	_	19	mark	_	_
 19	bekommen	bekommen	VERB	VVINF	VerbForm=Inf	8	xcomp	_	_
 20	.	.	PUNCT	$.	_	8	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 verwirren;NZZ_1995_06_10_a205_seg11_s14;14;Warum ist es nötig , Wurzeln zu schlagen , wenn die Zustände vollkommen verwirrt sind ?;"1	Warum	warum	ADV	PWAV	PronType=Int	4	advmod	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -5463,7 +5463,7 @@ verwirren;NZZ_1998_10_07_a196_seg4_s1;7;Die zu den Schraubenbakterien zählenden
 17	unterschiedlichen	unterschiedlich	ADJ	ADJA	Case=Dat|Gender=Fem|Number=Plur	18	amod	_	_
 18	Krankheitsformen	Krankheitsformen	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	14	nmod	_	_
 19	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;mit;;;clearly_non_agentive;potentially interesting temporal modification;
+";;;x;;;;;;;;;;;;;;;anim;mit;;;clearly_non-agentive;potentially interesting temporal modification;
 verwirren;NZZ_1998_10_14_a120_seg8_s5;2;Weder verwirrt uns das Museum durch das Formulieren einer eigenen These , noch trübt es das Bild vom einsamen Genie durch die Einbettung in einen historischen Kontext .;"1	Weder	weder	CCONJ	KON	_	2	cc	_	_
 2	verwirrt	verwerren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	uns	wir	PRON	PPER	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
@@ -5522,7 +5522,7 @@ verwirren;NZZ_1998_09_05_a176_seg3_s6;13;Fragen zur europäischen Integration so
 14	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Nation	Nation	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
 16	.	.	PUNCT	$.	_	13	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PA+A;Nation EXP_anim_proxy?;
+";;;x;;;;;;;;;;;;;;;inanim;;;;EXP_anim_proxy, PCN+C;Nation EXP_anim_proxy?;
 verwirren;NZZ_1998_09_08_a133_seg7_s14;16;Sexualität ist ein Begriff unseres Wissens , den die Erfahrung , auch die literarische Erfahrung verwirrt .;"1	Sexualität	Sexualität	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_

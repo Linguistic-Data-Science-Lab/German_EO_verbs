@@ -2039,7 +2039,7 @@ freuen;NZZ_1995_09_27_a96_seg2_s8;12;Vor der anstehenden Lohnrunde dürfte vor a
 35	erhalten	erhalten	ADJ	VVPP	_	36	xcomp	_	_
 36	bleiben	bleiben	VERB	VVINF	VerbForm=Inf	12	conj	_	_
 37	.	.	PUNCT	$.	_	12	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, EXP_anim_proxy;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, EXP_anim_proxy;;
 freuen;NZZ_1995_09_28_a218_seg5_s9;39;"Nach der Uraufführung von España schrieb der Operettenkomponist Charles Lecocq seinem Freund Chabrier einen begeisterten Brief ; das Kompliment : « c ' est du grand art , et c ' est rigolo » dürfte den Adressaten besonders gefreut haben .";"1	Nach	nach	ADP	APPR	_	3	case	_	_
 2	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Uraufführung	Uraufführung	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	_
@@ -3886,7 +3886,7 @@ freuen;NZZ_1998_04_18_a224_seg4_s10;4;Was mich zusätzlich freut , ist die Art u
 18	abgehandelt	abhandeln	VERB	VVPP	VerbForm=Part	8	advcl	_	_
 19	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	aux:pass	_	_
 20	.	.	PUNCT	$.	_	8	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_coordination, collocation;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, STM_coordination, collocation;;
 freuen;NZZ_1998_04_22_a47_seg3_s15;5;Eigentlich möchte man sich freuen , wenn in diesem Land über einen Mann wie Burckhardt und sein Werk öffentlich diskutiert wird , kulturelle Werte sind bei uns selten genug eine Sache allgemeiner Teilnahme .;"1	Eigentlich	eigentlich	ADJ	ADV	_	5	advmod	_	_
 2	möchte	mögen	AUX	VMFIN	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
 3	man	man	PRON	PIS	Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	5	nsubj	_	_
@@ -4378,7 +4378,7 @@ freuen;NZZ_1998_05_05_a231_seg3_s3;5;Was mich jedoch weniger freut , ist die Art
 18	berichtet	berichten	VERB	VVPP	VerbForm=Part	9	advcl	_	_
 19	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	aux:pass	_	_
 20	.	.	PUNCT	$.	_	9	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A, STM_coordination, collocation;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C, STM_coordination, collocation;;
 freuen;NZZ_1998_05_15_a144_seg3_s3;2;Das freut die Damen , doch Schatzl , Paulis Ehefrau , stellt ihn eines Tages vor die Tür .;"1	Das	der	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	freut	freuen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_

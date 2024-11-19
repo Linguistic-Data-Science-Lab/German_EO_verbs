@@ -4087,7 +4087,7 @@ verwundern;NZZ_1997_11_14_a152_seg5_s1;9;Wie ein Polizeisprecher gegenüber der 
 20	Pistole	Pistole	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
 21	mitnahmen	mitnehmen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 22	.	.	PUNCT	$.	_	9	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 verwundern;NZZ_1997_10_01_a94_seg3_s13;14;Angesichts der seit Monaten kursierenden Gerüchte über eine Konzentration im Bereich der Grossbanken verwundert es nicht , dass auch die Commerzbank des öfteren Gegenstand von diesbezüglichen Spekulationen gewesen ist .;"1	Angesichts	angesichts	ADP	APPR	_	6	case	_	_
 2	der	der	DET	ART	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 3	seit	seit	ADP	APPR	_	4	case	_	_

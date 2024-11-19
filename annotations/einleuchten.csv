@@ -911,7 +911,7 @@ einleuchten;NZZ_1993_11_20_a15_seg2_s42;40;Eines der einfachsten und wirkungsvol
 46	kommen	kommen	VERB	VVINF	VerbForm=Inf	40	conj	_	_
 47	sollte	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	aux	_	_
 48	.	.	PUNCT	$.	_	26	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1993_11_29_a38_seg2_s10;17;Die Ablehnung neuer Werbeverbote für Genussmittel hatte aber auch konkretere Gründe , die dem Stimmvolk offensichtlich eingeleuchtet haben .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Ablehnung	Ablehnung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 3	neuer	neu	ADJ	ADJA	Case=Gen|Gender=Neut|Number=Plur	4	amod	_	_
@@ -1490,7 +1490,7 @@ einleuchten;NZZ_1994_06_25_a114_seg3_s18;26;Wenn Radatz in seiner reichhaltigen 
 30	durchaus	durchaus	ADV	ADV	_	26	advmod	_	_
 31	ein	ein	ADV	PTKVZ	_	26	compound:prt	_	_
 32	.	.	PUNCT	$.	_	26	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1994_06_28_a91_seg2_s4;14;"Dass ein derartiger Service technisch aufwendig sowie personalintensiv und somit kostspielig ist , leuchtet mir ein ; und auch , dass ich als direkter Nutzniesser inskünftig einen Teil an die Kosten der bisher unentgeltlichen Dienstleistung bezahlen soll , kann ich durchaus begreifen .";"1	Dass	daß	SCONJ	KOUS	_	6	mark	_	_
 2	ein	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	derartiger	derartig	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	_
@@ -2005,7 +2005,7 @@ einleuchten;NZZ_1995_08_05_a89_seg3_s8;24;Beispielsweise fehlt jede Angabe zu Ar
 33	nicht	nicht	PART	PTKNEG	Polarity=Neg	24	advmod	_	_
 34	ein	ein	ADV	PTKVZ	_	24	compound:prt	_	_
 35	.	.	PUNCT	$.	_	2	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1995_08_08_a144_seg2_s5;2;Es leuchtet jedem ein , dass eine Wiederansiedlung von Bär und Wolf ganze Talschaften belegen bzw. für Wanderer und Erholungssuchende unsicher machen würde .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	leuchtet	leuchten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	jedem	jed	PRON	PIS	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	2	iobj	_	_
@@ -2303,7 +2303,7 @@ einleuchten;NZZ_1995_03_22_a119_seg4_s5;7;Auch die Kühe und die Hühner leuchte
 8	ihr	ihr	PRON	PPER	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
 9	ein	ein	ADV	PTKVZ	_	7	compound:prt	_	_
 10	.	.	PUNCT	$.	_	7	punct	_	_
-";;;x;;;;;;;;;;;;;;;anim;;;;STM_coordination, clearly_non_agentive;;
+";;;x;;;;;;;;;;;;;;;anim;;;;STM_coordination, clearly_non-agentive;;
 einleuchten;NZZ_1995_11_23_a183_seg11_s6;17;"Ob Kinder den Mut aufbringen , sich selbst zum Kriterium zu machen : ob ihnen etwas einleuchtet oder nicht und sie dies dann auch geltend machen ; oder ob sie ängstliche Vorgabengucker werden , die sich am liebsten nur darauf programmieren möchten , nichts als fremde Erwartungen zu erfüllen und um jeden Preis Fehler zu vermeiden .";"1	Ob	ob	SCONJ	KOUS	_	5	mark	_	_
 2	Kinder	Kind	NOUN	NN	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
 3	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -2775,7 +2775,7 @@ einleuchten;NZZ_1996_06_10_a22_seg5_s5;15;Vor allem beim Kongressthema entdeckte
 68	zu	zu	PART	PTKZU	_	69	mark	_	_
 69	verbieten	verbieten	VERB	VVINF	VerbForm=Inf	57	advcl	_	_
 70	.	.	PUNCT	$.	_	5	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;Disambiguierung im Kontext?;generic EXP
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;Disambiguierung im Kontext?;generic EXP
 einleuchten;NZZ_1996_06_12_a40_seg11_s19;4;In Sachen Reformprozess leuchtet dem gewöhnlichen Bürger jedoch kaum ein , weshalb zwei verschiedene Unternehmensformen gewählt werden .;"1	In	in	ADP	APPR	_	3	case	_	_
 2	Sachen	Sache	NOUN	NN	Case=Dat|Gender=Fem|Number=Plur	4	obl	_	_
 3	Reformprozess	Reformprozeß	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
@@ -3091,7 +3091,7 @@ einleuchten;NZZ_1996_09_18_a23_seg12_s6;4;Die Argumente Rogers leuchten teilweis
 37	Menschen	Mensch	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	34	conj	_	_
 38	töten	töten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	ccomp	_	_
 39	.	.	PUNCT	$.	_	4	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1996_09_24_a142_seg3_s23;28;Die Erklärung eines amerikanischen Drogenreferenten , dass repressiven Massnahmen kein Erfolg beschieden war und statt dessen eine « breite Entwicklung » in den Anbaugebieten anzustreben sei , leuchtet ein .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Erklärung	Erklärung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
 3	eines	ein	DET	ART	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -3122,7 +3122,7 @@ einleuchten;NZZ_1996_09_24_a142_seg3_s23;28;Die Erklärung eines amerikanischen 
 28	leuchtet	leuchten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 29	ein	ein	ADV	PTKVZ	_	28	compound:prt	_	_
 30	.	.	PUNCT	$.	_	28	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1997_04_08_a180_seg2_s2;2;Es leuchtet ein , dass bei gegebenem Hubraum ein Motor mit weniger Zylindern tendenziell weniger Treibstoff verbraucht , da weniger bewegte Teile weniger Reibungs- und andere Verluste verursachen .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	leuchtet	leuchten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	ein	ein	ADV	PTKVZ	_	2	compound:prt	_	_
@@ -3554,7 +3554,7 @@ einleuchten;NZZ_1997_10_11_a31_seg3_s5;8;Obwohl der Hinweis auf die erwähnten G
 23	gewesen	sein	AUX	VAPP	VerbForm=Part	0	root	_	_
 24	sein	sein	AUX	VAINF	VerbForm=Inf	23	aux	_	_
 25	.	.	PUNCT	$.	_	23	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1997_10_13_a7_seg6_s10;13;Die Vorteile dieses Vorgehens würden hoffentlich bald auch Finnlands Nachbarn im Westen einleuchten , erklärte Lipponen mit jenem belehrenden Unterton , der Konvertiten zuweilen eigen ist .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Vorteile	Vorteil	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
 3	dieses	dies	PRON	PDAT	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
@@ -3868,7 +3868,7 @@ einleuchten;NZZ_1997_09_11_a176_seg5_s8;13;Die Idee , die beiden Korps ganz oder
 13	leuchtet	leuchten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	ein	ein	ADV	PTKVZ	_	13	compound:prt	_	_
 15	.	.	PUNCT	$.	_	13	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1997_09_15_a87_seg3_s21;31;Der typische Niedersachse gilt als « dröge » , will sagen : als für folgenreiche Neuerungen schwer entflammbarer Skeptiker , zumal wenn ihm der proklamierte Nutzen dieser Neuerungen nicht recht einleuchten will .;"1	Der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	typische	typisch	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
 3	Niedersachse	Niedersachse	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -5247,7 +5247,7 @@ einleuchten;NZZ_1999_08_14_a47_seg7_s3;45;In den fortgeschrittenen Ländern Mitt
 63	ausüben	ausüben	VERB	VVINF	VerbForm=Inf	53	conj	_	_
 64	können	können	AUX	VMINF	VerbForm=Inf	63	aux	_	_
 65	.	.	PUNCT	$.	_	38	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1999_08_14_a182_seg4_s2;12;Dies verlangt das Bundesgericht mit der Begründung , dass es nicht einleuchte , weshalb in diesem Punkt lediglich Mittelschullehrer von einem Lohnsplitting profitieren sollten .;"1	Dies	dies	PRON	PDS	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	_
 2	verlangt	verlangen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
@@ -5463,7 +5463,7 @@ einleuchten;NZZ_1999_12_11_a189_seg1_s11;18;Die Gründe dafür , weshalb die Kan
 17	wirklich	wirklich	ADV	ADV	_	18	advmod	_	_
 18	einzuleuchten	einleuchen	VERB	VVIZU	VerbForm=Inf	11	xcomp	_	_
 19	.	.	PUNCT	$.	_	11	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;x;;PA+A;;vermögen
+";;;;x;;;;;;;;;;;;;;inanim;;x;;PCN+C;;vermögen
 einleuchten;NZZ_1999_12_21_a154_seg3_s10;6;Auch dem unbefangenen Beobachter muss einleuchten , dass der Betrieb eines Opernhauses in Indien zurzeit weder finanzierbar noch politisch durchzusetzen ist .;"1	Auch	auch	ADV	ADV	_	4	advmod	_	_
 2	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	unbefangenen	unbefangen	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	_
@@ -5517,7 +5517,7 @@ einleuchten;NZZ_1999_02_13_a26_seg6_s8;3;Auch hier leuchtete die Begründung ein
 28	geben	geben	VERB	VVINF	VerbForm=Inf	17	acl	_	_
 29	soll	sollen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 30	.	.	PUNCT	$.	_	3	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1999_02_23_a168_seg3_s5;14;Da wurde mir plötzlich klar , was mir Stunden vorher nicht recht hatte einleuchten wollen : Es besteht durchaus Grund dafür , dass sie , die Ikone des Feminismus über die bundesdeutschen Grenzen hinaus , herumreist und ihre An- und Einsichten verbreitet .;"1	Da	da	ADV	ADV	_	2	advmod	_	_
 2	wurde	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
@@ -5580,7 +5580,7 @@ einleuchten;NZZ_1999_02_25_a75_seg4_s3;17;Die Idee , mit Hilfe von zuverlässige
 16	mag	mögen	AUX	VMFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
 17	einleuchten	einleuchen	VERB	VVINF	VerbForm=Inf	0	root	_	_
 18	.	.	PUNCT	$.	_	17	punct	_	_
-";;;;x;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;;x;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1999_01_07_a132_seg9_s3;14;Es gibt kaum einen Anderen , der als Mensch so leuchtet , so einleuchtet .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	gibt	geben	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	kaum	kaum	ADV	ADV	_	2	advmod	_	_
@@ -5765,7 +5765,7 @@ einleuchten;NZZ_1999_05_19_a129_seg4_s11;2;Vielmehr leuchtete den Analytikern au
 18	zu	zu	PART	PTKZU	_	19	mark	_	_
 19	verbinden	verbinden	VERB	VVINF	VerbForm=Inf	2	xcomp	_	_
 20	.	.	PUNCT	$.	_	2	punct	_	_
-";;;x;;;;;;;;;;;;;;;inanim;;;;PA+A;;
+";;;x;;;;;;;;;;;;;;;inanim;;;;PCN+C;;
 einleuchten;NZZ_1999_05_22_a100_seg6_s4;5;Vor diesem tristen Hintergrund leuchtet es sofort ein , dass der Staat vor dem Jahresultimo von Ende März den 15 grössten Banken des Landes mit Kapitalinfusionen von total 7460 Mrd. Yen unter die Arme greifen musste .;"1	Vor	vor	ADP	APPR	_	4	case	_	_
 2	diesem	dies	PRON	PDAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 3	tristen	trist	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	4	amod	_	_

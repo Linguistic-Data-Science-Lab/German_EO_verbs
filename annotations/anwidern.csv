@@ -13,7 +13,7 @@ anwidern;NZZ_1993_04_19_a152_seg4_s4;9;Unterdessen hält die Diskussion über da
 12	Wechselkursen	Wechselkurse	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	9	nmod	_	_
 13	an	an	ADP	PTKVZ	_	2	compound:prt	_	_
 14	.	.	PUNCT	$.	_	2	punct	_	_
-";x;;;;;;;;;;;;;;;;;;;;;false hit;;
+";x;;;;;;;;;;;;;;;;;;;;;false_hit;;
 anwidern;NZZ_1993_12_10_a49_seg2_s1;18;Das traurige Spektakel , welches um die illegal besetzte Wohlgroth-Fabrik in Zürich abgezogen wurde , hat mich angewidert .;"1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 2	traurige	traurig	ADJ	ADJA	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
 3	Spektakel	Spektakel	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
