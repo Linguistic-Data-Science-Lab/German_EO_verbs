@@ -2670,7 +2670,7 @@ plagen;NZZ_1996_09_09_a118_seg6_s5;29;Die Gabe , mit Leid und Unannehmlichkeiten
 37	zu	zu	PART	PTKZU	_	38	mark	_	_
 38	halten	halten	VERB	VVINF	VerbForm=Inf	29	conj	_	_
 39	.	.	PUNCT	$.	_	12	punct	_	_
-";;x;;;;;;;x;;;;;;;;;;über;;;non-psych;;
+";;x;;;;;;;x;;;;;;;;;;über;;;;;
 plagen;NZZ_1996_09_28_a68_seg1_s43;7;Die Bürger Europas und ihre Regierungen plagen heute ganz andere Sorgen als die Vertiefung der Gemeinschaft .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Bürger	Bürger	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
 3	Europas	Europa	PROPN	NE	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
@@ -3604,7 +3604,7 @@ plagen;NZZ_1998_02_23_a147_seg5_s27;30;Aber auch ihnen gebührte Respekt , allei
 30	geplagt	plagen	VERB	VVPP	VerbForm=Part	9	ccomp	_	_
 31	hatten	haben	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	_
 32	.	.	PUNCT	$.	_	5	punct	_	_
-";;x;;;;;;;x;;;;;;;;;;durch,über;;;non-psych;;
+";;x;;;;;;;x;;;;;;;;;;durch,über;;;;;
 plagen;NZZ_1998_02_26_a170_seg11_s31;9;23.35 Pauline am Strand ( Pauline à la plage ) .;"1	23.35	23.35	NUM	CARD	NumType=Card	2	nummod	_	_
 2	Pauline	Pauline	PROPN	NE	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 3	am	am	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_

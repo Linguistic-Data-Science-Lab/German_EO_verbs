@@ -306,7 +306,7 @@ zusetzen;NZZ_1993_02_11_a67_seg3_s7;30;Denn trotz der massiven Bauweise waren di
 29	arg	arg	ADJ	ADJD	_	30	advmod	_	_
 30	zugesetzt	zusetzen	VERB	VVPP	VerbForm=Part	17	conj	_	_
 31	.	.	PUNCT	$.	_	17	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;non-psych;;
+";;x;x;;;;;;;;;;;;;;;inanim;;;;;;
 zusetzen;NZZ_1993_02_19_a113_seg1_s5;15;Im letzten Drittel konnten die Bündner gegen die immer müder werdenden Zürcher allerdings noch zusetzen und eine Wende herbeiführen .;"1	Im	im	DET	ART	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	nmod	_	_
 2	letzten	letzt	ADJ	ADJA	Case=Dat|Gender=Neut|Number=Sing	3	amod	_	_
 3	Drittel	Drittel	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	15	obl	_	_
@@ -1720,7 +1720,7 @@ zusetzen;NZZ_1993_08_06_a49_seg5_s8;21;"Im erwähnten Keller fanden Bewohner der
 40	Anwesen	Anwesen	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	21	iobj	_	_
 41	zu	zu	ADP	PTKVZ	_	21	compound:prt	_	_
 42	.	.	PUNCT	$.	_	4	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;non-psych;;
+";;x;x;;;;;;;;;;;;;;;inanim;;;;;;
 zusetzen;NZZ_1993_08_10_a146_seg2_s10;11;Die aggressive Luftverschmutzung der letzten Jahrzehnte hat dem Turm so zugesetzt , dass bereits Fassadenteile herunterstürzen .;"1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	aggressive	aggressiv	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
 3	Luftverschmutzung	Luftverschmutzung	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -1749,7 +1749,7 @@ zusetzen;NZZ_1993_08_14_a71_seg3_s9;2;Hagel setzte in der ganzen Schweiz den Reb
 8	Reben	Reben	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 9	zu	zu	ADP	PTKVZ	_	2	compound:prt	_	_
 10	.	.	PUNCT	$.	_	2	punct	_	_
-";;x;x;;;;;;;;;;;;;;;inanim;;;;non-psych;;
+";;x;x;;;;;;;;;;;;;;;inanim;;;;;;
 zusetzen;NZZ_1993_08_19_a80_seg1_s5;22;Es war das Verdienst des Platzklubs , auch nach drei von der Torumrandung abgeprallten Bällen nicht klein beizugeben , sondern noch zuzusetzen und sich keineswegs mit einer Demonstration einer balltechnischen Überlegenheit zu begnügen .;"1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
@@ -1784,7 +1784,7 @@ zusetzen;NZZ_1993_08_19_a80_seg1_s5;22;Es war das Verdienst des Platzklubs , auc
 32	zu	zu	PART	PTKZU	_	33	mark	_	_
 33	begnügen	begnügen	VERB	VVINF	VerbForm=Inf	22	conj	_	_
 34	.	.	PUNCT	$.	_	4	punct	_	_
-";;x;;x;;;;;;;;;;;;;;anim_proxy;;;;non-psych;;
+";;x;;x;;;;;;;;;;;;;;anim_proxy;;;;;;
 zusetzen;NZZ_1993_08_28_a96_seg6_s17;11;Wer nun allerdings über 34 Runden Milan wirklich am meisten zusetzen kann , ist eher ungewiss .;"1	Wer	wer	PRON	PWS	Case=Nom|Number=Sing|PronType=Int	11	nsubj	_	_
 2	nun	nun	ADV	ADV	_	11	advmod	_	_
 3	allerdings	allerdings	ADV	ADV	_	11	advmod	_	_
@@ -2590,7 +2590,7 @@ zusetzen;NZZ_1993_12_17_a118_seg3_s7;11;Das Team von Martigny vermochte vor alle
 16	zu	zu	PART	PTKZU	_	17	mark	_	_
 17	gewinnen	gewinnen	VERB	VVINF	VerbForm=Inf	11	conj	_	_
 18	.	.	PUNCT	$.	_	5	punct	_	_
-";;x;;x;;;;;;;;;;;;;;anim_proxy;;x;;non-psych;vermögen;
+";;x;;x;;;;;;;;;;;;;;anim_proxy;;x;;;vermögen;
 zusetzen;NZZ_1993_12_21_a13_seg11_s5;15;"Frischer Traubensaft wird fünf bis sechs Stunden gekocht , darauf werden ihm erneut Trauben zugesetzt , um die Gärung wieder zu beleben ; so wird ein Alkoholgehalt von gegen 17 Grad erreicht .";"1	Frischer	frisch	ADJ	ADJA	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
 2	Traubensaft	Traubensaft	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	_	_
 3	wird	werden	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	aux:pass	_	_

@@ -1062,7 +1062,7 @@ beruhigen;NZZ_1994_07_06_a158_seg3_s7;6;Plötzlich rast der Puls und beruhigt si
 8	bald	bald	ADV	ADV	_	6	advmod	_	_
 9	wieder	wieder	ADV	ADV	_	6	advmod	_	_
 10	.	.	PUNCT	$.	_	2	punct	_	_
-";;x;;;;;;x;;;;;;;;;;;;;;non-psych;;
+";;x;;;;;;x;;;;;;;;;;;;;;;;
 beruhigen;NZZ_1994_05_05_a28_seg4_s6;29;Senator Gianni Agnelli , der über Fiat indirekt selber im Kontrollsyndikat vertreten ist , das nun , ohne eine Lira neu einzuschiessen , eine enorme Machtausweitung erlebt , beruhigt die Gemüter mit dem Argument , dass sich die Bank nicht mehr an alten italienischen Massstäben orientieren könne und sich auf die neuen Konkurrenzverhältnisse in Europa vorbereiten müsse .;"1	Senator	Senator	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	dep	_	_
 2	Gianni	Gianni	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
 3	Agnelli	Agnelli	PROPN	NE	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
@@ -4687,7 +4687,7 @@ beruhigen;NZZ_1999_08_21_a75_seg4_s16;11;Die Erde hat sich in der Region noch im
 10	nicht	nicht	PART	PTKNEG	Polarity=Neg	11	advmod	_	_
 11	beruhigt	beruhigen	VERB	VVPP	VerbForm=Part	0	root	_	_
 12	.	.	PUNCT	$.	_	11	punct	_	_
-";;x;;;;;;x;;;;;;;;;;;;;;non-psych;;
+";;x;;;;;;x;;;;;;;;;;;;;;;;
 beruhigen;NZZ_1999_08_27_a159_seg7_s5;11;Erst als sich die Menschen vom Gehege entfernt hatten , beruhigte sich der ängstliche Hase .;"1	Erst	erst	ADV	ADV	_	8	advmod	_	_
 2	als	als	SCONJ	KOUS	_	8	mark	_	_
 3	sich	er|es|sie	PRON	PRF	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	8	obj	_	_
